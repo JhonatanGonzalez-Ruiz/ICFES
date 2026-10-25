@@ -1,0 +1,856 @@
+{
+    "archivo_origen": "Fisica.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Fisica",
+    "total_paginas": 13,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "Un cuerpo de masa m se suelta sobre una pista homogénea de madera como se muestra en la figura y se observa que la rapidez con la que pasa por el punto p vale gh RESPONDA LAS PREGUNTAS 2 Y 3 DE ACUERDO CON LA SIGUIENTE SITUACIÓN La figura muestra un tramo de una montaña rusa sin fricción La energía mecánica del carro es tal que cuando llega al punto 4 se encuentra en reposo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "La velocidad del carro en 1 es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 gh"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3 gh"
+                },
+                {
+                    "letra": "D",
+                    "texto": "gh 2 2gh La gráfica cualitativa de la distancia recorrida por el cuerpo en función del tiempo es la mostrada en --- PAGINA 3 --- 4 AC - 003 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 3,
+            "enunciado": "La gráfica de la energía cinética como función de la coordenada x asociada a este movimiento es RESPONDA LAS PREGUNTAS 4 A 6 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La lectura del peso de una persona en una báscula es el valor de la fuerza normal aplicada sobre ella. Imaginemos que la Tierra rota con una rapidez angular tal que sobre su ecuador toda báscula marca cero sin importar el objeto colocado sobre ella.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "La duración del día sería aproximadamente 1 hora y 23 minutos. Como función del radio de la tierra R y su aceleración gravitacional g, este tiempo se puede expresar como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2 2R g π"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 R g π"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 R 2g π"
+                },
+                {
+                    "letra": "D",
+                    "texto": "π R g"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 5,
+            "enunciado": "Imaginemos ahora que sobre el ecuador tenemos una esfera suspendida de un hilo, como muestra la figura. Si la velocidad angular del planeta pasa a un valor mayor que el correspondiente a la situación cuando toda báscula sobre el ecuador marca cero, la posición de la esfera será --- PAGINA 4 --- 5 AC - 003 - 112 I El peso de un cuerpo de masa m, es decir la fuerza gravitacional que experimenta el cuerpo en la superficie de un asteroide de masa M y GMm radio R, está dado por donde G es una R2 constante (volumen de una esfera = 4 π r3/3 ). El cociente entre la aceleración gravitacional en la superficie del planeta 1 y la del planeta 2 en su superficie es (g1 / g2)",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "1/2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1/8 L>>r"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "Considere dos asteroides de igual densidad D, el primero es de radio r y el segundo de radio 2r. CONTESTE LAS PREGUNTAS 9 Y 10 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se tienen n partículas de un gas ideal a tempera- tura T0 y presión P0, dentro de un recipiente her- mético.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 9,
+            "enunciado": "En las condiciones iniciales del gas, se le introducen N partículas de la misma especie cuya energía cinética promedio es 2 ~E 0. La energía promedio de las partículas del gas es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 7,
+            "enunciado": "De la gráfica se concluye que la longitud total recorrida por la esfera entre t = 0 y 5 segundos es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "0"
+                },
+                {
+                    "letra": "B",
+                    "texto": "0.2 m"
+                },
+                {
+                    "letra": "C",
+                    "texto": "0.1 m"
+                },
+                {
+                    "letra": "D",
+                    "texto": "0.5 m RESPONDA LAS PREGUNTAS 7 Y 8 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La siguiente es la gráfica de la posición (x) como función del tiempo de una esfera que se mueve sobre una línea recta"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 8,
+            "enunciado": "La posición de la esfera en t = 5 segundos es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "0"
+                },
+                {
+                    "letra": "B",
+                    "texto": "0.2 m"
+                },
+                {
+                    "letra": "C",
+                    "texto": "0.1 m"
+                },
+                {
+                    "letra": "D",
+                    "texto": "0.5 m"
+                },
+                {
+                    "letra": "A",
+                    "texto": "3E N + n 0"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3 E 2 0 n +"
+                },
+                {
+                    "letra": "B",
+                    "texto": "E 2NE n + N 0 0"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3E0 En general la temperatura del gas se puede ex- presar como T =α donde ~E es la energía promedio de las partículas del gas. En este caso T0 = α ~E 0 ~E --- PAGINA 5 --- 6 AC - 003 - 112 I RESPONDA LAS PREGUNTAS 11 A 13 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Un cilindro contiene cierta cantidad de gas atra- pado mediante un émbolo de masa M que puede deslizarse sin fricción. Este conjunto se va su- mergiendo muy lentamente con rapidez constante en agua como se muestra en la figura, mientras todo el conjunto se mantiene a 20ºC. La gráfica de la presión (P) contra el volumen del gas encerrado (V) se muestra a continuación:"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 12,
+            "enunciado": "Con respecto al trabajo realizado sobre el gas, mientras su volumen pasa de 10 m3 a 4 m3, es acertado afirmar que es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "menor que 1,8 Joules"
+                },
+                {
+                    "letra": "B",
+                    "texto": "casi igual a 4 Joules"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un valor entre 3 Joules y 3,5 Joules"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mucho mayor que 4 Joules"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "El trabajo realizado sobre el gas es igual a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el calor cedido por el gas durante el proce- so"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el cambio en la energía interna del gas du- rante el proceso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el calor proporcionado al gas durante el proceso"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la energía cinética promedio de las mo- léculas del gas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 10,
+            "enunciado": "La presión dentro del recipiente se puede expresar como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2 P0 3 P0"
+                },
+                {
+                    "letra": "B",
+                    "texto": "n (n + 2N) P0"
+                },
+                {
+                    "letra": "C",
+                    "texto": "n 3 (N + n)"
+                },
+                {
+                    "letra": "D",
+                    "texto": "P0 2 n"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 11,
+            "enunciado": "Durante los primeros instantes, la gráfica cualitativa de la presión como función del tiempo es --- PAGINA 6 --- 7 AC - 003 - 112 I RESPONDA LAS PREGUNTAS 14 Y 15 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la ciudad A, a un recipiente que contiene gas ideal se conecta un tubo en forma de U parcialmen- te lleno con aceite. Se observa que el aceite sube hasta el nivel R1 como se muestra en la figura. El recipiente se transporta a la ciudad",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "B",
+                    "texto": "Allí el aceite sube hasta el nivel R2 que se muestra en la figura."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 14,
+            "enunciado": "De lo anterior se concluye que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la temperatura promedio de la ciudad B es mayor que la de A"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la temperatura promedio de la ciudad B es menor que la de A"
+                },
+                {
+                    "letra": "C",
+                    "texto": "hubo una fuga de gas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la ciudad B está a menor altura sobre el mar que la ciudad A"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Un rayo de luz incide sobre un bloque de hielo transparente que está colocado sobre un espejo plano. De los siguientes, el que representa adecuadamente el correspondiente esquema de rayos luminosos, es --- PAGINA 7 --- 8 AC - 003 - 112 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 16,
+            "enunciado": "Cuando una fuente sonora se mueve con una velocidad mayor que la velocidad de propagación del sonido en el medio se genera una onda de choque, que se escucha como una explosión, porque las crestas de varias ondas se superponen. De las siguientes figuras ¿cuál podría ilustrar una onda de choque?",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 17,
+            "enunciado": "La caja de la guitarra tiene una forma que favorece la resonancia del aire con la onda sonora producida por la cuerda de la guitarra. Supongamos que la guitarra tuviera una caja cuadrada en lugar de la caja actual, es correcto afirmar que en relación a una guitarra normal",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la amplitud del movimiento de las partículas del aire es menor, cambiando la intensidad del sonido producido"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la longitud de onda del sonido disminuye modificando el tono del sonido escuchado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la velocidad de propagación de la onda aumenta variando la intensidad del sonido percibido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la frecuencia de la onda disminuye aumentando el tono del sonido percibido"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 18,
+            "enunciado": "En una cuerda 1, sujeta a una tensión T se generan ondas armónicas de frecuencia f = 3Hz. En otra cuerda 2 idéntica y sujeta a la misma tensión que la cuerda 1 se genera una onda con frecuencia 2Hz. Las ondas tienen amplitudes iguales. La figura que ilustra las formas de las cuerdas en un instante dado es --- PAGINA 8 --- 9 AC - 003 - 112 I CONTESTE LAS PREGUNTAS 19 Y 20 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En dos bandejas â y ã idénticas se sueltan dos piedritas a intervalos iguales de tiempo. La bandeja â está llena con agua y la bandeja ã con miel. Simultáneamente se toman fotografías de cada bandeja.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 19,
+            "enunciado": "La figura que mejor ilustra las formas de las ondas generadas en las superficie de los fluidos, es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 20,
+            "enunciado": "Comparando las características de las ondas generadas en el agua y en el aceite se puede afirmar que las que se generan en agua se propagan con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor frecuencia que las ondas en la bandeja 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mayor longitud de onda que las ondas en la bandeja 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "igual longitud de onda que las ondas en la bandeja 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor rapidez que las ondas en la bandeja 2 --- PAGINA 9 --- 10 AC - 003 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 21,
+            "enunciado": "La siguiente tabla muestra la velocidad de propagación del sonido en diferentes materiales, que se encuentran a diferentes temperaturas. l a ir e t a M ) C º( a r u t a r e p m e T ) s / m ( d a d ic ol e V 1 o d a z in a clu v elu H 0 4 5 2 a u g a e d r o p a V 0 1 0 4 3 o d iu qíl o il e H 0 0 7 9 4 e clu d a u g A 5 2 3 9 4 1 5 e clu d a u g A 0 3 6 9 4 1 6 r a m e d a u g A 0 2 3 1 5 1 De acuerdo con los datos de la tabla, tres estu- diantes hacen las siguientes afirmaciones: Estudiante 1: Si la temperatura de un mismo material se aumenta, la rapidez del sonido aumenta siempre y cuando se mantenga la misma presión. Estudiante 2: La velocidad de propagación del sonido no sólo depende de la tem- peratura, ya que en distintos ma- teriales, sometidos a la misma tem- peratura, la rapidez de propagación del sonido es diferente. Estudiante 3: Es muy probable que la rapidez de propagación del sonido en el agua de mar a 300C y a una atmósfera de presión, sea igual que el agua dulce en esas mismas condicio- nes. ¿Cuál o cuáles de estas afirmaciones de los es- tudiantes es más congruente (s)?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sólo la del estudiante 1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las de los estudiantes 1 y 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sólo la del estudiante 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las de los estudiantes 1 y 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 22,
+            "enunciado": "Para estudiar un circuito formado por tubos que conducen agua, se puede hacer una analogía con un circuito eléctrico como se sugie- re en la figura, donde una bomba equivalente a una fuente, una resistencia a una región estre- cha, un voltímetro a un manómetro y un swich a una llave de paso. Aplicando la analogía a los siguientes circuitos de agua, se concluye que aquel en el cual la pre- sión en el punto B es menor, es --- PAGINA 10 --- 11 AC - 003 - 112 I CONTESTE LAS PREGUNTAS 24 A 26 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Utilizando dos láminas metálicas cargadas se genera un campo eléctrico constante en la re- gión limitada por las placas. Una persona cami- na dentro de la región con campo llevando una pequeña esfera cargada eléctricamente con -0,1C. Voltio = [ Joule/Coulomb ] = [ J/C ]",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 23,
+            "enunciado": "Se lanza un haz de partículas, todas con igual velocidad y carga, en una región en donde existe un campo magnético uniforme de magni- tud",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "B",
+                    "texto": "El haz se divide en cuatro, cada uno de los cuales describe una semicircunferencia, como se observa en la figura El haz que tiene las partículas más masivas es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "Que la diferencia de potencial entre las placas sea 100 voltios, significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en cualquier punto entre las placas la ener- gía eléctrica de 1C es 1 Joule"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la energía necesaria para llevar 1C de una placa a la otra es 100J"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la energía asociada a 1C es 100 voltios"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la energía necesaria para llevar 100C de una placa a la otra es 1J"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 25,
+            "enunciado": "Para hacer trabajo contra la fuerza eléctri- ca la persona debe caminar en la dirección",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "N"
+                },
+                {
+                    "letra": "B",
+                    "texto": "S"
+                },
+                {
+                    "letra": "C",
+                    "texto": "E"
+                },
+                {
+                    "letra": "D",
+                    "texto": "O"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "El trabajo en contra de la fuerza debido al campo eléctrico, para llevar la esfera cargada desde el punto A hasta el punto B, es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "50J, positivo porque la energía eléctrica de la esfera aumenta cuando se mueve de A a B"
+                },
+                {
+                    "letra": "B",
+                    "texto": "-50J, negativo porque la energía eléctrica de la esfera disminuye cuando se mueve de A a B"
+                },
+                {
+                    "letra": "C",
+                    "texto": "10J, positivo porque la energía eléctrica de la esfera aumenta cuando se mueve de A a B"
+                },
+                {
+                    "letra": "D",
+                    "texto": "-10J, negativo porque la energía eléctrica de la esfera disminuye cuando se mueve de A a B"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "La potencia disipada por una resistencia se define como el calor disipado en una unidad de tiempo (PÎQ/Ît). De las siguientes ecuaciones, la que tiene uni- dades de potencia es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "P = V / I"
+                },
+                {
+                    "letra": "B",
+                    "texto": "P = V I"
+                },
+                {
+                    "letra": "C",
+                    "texto": "P = I / V"
+                },
+                {
+                    "letra": "D",
+                    "texto": "P = V I2 --- PAGINA 11 --- 12 AC - 003 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 29,
+            "enunciado": "Normalmente un paracaidista abre su artefacto unos segundos después de haber saltado del avión. La fuerza de rozamiento f con el aire es proporcional a la rapidez y para ciertos paracaídas es tal que f = 200V5. Si en t = 0 se abre el paracaídas, la gráfica de rapidez contra tiempo es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 28,
+            "enunciado": "Las esferas metálicas que se muestran en la figura se cargan con 1C cada una. La balanza se equilibra al situar el contrapeso a una distancia x del eje Se pone una tercera esfera a una distancia 2d por debajo de la esfera A y cargada con -2C. Para equilibrar la balanza se debe",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "agregar carga positiva a la esfera A"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mover la esfera B hacia abajo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mover el contrapeso a la derecha"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mover el contrapeso a la izquierda --- PAGINA 12 --- 13 AC - 003 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "Se desea hacer un densímetro que puede medir un rango más amplio de densidades res- pecto al anterior, para lograr este propósito el nuevo densímetro debe tener respecto al ante- rior menor",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "masa M y longitud H"
+                },
+                {
+                    "letra": "B",
+                    "texto": "longitud H y altura hg"
+                },
+                {
+                    "letra": "C",
+                    "texto": "altura hg y densidad promedio de la barra"
+                },
+                {
+                    "letra": "D",
+                    "texto": "área A y densidad de la barra"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 32,
+            "enunciado": "Se tienen dos muestras de dióxido de carbono CO2 a las mismas condiciones de volumen Vi= 0.5m3, presión Pi= 1000Pa y temperatura Ti = 305K. Bajo estas condiciones es posible con- siderar el CO2 como un gas ideal. Sobre una de las muestras se realiza un proceso isotérmico desde el estado inicial A hasta el estado final B y sobre la otra se realiza un proceso adiabático desde el estado inicial A hasta el estado final C, como se indica en la gráfica P vs V. CONTESTE LAS PREGUNTAS 33 Y 34 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN RESPONDA LAS PREGUNTAS 30 A 32 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN En un experimento para determinar la densidad de diferentes líquidos se usa un densímetro que es una barra cilíndrica no homogénea de longi- tud H, área transversal A y masa M. El centro de gravedad de la barra está a una altura hg como se muestra en la figura. Cuando la barra flota en un líquido, el empuje está aplicado en un punto llamado centro de la flotación situado en la mitad de la altura sumergida de la barra (hs/2)",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 30,
+            "enunciado": "Al realizar el experimento se puede obser- var que las densidades de los líquidos en los cua- les la barra flota están relacionados con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la densidad de la barra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la altura de la barra que está sumergida"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el empuje sobre la barra en cada uno de los líquidos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tiempo que tarda la barra en quedarse quieta Si el densímetro usado en el experimento se com- pone de una barra de madera muy liviana con un perdigón de plomo en su extremo inferior, como se muestra en la figura, a fin de que el centro de gravedad del densímetro esté mucho más abajo del centro de la barra de madera la mejor mane- ra de modificar el densímetro para que pueda medir mayores densidades es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "adelgazar toda la barra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cortar una porción de la barra de madera"
+                },
+                {
+                    "letra": "C",
+                    "texto": "añadir un perdigón de plomo junto al otro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cambiar la barra de madera por otra de un material más pesado --- PAGINA 13 --- 14 AC - 003 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 34,
+            "enunciado": "La gráfica P contra T de los procesos A6B y A6C de las respectivas muestras es Dos esferas (1 y 2) con cargas iguales se encuentran sobre una superficie lisa no conductora y están atadas a un hilo no conductor. La esfera 1 está fija a la superficie. Al cortar el hilo, la gráfica de aceleración contra x de la esfera 2 es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 35,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 33,
+            "enunciado": "Teniendo en cuenta que W representa el trabajo hecho por el CO2 y Q el calor absorbido por el CO2, se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "WA ÷ B = W A ÷ C"
+                },
+                {
+                    "letra": "B",
+                    "texto": "QAC = QAB"
+                },
+                {
+                    "letra": "C",
+                    "texto": "W A ÷ B > W A ÷ C"
+                },
+                {
+                    "letra": "D",
+                    "texto": "QAC > QAB"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

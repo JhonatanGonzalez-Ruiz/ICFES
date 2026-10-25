@@ -1,0 +1,948 @@
+{
+    "archivo_origen": "Física.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Física",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 39,
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "En un vaso cilíndrico de cris- tal vacío se coloca una esfera como nuestra la figura 1. El diagrama de las fuerzas que actúa sobre la esfera es (N = normal, w = peso) CONTESTE LAS PREGUNTAS 3 A 5 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Dos bloques están en contacto sobre una superficie sin fricción. Una fuerza se aplica sobre uno de ellos como muestra la figura",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "La aceleración del sistema vale",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "F(m1 - m2)"
+                },
+                {
+                    "letra": "B",
+                    "texto": "F/m2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "F/m1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "F/(m1 + m2)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 4,
+            "enunciado": "Si F12 es la fuerza que aplica m1 sobre m2 y F21 es la fuerza que aplica m2 sobre m1, el diagrama de fuerzas sobre m2 es r F",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 5,
+            "enunciado": "Si m2 es mucho mayor que m1, es acertado afirmar que la fuerza de contacto vale aproximadamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "F"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Cero"
+                },
+                {
+                    "letra": "C",
+                    "texto": "F/2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2F"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "Dos láminas delgadas de masas m cada una es- tán sujetas por medio de un resorte de constante k y longitud natural l. El sistema se coloca entre dos pa- redes separadas una longitud l/2 como se indica en la figura. El coeficiente de fricción estático entre cada una de las láminas y la pared es. El sistema está en equilibrio Nota : Desprecie el efecto de la gravedad sobre el resorte Las láminas se cambian por otras de igual material pero masas M cada una. El valor máximo de M para que las láminas no deslicen hacia abajo es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": "m µ"
+                },
+                {
+                    "letra": "C",
+                    "texto": ""
+                },
+                {
+                    "letra": "D",
+                    "texto": "m µ k g O 2 k 4 g O --- PAGINA 3 --- AC - 003 - 114 I 4 CONTESTE LAS PREGUNTAS 6 Y 7 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En un torneo de flecha y arco, un hombre jala el cen- tro de la cuerda de su arco 20 cm (como se muestra en la figura 1) mientras ejerce una fuerza que aumen- ta de manera uniforme con la distancia desde cero a 260 Newtons"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "La gráfica que mejor representa la fuerza ejercida sobre la cuerda en función de la distancia de separa- ción (A - O) desde la cuerda sin tensar es CONTESTE LAS PREGUNTAS 8 Y 9 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Sobre un bloque de 2kg de masa, colocado sobre una mesa de fricción despreciable, se aplican dos fuerzas F1 y F2 como indica el dibujo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 9,
+            "enunciado": "El bloque se mueve con una aceleración cuyo va- lor es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 8,
+            "enunciado": "La fuerza neta que actua sobre el bloque es la indi- cada en",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 7,
+            "enunciado": "Un estudiante de física piensa que es posible sustituir el arco y aplicar la misma fuerza sobre la flecha com- primiendo un resorte una longitud igual como se mues- tra en la figura 2. La constante elástica de este resor- te debería ser",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "13 N/m"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1300 N/m"
+                },
+                {
+                    "letra": "C",
+                    "texto": "5200 Nm"
+                },
+                {
+                    "letra": "D",
+                    "texto": "52 Nm"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 10,
+            "enunciado": "Es correcto afirmar que el cuerpo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se mueve con velocidad constante"
+                },
+                {
+                    "letra": "B",
+                    "texto": "describe movimiento parabólico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se mueve con aceleración constante"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumenta linealmente su aceleración CONTESTE LAS PREGUNTAS 10 Y 11 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN La gráfica muestra la posición de un cuerpo que se mueve en línea recta, en función del tiempo. En ella se tiene que x(t) = 2 + t2, en donde las unidades están en el S.I. --- PAGINA 4 --- AC - 003 - 114 I 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "Desde hace mucho tiempo, sobre una mesa se encuentran un recipiente con agua, un pedazo de madera y un trozo de vidrio. Simultáneamente se co- loca un termómetro en contacto con cada uno de es- tos objetos. Es correcto afirmar que la lectura",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en los tres termómetros será la misma"
+                },
+                {
+                    "letra": "B",
+                    "texto": "del termómetro del agua es mayor que las otras dos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "del termómetro del vidrio es mayor que las otras dos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "del termómetro de la madera es mayor que las otras dos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 11,
+            "enunciado": "El desplazamiento del cuerpo entre t = 3 s y t = 6 s vale",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3 m"
+                },
+                {
+                    "letra": "B",
+                    "texto": "27 m"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4 m"
+                },
+                {
+                    "letra": "D",
+                    "texto": "45 m"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 12,
+            "enunciado": "Se tiene una barra metálica de longitud Lo a tem- peratura To inicialmente. La barra se dilata o encoge debido a cambios de temperatura, obedeciendo la ley DL = a LoDT donde DL y DT son los cambios de longi- tud y temperatura respectivamente, y a es una cons- tante de dilatación para cada material La banda se somete a cambios de temperatura. Se obtiene la siguiente gráfica de DL en función del tiem- po",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 14,
+            "enunciado": "Dentro de una probeta de vidrio con coeficiente de expansión volumétrica $v hay un líquido, de coefi- ciente de expansión volumétrico $l, hasta una altura h. ($v < $l). Cuando se aumenta la temperatura del sistema, es cierto que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la altura del líquido disminuye, porque el reci- piente de vidrio aumenta su tamaño"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la altura del líquido aumenta, porque, el recipien- te de vidrio se contrae"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la altura del líquido aumenta pues su volumen aumenta más que el volumen del recipiente de vidrio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la altura del líquido disminuye pues su volumen aumenta menos que el del recipiente de vidrio CONTESTE LAS PREGUNTAS 15 A 17 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El trabajo realizado por un gas, cuando pasa del esta- do A al estado B, en una gráfica presión contra volu- men equivale al área bajo la curva como se indica en la figura. La primera ley de la termodinámica establece que la variación de la energía interna de un sistema es igual al calor que recibe o cede el sistema menos el trabajo realizado sobre o por el sistema D U = Q - W La energía interna de un gas perfecto depende sólo de la temperatura. La diferencia de temperaturas entre t = 0 min y t = 8 min es"
+                },
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": "constante de dilata- ción de la barra"
+                },
+                {
+                    "letra": "C",
+                    "texto": ""
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 30α 1 20α 1 60α 1 30α α --- PAGINA 5 --- AC - 003 - 114 I 6"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 16,
+            "enunciado": "Si el gas ideal es sometido a un proceso a tem- peratura constante tenemos que Q = W, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el sistema ha efectuado un ciclo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la energía interna no varía"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el sistema está aislado térmicamente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no hay flujo de calor hacia el sistema"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Cuando el sistema vuelve a su estado inicial A, tenemos que la variación de energía interna fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor que cero"
+                },
+                {
+                    "letra": "B",
+                    "texto": "igual a cero"
+                },
+                {
+                    "letra": "C",
+                    "texto": "igual al calor recibido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor que cero"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 19,
+            "enunciado": "Una cuerda de longitud l, densidad lineal m y tensionada por una fuerza F, presenta la onda estacionaria mostrada en la figura, al ponerla a oscilar con frecuencia f. Si se toma otra cuerda de igual longitud l, tensionada por una fuerza igual F, igualmente sujeta por sus ex- tremos pero de densidad lineal 4m, y se la pone a os- cilar con la misma frecuencia f, el patrón de ondas estacionarias que se observa es el mostrado en la figura",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 17,
+            "enunciado": "Si el gas ideal pasa de un estado ?1@ a un estado ?2@, estando aislado térmicamente, tenemos que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "DU = - W"
+                },
+                {
+                    "letra": "B",
+                    "texto": "DU = Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "W = -Q"
+                },
+                {
+                    "letra": "D",
+                    "texto": "W = Q"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 18,
+            "enunciado": "Se planea fabricar un silenciador que utiliza la diferencia de velocidad de las ondas sonoras en dife- rentes medios, para desfasar dos ondas. En la figura, la longitud de onda del sonido es L y la velocidad del sonido en el medio 1 es Vs. De las si- guientes velocidades en el medio 2 la que desapare- cerá el sonido en la salida del silenciador es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": ""
+                },
+                {
+                    "letra": "C",
+                    "texto": ""
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 vS 3 vS v 2 S v 3 S Los televisores emiten pulsos de luz a razón de 24 por segundo. Un extremo de una regla flexible se hace oscilar manteniendo el otro extremo fijo a una mesa. La regla se ilumina con la luz del televisor y se obser- va que siempre parece estar en la misma posición. Una posible frecuencia de oscilación del extremo de la regla en pulsos por segundo es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "12"
+                },
+                {
+                    "letra": "B",
+                    "texto": "48"
+                },
+                {
+                    "letra": "C",
+                    "texto": "6"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 20,
+            "enunciado": "--- PAGINA 6 --- AC - 003 - 114 I 7 CONTESTE LAS PREGUNTAS 21 A 23 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Desde un helicóptero que vuela en línea recta a 100 m sobre el nivel del mar, se envían pulsos de ondas infrasónicas para medir la profundidad del océano. De esta forma se construyó la gráfica: ?tiempo entre el envío y la recepción del pulso@ contra ?posición X del helicóptero@ [t(s) vs x(m)]",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 21,
+            "enunciado": "De los siguientes enunciados:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "La profundidad del mar aumenta entre posición x = 0 y Posición x = 200 m",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "La profundidad del mar en Posición x = 100m es el doble que en posición x = 0",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "La máxima inclinación del suelo marino se en- cuentra entre posición x = 50 m y posición x = 150m",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la máxima profundidad se encuentra en posi- ción x = 0 son correctos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 y 4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 y 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 y 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 y 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 23,
+            "enunciado": "Al realizar las mediciones, los técnicos del heli- cóptero registraban primero una señal débil y luego la señal proveniente del fondo del mar. De las siguien- tes explicaciones para este fenómeno 1 La señal débil es producto de la interferencia destructiva entre el pulso emitido y el pulso re- flejado por el suelo marino. 2 La señal débil se debe al reflejo del sonido en la superficie del mar. 3 Esto se debe a la irregularidad del suelo mari- no. 4 El receptor capta una leve señal de las ondas que se alejan, pero con menor frecuencia debi- do al efecto Dopler. Son correctas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 y 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sólo 3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sólo 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 y 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 22,
+            "enunciado": "La velocidad de sonido en el aire es VA = 340 m/s y en el agua es aproximadamente 4VA. La profundidad h(x) del fondo marino en función de los tiempos t registrados en la gráfica es (unidades en el S.I.)",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "h = 680 t + 400"
+                },
+                {
+                    "letra": "B",
+                    "texto": "h = 680 t - 400 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "h = 340t + 400"
+                },
+                {
+                    "letra": "D",
+                    "texto": "h = 340t"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "Dos espejos planos forman un ángulo recto como muestra la figura 1. Un rayo de luz incide sobre uno de los espejos y se refleja luego en el segundo. El angulo 2 vale",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "30º"
+                },
+                {
+                    "letra": "B",
+                    "texto": "60º"
+                },
+                {
+                    "letra": "C",
+                    "texto": "45º"
+                },
+                {
+                    "letra": "D",
+                    "texto": "35º --- PAGINA 7 --- AC - 003 - 114 I 8"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 25,
+            "enunciado": "Una esfera de 1m de radio contiene una carga Q distribuida uniformemente en todo su volumen. Debi- do a la simetría de la esfera, es conveniente describir el campo eléctrico en un punto P como función de la distancia r del centro de la esfera al punto P, tal como indica la figura. (k = 9 x 109) Dentro de la esfera el campo eléctrico aumenta lineal- mente con r según la ecuación kQ(r/R3) y fuera de la esfera el campo eléctrico disminuye según la ecua- ción kQ/r2, donde k es la constante de Coulomb y R el radio de la esfera. El campo eléctrico a 3m del centro de la esfera vale aproximadamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2.5 x 109 N/c"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 x 109 N/c"
+                },
+                {
+                    "letra": "C",
+                    "texto": "5 x 109 N/c"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4 x 109 N/c"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "Se colocaron cargas iguales en las esquinas de un triángulo equilatero siguiendo el orden esquemati- zado en las figuras: Inicialmente las cargas estaban muy lejos unas de otras. El trabajo que se hizo para formarlas en trián- gulo es igual a kq2",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "L 2kq2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "L k = constante de la ley 3kq2 de Coulomb"
+                },
+                {
+                    "letra": "C",
+                    "texto": "L 4kq2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "L"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "Dos cargas q y -q se encuentran dispuestos en la forma indi- cada en la figura Si E1 y E2 son los campos eléctricos generados respectivamente por q y - q en el punto P, el diagrama que los representa es --- PAGINA 8 --- AC - 003 - 114 I 9 CONTESTE LAS PREGUNTAS 28 Y 29 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN En el circuito que se muestra en el dibujo, el agua es pura y el bombillo no alumbra La diferencia de potencial de la batería es de 20 vol- tios, la resistencia del bombillo es 10 ohmios, y la re- sistencia de los cables y de las láminas es desprecia- ble.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 28,
+            "enunciado": "Después de agregar cierta cantidad de sal al agua, el bombillo alumbra. De lo anterior es válido afirmar que la sal produjo que en el nuevo circuito la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "diferencia de potencial fuera mayor que en el inicial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "diferencia de potencial fuera menor que en el inicial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "resistencia fuera mayor que en el inicial"
+                },
+                {
+                    "letra": "D",
+                    "texto": "resistencia fuera menor que en el inicial"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 29,
+            "enunciado": "La corriente que circula por el circuito cuando el bombillo está alumbrando es 0,5 amperios. Recordan- do que en un circuito eléctrico el voltaje, la resistencia y la corriente cumplen la relación V = I* R, y que dos resistencias (R1 y R2) conectadas en serie se compor- tan como una sola resistencia de valor R1 + R2, es posible determinar que la resistencia en ohmios del agua con sal es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "0"
+                },
+                {
+                    "letra": "B",
+                    "texto": "30"
+                },
+                {
+                    "letra": "C",
+                    "texto": "10"
+                },
+                {
+                    "letra": "D",
+                    "texto": "200"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 30,
+            "enunciado": "Se tienen un cable en forma de bucle y un campo magnético como se ilustra en la figura. Se tira de los extremos del cable y el bucle se va haciendo más pequeño. Es correcto afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el flujo de v B a través del bucle disminuye"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la corriente en el cable es siempre 0"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el flujo de v B a través del bucle aumenta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la corriente inducida va de derecha a izquierda del dibujo RESPONDA LAS PREGUNTAS 31 Y 32 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN Las esferas conductoras 1 y 2 de radios R y 1.5R res- pectivamente, se encuentran muy alejadas una de la otra y se disponen con un interruptor a como ilustra la figura. Las esferas 1 y 2 tienen cargas 2Q y -Q res- pectivamente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "El esquema que muestra la distribución de carga eléctrica en cada una de las esferas des- pués de cerrar el interruptor a, cuando el sistema está en equilibrio, es --- PAGINA 9 --- AC - 003 - 114 I 10 RESPONDA LAS PREGUNTAS 33 A 35 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN El recipiente ilustrado en la figura, contiene un gas ideal, inicialmente a una temperatura Ti, y que se en- cuentra en un medio a una temperatura Tm. De acuer- do con la ley de enfriamiento de Newton la variación de temperatura del gas (con su recipiente) duran- te un tiempo es tal que donde T es la temperatura del gas en este instante y Tm la del medio ambiente. k es una constante que depende del gas y del recipiente. Para el gas mostra- do en la figura se halló que su temperatura en función del tiempo es la presentada en la siguiente gráfica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 33,
+            "enunciado": "De acuerdo con esta gráfica las temperaturas ini- cial y final del gas son respectivamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "100ºC y 30ºC"
+                },
+                {
+                    "letra": "B",
+                    "texto": "0ºC y 15ºC"
+                },
+                {
+                    "letra": "C",
+                    "texto": "30ºC y 100ºC"
+                },
+                {
+                    "letra": "D",
+                    "texto": "15ºC y 0ºC"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 34,
+            "enunciado": "La gráfica de presión P contra el tiempo t para el gas es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 35,
+            "enunciado": "De los siguientes, el intervalo de tiempo durante el cual el gas intercambia menor cantidad de calor con el medio, es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "0h < t < 2h, porque en este intervalo la va- riación de temperatura es mayor que en los demás instantes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "4h < t < 6h, porque en este intervalo la tem- peratura decae más rápidamente que en intervalos posteriores"
+                },
+                {
+                    "letra": "C",
+                    "texto": "8h < t < 10h, porque en este intervalo la temperatura varía lentamente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "12h < t < 14h, porque en este intervalo la variación de temperatura es casi nula ∆ ∆ T t k (T T ) m = − − ( ) ∆T ∆t"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 32,
+            "enunciado": "En esta situación se debe satisfacer que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Q1 + Q2 = 3Q"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Q1 + Q2 = Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Q1 + Q2 = 2,5Q"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Q1 + Q2 = 0,5Q"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

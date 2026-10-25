@@ -1,0 +1,937 @@
+{
+    "archivo_origen": "Matematicas.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Matematicas",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "Al practicar estas pruebas, se afirma que el número de esferas que se tendrá en el esca- lón 6 es 64, esto es debido a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el número de esferas de un escalón deter- minado es un número par"
+                },
+                {
+                    "letra": "B",
+                    "texto": "escalón a escalón se duplican las esferas y ésta es la sexta duplicación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de esferas se obtiene elevando 2 al número del escalón deseado"
+                },
+                {
+                    "letra": "D",
+                    "texto": "escalón a escalón se aumenta en un nú- mero par de esferas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "Con base en la variación o aumento de esferas por escalón se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se tendrá siempre el doble de esferas de un escalón a otro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el número de esferas en un escalón se re- presenta por medio de una potencia de uno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "del escalón 0 al 1, 1 al 2, 2 al 3, 3 al 4,...au- menta 2, 4, 8, 16,... esferas respectivamen- te"
+                },
+                {
+                    "letra": "D",
+                    "texto": "del escalón 0 al 1, 1 al 2, 2 al 3, 3 al 4,... aumentan 1, 2, 4, 8,... esferas res- pectivamente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "Se encontró una regularidad frente al au- mento de esferas por escalón, la expresión que muestra el número de esferas en un escalón a partir del número del escalón es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2n , porque si n es el número del escalón se logra 1,2,4,8,16... esferas, empezando desde el escalón cero"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 n⋅ , debido a que se logra el número de esferas esperadas en los escalones 1 y 2 si n representa el número del escalón"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2n-1, ya que representa el número de esfe- ras de un escalón, siendo n el número del escalón siguiente al deseado"
+                },
+                {
+                    "letra": "D",
+                    "texto": "22 , porque representa el número de esfe- ras en el escalón dos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 39,
+            "enunciado": "Al empezar el experimento con tres esferas en el escalón cero y comparando con las características del experimento anterior, puede suceder que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "frente a la prueba anterior el número de esferas en un escalón aumenta en 3 esferas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "en el experimento actual el número de esferas que se tienen en un escalón es tres veces el número de esferas del escalón anterior"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en cada escalón habrá el triple de esferas que había en el mismo escalón en la prue- ba anterior"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en el experimento actual el número de esferas que se tienen en un escalón es el doble de los que se tenían en el escalón anterior --- PAGINA 2 --- 14 AC - 041 - 108 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 40,
+            "enunciado": "Los encargados de realizar las pruebas desean construir una representación que mues- tre el número de esferas por escalón y la suma de los volúmenes de las esferas por escalón, ¿Cuál considera usted que es la representación adecuada? RESPONDA LAS PREGUNTAS 41 Y 42 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 41,
+            "enunciado": "La Junta de Acción Comunal se inclinó por NO construir una plaza de mercado, debido a que los resultados del sondeo muestran que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el 70% de familias encuestadas no respon- dió afirmativamente"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la mitad de familias encuestadas estuvieron inseguras o no respondieron la encuesta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de familias que respondieron \"sí\", supera a quienes respondieron nega- tivamente en un 50%"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el número de familias que respondieron \"no\" es el doble de las que están inseguras"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "Un gráfico que se podría presentar a los habitantes del barrio, sobre los resultados del son- deo, es RESPONDA LAS PREGUNTAS 43 A 45 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se construyó un cubo formado por cubitos, cada uno de ellos con aristas de longitud una unidad, como se presenta en el dibujo. a t s e u p s e R s a ili m a F e d . o N i S o N o r u g e s n i a t s E ó i d n o p s e r o N 5 2 2 0 5 1 5 7 0 0 3 Para tomar la decisión de construir una plaza de mercado en el barrio Los Rosales, la Junta de Acción Comunal desea contar con el apoyo de la mayoría de las familias que allí viven. Para de- terminar qué quiere la mayoría, realizaron un sondeo en el que preguntaron: \"¿Cree usted que sería de beneficio para el sector la construcción de una plaza de mercado?\". Los resultados se muestran en la siguiente tabla: --- PAGINA 3 --- 15 AC - 041 - 108 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 44,
+            "enunciado": "Al quitar el cubito que aparece sombreado en el dibujo, el volumen de la figura obtenida dis- minuye una unidad de volumen, pero su superfi- cie total no cambia. ¿Cómo obtener una figura cuyo volumen sea dos unidades menos que el del cubo, pero con la misma superficie total de éste?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "quitando un cubito interior y uno lateral que esté junto a él"
+                },
+                {
+                    "letra": "B",
+                    "texto": "quitando 2 cubitos de la esquina"
+                },
+                {
+                    "letra": "C",
+                    "texto": "quitando un cubito de la esquina y uno la- teral que esté junto a él"
+                },
+                {
+                    "letra": "D",
+                    "texto": "quitando 2 cubitos laterales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "Al quitar los 6 cubitos interiores del cubo, ¿qué cambios se presentan en la figura obtenida en comparación al cubo inicial?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la superficie y el volumen se mantienen iguales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la superficie aumenta en 24 unidades cua- dradas y el volumen disminuye"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el volumen disminuye en 6 unidades cubicas y la superficie aumenta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el volumen y la superficie disminuyen RESPONDA LAS PREGUNTAS 46 A 49 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En una fábrica de con- geladores construyen neveras como la repre- sentada en el dibujo. En el manual de instruccio- nes de esta nevera se menciona, entre otras cosas, sus medidas y el volumen en litros por compartimiento, el cual es de 44 litros para el congelador y 176 litros para el conservador."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "Para información a los consumidores se grafica la distribución del volumen total de la ne- vera. La gráfica más adecuada sería",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 43,
+            "enunciado": "Para fijar el cubo construido se coloca una cinta por todos sus bordes. La longitud de la cin- ta para lograr este fin debe ser",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "12 unidades que corresponden al número de aristas del cubo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el producto entre 12 unidades y el número de cubitos que conforman el cubo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "36 unidades, que corresponden a la lon- gitud de las aristas del cubo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las unidades de cinta con las cuales se cubren los bordes de 3 cubitos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "En el manual de instrucciones de la nevera se menciona que la proporción entre el volumen del congelador y del conservador es de 1 a 4, respectivamente. Esto significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "por cada litro de volumen del congelador hay 4 litros de volumen en el conservador"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la diferencia entre volúmenes en litros ape- nas es tres veces el volumen del congela- dor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el volumen del congelador es 1/4 en com- paración al volumen del conservador"
+                },
+                {
+                    "letra": "D",
+                    "texto": "por 4 litros de volumen en el congelador hay 1 litro de volumen en el conservador --- PAGINA 4 --- 16 AC - 041 - 108 I RESPONDA LAS PREGUNTAS 50 A 52 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "La empresa decidió construir un nuevo mo- delo de nevera, manteniendo el volumen total de la anterior y en el que la proporción entre el volu- men del congelador y el conservador sea de 1 a 3 respectivamente. Analizando esta proporción se puede afirmar que en el nuevo modelo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el volumen del conservador y el del con- gelador aumentan respecto a la nevera ini- cial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el volumen del congelador aumenta y el volumen del conservador disminuye, en comparación con la nevera inicial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el volumen del congelador representa un tercio y el del conservador representa dos tercios del volumen total"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el volumen del congelador representa la cuarta parte y el del conservador repre- ta las tres cuartas partes del volumen total"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "El espacio para colocar la nevera en el apar- tamento de don Felipe tiene un área rectangular de 3.900 cm2. Él podría colocar allí una nevera como la representada en el dibujo inicial, si",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la medida de las dos dimensiones del área rectángular es la misma (Aprox. 62 - 45)"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la medida de una de las dimensiones del rectángulo es 80 cm"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la medida de un lado del rectángulo es 52 cm"
+                },
+                {
+                    "letra": "D",
+                    "texto": "al multiplicar las medidas de cada una de las dimensiones del rectángulo no exceda a 3.900 cm2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "Una afirmación acertada que se obtiene a partir de la lectura de la información consignada en la tabla es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se observa que si en el capital hay un cre- cimiento o una disminución de un año a otro, esto se refleja en la utilidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los valores que se presentan en capital y en utilidad no guardan relación alguna"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de empresas en que el capital crece cada año es igual al de las empre- sas en que el capital disminuye"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en cada una de las empresas la mayor uti- lidad presentada se obtuvo en el último año considerado"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 51,
+            "enunciado": "Funcionarios de Olimpica afirman que su empresa fue la que tuvo la mayor recuperación de capital en los años considerados. Según la información de la tabla esto es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "verdadero, ya que es la única empresa que presenta aumentos año tras año y los va- lores son positivos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "verdadero, aunque Futuro tiene el mismo comportamiento; la diferencia del capital de 1998 y 1996 fue mayor en Olímpica"
+                },
+                {
+                    "letra": "C",
+                    "texto": "falso, ya que Olimpica es la segunda em- presa en obtener recuperación, después de interbanco"
+                },
+                {
+                    "letra": "D",
+                    "texto": "falso, aunque Interbanco presente capita- les negativos, la diferencia entre el último año y el primer año es mayor que en las demás. La tabla siguiente muestra el comportamiento de siete empresas en cuanto a su Capital y su Utili- dad durante tres años consecutivos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "En Compaq se espera que la utilidad en 1999 crezca en la misma forma que lo ha hecho en los años anteriores. Esto significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la diferencia entre 1999 y 1998 debe ser la mitad de la diferencia entre 1998 y el año anterior como sucede con los datos de la tabla"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el aumento de 1998 a 1999 debe ser el doble del aumento que se vio de 1997 a 1998 como se observa en los años anteriores"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el valor de la utilidad en 1999 sea una can- tidad positiva y mayor a la obtenida en 1998"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la relación entre el aumento de 1998 a 1999 y el aumento de 1997 a 1998 sea de 2 a 1 al igual que la relación que se observa en la tabla --- PAGINA 5 --- 17 AC - 041 - 108 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "Para que el fabricante de estas piezas lo- gre construir la pieza 2, debe",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "a una pieza de dimensiones (2x+5)C2xC3x quitarle un pedazo de dimensiones xCx(2x+ 5)"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ensamblar 5 piezas iguales, de dimensio- nes x Cx(2x+5)"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ensamblar tres piezas, dos de dimensio- nes iguales de 2x C(2x+5) y otra de di- mensiones x Cx C(2x+5)"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ensamblar tres piezas, dos de éstas iguales cuyas dimensiones correspon- den a 2x Cx y la otra de 3xC2x(2x+5) RESPONDA LAS PREGUNTAS 53 Y 54 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Las siguientes piezas son utilizadas en la industria de la ornamentación como piezas de seguridad. Se ha colocado x en las dimensiones de cada pieza, ya que pueden variar de acuerdo con las necesidades de los compradores"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "Si la pieza 1 fuese hueca y se quisiera co- locar piezas en su interior de la forma y dimen- RESPONDA LAS PREGUNTAS 55 Y 56 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Observe el resultado de calcular potencias (entero positivo) de tres sucesivamente 30 =1; 31=3; 32=9; 33=27; 34=81; 35=243; 36=729; 37=2187; Como puede ver, la cifra de las unidades en cada una de las potencias de tres se repite cíclicamente como lo muestra la siguiente secuncia 1, 3, 9, 7, 1, 3, 9, 7, 1, ...",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 55,
+            "enunciado": "Si 3 es elevado a una potencia múltiplo de 4, se encontrará que siempre termina en 1, esto puede ser explicado, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en la secuencia que establece las cifras de las unidades, el número 1 aparece cada cuatro posiciones"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la suma de dos números consecutivos de la secuencia es siempre un múltiplo de 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4n dividido por 4 nos da como residuo 0, luego 3 elevado a 4n terminará igual que 3 a la potencia 0"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3 elevado a la potencia 4 es 81"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 56,
+            "enunciado": "Una forma de saber en qué número termi- na 321 sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "conociendo en qué número termina 320 se logra identificar en la secuencia el número que sigue"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hallar el residuo de 21 dividiendo entre 4 e identificar la cifra de las unidades en el resultado de elevar 3 a dicho residuo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "identificar la cifra de las unidades en cual- quier potencia de tres, que sea factor de 21"
+                },
+                {
+                    "letra": "D",
+                    "texto": "efectuando los productos que permiten aplicar el concepto de potencia RESPONDA LAS PREGUNTAS 57 Y 58 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN siones que se indican en la fi- gura, la máxima cantidad de piezas que debe contener la pieza 1 es:"
+                },
+                {
+                    "letra": "A",
+                    "texto": "9, porque en la base contiene 5, luego 3 y finalmente 1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "4, porque en la base contiene 3, luego 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "9, porque en cada vértice hay 1, en cada lado hay 1 y en el interior 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4, porque en cada vértice hay 1 y en el centro 1 La empresa, Estadísticas de Colombia, realiza una encuesta a 100 hombres y 100 mujeres de Bogotá. A la 1a pregunta responden afirmativamente el 40% de las mujeres y el 60% de los hombres. A este grupo se le hace una 2a pregunta a la cual responden afirmativamente el 90% de las mujeres y el 40% de los hombres. --- PAGINA 6 --- 18 AC - 041 - 108 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "A las personas que respondieron afirmati- vamente la 1a y 2a pregunta se les hace una 3a pregunta. Esta pregunta solo la respondió el 40% de estas personas. ¿Existe la posibilidad que entre ese 40% no se encuentre ninguna mujer?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "si, porque el 40% de los hombres que respondieron la 3a pregunta, es una par- te del 60% que respondió afirmativamente la 1a pregunta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, porque el 40% del 90% de las mujeres que respondieron la 1a pregunta es igual al 40% que respondió la 3a pregunta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "si, porque un 40% de los hombres respon- dió la 2a pregunta, por lo tanto puede ser el mismo que respondió la 3a pregun- ta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque en una gran mayoría (90%) las mujeres respondieron afirmativamente a la 2a pregunta RESPONDA LAS PREGUNTAS 59 A 63 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Algunos estudiantes de una universidad recogie- ron información acerca del número de hombres y mujeres que nacieron en un hospital durante 2 semanas. La información la registraron en las siguientes tablas: Tabla 1. Nacimientos en la primera semana Tabla 2. Nacimientos en la segunda semana"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "Con la información suministrada por la empresa Estadística de Colombia, ¿cómo se pre- sentarían los datos gráficamente? A Í D S O T N E I M I C A N E D L A T O T # S E R B M O H s e n u L s etra M s elo créi M s e v e u J s e nrei V o d a b á S o g ni m o D 0 2 2 2 0 2 8 1 2 2 6 1 7 1 7 1 0 1 9 9 1 1 4 8 A Í D S E R B M O H S E R E J U M s e n u L s e tr a M s e l o c r é i M s e v e u J s e n r e i V o d a b á S o g n i m o D 0 1 9 7 2 1 1 1 6 9 8 3 1 9 1 1 8 8 8 --- PAGINA 7 --- 19 AC - 041 - 108 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 59,
+            "enunciado": "Con los datos que registraron los estudiantes desean hacer una comparación entre la cantidad de hombres nacidos durante las 2 semanas. ¿Cuál de las siguientes gráficas representa mejor esta com- paración?",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 60,
+            "enunciado": "Partiendo de los datos presentados en las tablas es falso afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en la primera semana hubo más nacimien- tos que en la segunda semana"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el nacimiento de hombres en la prime- ra semana fue menor que el nacimiento de mujeres"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de nacimientos de mujeres fue menor que el nacimiento de hombres du- rante las dos semanas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el número de nacimientos de mujeres fue mayor en la segunda semana que en la primera semana"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "Según los datos recogidos por los estu- diantes durante las 2 semanas en el hospital ¿es posible afirmar que la probabilidad de que nazca un varón en cualquier día de la semana es de 1/2?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sí, porque el porcentaje de nacimientos de hombres y mujeres en las dos semanas es del 50%"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, porque el número de nacimientos de hom- bres en la primera semana fue distinto al núme- ro de nacimientos en la segunda semana"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sí, porque al mirar el número de nacimien- tos al finalizar las dos semanas la canti- dad de hombres nacidos es igual a la can- tidad de mujeres"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque los datos registrados en la ta- bla no permiten establecer el porcentaje entre el nacimiento de hombres y de mu- jeres durante las dos semanas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "Respecto a los datos que se presentan en las tablas, ¿cuáles diagramas representan el porcenta- je de hombres y mujeres nacidos en la primera y segunda semana en el hospital?",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 63,
+            "enunciado": "Al iniciar la tercera semana, el departa- mento de estadística del hospital hace algunas predicciones, a partir de la información de la ta- bla, sobre los nacimientos que se pueden pre- sentar en los siguientes días. Una de estas pre- dicciones es que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la probabilidad de que nazca una mujer en viernes, sábado o domingo es igual"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la probabilidad de que nazca un hombre en sábado es un tercio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "con total certeza los nacimientos de hom- bres en jueves excederán en 1 a los de mujeres"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aproximadamente por cada 5 hombres que nazcan en lunes, nacerán 2 mujeres --- PAGINA 8 --- 20 AC - 041 - 108 I RESPONDA LAS PREGUNTAS 64 A 66 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En una fábrica se realizó un estudio de mercadeo para analizar el precio de venta al público de un producto en función de las unidades que se distribuyen en el comercio, en dos ciudades diferentes. De dicho estudio se concluyó que I. el precio del producto en la ciudad 1(C1), en miles de pesos esta dado por ( ) C U U 8 5 1 = − + II. el precio del producto en la ciudad 2 (C2), en miles de pesos esta dado por C (U) U 6 2 = − + 4 U representa las unidades de mil del producto que se encuentra en el comercio en cada ciudad. La empresa distribuye máximo 12000 unidades y no menos de 1000 unidades en cada ciudad. En el siguiente gráfico se ilustra las relaciones C1(U) y C2(U). 64.Teniendo en cuenta el comportamiento de las relaciones en las ciudades C1 y C2, es correcto afir- mar que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "cuando la fábrica distribuye a las dos ciudades 8000 unidades del producto, los precios en estas ciudades son iguales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "si se distribuye menos de 8000 unidades en cada ciudad, el precio del producto en C2 siempre será menor en comparación con la otra ciudad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "cualquiera que sean las unidades distribuidas en cada ciudad el precio del producto en C1,, siempre será menor en comparación con la otra ciudad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuando la fábrica distribuye más de 8000 unidades en cada ciudad, el precio del producto en C2 siempre será menor en comparación con la otra ciudad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 65,
+            "enunciado": "Si la fábrica distribuye a las ciudades una cantidad de productos superior a 9000 unidades; los precios en las ciudades nunca serán iguales, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "para que haya una cantidad de productos distribuidos cuyo precio sea igual en ambas ciudades, la relación C (U) 2 debería ser igual a alguna con a ,(4.5, 6]"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la relación expresada por C (U) 1 siempre es mayor que C (U) 2 cuando se distribuye una cantidad de productos superior a 9000 unidades"
+                },
+                {
+                    "letra": "C",
+                    "texto": "para que haya una cantidad de productos distribuidos, cuyo precio sea igual en ambas ciudades, la relación C (U) 1 , deberá ser igual a C U a 5 1 = − + con"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la relación expresada por C (U) 2 siempre es mayor que C (U) 1 cuando se disminuye una cantidad de productos menor a 8000 unidades 6 7 2 ≤ < a . ( ) C U U a 6 2 = − + --- PAGINA 9 --- 21 AC - 041 - 108 I RESPONDA LAS PREGUNTAS 67 A 70 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En un campeonato de banquitas, en el cual par- ticipan 4 equipos llamados A, B, C y D, se tiene la siguiente tabla parcial de resultados, la cual está incompleta La puntuación se maneja de la manera siguiente i 2 puntos para el equipo ganador i 0 puntos para el equipo perdedor i 1 punto para cada equipo en caso de empate Cada equipo hasta el momento de elaborar la tabla ha jugado a lo más un partido contra cada uno de los demás equipos. Además analizando los datos presentados en la tabla se observa que hay un error."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 67,
+            "enunciado": "De acuerdo con los datos presentados en la tabla, es posible afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "A jugó un único partido, en el cual obtuvo 2 puntos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "B al tener 3 puntos y haber jugado tres partidos, obtuvo un empate, un triunfo y una derrota"
+                },
+                {
+                    "letra": "C",
+                    "texto": "C jugó dos partidos y obtuvo un empate y una derrota"
+                },
+                {
+                    "letra": "D",
+                    "texto": "D jugó dos partidos, en los cuales obtuvo 1 punto"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 68,
+            "enunciado": "Al tratar de completar la tabla, observamos que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "B no pudo haber jugado 3 partidos, pues tendría más goles en contra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "B tiene 4 goles a favor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "A y C no perdieron ningún partido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "C jugó dos partidos ganando uno de ellos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "0 y perdiendo el otro 0 - 2",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 69,
+            "enunciado": "Si el error en la tabla fuera el número de par- tidos jugados por D, es decir, que D no hubiese jugado dos partidos sino uno, podría afirmarse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "D, sólo hubiera podido jugar contra B"
+                },
+                {
+                    "letra": "B",
+                    "texto": "A tendría más goles a favor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "B tendría que haber empatado sus tres partidos y por lo tanto la tabla inicial ten- dría más de un error"
+                },
+                {
+                    "letra": "D",
+                    "texto": "D tendría que haber ganado el partido"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 70,
+            "enunciado": "Si se maneja la puntuación de la manera siguiente C 1 punto para el equipo ganador C 0 puntos para el equipo perdedor y C 0 puntos para el equipo en caso de empate Y se conservan todos los datos de la tabla inicial ¿por qué no se puede completar totalmente la tabla?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "porque B tendría que haber ganado los tres partidos y por lo tanto A tendría más de tres goles en contra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "porque C al tener dos goles en contra y dos a favor no podría tener un punto pues necesariamente habría empatado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "porque B no tendría goles en contra"
+                },
+                {
+                    "letra": "D",
+                    "texto": "porque el total de goles a favor no sería igual al total de goles en contra so ditra P so d a guJ so ditra P so d an a G so ditra P so d ata p m E so ditra P so didre P selo G rovaf a n e selo G artn oc n óicautnu P A 1 3 0 B 3 2 3 C 2 2 1 D 2 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 66,
+            "enunciado": "La empresa modificó el precio de su pro- ducto en la ciudad 2, así mien- tras que en la ciudad 1 permaneció igual. De acuerdo con lo anterior podemos decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el precio en las ciudades 1 y 2 nunca po- drá ser igual, así se distribuya una canti- dad muy grande de productos en estas ciudades"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el nuevo precio en la ciudad 2 siempre es mayor que el anterior precio y también mayor que en la ciudad 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el nuevo precio en la ciudad 2 es igual a la ciudad 1 cuando se distribuyen 5500 uni- dades del producto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el precio en la ciudad 1 aumenta con el cambio en la relación ( ) C U 2 ( ) C U U 8 6 2 = − +"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

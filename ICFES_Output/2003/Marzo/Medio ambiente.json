@@ -1,0 +1,531 @@
+{
+    "archivo_origen": "Medio ambiente.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Medio Ambiente",
+    "total_paginas": 4,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 126,
+            "enunciado": "Tal y como lo establece la Carta de la Tierra, es necesario modificar social y ambientalmente las formas ineficientes de usar los recursos. Por esta razón, es urgente trabajar por la recuperación de los humedales, entendidos como elementos condicionantes del nivel de vida de la población. ¿Qué acción concreta desarrollaría para lograr el objetivo señalado en seis años?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Elaborar un Proyecto de Ley que otorgue un rubro específico en el presupuesto nacional perma- nente y equivalente a un porcentaje del PIB, para la recuperación de los recursos hídricos del país"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Implementar un programa pedagógico encaminado a influir sobre los políticos para que éstos in- cluyan la recuperación de los recursos hídricos del país como tema prioritario de los Planes de Desarrollo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Desarrollar una estrategia de acción fundamentada en la idea de interdependencia entre los re- cursos hídricos y supervivencia de las comunidades humanas y que incluyera 2 ámbitos funda- mentales: participación ciudadana y uso racional de los recursos hídricos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Buscar cooperación internacional para que declaren los principales recursos hídricos del país, como una problemática ambiental global, es decir, con consecuencias sobre los ecosistemas planetarios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 127,
+            "enunciado": "Los humedales localizados en las riberas de los ríos de los valles interandinos tienen como función principal",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "amortiguar y regular el exceso de caudal en temporadas de crecientes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "abastecer de agua a la corriente principal especialmente en épocas lluviosas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "brindar condiciones para la formación de deltas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "crear condiciones para la formación de lagos semejantes a La Cocha o La Tota"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 128,
+            "enunciado": "Usted es miembro de una Organización No Gubernamental (ONG) dedicada al cuidado del Me- dio Ambiente. En este momento, están realizando un esfuerzo por lograr que la Laguna de Fúquene se convierta en una zona Ramsar, es decir, protegida por la Convención de Humedales (instrumento de derecho internacional). Lograr lo anterior, tiene entre otras consecuencias, el comenzar a dar reconoci- miento internacional a la problemática de los humedales colombianos. ¿Cómo fundamentaría su pro- puesta?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "señalando que los humedales han pasado de ser territorios de nadie y altamente expuestos a un deterioro ambiental progresivo a ser prioridad para la acción de la administración y de la comunidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mostrando el estado actual del humedal, los factores de riesgo, las influencias negativas de la in- tervención humana y el papel social y económico que la laguna desempeña para las comunidades humanas aledañas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "llevando un diagnóstico sobre el humedal que evidencie su situación y su importancia para el medio ambiente regional, fundamentado en entrevistas con la comunidad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "señalando que el control de la contaminación de los humedales, es esencial en el desarrollo soste- nible, pues es condicionante de la calidad de vida de gran parte de la población --- PAGINA 2 --- 34 AC - 043 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 129,
+            "enunciado": "Un manglar es un ecosistema estuarino que se ubica en franjas costeras donde interactúan el agua de mar y el agua de los ríos, en este tipo de humedales, cuando se presenta un desbalance en el cual prevalezca uno u otro tipo de agua, se pueden cambiar trascendentalmente las condiciones natura- les. Entre la desembocadura del río Magdalena y la Sierra Nevada de Santa Marta, se alteraron las condiciones de los manglares existentes en la zona debido a dos acciones: la primera, la canalización y desviación de los caños que comunicaban el río Magdalena con la Ciénaga Grande de Santa Marta; y la segunda, la construcción de la carretera entre Barranquilla y Santa Marta sobre la barra de arena que se encuentra entre la ciénaga y el mar. Teniendo en cuenta las potencialidades ambientales y el frágil equilibrio dado por las características de salinidad en los manglares, una de las consecuencias de la intervención humana en esta zona es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el incremento del área de manglares, puesto que hubo un mayor aporte de agua dulce desde el río Magdalena hacia el estuario"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la muerte de muchos mangles debido a que la carretera no facilitó la comunicación de agua entre el estuario y el mar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un aumento de la pesca en la Ciénaga Grande de Santa Marta, debido a que había un mayor aporte de agua del río Magdalena"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un aumento en los niveles de sedimentación en la Ciénaga Grande de Santa Marta, debido al aporte de las corrientes hídricas cercanas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 130,
+            "enunciado": "Cuando se rellena artificialmente un humedal, generalmente el agua permanece en los estratos subsuperficales del suelo. El peso de las edificaciones y del mismo relleno, puede generar que el agua existente en estos humedales se infiltre hacia otras áreas lo cual causa diversos fenómenos que afectan a dicha zona como los siguientes.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "Hundimientos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "Agua subterránea",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Agrietamientos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "Inundaciones",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 5,
+            "enunciado": "Sedimentación De los anteriores, dos de los posibles fenómenos que se pueden presentar en una situación de estas son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2, 5"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1, 3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4, 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2, 1"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 131,
+            "enunciado": "Los espacios estratégicos de aguas (p.e. humedales) y zonas verdes (p.e. parques) juegan un papel importante dentro de las áreas urbanas. Entre las siguientes, escoja aquella opción que muestra la importancia específica que tienen estos espacios dentro de las ciudades",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "como las ciudades son focos de contaminación, estos espacios son importantes porque comparten características de recicladores ambientales, siendo útiles para mejorar la calidad del medio am- biente"
+                },
+                {
+                    "letra": "B",
+                    "texto": "como la ciudad es el espacio de desarrollo integral del ser humano por excelencia, su desarrollo tie- ne que estar encaminado al equilibrio sostenible donde estos espacios son indispensables."
+                },
+                {
+                    "letra": "C",
+                    "texto": "como la ciudad debe garantizar la calidad de vida de sus habitantes, los cuerpos de agua y zonas verdes son necesarias para el mejoramiento de la calidad del aire y la generación de espacios para la recreación pasiva de los ciudadanos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "como la ciudad hace parte de un ecosistema global, estas zonas son fundamentales para preservar las condiciones naturales necesarias para la supervivencia de las especies nativas de flora y fauna"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 132,
+            "enunciado": "Teniendo en cuenta que muchos de los humedales cercanos a áreas urbanas son utilizados como receptores de las aguas residuales que produce la ciudad y que esta situación ha facilitado el deterioro de las condiciones ambientales y ecológicas de los humedales, de las siguientes alternativas cuál permitiría solucionar expresamente este problema",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "construcción de un sistema de alcantarillado que infiltre subterráneamente las aguas residuales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "construcción de un relleno sanitario que permita tratar las aguas residuales y en forma comple- mentaria, desarrollar campañas de educación para la comunidad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "establecimiento de un Plan Maestro de Alcantarillado que canalice las aguas residuales y permita tratarlas en un área diferente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "canalizar las aguas residuales por medio de un receptor principal, de tal forma que no desembo- quen en el humedal sino en un área alejada de este ecosistema --- PAGINA 3 --- 35 AC - 043 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 133,
+            "enunciado": "De las siguientes, la razón principal para atender la problemática ambiental de los humedales en Colombia es el hecho de que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los humedales se encuentran distribuidos en toda Colombia presentando distintas características"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existe una problemática generada por la expansión urbana, la cual debe desarrollarse a partir de una planificación reglamentada que incluya estos ecosistemas, dándose de esta forma paso a un urbanismo sostenible"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la intervención sobre estos ecosistemas permite la discusión sobre la preservación de las espe- cies endémicas en el país, así como la protección de especies migratorias que involucran a todo el continente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los humedales son ecosistemas estrechamente vinculados a la actividad humana, fuentes de alimento y salud cuya preservación garantiza mejores condiciones para la vida incluyendo la del ser humano"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 134,
+            "enunciado": "Una multinacional dedicada a la elaboración de productos químicos, quiere ubicarse en la zona de influencia del Humedal de La Conejera en Bogotá. Esta empresa promete desarrollar campañas ambientales de protección de los humedales y obras de bienestar social en la localidad. Además, su presencia significaría una fuente importante de ingresos para el Distrito Capital. Usted es el Alcalde de la Localidad y tiene las siguientes opciones para aprobar este proyecto Entre estas opciones aquellas a las cuales usted les daría más peso en la aprobación de este proyecto son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1, 3 y 6"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2, 4 y 5"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3, 4 y 6"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1, 2 y 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 135,
+            "enunciado": "La construcción de una avenida afectará a varios humedales del occidente de Bogotá. Entre las siguientes, la alteración que traerá mayores consecuencias negativas para la dinámica de estos ecosis- temas es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la pérdida de capacidad motora y visual de la fauna, debido a los procesos de contaminación y subdivisión del hábitat"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el aplastamiento de la flora por acumulación de escombros y residuos de la obra"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la interrupción de las cadenas tróficas debido al cambio en la composición vegetal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la migración de los mamíferos debido a la falta de alimento, al ruido y a los gases emitidos resul- tantes de la construcción y operación de la avenida RESPONDA LAS PREGUNTAS 136 A 140 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN CASO DE LA BAHÍA DE CARTAGENA Dentro de la zona del Caribe colombiano, la bahía de Cartagena representa el área crítica de mayor impacto, debido al aporte de contaminantes por las siguientes fuentes: I) Descargas industriales directas II) Aporte fluvial por el canal del dique III) Introducción de descargas municipales IV) Descargas accidentales y/o deliberadas a través del tráfico marítimo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 136,
+            "enunciado": "Gran parte de la contaminación marina en la bahía de Cartagena ocasionada por la introducción de descargas municipales está asociada a la generación y el manejo que se hace de las basuras. Cuál de las siguientes opciones le parece explica mejor esta problemática",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la concentración de la población en centros urbanos y la no existencia de un sistema de recolección de basuras que permita su disposición adecuada"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumento en la marginalización de la población y falta de políticas serias y adecuadas de disposición de las basuras"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los patrones de consumo asociados al modelo actual de desarrollo y la falta de conciencia ambien- tal frente a la disposición adecuada de las basuras"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la concentración de sectores productivos en las ciudades y el libre acceso al mar sin mecanismos que permitan su vigilancia s o d o t e d o tn e i m ilp m u c le d n ó ic a cifir e V . 1 y el e d s o tisiu q e r s ol s o ts o c n o c a r olf y a n u a f e d s e ic e p s e e d n ó ic a cib u e R . 4 a s e r p m e al e d o g r a c a s o ci m ó n o c e e d a m e t s is n u e d o t n e i m ic el b a t s E . 2 d a d in u m o c al r o p o d a r e d il o e r o tin o m s al a a s e r p m e al e d n ó ic c u d o r p al e d n ó ic a u c e d A . 5 la d e m u h le d d a d ilib in e ts o s e d s a ir a s e c e n s e n o icid n o c n o c s ela tn e ib m a s o ts e u p m i e d o g a P . 3 n ó ic c e t o r p e d s a m a r g o r p a o n its e d d a d ir o tu a a n u n e d a d ilib a s n o p s e r al e d n ó ic a g ele D . 6 r o ir e p u s la tn e ib m a --- PAGINA 4 --- 36 AC - 043 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 137,
+            "enunciado": "En una posible estrategia de reubicación de las industrias ubicadas en la bahía de Cartagena, ¿cuál de las siguientes posibilidades le parece más conveniente?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "desplazar las industrias a áreas más alejadas de la costa para que de este modo sus dese- chos no lleguen directamente al medio marino, pudiéndose desarrollar mecanismos natu- rales que controlarían los efectos contaminantes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "desplazar las industrias dentro de una estrategia de planificación local o regional que mini- mice los impactos ya que podrían existir controles por parte de las autoridades ambientales competentes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "desplazar las industrias de acuerdo a un reordenamiento de tal forma que las más conta- minantes queden más alejadas del mar y puedan instalar plantas de tratamiento de sus de- sechos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "desplazar las industrias bajo un esquema diferenciado de acuerdo con su actividad produc- tiva, acompañada de programas de control de la contaminación dentro del proceso como fuera de él"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 138,
+            "enunciado": "A continuación se presentan una serie de proposiciones para concientizar a la comunidad de Cartagena sobre la necesidad de que se preocupen por la contaminación marina",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "deterioro paisajístico de la bahía y de la zona en general"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cierre de actividades industriales contaminantes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "proliferación de malos olores en la zona de la bahía"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aparición de enfermedades en la piel de la población e. baja productividad pesquera en la bahía f. incumplimiento de la legislación ambiental vigente g. rechazo social por la alta contaminación h. compromiso humano con el medio ambiente de ellas, las que le parecen más válidas y suficientes para demostrar que la contaminación de la bahía los perjudica directa y primeramente a ellos son"
+                },
+                {
+                    "letra": "A",
+                    "texto": "b,d,e,f"
+                },
+                {
+                    "letra": "B",
+                    "texto": "b,c,g,h"
+                },
+                {
+                    "letra": "C",
+                    "texto": "a,c,d,e"
+                },
+                {
+                    "letra": "D",
+                    "texto": "d,f,g,h"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 139,
+            "enunciado": "La discusión de una legislación sobre con- taminación marina ocasionada por la producción, transporte y manejo de sustancias tóxicas y radio- activas, debería contemplar",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la calidad, los límites y concentraciones per- misibles de desechos tóxicos y radioactivos que pueden arrojarse al mar y establecer cuá les no pueden arrojarse, así como unas ta- sas de pago por permitir el vertimiento y des- embarque de dichos residuos; dineros que servirían para apoyar la investigación marina"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el desarrollo de una altísima seguridad en las embarcaciones que transportan desechos tóxicos y radioactivos, para evitar al máximo las descargas accidentales. La alta inversión en la seguridad se justificaría con el ahorro hecho al no tener que tratar los residuos en los focos de generación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el tratamiento de los desechos tóxicos y ra- diactivos en los mismos puntos donde se ge- neran. Esta opción elevaría los costos de pro ducción por la necesidad de investigar en me- todologías que garanticen la adecuada pro- tección del ambiente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "establecer áreas específicas donde se dispon- ga de los desechos tóxicos y radiactivos, con- templando la construcción de bodegas para almacenarlos mientras se desarrollan tecno- logías capaces de reutilizarlos en otros pro- cesos. Esta opción sería la más económica dentro de las contempladas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 140,
+            "enunciado": "Los beneficios de adoptar un convenio de producción más limpia en la bahía de Cartagena se resumen mejor en el siguiente grupo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": ""
+                },
+                {
+                    "letra": "C",
+                    "texto": ""
+                },
+                {
+                    "letra": "D",
+                    "texto": " aumento de la eficiencia de los procesos industriales  disminución de residuos y emisiones conta- minantes  cumplimiento de la normatividad ambiental  mejoramiento de la imagen pública de las industrias  disminución de residuos y emisiones conta- minantes  recuperación de la bahía  concertación entre la autoridad ambiental y la industria  participación de la comunidad en las solu- ciones  ingresos por impuestos a industrias conta- minantes  cumplimiento de la normatividad ambiental  concertación entre la autoridad ambiental y la industria  disminución de conflictos ambientales  participación de la comunidad en las solu- ciones  generación de nuevas fuentes de empleo  saneamiento básico por recuperación de la bahía  bienestar social para la comunidad implica- da"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

@@ -1,0 +1,922 @@
+{
+    "archivo_origen": "Geografía Profundización.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Geografía Profundización",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 52,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "De acuerdo a la figura, si un pronóstico meteorológico anuncia el desplazamiento de un huracán localizado en la latitud 15ºN y longitud 75ºW, que se mueve en dirección noroeste, es de esperar que afecte en primer lugar a la isla de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Puerto Rico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Cuba"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Haití"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Jamaica PREGUNTAS DE SELECCIÓN MÚLTIPLE CON ÚNICA RESPUESTA - (TIPO I)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Algunas regiones del país presentan un alto grado de riesgo sísmico, éste se determina teniendo en cuenta",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la densidad poblacional que presentan di- chas regiones"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la magnitud e intensidad del fenómeno te- lúrico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las características litológicas y edafológicas de estas áreas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la amenaza sísmica y la vulnerabilidad de la población"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "Cuando se realiza el proceso de transfe- rencia de información a partir de un mapa en es- cala grande 1:20.000, a uno en escala pequeña 1:100.000 el tamaño del mapa disminuye y la in- formación se generaliza. En el caso contrario, al pasar de una escala pequeña 1:100.000, a una grande 1:20.000, debe incrementarse",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el nivel de detalle"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el tamaño de los símbolos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la pertinencia de la información"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tamaño del mapa"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Para minimizar la vulnerabilidad de la po- blación ante el fenómeno representado en la fi- gura, se tendría que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "impedir la construcción de edificaciones sobre fallas geológicas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hacer cumplir los criterios de sismoresis- tencia para las edificaciones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "hacer estudios para determinar el riesgo ante el fenómeno sísmico"
+                },
+                {
+                    "letra": "D",
+                    "texto": "evacuar la población con anterioridad al movimiento sísmico --- PAGINA 2 --- 27 AC - 107 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Una de las características del actual mo- delo económico capitalista es que por su propia dinámica crea y destruye lugares, mediante la in- versión y la desinversión, respectivamente. La va- riable que usted tendría en cuenta para compren- der este proceso estaría relacionada con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la política estatal de planificación econó- mica"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la limitación en la inversión de las multina- cionales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la organización administrativa de los mi- nisterios de hacienda y comercio exterior"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la balanza comercial del país"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "La competencia en la economía mundial ha convertido algunos lugares del planeta en cen- tros de control del capitalismo global, a estas lo- calidades se les ha denominado \"ciudades mun- diales\". De continuar esta dinámica, se esperaría",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un desarrollo igualitario de los principales centros urbanos del mundo estableciéndo- se la competitividad como criterio del de- sarrollo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una integración de todas las ciudades en un solo proyecto de economía global lo cual permitiría un crecimiento equitativo a nivel mundial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una autonomía relativa de estas ciudades respecto a las decisiones estatales de los países en los que se encuentran"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un aumento en la calidad de vida de los habitantes de estas ciudades consolidán- dose como único criterio para el desarrollo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Toda estructura de forma cónica, como el caso de domos y la mayoría de volcanes, se ca- racteriza por tener un patrón de drenaje",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "dendrítico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "paralelo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "radial"
+                },
+                {
+                    "letra": "D",
+                    "texto": "rectangular"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "La escorrentía superficial se refiere al flu- jo de agua, que no siendo infiltrada, circula por encima del terreno después de una lluvia. De esta forma, para que la escorrentia tenga lugar, se requiere",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una disminución en la duración y la inten- sidad de la lluvia así como una impermea- bilización en el suelo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un aumento en la duración e intensidad de la lluvia, así como una saturación de hu- medad en el suelo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un aumento en la duración de la lluvia y una disminución en su intensidad, para que el suelo pierda su capacidad de infiltración"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una disminución en la duración y un au- mento en la intensidad de la lluvia para que el suelo se comporte como una superficie lisa y resbaladiza"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Si la idea de desarrollo sostenible en las ciudades, se expresa sobre las condiciones de servicios ambientales, sociales y económicos básicos para todos los miembros de una comu- nidad sin poner en peligro la viabilidad de los entornos naturales, los conceptos de desarrollo y sostenible respectivamente harían referencia a elementos de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "legislación política y normatividad ambien- tal"
+                },
+                {
+                    "letra": "B",
+                    "texto": "competitividad comercial y amenazas eco- lógicas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "crecimiento económico y recursos para la posteridad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ordenamiento territorial y conservación fo- restal"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Según algunos investigadores entre 1945 y 1958 la actividad industrial en el país se incre- mentó en un 163.6%; y el sector de transporte y comunicaciones en un 230%. Esto tuvo inciden- cia en la organización espacial del país ya que se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "aceleró el proceso de urbanización y se ampliaron las áreas agropecuarias, como respuesta al proceso de industrialización"
+                },
+                {
+                    "letra": "B",
+                    "texto": "concentró en Bogotá toda la actividad in- dustrial que se estaba desarrollando"
+                },
+                {
+                    "letra": "C",
+                    "texto": "establecieron los criterios que debían or- ganizar de manera definitiva los procesos industriales del país"
+                },
+                {
+                    "letra": "D",
+                    "texto": "conectaron todas las ciudades intermedias con las metrópolis a través de lo que son, en la actualidad, nuestras vías de comuni- cación --- PAGINA 3 --- 28 AC - 107 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Desde el punto de vista social y ambiental los cultivos de uso ilícito han impactado negativamente en regiones como el Guaviare, Caquetá y Putumayo, porque provocan",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "inflación en los productos de la canasta familiar lo que obliga al campesinado a una mayor utiliza- ción de áreas selváticas para sus cultivos de pancoger"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cortas bonanzas económicas y destrucción de los ecosistemas naturales generando deforestación y erosión"
+                },
+                {
+                    "letra": "C",
+                    "texto": "marchas campesinas como las de 1996 donde se reivindica la necesidad de titulación de tierras en aras de explotar económicamente las selvas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "desequilibrios migracionales en la población, impulsándola a la utilización de áreas forestales donde se eliminan los ecosistemas de las cordilleras PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA - (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los núme- ros 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente al enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Al finalizar la Guerra Fría el continente europeo sintió la reestructuración geopolítica mundial con mayor rigor. Uno de los aspectos relacionados con este hecho fue la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "demolición del muro de Berlín y la reunificación del gobierno en la ciudad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "generación de movimientos independentistas en algunos países, lo que condujo al surgimiento de nuevos Estados"
+                },
+                {
+                    "letra": "C",
+                    "texto": "firma del acuerdo de desarme por parte de E.U."
+                },
+                {
+                    "letra": "A",
+                    "texto": "y Rusia para minimizar su influencia sobre Europa septentrional"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reactivación de xenofobias y ultra nacionalismos de tendencia separatista y racial --- PAGINA 4 --- 29 AC - 107 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "Una de las principales intervenciones antrópicas en las áreas altoandinas del país ha sido la expansión de la frontera agrícola, cambiándose la cobertura vegetal natural por cultivos y pastos, lo cual con el tiempo se ve reflejado en dichas áreas a través de",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los procesos de paramización",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la alteración del régimen hídrico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la aparición de nuevas coberturas vegetales xerofíticas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los fenómenos de deslizamiento y derrumbes en las nuevas áreas pobladas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 120,
+            "enunciado": "Las empresas multinacionales buscan localizarse en áreas que les representen ventajas en términos competitivos para el desarrollo de su actividad. Esto genera una dinámica desigual en el espa- cio, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "las inversiones en servicios públicos, así como en la cobertura y calidad en la infraestructura de transporte, se concentran en estos lugares, desfavoreciendo otras zonas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "los gobiernos locales y nacionales con el objetivo de atraer la inversión, desarrollan una normatividad arancelaria y de impuestos diferenciada",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "las comunidades no se organizan de manera abierta en el mercado, limitando así el accionar de los grandes monopolios industriales y comerciales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "existe un condicionante físico y social que impide a todas las regiones desarrollarse de manera igual, de esta forma su participación en el mercado se hace muy difícil",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "La diferencia en el promedio anual de precipitación en- tre Hilo y Puako, en la isla de Hawaii, es causada por",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el tamaño de la isla",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la barrera topográfica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la latitud y la longitud",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la dirección predominante del viento --- PAGINA 5 --- 30 AC - 107 - 8 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 121,
+            "enunciado": "Una situación que actualmente se presenta en América Latina es que las inequidades inducidas por el libre mercado así como la declinación en el nivel de vida de vastos sectores se han convertido en una fuente de conflicto que altera la capacidad de conducción de los actores políticos y debilita a las instituciones democráticas. Todo este proceso ha redundado en",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la competitividad del Estado, hecho que se relaciona con una mejor inserción dentro de la dinámi- ca económica mundial y la atracción de compañías multinacionales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "una segregación espacial, puesto que se amplía la polarización de la sociedad mediante meca- nismos como la renta del suelo y la accesibilidad a servicios públicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la incapacidad política del Estado para integrar equitativamente, a todos los sectores de la socie- dad, limitando de esta forma, la capacidad de decisión de los ciudadanos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "una acelerada reducción en los gastos del Estado, con el fin de impedir un déficit fiscal que produzca una recesión en la economía regional",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "Según el gráfico es posible que en época lluviosa se presente un deslizamiento en plancha porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "al tener contacto con el agua, la capa de arena se expande y se fractura",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la superficie se encuentra inclinada",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la lubricación en la arcilla permite el deslizamiento de la capa arenosa",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la capa de arcilla tiene alta infiltración",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 122,
+            "enunciado": "El diagrama representa una falla inversa. Una vez que el bloque B se haya levantando sobre el bloque A, se esperaría que la red de drenaje",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "forme un abanico aluvial en el bloque A",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "permanezca en el bloque B, pero disminuya el caudal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "continúe en las mismas condiciones en los bloque A y B",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "cambie de curso en el bloque A --- PAGINA 6 --- 31 AC - 107 - 8 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 124,
+            "enunciado": "Según Fabio Zambrano a finales del siglo XIX el 35% de la población colombiana se concentraba en la cordillera oriental. Sin embargo, en las primeras décadas del siglo XX se estableció y desarrolló un importante enclave de población en la parte centro-norte de la cordillera central. Esto respondió entre otras cosas, al nuevo rumbo que tomó la economía colombiana basado en",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la migración y colonización",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el cultivo y comercialización del café",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la adjudicación de baldíos y apertura de troncales intermunicipales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el proceso de industrialización junto al fracaso de las haciendas agroindustriales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 125,
+            "enunciado": "La sobreexplotación forestal por parte de empresas madereras en la zona del bajo Atrato y la falta de un control efectivo de las autoridades estatales han generado un con- flicto por el control de estos territorios, afectando gravemente la calidad ambiental de dichas áreas. Desde la perspectiva del desarrollo sostenible, una propuesta de conciliación a corto y mediano plazo que incida en el mejoramiento de las condiciones anteriormente descritas debería contener aspectos como",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "hacer una licitación internacional para delegar el manejo del recurso forestal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "adjudicar libremente tierras y bosques tanto a los nativos como a las compañías madereras",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "utilizar mesurada y planificadamente el recurso forestal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "reinvetir las ganancias generadas por dicha actividad en la población y en el man- tenimiento del ecosistema",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

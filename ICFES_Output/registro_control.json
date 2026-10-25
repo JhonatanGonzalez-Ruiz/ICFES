@@ -1,0 +1,275 @@
+[
+    {
+        "archivo": "Biologia Profundizacion.pdf",
+        "paginas": 8,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Biologia.pdf",
+        "paginas": 11,
+        "preguntas_detectadas": 47,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Filosofia Profundizacion.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 56,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Filosofia.pdf",
+        "paginas": 7,
+        "preguntas_detectadas": 71,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Fisica Profundizacion.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 21,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Fisica.pdf",
+        "paginas": 13,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Geografia Profundizacion.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 32,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Geografia.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 83,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Historia Profundizacion.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 44,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Historia.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 62,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Ingles.pdf",
+        "paginas": 7,
+        "preguntas_detectadas": 47,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Lenguaje Profundizacion.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Lenguaje.pdf",
+        "paginas": 7,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Matematicas Profundizacion.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Matematicas.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Medio ambiente.pdf",
+        "paginas": 4,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Medios de comunicacion y cultura.pdf",
+        "paginas": 4,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Quimica Profundizacion.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 23,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Quimica.pdf",
+        "paginas": 10,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Violencia y sociedad.pdf",
+        "paginas": 4,
+        "preguntas_detectadas": 39,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Biologia Profundizacion.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Biologia.pdf",
+        "paginas": 10,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Filosofia Profundización.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Filosofia.pdf",
+        "paginas": 8,
+        "preguntas_detectadas": 83,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Física.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 39,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Geografía.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 75,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Historia.pdf",
+        "paginas": 9,
+        "preguntas_detectadas": 67,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Lenguaje Profundización.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Lenguaje.pdf",
+        "paginas": 7,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Matemáticas Profundización.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 20,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Matemáticas.pdf",
+        "paginas": 11,
+        "preguntas_detectadas": 35,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Medio ambiente.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 15,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Química Profundización.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 23,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Química.pdf",
+        "paginas": 8,
+        "preguntas_detectadas": 44,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Geografía Profundización.pdf",
+        "paginas": 6,
+        "preguntas_detectadas": 52,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Historia Profundización.pdf",
+        "paginas": 5,
+        "preguntas_detectadas": 36,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Inglés.pdf",
+        "paginas": 7,
+        "preguntas_detectadas": 49,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "Medios de comunicacion.pdf",
+        "paginas": 4,
+        "preguntas_detectadas": 23,
+        "escaneado": false,
+        "observaciones": []
+    },
+    {
+        "archivo": "violencia y sociedad.pdf",
+        "paginas": 4,
+        "preguntas_detectadas": 55,
+        "escaneado": false,
+        "observaciones": []
+    }
+]

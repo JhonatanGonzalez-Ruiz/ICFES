@@ -1,0 +1,1202 @@
+{
+    "archivo_origen": "Inglés.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Inglés",
+    "total_paginas": 7,
+    "total_preguntas_detectadas": 49,
+    "preguntas": [
+        {
+            "numero": 71,
+            "enunciado": "Catherine is talking about the place where she went on vacation.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Cartagena is an old Colombian lovely city."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Cartagena is an old lovely Colombian city."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Cartagena is a Colombian old lovely city."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Cartagena is a lovely old Colombian city. CONSTRUCCIÓN DE ORACIONES En el enunciado de estas preguntas se plantea una situación. A partir de ésta, usted debe escoger la opción que complemente mejor al enunciado, teniendo en cuenta que su organización y coherencia sean correctas. INTERPRETACIÓN DE GRÁFICAS El enunciado o las opciones en estas preguntas son gráficas o dibujos. Usted debe escoger entre las opciones, la oración que describa, interprete o responda a la gráfica del enunciado, o la gráfica que corresponda a la descripción dada en el mismo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 76,
+            "enunciado": "According to the picture, the man cant get into the house because",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "the window is too big."
+                },
+                {
+                    "letra": "B",
+                    "texto": "he is too tall."
+                },
+                {
+                    "letra": "C",
+                    "texto": "he is too fat."
+                },
+                {
+                    "letra": "D",
+                    "texto": "the window is too high."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 72,
+            "enunciado": "Paul and his daughter Annie are looking at some family pictures. He says:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "I used to had long hair when I was younger."
+                },
+                {
+                    "letra": "B",
+                    "texto": "When I was younger, I used to have long hair."
+                },
+                {
+                    "letra": "C",
+                    "texto": "I use to had long hair when I was younger."
+                },
+                {
+                    "letra": "D",
+                    "texto": "When I was younger, I use to have long hair."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 73,
+            "enunciado": "Carol and Francis are talking about the changes in temperature over the last few days. Carol says:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Yesterday was more hot than today."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Yesterday was as hotter as today."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Yesterday was much hot than today."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Yesterday was hotter than today."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 74,
+            "enunciado": "One Hundred Years of Solitude is a famous novel by Gabriel Garcia Marquez. People all over the world have been able to read it because",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "it have been translated into different languages."
+                },
+                {
+                    "letra": "B",
+                    "texto": "it has been translate into different languages."
+                },
+                {
+                    "letra": "C",
+                    "texto": "it has been translated into different languages."
+                },
+                {
+                    "letra": "D",
+                    "texto": "it have been translate into different languages."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 75,
+            "enunciado": "Paul has just found a good job. Today was his first day. His friend George asks:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "How is your job new, Paul?"
+                },
+                {
+                    "letra": "B",
+                    "texto": "How are your new job, Paul?"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Paul, how is your new job?"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Paul, how are your job new? --- PAGINA 2 --- 22 AC - 051 - 102 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 80,
+            "enunciado": "Patty is doing aerobics. The instructor says: First, stand with your feet apart and your arms by your side. Next, bend down and touch your left foot with both hands. Count to eight. Now, turn your body to the right and touch your right foot. Count to eight again. Next, swing to the middle, touch the floor and count to eight once more. According to the text, the correct order to follow in the exercise is:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 77,
+            "enunciado": "Bob and Paula are canoeing. According to the picture, they are",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "concerned."
+                },
+                {
+                    "letra": "B",
+                    "texto": "confused."
+                },
+                {
+                    "letra": "C",
+                    "texto": "bored."
+                },
+                {
+                    "letra": "D",
+                    "texto": "frightened."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 79,
+            "enunciado": "After three years, Mary was finally able to marry George. According to the picture, Mary feels",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ashamed."
+                },
+                {
+                    "letra": "B",
+                    "texto": "surprised."
+                },
+                {
+                    "letra": "C",
+                    "texto": "satisfied."
+                },
+                {
+                    "letra": "D",
+                    "texto": "worried."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 78,
+            "enunciado": "Bryan and Harry are brothers. Their mother told them that it was time to do their homework. They reacted differently. According to the picture, we can say that",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Harry is more intelligent than Bryan."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Bryan is not as disciplined as Harry."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Harry is less patient than Bryan."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Bryan is not as young as Harry. --- PAGINA 3 --- 23 AC - 051 - 102 I ORGANIZACIÓN DE PÁRRAFOS En el enunciado de estas preguntas se presentan varias oraciones numeradas y en las opciones apare- ce el orden de éstas para construir un párrafo. Usted debe leer cuidadosamente el enunciado, organizar las oraciones en forma lógica y coherente, y escoger la opción que contenga el orden correcto."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "86 Japanese couples 84 a list of wedding presents; friends and relatives are expected to give cash instead. During a typical Shinto ceremony, the bride 85 a kimono and only the relatives of the bride and groom 86 attend the actual ceremony.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 84,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "have"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dont have"
+                },
+                {
+                    "letra": "C",
+                    "texto": "had"
+                },
+                {
+                    "letra": "D",
+                    "texto": "didnt have"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 85,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "carries"
+                },
+                {
+                    "letra": "B",
+                    "texto": "takes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "wears"
+                },
+                {
+                    "letra": "D",
+                    "texto": "brings"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 86,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "never"
+                },
+                {
+                    "letra": "B",
+                    "texto": "rarely"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ever"
+                },
+                {
+                    "letra": "D",
+                    "texto": "usually"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 87,
+            "enunciado": "London was the world´s biggest city at the time of World War II but now it isn´t. According to historians:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "but now there are many cities",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "From about 1800 until World War II,",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "London was the biggest city in the world,",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "which are much bigger.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2,1,4,3"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2,3,1,4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3,2,1,4"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3,1,2,4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 88,
+            "enunciado": "Amy Johnson is from England and she is known for being the first woman pilot to fly to Australia.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "and she became the first woman pilot to fly to Australia.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "when she was still a school girl.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "There, she was taught how to service planes",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "Amy Johnson joined the London Aeroplane Club",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3,2,4,1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2,4,1,3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4,2,3,1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4,1,2,3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 81,
+            "enunciado": "83 The belief that all snakes are poisonous is wrong. Of the 3,000 or so species of snakes that have been classified, 400 are dangerous and only a few are deadly. 81 do snakes bite? It is a defense mechanism to 82 themselves. Another reason is to kill 83 prey, if they are to live. In general, snakes will not bite unless there is a disturbance of some sort.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 82,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "attack"
+                },
+                {
+                    "letra": "B",
+                    "texto": "protect"
+                },
+                {
+                    "letra": "C",
+                    "texto": "affect"
+                },
+                {
+                    "letra": "D",
+                    "texto": "prevent"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 83,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "their"
+                },
+                {
+                    "letra": "B",
+                    "texto": "yours"
+                },
+                {
+                    "letra": "C",
+                    "texto": "your"
+                },
+                {
+                    "letra": "D",
+                    "texto": "theirs"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 81,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "When"
+                },
+                {
+                    "letra": "B",
+                    "texto": "What"
+                },
+                {
+                    "letra": "C",
+                    "texto": "How"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Why TEXTOS INCOMPLETOS El enunciado de estas preguntas es un texto con espacios en blanco numerados, cada número corres- ponde a una pregunta. Usted debe leer detenidamente el texto y escoger la opción que en cada pregun- ta lo complete en forma lógica y coherente. --- PAGINA 4 --- 24 AC - 051 - 102 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 90,
+            "enunciado": "Tom is reading the newspaper. Tom : You know, the Russian ballet has been here for a month and we still havent seen it. Paula: I know. _____________________________ Tom : That sounds great!",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "It must be wonderful."
+                },
+                {
+                    "letra": "B",
+                    "texto": "You could go tomorrow."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Why dont we go tomorrow night?"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Do you have any suggestions? COMPRENSIÓN DE SITUACIONES En el enunciado de estas preguntas se plantea una situación a partir de la cual se formula la pregunta. Usted debe leer cuidadosamente la situación planteada y escoger la opción que responda en forma lógica y coherente la pregunta."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 89,
+            "enunciado": "Frank is tidying his room and his sister, Sally, is helping him. Frank is throwing some things away. Sally : Frank, what a nice poster! Frank : Which one? Sally : This one. The Shakira poster. Are you going to keep it? Frank : No. Put it in the wastebasket. Sally : _____________________________ Frank : Oh, yes, I do. I like her music. But, I dont want the poster.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Dont you like Shakira anymore?"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Have you heard her new song?"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Would you like a Shakira CD?"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Why dont you give it to me?"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 91,
+            "enunciado": "Julia is at a shopping center with a friend. She is buying a jacket. Julia : How much is it? Seller: 500 dollars. Julia : O.K. Just a moment, please. (She opens her handbag.) Oh no! I can´t find my credit card. Fred : Are you sure you brought it with you? Julia : Yes. ______________________________ Fred : Well, why don´t you go to the information stand?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "I can´t believe it!"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Have you seen it?"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Don´t laugh at me!"
+                },
+                {
+                    "letra": "D",
+                    "texto": "What should I do? DIALOGOS INCOMPLETOS En estas preguntas el enunciado es un diálogo incompleto. Usted debe escoger la opción que complete el diálogo en forma lógica y coherente. --- PAGINA 5 --- 25 AC - 051 - 102 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "An adequate definition for the underlined word fur would be",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "the hard, outer covering of some animals."
+                },
+                {
+                    "letra": "B",
+                    "texto": "the flexible, outer covering of a human or animal body."
+                },
+                {
+                    "letra": "C",
+                    "texto": "the thick, hairy outer layer of some animals."
+                },
+                {
+                    "letra": "D",
+                    "texto": "the natural, outer layer which covers a person or an animal."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 95,
+            "enunciado": "The underlined sentence thousands of people have turned in their fur hats, jackets, stoles and coats to S.A.F.E. offices, suggests that",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "people rejected S.A.F.E.s claim."
+                },
+                {
+                    "letra": "B",
+                    "texto": "people didnt care about S.A.F.E.s invitation."
+                },
+                {
+                    "letra": "C",
+                    "texto": "people didnt answer S.A.F.E.s demand."
+                },
+                {
+                    "letra": "D",
+                    "texto": "people responded to S.A.F.E.s request. COMPRENSIÓN DE TEXTOS En esta parte de la prueba se formulan varias preguntas a partir de un texto. Usted debe leer cuidadosa- mente el texto y elegir la opción que corresponda a la pregunta formulada."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 93,
+            "enunciado": "Lisa is going to lend her camera to her friend Mike. She wrote him a note. Mike, * Dont forget that it uses up batteries very quickly, so please be sure you turn it off when you arent using it. * Try to keep it in the case - especially if you take it to the beach. In the note, Lisa is",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "advising."
+                },
+                {
+                    "letra": "B",
+                    "texto": "informing."
+                },
+                {
+                    "letra": "C",
+                    "texto": "describing."
+                },
+                {
+                    "letra": "D",
+                    "texto": "verifying."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "96 S.A.F.E. (Stop All- Fur Wearing Everywhere) is an American organization whose intent is to make people conscious of the cruelty of wearing fur. Around the country, thousands of people have turned in their fur hats, jackets, stoles and coats to S.A.F.E. offices. Locally, we have received twelve fur items so far. On August 28, there will be nationwide fur-burying ceremonies by S.A.F.E. members. Ours will be at the Nordstrom Farm at 11 AM. After we have buried the furs, we will plant trees on the site as a memorial for the animals that died for vanity and fashion. We urge you to hand over your fur clothes before August 28 and to join us for the ceremony that day.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 92,
+            "enunciado": "You are looking for a place to hang an advertisement for a concert. You find this sign: POST NO BILLS This means:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "You cannot pay any of your bills now."
+                },
+                {
+                    "letra": "B",
+                    "texto": "You should not pay for your invitation cards. C You may not put any posters up here."
+                },
+                {
+                    "letra": "D",
+                    "texto": "You must not post any letters to this address. --- PAGINA 6 --- 26 AC - 051 - 102 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 100,
+            "enunciado": "102 Once, long ago, the sky was very close to the earth, and people walked on their hands and knees. They could not stand up. At that time, there were some birds called magpies. They were intelligent birds that thought they could raise the sky. They got sticks and pushed. They raised the sky a little bit, and then they got big stones and rested the sky on them. People stood up. The birds raised the sky again. Suddenly it split open and people saw the first beautiful sunrise. The magpies started singing. Since then, birds have always sung at sunrise. (A legend from Australia)",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 100,
+            "enunciado": "According to the text,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "birds raised the sky because they wanted to see a sunrise and sing."
+                },
+                {
+                    "letra": "B",
+                    "texto": "people could not stand up because there wasnt enough space between the land and the sky."
+                },
+                {
+                    "letra": "C",
+                    "texto": "birds started singing because people could stand up and walk."
+                },
+                {
+                    "letra": "D",
+                    "texto": "people could not see the sun because they walked on their hands and knees."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 97,
+            "enunciado": "99 No matter what you may think and contrary to popular belief, pasta is not an Italian invention, but a Chinese one. It is said that Marco Polo, the explorer, learned the recipe for pasta from the Chinese and brought it to Italy. Nowadays, pasta is the most important food in Italy. It is served as a starter to every meal. It is not only popular in Italy but also in other countries where it is served with different sauces. There are so many that even the most demanding eaters are sure to find something they like.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 97,
+            "enunciado": "According to the context, the underlined word starter means",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "someone who begins something."
+                },
+                {
+                    "letra": "B",
+                    "texto": "sweet food eaten at the end of a meal."
+                },
+                {
+                    "letra": "C",
+                    "texto": "something that begins an activity."
+                },
+                {
+                    "letra": "D",
+                    "texto": "food served as the first part of a meal."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 98,
+            "enunciado": "The intention of the first paragraph of the text is",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "to correct the idea people have about the origin of pasta."
+                },
+                {
+                    "letra": "B",
+                    "texto": "to explain how people all over the world eat pasta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "to compare different types of sauces used with pasta."
+                },
+                {
+                    "letra": "D",
+                    "texto": "to support the traditional concept we have about pasta."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 99,
+            "enunciado": "The text suggests that thanks to",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Marco Polo, the Chinese know how to sell pasta."
+                },
+                {
+                    "letra": "B",
+                    "texto": "China, people know how to cook pasta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Marco Polo, the Italians know how to make pasta."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Italy, the world knows how to eat pasta."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 96,
+            "enunciado": "According to the context, this text can be found in",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "an encyclopedia entry."
+                },
+                {
+                    "letra": "B",
+                    "texto": "a newspaper article."
+                },
+                {
+                    "letra": "C",
+                    "texto": "an ecology bulletin."
+                },
+                {
+                    "letra": "D",
+                    "texto": "a fashion magazine. --- PAGINA 7 --- 27 AC - 051 - 102 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 102,
+            "enunciado": "From the legend, we can now understand",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "why people can stand up and walk."
+                },
+                {
+                    "letra": "B",
+                    "texto": "how people lived a long time ago."
+                },
+                {
+                    "letra": "C",
+                    "texto": "why birds sing in the morning."
+                },
+                {
+                    "letra": "D",
+                    "texto": "how birds raised the sky."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 103,
+            "enunciado": "105 When you get up in the morning, you probably dont think much about all the dangers you face even before you leave the house. When people think of getting hurt, the first thing that comes to mind is a car or plane accident. The truth is, however, that millions of people suffer serious injuries, and even death, in their own homes. Falls on stairs account for 30% of all accidental deaths at home. And be careful as you plug in the toaster: many people die from electrocution due to bad electrical wiring. In fact, you should think twice before biting into that piece of toast, because statistics indicate that thousands of people die each year as a result of choking on food. With all these hidden dangers, you might think that it would be safer just to stay in bed. Well, think again. A surprising number of people are injured while in, or around a bed. And that is precisely where most people die.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 103,
+            "enunciado": "The underlined expression due to can be replaced by",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "in addition."
+                },
+                {
+                    "letra": "B",
+                    "texto": "because of."
+                },
+                {
+                    "letra": "C",
+                    "texto": "besides that."
+                },
+                {
+                    "letra": "D",
+                    "texto": "in contrast."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 104,
+            "enunciado": "The underlined sentence you should think twice before biting into that piece of toast suggests that",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "you shouldnt eat toast for breakfast."
+                },
+                {
+                    "letra": "B",
+                    "texto": "you will get hurt if you eat toast at home."
+                },
+                {
+                    "letra": "C",
+                    "texto": "you need to be careful while you are eating."
+                },
+                {
+                    "letra": "D",
+                    "texto": "you mustnt worry about what you have for breakfast."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 105,
+            "enunciado": "According to the text,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "most of the accidental deaths at home are related to falling down stairs, choking on food and making the bed."
+                },
+                {
+                    "letra": "B",
+                    "texto": "many people are not worried about the dangers they face when they are outside the house traveling by car or plane."
+                },
+                {
+                    "letra": "C",
+                    "texto": "people have to be aware of the dangers around them not only when they are out but even at home."
+                },
+                {
+                    "letra": "D",
+                    "texto": "in order to avoid accidents, people have to leave home and not travel by car or by plane."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 101,
+            "enunciado": "The underlined word them refers to",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "magpies."
+                },
+                {
+                    "letra": "B",
+                    "texto": "sticks."
+                },
+                {
+                    "letra": "C",
+                    "texto": "birds."
+                },
+                {
+                    "letra": "D",
+                    "texto": "stones."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

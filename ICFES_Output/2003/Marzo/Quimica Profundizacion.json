@@ -1,0 +1,617 @@
+{
+    "archivo_origen": "Quimica Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Quimica Profundizacion",
+    "total_paginas": 5,
+    "total_preguntas_detectadas": 23,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "Las propiedades que cambian en el pro- ceso X son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "V , T"
+                },
+                {
+                    "letra": "B",
+                    "texto": "P , V"
+                },
+                {
+                    "letra": "C",
+                    "texto": "T , P"
+                },
+                {
+                    "letra": "D",
+                    "texto": "P , V , T"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "La gráfica que mejor representa los pro- cesos X, Y, Z en un diagrama volumen contra tem- peratura es PREGUNTAS DE SELECCIÓN MÚLTIPLE CON ÚNICA RESPUESTA (TIPO I)",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 108,
+            "enunciado": "En la tabla se muestran las electronegativi- dades de algunos elementos El compuesto que en solución acuosa diluida aumenta la conductividad del agua en mayor pro- porción que los otros compuestos es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "NaF"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Be2O"
+                },
+                {
+                    "letra": "C",
+                    "texto": "LiF"
+                },
+                {
+                    "letra": "D",
+                    "texto": "NaBr otn e m el E iL a N e B O F r B d a divita g e n ortc el E 0,1 8,0 5,1 5,3 0,4 8,2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "O O || || CH3  C  CH2  CH2  CH  C  O  CH3 | CH3 De acuerdo con su estructura molecular, este compuesto se caracteriza por presentar propie- dades químicas de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un éster y un aldehído"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una cetona y un éster"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un aldehído y un éster"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una cetona y un éter RESPONDA LAS PREGUNTAS 110 Y 111 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Cuando se calienta la sustancia X se producen dos nuevos materiales sólidos Y y W. Cuando Y y W se someten separadamente a calentamien- to, no se producen materiales más sencillos que ellos. Después de varios análisis, se determina que el sólido W es muy soluble en agua, mien- tras que Y es insoluble."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "De acuerdo con lo anterior, el material X probablemente es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una solución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un elemento"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un compuesto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una mezcla heterogénea"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Después de descomponer la sustancia X, se requiere obtener por separado el material W, para ello es necesario",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "destilar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "disolver en agua"
+                },
+                {
+                    "letra": "C",
+                    "texto": "decantar"
+                },
+                {
+                    "letra": "D",
+                    "texto": "evaporar --- PAGINA 2 --- 29 AC - 105 - 7 I RESPONDA LAS PREGUNTAS 112 Y 113 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se tienen cuatro soluciones acuosas de 2 de solutos diferentes Cuando se mezclan MT y S2W reaccionan tal como se representa en la siguiente ecuación química 2MT(ac) + S2W M2W + 2ST(s)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Cuando se mezclan 1 L de la solución 3 con 1 L de la solución 2, se obtiene cierta canti- dad de ST. Esta misma cantidad de ST, se obtie- ne cuando se mezclan respectivamente 1 litro de las soluciones",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 y 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "3 y 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 y 4"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 y 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "Se mezclan 500 mL de la solución 1 con 500 mL de la solución 4. Posteriormente, la mez- cla se filtra y el filtrado (porción líquida) se trans- fiere a un vaso de precipitados para evaporación. Después de una completa evaporación, es co- rrecto afirmar que el beaker contiene residuos de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "S2W y M2W"
+                },
+                {
+                    "letra": "B",
+                    "texto": "M2W"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ST"
+                },
+                {
+                    "letra": "D",
+                    "texto": "SW y ST RESPONDA LAS PREGUNTAS 114 Y 115 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La siguiente ecuación representa la hidrólisis de ésteres O O // H+ // R  C  O  R + H2O R  C + R  OH \\ OH"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "A partir de la hidrólisis de un éster de fór- mula molecular C6H12O2, se obtiene un ácido R y un alcohol M . Cuando se óxida el al- cohol M , se forma un ácido idéntico al áci- do R . De acuerdo con esto, es válido suponer que el nombre del éster es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "propanoato de isopropilo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "butanoato de etilo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "propanoato de n-propilo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "etanoato de n-butilo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "La estructura de la sustancia M es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "CH3CH2CH2OH"
+                },
+                {
+                    "letra": "B",
+                    "texto": "CH3 CHCH3 | OH"
+                },
+                {
+                    "letra": "C",
+                    "texto": "CH3CH2COOH"
+                },
+                {
+                    "letra": "D",
+                    "texto": "CH3CH2COH º N o tulo S n e m ulo V n ó ic ulo s n ó ic a rtn e c n o C ) M ( 1 T M L 1 5 , 0 2 S2W L 1 3 3 T M L 1 2 4 S2W L 1 1 --- PAGINA 3 --- 30 AC - 105 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Para obtener a partir de benceno deben ocurrir las siguientes reacciones Se sabe que el radical -Br induce a las mismas posiciones que el radical -CH3. Es correcto afirmar que el radical metilo (-CH3) es un orientador",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "orto y meta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "meta y para"
+                },
+                {
+                    "letra": "C",
+                    "texto": "para y orto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "orto, meta y para RESPONDA LAS PREGUNTAS 117 Y 118 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Dos elementos, X y Y, se mezclan en un recipiente en donde reaccionan produciendo 1 mol del com- puesto Z, posteriormente, la mezcla resultante se separa en sus componentes y los resultados del experimento se consignan en la siguiente tabla a i c n a t s u S l a i c i n i a s a M ) g ( l a n if a s a M ) g ( r a l o m a s a M )l o m / g ( X 0 1 0 5 Y 0 3 0 1 0 2 Z 0 0 3 0"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "De acuerdo con los resultados del experi- mento, la masa molar (g/mol) del compuesto Z es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "25"
+                },
+                {
+                    "letra": "B",
+                    "texto": "20"
+                },
+                {
+                    "letra": "C",
+                    "texto": "40"
+                },
+                {
+                    "letra": "D",
+                    "texto": "30"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "De acuerdo con los datos obtenidos en el experimento, es probable que la reacción ocurri- da entre X y Y sea",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2X + Y Z"
+                },
+                {
+                    "letra": "B",
+                    "texto": "X + Y Z"
+                },
+                {
+                    "letra": "C",
+                    "texto": "X + 2Y 2Z"
+                },
+                {
+                    "letra": "D",
+                    "texto": "X + 2Y Z --- PAGINA 4 --- 31 AC - 105 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "En el laboratorio se preparan las siguientes soluciones de cloruro de sodio, NaCl V1C1 = V2C2 Solución I: 250 ml de solución 0,15 M Solución II: se extraen 10 ml de solución l y se añade agua hasta completar un volumen de 100 ml Solución III: se toma 1 mol de NaCl y se prepara un litro de solución Se extraen dos muestras de la solución II: una de 1 ml (muestra P) y otra de 3 ml (muestra Q). De acuerdo con esto, la molaridad es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "igual en P y Q, aunque los volúmenes de las muestras sean diferentes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "tres veces mayor en Q que en P, porque el volumen de Q es tres veces el de P"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menor en P con respecto a la solución II, porque el volumen de P es menor"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mayor en Q con respecto a la solución II, porque se extrajeron 3 ml"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "En los compuestos orgánicos, cada tipo de carbono y sus hidrógenos correspondientes tienen reactividad propia y diferente el uno del otro, en el orden siguiente C terciario > C secundario > C primario Si se tiene la siguiente reacción: u.v CH3 - CH2 - CH - CH2 - CH3 + Br2 HBr + X | CH3 Con base en la información anterior, el producto X que se produce en mayor proporción es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "CH2 - CH2 - CH - CH2 - CH3 | | Br CH3"
+                },
+                {
+                    "letra": "B",
+                    "texto": "CH3 - CH - CH - CH2 - CH3 | | Br CH3 Br |"
+                },
+                {
+                    "letra": "C",
+                    "texto": "CH3 - CH2 - C - CH2 - CH3 | CH3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "CH3 - CH2 - CH - CH2 - CH3 | Br-CH2 M n L = --- PAGINA 5 --- 32 AC - 105 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "Un gas ideal ocupa un volumen V a una temperatura T y a una presión P. Si la presión se triplica y la temperatura se reduce a la mitad, el volumen ocupado por el gas en estas condicio- nes es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "V/6"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2V/3 PV = nRT"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3V/2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "6V RESPONDA LAS PREGUNTAS 121 Y 122 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Cuando un soluto no volátil y que no disocia se disuelve en un solvente puro líquido, la presión de vapor del solvente disminuye proporcional- mente a la cantidad de soluto disuelto, a una tem- peratura constante, esto se relaciona según la expresión: P = Po X1 donde: P = Presión de vapor de la solución Po = Presión de vapor del solvente puro X1 = Fracción molar del solvente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Al preparar una solución con 2 moles de A (soluto no volátil) que no disocia y 98 moles de B (solvente), es correcto afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "98% de las moléculas que escapan de la superficie de la solución son de A"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la presión de vapor del solvente puro dis- minuyó 2%"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la presión de vapor de la solución es 98% menor que la del solvente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "98% de las moléculas de la solución son de soluto no volátil"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "En la tabla se presenta la presión de va- por del agua a diferentes temperaturas. En una solución 1 molal de un soluto no volátil y que se disocia en agua, al pasar de 100°C a 50°C, es de esperarse que la presión de vapor de la solución disminuya",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "a la mitad de la inicial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "en 50 mmHg"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en 667 mmHg"
+                },
+                {
+                    "letra": "D",
+                    "texto": "a menos de 93 mmHg a r u t a r e p m e T ) C º( r o p a v e d n ó i s e r P ) g H m m ( 0 0 1 0 6 7 0 5 3 9 0 4 5 5 0 2 8 1 RESPONDA LAS PREGUNTAS 124 Y 125 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la planta de producción de una compañía se obtiene una mezcla de los siguientes compues- tos: Etanol, Acetaldehído y Acido acético. o t s e u p m o C ) C º( . E . P . m t a 1 a lo n a t E"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 0,
+            "enunciado": "8 7 o d ih e dla t e c A",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 5,
+            "enunciado": "0 2 o cit é c a o d ic A 6 1",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "5 1 1",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 124,
+            "enunciado": "Si por una falla en el sistema de destila- ción, la máxima temperatura de la torre de desti- lación es 50°C es válido afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "no se puede obtener puro ningún compues- to"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sólo se puede obtener puro Etanol"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se pueden obtener puros el Etanol y el Acetaldehído"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sólo se puede obtener puro Acetaldehído"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "Si sólo se desea obtener Acido Acético en el proceso de producción, la mezcla debe ser tra- tada con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una base fuerte y calor"
+                },
+                {
+                    "letra": "B",
+                    "texto": "calor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un oxidante fuerte y calor"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una base fuerte y un oxidante fuerte"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

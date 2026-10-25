@@ -1,0 +1,546 @@
+{
+    "archivo_origen": "Biologia Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Biologia Profundizacion",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 108,
+            "enunciado": "Cuando la cantidad de materia orgánica vertida a un río supera su capacidad para procesarla, el sistema se desequilibra y entra en un proceso de degradación. La gráfica que mejor ilustra, lo que sucederá con este sistema es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 109,
+            "enunciado": "Los osos polares y los osos grises fueron considerados durante mucho tiempo como dos razas de la misma especie. Se puede reconocer una analogía en la variación de la coloración externa entre los osos y los seres humanos: Los osos polares son claros, al igual que la mayoría de las personas originarias de los países de Europa, cercanos al polo norte. Hacia el sur, más cerca del trópico, las razas de los seres humanos y de los osos suelen tener el pelaje o la piel más oscuros. Entre las siguientes afirmaciones sobre esta similitud, usted está de acuerdo con que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la comparación no es válida porque las razas de seres humanos no han sido el producto de la evolución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el color claro de ambas especies representa un ejemplo de adaptaciones similares para la vida en las regiones polares"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la similitud en el color de especies distintas no necesariamente representa la misma adaptación a un determinado ambiente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el color de la piel puede cambiar con la exposición al sol en los seres humanos y, por lo tanto, no puede ser considerado una característica que se adapte evolutivamente a un ambiente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 106,
+            "enunciado": "Las hormonas son sustancias que llevan mensajes de uno a otro lado del organismo. Esas hormonas actúan en las células \"blanco\" donde desencadenan un proceso molecular. De acuer- do con lo anterior, y con sus conocimientos, las hormonas deben",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "poseer información codificada como la que porta el ADN"
+                },
+                {
+                    "letra": "B",
+                    "texto": "identificar moléculas específicas en las células blanco"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ser proteínas para interactuar con las cé- lulas blanco"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ser muy pequeñas para que puedan en- trar libremente a las células blanco"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "A medida que una planta crece la rela- ción respiración/fotosíntesis va en aumento. Para la dinámica de un ecosistema en desarrollo ésto significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el aumento de la biomasa improductiva lle- vará finalmente el sistema a la extinción"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los herbívoros van a terminar consumien- do más de lo que las plantas producen"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en proporción a la producción fotosintética los herbívoros cada vez disponen de me- nos energía"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la biomasa total de los productores vege- tales irá disminuyendo con el tiempo --- PAGINA 2 --- AC - 100 - 8 I 32"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "La segunda ley de la termodinámica afir- ma que en cada transformación de la energía, un porcentaje de ésta se pierde en forma de ca- lor. Este principio se manifiesta en que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la vegetación de una selva, en su creci- miento, llega a cierto punto límite donde no aumenta su biomasa total"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un animal en su crecimiento no puede pa- sar de cierto tamaño"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las cadenas alimentarias difícilmente pa- san de 3 ó 4 eslabones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tamaño de una población no aumenta indefinidamente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Podríamos afirmar que la materia prima para el proceso de selección natural",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "son los organismos anormales, ya que el medio favorecerá siempre los fenotipos más extraños"
+                },
+                {
+                    "letra": "B",
+                    "texto": "es la diversidad entre los individuos de una especie ya que la naturaleza va a tener de dónde escoger"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es el fenómeno de la mutación porque es lo único que genera cambios heredables"
+                },
+                {
+                    "letra": "D",
+                    "texto": "es la abundancia de individuos porque entre mayor sea el número disponible es más fácil sobrevivir"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "De acuerdo con esta teoría, la aparición de microorganismos resistentes a antibióticos que antes eran efectivos, se explicaría como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "selección de microorganismos hecha por el hombre debido al antibiótico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumento de la capacidad de reacción del sistema inmunológico humano"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ausencia de evolución del microorganismo frente a sus enemigos naturales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reacción natural a la ausencia de infeccio- nes en un individuo RESPONDA LAS PREGUNTAS 112 Y 113 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La teoría de Evolución por Selección Natural afir- ma que los cambios en el ambiente favorecen cambios en las poblaciones. De esta manera, un individuo que no posea las características que son favorecidas por el medio tendrá menores oportunidades de sobrevivir y reproducirse. RESPONDA LAS PREGUNTAS 114 Y 115 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la naturaleza las poblaciones de plantas y ani- males se distribuyen en el espacio de diferentes formas, las cuales pueden afectar su éxito reproductivo y su probabilidad de establecerse en un área. Una especie puede estar dividida en varias poblaciones distribuidas en el espacio. La siguiente figura muestra la distribución de pobla- ciones de tres especies: , y . Las flechas indican las relaciones de intercambio genético entre las subpoblaciones de la especie II"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Una persona preocupada por el crecimien- to de 4 pelos muy gruesos aislados en algunas partes de sus brazos, le pide a usted una prime- ra opinión sobre el posible origen del fenómeno que le permita decidir si debe o no visitar a un médico. Después de admitir ante ella que usted nunca supo de un caso similar, reflexiona un mo- mento y se imagina cuatro posibles escenarios que expliquen la aparición del fenómeno. Entre ellos, aquel que usted propondría como primera opción sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la causa podría estar en mutaciones de algunas células de la piel"
+                },
+                {
+                    "letra": "B",
+                    "texto": "si ha viajado a clima frío recientemente, las bajas temperaturas podrían haber fa- vorecido el ataque de virus que alteraron la expresión del ADN en las células de la piel"
+                },
+                {
+                    "letra": "C",
+                    "texto": "si el padre vivía en clima frío, el podría haber sido infectado por un virus y haberle transmitido la alteración genética en el momento de la concepción"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la causa podría estar en un exceso de hor- mona masculina circulando por la sangre --- PAGINA 3 --- AC - 100 - 8 I 33"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Para varias especies de arañas se ha en- contrado que los individuos pueden intercambiar señales que le revelan a los oponentes sus posi- bilidades de ganar. De esta manera se observa que cuando se enfrentan un individuo grande y uno pequeño el conflicto se resuelve mucho más rápido que cuando se enfrentan dos individuos de tamaño similar. De las siguientes gráficas, aquella que representaría mejor la resolución de conflictos en estas arañas es RESPONDA LAS PREGUNTAS 116 Y 117 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Algunos animales denominados territoriales de- fienden lugares específicos en donde tienen acceso a fuentes de alimento, refugio y/o pare- jas. En algunos casos, principalmente entre ma- chos, cuando dos individuos están interesados en un mismo recurso se genera un conflicto que puede ser resuelto de varias formas, dentro de las cuales se incluye la agresión física.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 117,
+            "enunciado": "Otro ejemplo de animales territoriales son los leones. Para cuidar su territorio deben per- manecer vigilantes en actitud de patrullaje. Se sabe que en periodos en los que un mamífero está alerta, los diferentes órganos del cuerpo re- ciben estímulos del sistema nervioso simpático; mientras que en condiciones de reposo es el sis- tema nervioso parasimpático quien envía las se- ñales. Un león percibe la cercanía amenazadora de otro león que podría, poner en peligro la vida de sus crías. Entre las siguientes, la actividad que se verá aumentada será la de el sistema nervio- so",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "parasimpático, las glándulas salivales, los ojos, los oídos y el corazón"
+                },
+                {
+                    "letra": "B",
+                    "texto": "parasimpático, las glándulas renales, el hí- gado, la lengua y el colon"
+                },
+                {
+                    "letra": "C",
+                    "texto": "simpático, los ojos, los oídos, la nariz y el corazón"
+                },
+                {
+                    "letra": "D",
+                    "texto": "simpático, los pulmones, los oídos, la apén- dice y la lengua"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Con el fin de determinar cuál es el tipo de relación existente entre las especies II y III se lle- van a cabo algunos experimentos y se obtienen los siguientes resultados. A partir de esta información podría pensarse de las especies II y III que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "compiten entre sí"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una es depredada por la otra"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una es parásita de la otra"
+                },
+                {
+                    "letra": "D",
+                    "texto": "son mutualistas entre sí"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "De acuerdo con el gráfico usted podría pensar que una afirmación correcta es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la especie II es la más propensa a la extin- ción"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la especie I es la menos propensa a la ex- tinción"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las especies I y III son las más propensas a la extinción"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las especies I y III son la menos propen- sas a la extinción --- PAGINA 4 --- AC - 100 - 8 I 34"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "Las raíces deben emplear grandes cantidades de energía en forma de ATP para absorber mu- chos de los nutrientes del suelo. Esta energía es obtenida a partir del alimento que ellas mismas sinte- tizan. La secuencia que mejor explica todo el proceso es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "En evolución se dice que dos estructuras son homólogas cuando tienen un origen evolutivo común pero no necesariamente una función común. Así mismo, dos estructuras son análogas cuando tienen una función y aspecto superficial semejantes, aunque sus antecedentes sea completamente diferentes. En el árbol filogenético presentado las especies W, X y R presentan alas. De acuerdo con la información presentada se podría considerar que con mayor probabilidad esta característica es una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "homología, siempre y cuando ninguno de los ancestros comunes a estas tres especies presente alas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "analogía, siempre y cuando ni la especie A, ni la Z presenten alas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "homología, siempre y cuando la especie T presente alas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "analogía, siempre y cuando las alas hayan surgido simultáneamente en las especies W, X y R"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "A partir de este esquema se podría proponer que las especies",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "X, R, S y T comparten un ancestro común con la especie Y"
+                },
+                {
+                    "letra": "B",
+                    "texto": "R, S y T surgieron en el mismo momento evolutivo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "W y Y no tienen ningún ancestro común"
+                },
+                {
+                    "letra": "D",
+                    "texto": "W y Y son más antiguas que la especie A RESPONDA LAS PREGUNTAS 118 Y 119 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El siguiente esquema muestra las relaciones evoluti- vas de un grupo de organismos. --- PAGINA 5 --- AC - 100 - 8 I 35"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "La tabla muestra las características de las células de tres organismos diferentes : De acuerdo con estas características dichos organismos pertenecen en su orden a los reinos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "protista, vegetal y monera"
+                },
+                {
+                    "letra": "B",
+                    "texto": "monera, animal y hongos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "protista, hongos y animal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "monera, vegetal y hongos 1 O M S I N A G R O 2 O M S I N A G R O 3 O M S I N A G R O r a elc u n a n a r b m e m e d a ic n e s u A r a elc u n a n a r b m e m e d a ic n e s e r P r a elc ú n a n a r b m e m e d a ic n e s e r P s a m o s o b ir e d a ic n e s u A s a m o s o b ir e d a ic n e s e r P s a m o s o b ir e d a ic n e s e r P s o ts alp o r olc e d a ic n e s u A s o ts alp o r olc e d a ic n e s e r P s o ts alp o r olc e d a ic n e s u A sis e tnís o t o f n e c a h s o h c u M sis e tnís o t o f e c a h aír o y a m a L sis e tnís o t o f n e c a h o N o d it p é p e d s e d e r a p n o c s a n u gl A o n a c ulg a s olule c e d s e d e r a p n o c s o n u gl A a n itiu q e d s e d e r a p n o c s o n u gl A"
+                },
+                {
+                    "letra": "A",
+                    "texto": "extraer sangre del conejo ® Separar los anticuerpos para el fitocromo ® Mezclar la sangre con el fitocromo ® Adicionarle a la sangre colorante para anticuerpos ® inyectar anticuerpos a la planta ® Observar los tejidos de la planta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "extraer orina del conejo ® Separar los anticuerpos para el fitocromo ® Adicionar colorante para anticuerpos ® inyectar anticuerpos a la planta ® observar los tejidos de la planta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "inyectar fitocromo al conejo ® Separar los anticuerpos para el fitocromo ® Adicionar colorantes para anticuerpos ® Inyectar anticuerpos a la planta ® Observar los tejidos de la planta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "inyectar colorante para anticuerpos al conejo ® Inyectar fitocromos al conejo ® Extraer orina del conejo ® Separar todos los anticuerpos de la sangre ® Inyectar anticuerpos a la planta ® Observar los tejidos de la planta"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Los anticuerpos son producidos por los organismos para defenderse, uniéndose específicamente a sustancias consideradas extrañas, conocidas como antígenos. Aunque las plantas no producen anticuerpos, los sistemas inmunes de los animales pueden usarse en investigaciones botánicas. Existe, por ejemplo, una sustancia vegetal llamada fitocromo, que no puede ser observada directamente en los tejidos vegetales. Un método utilizado para determinar la concentración de fitocromos ha consistido en utilizar anticuerpos de conejo. De los siguientes procedimientos aquel que muestra el orden correcto para lograr la determinación es --- PAGINA 6 --- AC - 100 - 8 I 36",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "Las proteínas, el ADN y el ARN están formados por unidades más pequeñas. El ADN y el ARN se encuentran formados por bases nitrogenadas y las proteínas por aminoácidos. La producción de estas tres sustancias se encuentra relacionada entre sí, de tal forma que para la producción de proteínas es necesaria la presencia previa de ADN y/o ARN. El siguiente cuadro indica con signo (-) las sustancias que se les suprimen a cuatro cultivos de células Al analizar los resultados después de un tiempo se espera que probablemente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ocurra producción de proteína en los cultivos 3 y 4 y de ARN en 2 y 4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se produzcan ADN y proteínas en 2 y 4 pero ARN sólo en el cultivo 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en el cultivo 3 se produzca proteína, ADN y ARN"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se produzca ARN en 2 y 4 y proteína únicamente en 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "La penicilina es uno de los antibióticos más ampliamente utilizados. Su acción específica consis- te en evitar la formación de la red de peptidoglucano, un compuesto químico esencial en la estructura de las paredes celulares de muchos organismos. La razón más probable por la cual la penicilina no afecta las células de los mamíferos es por que éstas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "son impermeables a la penicilina"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no poseen pared celular"
+                },
+                {
+                    "letra": "C",
+                    "texto": "poseen paredes celulares muy gruesas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "presentan baja cantidad de peptidoglucano en su pared"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "La figura muestra los primeros estadios del desarrollo de un cigoto de mamífero. Si en el estadio de dos células sucede un accidente y las dos células se separan y continúan su desarrollo en forma indepen- diente, lo más probable es que se produzca",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un organismo sano y otro de diferente sexo que no llegaría a término"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dos organismos sanos del mismo sexo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "dos organismos sanos del mismo o diferente sexo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un organismos pero con alguna malformación o vitlu C a ic n a ts u S 1 2 3 4 s o d ic á o n i m A - - + + s a d a n e g o rti N s e s a B - + - +"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

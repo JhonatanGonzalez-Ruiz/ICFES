@@ -1,0 +1,1372 @@
+{
+    "archivo_origen": "Historia.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Historia",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 67,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "En el año 776 a.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "C",
+                    "texto": "los antiguos griegos celebraron los primeros juegos Olímpicos en honor al dios Zeus. Tal acontecimiento se reali- zaba en Olimpia, ciudad que en la antigüedad fue un santuario. De lo anterior se infiere que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "todos los santuarios se construían con- sultando a los oráculos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la construcción de los santuarios recor- daba el período arcaico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Olimpia tuvo como centro un festival, que por lo general se realizó cada 4 años"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la arquitectura griega construyó santua- rios como manifestación del Panhe- lenismo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "Los historiadores afirman que hacia los siglos VIII y VII a.C., se formaron las ciudades- Estado griegas. Estas caracterizaron el desa- rrollo social de Grecia y su formación corrió pa- ralela con la extensión de la actividad comercio a lo largo del litoral. Del texto anterior podemos concluir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "todo el mar mediterráneo estaba coloni- zado por gran cantidad de ciudades-Es- tado griegas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "en tiempos de la Grecia antigua hubo di- ferentes Estados en un solo país"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la actividad comercial de los griegos favo- reció la estructura política de ciudades- Estado"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las zonas rurales estaban subordinadas a los intereses de las ciudades-Estado"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "Los primeros pobladores de América llega- ron del centro de Asia, probablemente aprove- chando el estrecho de Bering. Estos grupos se caracterizaron por ser recolectores y cazadores omnívoros, para lo cual utilizaron artefactos tos- cos. Del anterior texto se infiere que los prime- ros pobladores americanos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "llegaron a nuestro continente en busca de mejores condiciones climáticas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dominaron técnicas avanzadas de nave- gación que les permitieron emprender largos viajes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se adaptaron a las condiciones de los te- rritorios a los que llegaban"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sobrevivieron gracias a las riquezas de los nuevos territorios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 39,
+            "enunciado": "Durante el milenio anterior al comienzo de la era cristiana, se ejecutó un paso fundamental en el desarrollo socio-cultural de algunas agru- paciones indígenas que habitaron el territorio que actualmente ocupa Colombia. Este paso consistió en la transición de una sociedad igualitaria tribal a una sociedad jerárquica se- ñorial. A estas nuevas formas sociales se les denominó cacicazgos. Por lo tanto, se puede afirmar que el cacicazgo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "fue una nueva forma de organización so- cial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "representó una característica particular de los indígenas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "fundamentó las nuevas características de la religiosidad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "negó la posibilidad de instaurar una so- ciedad igualitaria"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 40,
+            "enunciado": "Las Cruzadas se llevaron a cabo entre 1095 y 1270. Se hicieron principalmente para recuperar las tierras Santas del Oriente próximo en manos de los árabes musul- manes y para adquirir tierras y riquezas. Dos siglos de guerras entre cristianos y árabes musulmanes, permitieron, además de triunfos y derrotas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la difunsión entre los árabes del arroz y la seda"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el control comercial del mediterráneo por parte de los cristianos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el intercambio cultural y comercial entre pueblos con diferentes culturas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la conquista de Bizancio como centro comercial de los árabes --- PAGINA 2 --- 13 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "El antropólogo Gordon Childe considera que son necesarias ciertas condiciones para el de- sarrollo de una civilización: especialización del trabajo, distribución y concentración desigual del excedente, organización estatal basada en la residencia, aumento del comercio a larga dis- tancia, edificación de edificios monumentales, estilo artístico uniforme, escritura, matemáticas y ciencia. De la afirmación anterior se concluye que una civilización es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la concentración de la riqueza en manos de la elite privilegiada"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la existencia de sabios que dominen el conocimiento científico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la conjugación de desarrollos económi- cos, políticos y culturales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el surgimiento de una clase especializa- da de comerciantes"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 43,
+            "enunciado": "En Roma los dioses de diferentes pueblos sometidos al Imperio fueron admitidos en el panteón y venerados como variantes de las dei- dades de la religión romana. Este conjunto de cultos vinculados al orden establecido tenía un ritual que daba al Emperador una dimensión religiosa; sin embargo, los romanos carecían de una iglesia organizada, con una casta sacer- dotal. Esta forma de entender la religión se de- bía ante todo a que la consideraban",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un asunto personal en el que no podía involucrarse el Estado"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una parte del sistema político capaz de cohesionar la sociedad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el mecanismo más adecuado para ga- rantizar el reclutamiento"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la mejor forma de mostrar su alto desa- rrollo cultural"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 44,
+            "enunciado": "La imposición del aguardiente como bebi- da oficial de la corona, llevó a que las autorida- des civiles y eclesiásticas prohibieran el consu- mo de la chicha, bebida embriagante utilizada por los indígenas. Dicha prohibición se susten- tó en la creencia, por parte de las autoridades reales, de que la chicha ocasionaba enferme- dades tales como la lepra y el coto, además de fomentar el ocio y los desórdenes sociales. Por tal razón, durante el siglo XVIII el consumo de la chicha",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "fue el foco de inumerables enfermeda- des que atacaron especialmente a los indígenas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "fomentó innumerables levantamientos indígenas contra las autoridades virrei- nales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "impidió cobrar el impuesto sobre el con- sumo del aguardiente previsto por las au- toridades reales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "afectó el trabajo que debían realizar los indígenas en las propiedades de los es- pañoles"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 41,
+            "enunciado": "Para algunos historiadores la conquista de América por parte de los españoles fue una em- presa privada, aunque con alguna regulación de la Corona. Una consecuencia de lo anterior es que tanto bienes como personas obtenidas durante la conquista fueron a parar a manos privadas; un ejemplo de ello lo constituyen las encomiendas. De acuerdo con lo anterior, du- rante la Conquista",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la participación de la corona española se limitó a otorgar permisos de ocupación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las culturas de los pueblos nativos fueron respetadas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los pueblos nativos obtuvieron beneficios por la explotación de minas de oro y plata"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la corona y los particulares organizaron formas de distribución del poder y las ri- quezas --- PAGINA 3 --- 14 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "Isabel I de Inglaterra, quien gobernó entre 1558 - 1603, apoyó a los Países Bajos en su levantamiento contra el dominio del imperio es- pañol. Prestó ayuda a los hugonotes en Francia y reprimió el catolicismo en Inglaterra. Esta po- lítica se llevó a cabo en el marco de restitución del anglicanismo y la expansión del poder naval y comercial de Inglaterra, pretendiendo con ella",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "apropiarse de los territorios que confor- maban los Países Bajos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "debilitar a sus mayores enemigos en el continente y fomentar el protestantismo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "establecer pactos con la jerarquía católi- ca para evitar guerras religiosas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "que el poder político estuviera sobre el poder religioso"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "Una de las características de la revolución industrial, que empezó en Inglaterra a finales del siglo XVIII fue la creación de máquinas que permitieron el aumento de productos manufac- turados gracias a la eficiencia técnica. Tal pro- ductividad fue posible gracias a la creación en las ciudades de grandes fábricas que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "impulsaron procesos migratorios desde zonas rurales a las zonas urbanas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "impulsaron el fin de la actividad agricola"
+                },
+                {
+                    "letra": "C",
+                    "texto": "demandaron poca inversión de capital por parte de los empresarios"
+                },
+                {
+                    "letra": "D",
+                    "texto": "requerían poca especialización laboral"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "El matrimonio y «las buenas costumbres» fueron dos elementos que - según la ideología entonces dominante - debía servir a la sociedad colonial para que las personas interiorizaran el autocontrol en la utilización del cuerpo. Estos criterios llevaron a que los vecinos vigilaran y delataran a personas que, según ellos, mantu- vieran relaciones con personas no casadas del sexo contrario y que en general se desarrolla- ran tendencias de persecución promovidos por las autoridades de la corona. La promoción de este tipo de comportamientos evidencia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el afán de las instituciones judiciales por mantener el orden"
+                },
+                {
+                    "letra": "B",
+                    "texto": "que las uniones prohibidas generan per- misividad en espacios clandestinos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la necesidad de la Iglesia de perseguir a los esposos infieles"
+                },
+                {
+                    "letra": "D",
+                    "texto": "que una sociedad estática crea una re- glamentación social conservadora"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "Entre los siglos XVII y XVIII se produjo en Europa la concentración del poder en manos del rey, lo cual se conoce como absolutismo. Dentro de este sistema el rey encarna al Estado y con su corte rige los destinos de su reino, gracias a la existencia de un ejército profesional y regular y a una administración centralizada. En Francia, la figura de Luis XIV representa este período. La centralización del poder, permitió al rey",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "eliminar la lucha entre facciones"
+                },
+                {
+                    "letra": "B",
+                    "texto": "controlar el poder político y económico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "fortalecer el cobro de impuestos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "fortalecer el estado francés sobre otros"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "El período de la monarquía de los Borbones en España se caracterizó por una centralización del poder, un manejo riguroso en la recauda- ción de impuestos como fuente de recursos para el Estado y un mayor peso numérico y decisorio de peninsulares en la burocracia colonial de América. Estas políticas fueron el detonante de levantamientos en América, como el de los Co- muneros en la Nueva Granada y Tupac Amaru en el Perú, ocurridos entre 1780 y 1781. De la relación entre las políticas borbónicas y los le- vantamientos en contra de éstas se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "estos motines obedecieron a intereses de los encomenderos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las protestas fueron defendidas por un sector de peninsulares críticos de los borbones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "estos levantamientos fueron resultado de una nostalgia popular por un pasado glo- rioso indígena"
+                },
+                {
+                    "letra": "D",
+                    "texto": "eran luchas en contra de la estructura de poder político y económico que los espa- ñoles habían impuesto en América --- PAGINA 4 --- 15 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "A finales de los años treinta, 29 de cada 100 colombianos y colombianas, vivían en áreas ur- banas. Esto se constata en que para entonces, circulan por las calles más de 12.000 automóvi- les, 2.000 autobuses, 6.000 camiones, 300 motocicletas y 6.000 bicicletas. Durante esta época empieza el proceso de transición de un país rural a un país urbano, lo cual también pro- vocó la congregación -en las ciudades- de gen- tes cuyos oficios o apariencias generaban des- confianza o temor. Del anterior texto se infiere que la urbanización",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "expuso a más del 70% de los colombia- nos ante la posibilidad de migrar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "fue un proceso cultural que no alteró el ambiente social de la nación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "inició serios problemas de contaminación ambiental de las ciudades"
+                },
+                {
+                    "letra": "D",
+                    "texto": "promovió en esos años, la reconfigura- ción de la sociedad y el paisaje"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "La oferta, la demanda y los precios son los componentes más importantes del mercado. Uno de los principios de la teoría clásica de la economía nos dice que cuando la oferta sube y la demanda se mantiene constante o disminu- ye, los precios bajan. En la crisis de 1929 ocu- rrió un fuerte aumento de la producción, mien- tras que la demanda tendió a disminuir. De acuerdo con el esquema de funcionamiento del mercado, una consecuencia inmediata que se desprende de la crisis de 1929 es que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "aumentó la oferta de bienes, lo que gene- ró la caída de precios"
+                },
+                {
+                    "letra": "B",
+                    "texto": "disminuyó la demanda de maquinaria por parte de los empresarios"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aumentó el desempleo generando dis- minución de la producción"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumentaron los niveles de pobreza por falta de fuentes de empleo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "La Guerra Civil española, se desarrolló entre 1936 y 1939 provocando miles de muertos, heridos, exiliados y damnificados, hechos que no discriminaron género ni edad, pues tanto mujeres como niños padecieron sus rigores. Los sindicatos obreros, por fuerza de las cir- cunstancias, se convirtieron en la llave de la resistencia contra el fascismo español, apoyado por el nazismo alemán, colocándose a la cabeza de la defensa de la República. Del anterior texto se infiere que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el final de la década de 1930 produjo guerras y destrucción en España"
+                },
+                {
+                    "letra": "B",
+                    "texto": "en la Guerra Civil Española y la Segunda Guerra Mundial se luchó contra una ideología similar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las asociaciones gremiales cumplieron un papel militar en la Europa del siglo XX"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los militares no guardaron lealtad a la República y optaron por atacar al gobierno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 51,
+            "enunciado": "Durante el siglo XIX diversos esfuerzos por crear industrias en Colombia resultaron en su mayor parte fallidos. El grueso de la población continuó viviendo en las zonas rurales, la eco- nomía era poco dinámica y estaba concentrada en la agricultura para el consumo interno y en la exportación de productos como la quina, el ta- baco, y posteriormente, el café. Una de las prin- cipales razones para el reducido crecimiento industrial del país durante ese período fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la excesiva reglamentación tributaria im- puesta por el Estado"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la preferencia del capital norteamericano por invertir en la creación de empresas agrícolas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la falta de adecuadas vías de comunica- ción que permitieran el comercio entre las regiones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las altas demandas salariales por parte de los trabajadores"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "Una de las siguientes acciones corres- ponde con el estado del conocimiento científico de Colombia a finales del siglo XIX, momento en el cual se consideraba que la ciencia permitia la construcción de patria",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "conocer las epidemias que cobraron nu- merosas muertes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumentar las exportaciones de café"
+                },
+                {
+                    "letra": "C",
+                    "texto": "divulgar los descubrimientos científicos en áreas rurales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "estudiar los recursos naturales del país como fuentes de exportación --- PAGINA 5 --- 16 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 56,
+            "enunciado": "En 1960 se creó la Organización de Países Exportadores de Petróleo (OPEP), la mayoría de cuyos países miembros son árabes. Estos paí- ses en 1973 decidieron aumentar hasta en un 300% los precios del crudo, lo cual generó una crisis energética en las industrias de los países capitalistas, que tenían como principal fuente este combustible. El aumento de los precios del combustible fue un golpe fuerte a la econo- mía occidental, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el petróleo era la única fuente de energía para su economía"
+                },
+                {
+                    "letra": "B",
+                    "texto": "al subir los precios se hizó más costosa la producción industrial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se desencadenó una crisis económica que bajó los niveles de vida"
+                },
+                {
+                    "letra": "D",
+                    "texto": "debían buscar otros países aliados que les abastecieran de crudo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "Según la teoría clásica de la economía, cuando la oferta aumenta por encima de la de- manda, los precios tienden a bajar y cuando la oferta disminuye por debajo de la demanda, los precios tienden a subir. Un momento histórico que explica el comportamiento de la baja de los precios es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la caída de la bolsa de valores en 1929 que aumentó la oferta de bienes y la dis- minución de la demanda de los mismos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la crisis petrolera de 1970 que recortó la oferta de petróleo que permitió la modifi- cación de los precios del combustible"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el inicio de la Segunda Guerra Mundial que incrementó la importación de alimen- tos por parte de los países involucrados"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la caída del bloque socialista que impulsó la llegada de miles de consumidores de los países orientales a Europa occidental"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "De acuerdo con algunos pensadores de la economía clásica, en el mercado de trabajo la mercancía que se vende es la mano de obra y su precio es el salario nominal, o dinero que recibe el obrero por prestar sus servicios. Cuan- do la oferta de mano de obra sube, es decir, cuando más gente está dispuesta a trabajar y la demanda que realiza el empresario tiende a mantenerse constante o disminuye, el salario nominal baja. La crisis mundial de 1929 afectó directamente la sociedad ya que incrementó el desempleo. De acuerdo con esta teoría, una causa que permite entender la crisis social del año 29 es que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la mayor oferta de mano de obra provocó la caída de los salarios nominales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la escasa demanda de mano de obra por parte de los empresarios, aumentó la pobreza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el estancamiento de la producción eco- nómica ocasionó un desempleo masivo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la disminución del consumo masivo de bienes causó desempleo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 59,
+            "enunciado": "Algunos estudiosos de las ciencias socia- les señalan -al referirse al conflicto armado co- lombiano- que no siempre una guerra insurgen- te termina con la derrota absoluta de uno de los dos bandos que signifique o la toma del poder por parte de los insurrectos o la victoria del Es- tado y la permanencia del statu quo. La imposi- bilidad de una victoria clara de una de las dos partes obligaría a realizar una negociación para dar por terminada la confrontación. Del plantea- miento anterior podemos significar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "inevitablemente se debe culminar la con- frontación armada con un proceso de paz"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la confrontación armada es una etapa superable a través de una negociación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ni la guerrilla, ni el estado, van a lograr obtener una victoria militar"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los bandos en contienda evitan proceso de paz prolongados"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 55,
+            "enunciado": "Durante la década de los años cincuenta, se presentó en América Latina una rápida mi- gración de campesinos hacia las ciudades. Fren- te a este hecho, la naciente industria no tuvo mecanismos para responder",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "al elevado número de empleados califi- cados"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a la demanda de empleo por parte de los campesinos que emigraron a las ciudades"
+                },
+                {
+                    "letra": "C",
+                    "texto": "a la demanda de productos manufactura- dos por parte de los campesinos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "al aumento de precios de los productos provenientes del campo --- PAGINA 6 --- 17 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "El nacional socialismo se desarrolló en Alemania en el período entre guerras. Fue un movimiento de partido que progresivamente se masificó, estableciéndose en contra de la democracia, del libera- lismo económico, y a favor de los valores de la comunidad alemana. Exaltó a partir de allí el naciona- lismo, la ansiada unidad de los alemanes y la recuperación de territorios que consideraban les pertenecían. Estos móviles ganaron gran apoyo en el pueblo alemán y fueron la fuerza propulsora del ascenso del nacional socialismo en la cabeza de Hitler. El apoyo de las masas a esta ideología respondió a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un anhelo del pueblo alemán por un pasado que consideraban glorioso y de grandeza"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la humillación que sentía el alemán común por el trato que recibió Alemania en Versalles por parte de las potencias vencedoras en la Primera Guerra Mundial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el manejo que Inglaterra y Francia dieron a la economía alemana interviniendo en sus asuntos internos y causando pobreza e inflación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "al fracaso de la democracia durante la república de Weimar que evitó el ascenso del Partido Comunista Alemán"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "La aceleración del proceso de industrialización en Europa Occidental desde mediados del siglo XIX repercutió en Hispanoamérica y Brasil, especialmente en algunas regiones productoras de mate- rias primas. La inversión extranjera en la región fue cada vez mayor, a través de préstamos o mediante la instalación de industrias de extracción, a cambio de lo cual los inversionistas obtenían generalmen- te jugosas concesiones. Esta forma de realizar las inversiones ocasionó que mientras unas regiones crecieron económicamente otras se mantuvieron marginadas debido a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la élite terrateniente se negó a invertir en la economía de exportación por sus vínculos afectivos con la tierra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la tecnología de comunicaciones existente no permitía crear una red vial suficientemente am- plia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no existía la infraestructura de comunicaciones ni la voluntad política para distribuir los benefi- cios de las inversiones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "quienes se dedicaban a la agricultura a gran escala no estaban interesados en involucrarse en actividades industriales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 60,
+            "enunciado": "Participación en el Comercio Mundial Fuente: Aldcroft, Dereck, Historia de la economía contemporánea, Barcelona, Editorial Crítica, 1997 s e n o ig e R a r e m ir P al e d s e tn a la id n u M a rr e u G a r e m ir P al e d s é u p s e d la id n u M a rr e u G a cit é iv o S . U al y a p o r u E 4 , 8 5 % 2 , 9 4 a cir é m A % 4 , 2 2 % 1 , 2 3 a is A 1 , 2 1 4 , 3 1 De acuerdo con la tabla, cuál de las siguientes explicaciones contradice los datos de la tabla",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la Primera Guerra Mundial aumentó la actividad productiva en Europa y la Unión Soviética, impidiendo que otras regiones aumentaran su participación en el comercio mundial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "América aumentó su participación en el comercio mundial gracias al impulso que dio a la industria y a sus importaciones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la Primera Guerra Mundial ayudó a disminuir la participación de Europa en el comercio, fomen- tando por ello procesos de desarrollo industrial en otras latitudes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "luego de la Primera Guerra Mundial, Europa y la Unión Soviética disminuyeron su participación en el comercio mundial --- PAGINA 7 --- 18 AC - 005 - 116 I PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA - (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación. EJEMPLO Y El progreso industrial en los países europeos tuvo como consecuencia inevitable una política imperialista, expresada en el afán por extender su dominio territorial a otros continentes ricos en recursos naturales y en materias primas. Es así como Inglaterra, Francia y Alemania competían por colonizar África, Asia y América para asegurar el pode- río mundial que aún hoy mantienen. De acuerdo con este planteamiento, se puede concluir acertadamente que"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "la idea de progreso benefició a los países subdesarrollados",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "los países europeos han civilizado al mundo entero",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el capitalismo promovió las políticas imperialistas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el progreso europeo se dio gracias a los recursos de sus colonias La respuesta correcta es C y así debería marcarla en su Hoja de Respuestas: Y:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 63,
+            "enunciado": "Diversos estudios señalan cómo, de un promedio cercano a los 30 mil homicidios anuales que suceden en nuestro país (de los más altos del mundo, proporcionalmente hablando), aproximada- mente apenas un 15% se relacionan con el conflicto armado que involucra a paramilitares, guerrilla y Estado. El restante 85%, corresponde a la violencia social. De este modo tenemos que si se exami- nan las causas que generan la violencia social en nuestro país",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "disminuyen automáticamente los índices de violencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se pueden atacar con más precisión las causas del conflicto armado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se soluciona la pobreza que ocasiona violencia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "son innecesarios los procesos de paz con la delincuencia organizada --- PAGINA 8 --- 19 AC - 005 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 67,
+            "enunciado": "El historiador Inglés Eric Hobsbawm seña- la que \"si la economía del mundo del siglo XIX se formó principalmente bajo la influencia de la Revolución Industrial inglesa, su política e ideo- logía se formaron principalmente bajo la influen- cia de la Revolución Francesa\". Con esta afir- mación, el autor exalta",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el papel que jugó Inglaterra en la consoli- dación del sistema capitalista en Europa y posteriormente en el resto del mundo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la trascendencia de Francia como cuna de las ideas liberales que implicaron la ruptura con el antiguo régimen",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la confrontación de procesos históricos de diferente naturaleza, en un período crucial de la humanidad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "cómo la ilustración y las ideas liberales se combinaron en el siglo XIX, con el au- toritarismo político de las monarquías",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 66,
+            "enunciado": "En varios países de Latinoamérica, entre ellos Argentina, Perú y Brasil, durante la primera mitad del siglo XX se desarrolló un fenómeno denominado populismo. Este se caracterizó por la ascensión al poder de dirigentes con un gran apoyo de masas, que reivindicaban al pueblo y a la nación, realizando cambios en las estructu- ras políticas y económicas. En Colombia, estos movimientos populistas no lograron convertirse en alternativa de poder debido a diversas cau- sas, entre ellas a que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el proletariado a pesar de su fuerza no apoyó a líderes populistas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el partido liberal absorbió las reivindica- ciones de carácter populista",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el control bipartidista sobre la política ex- cluyó otro tipo de propuestas políticas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los partidos tradicionales evitaron que ganaran las elecciones",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 65,
+            "enunciado": "En octubre de 1917, Rusia era un país con una población aproximada de 150 millones de habitantes. De esta población, el 12% estaba dedicada a la industria, entanto el 75% labora- ba en el campo. Por lo tanto, Rusia era un país poco industrializado con una población eminen- temente campesina y una significativa concen- tración de la tierra. Teniendo en cuenta las ante- riores características de la población rusa y el triunfo de la revolución bolchevique, Lenín plan- teó",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "una integración de las diferentes etnias y nacionalidades que existían en la Gran Rusia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "una política de industrialización y explota- ción dela tierra junto con una transforma- ción de la propiedad privada",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "concentrar esfuerzos en aumentar la pro- ducción agrícola para alimentar al pueblo ruso",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los obreros y campesinos fueran el cen- tro de la política económica del nuevo pro- ceso revolucionario",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 64,
+            "enunciado": "Con la decadencia del imperio carolingio en Francia, se presentó un proceso de fragmen- tación sobre la posesión de la tierra, la cual fue dividida y entregada por el rey a cambio de ser- vicios militares o administrativos. Los vasallos, llegaron a tener tanta autonomía, con relación al poder real, que se convirtieron en propietarios, disputándose con la monarquía el poder. Se- gún la información anterior, la fragmentación del imperio carolingio francés, entre otras razones, se debió a",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la escasez de tierras por lo cual cada se- ñor buscó asegurar la propiedad que po- seía",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "un limitado control del rey sobre los vasallos por la pérdida de control sobre la tierra",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la debilidad del aparato militar real así como la debilidad del aparato del cobro de impuestos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la pérdida de importancia de la tierra de- bida a las continuas guerras e invasio- nes --- PAGINA 9 --- 20 AC - 005 - 116 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 69,
+            "enunciado": "La revolución cubana originó una serie de cambios sociales en la isla, entre ellos: nacionalización de sus recursos, redistribución de la tierra entre los campesinos, indepen- dencia con relación al dominio de las empresas multinacionales y el acceso a educación y salud gratuita para toda la población. Estos cambios tuvieron como consecuencia que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la población cubana tenga garantizados derechos fundamentales, tales como la salud y la educación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "algunos gobiernos del continente plantearan reformas en sus países para evitar revo- luciones similares a la cubana",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el gobierno de los Estados Unidos ofreciera ayuda al cubano para evitar la radicalización de la revolución",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la Unión Soviética desistiera de prestar ayuda a los revolucionarios cubanos por temor a una represalia de los Estados Unidos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 70,
+            "enunciado": "La migración de miles de latinoamericanos en los últimos años hacia Europa y Estados Unidos es alarmante. Ecuador, con una población de 12 millones de habitantes, tiene entre uno y dos millones en el exterior. Las remesas de dinero que envían los emigrantes ascien- den a 1.200 millones de dólares al año y son la segunda fuente de ingresos del país, detrás del petróleo. De aquí podemos concluir que la",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "emigración es una alternativa para los países latinoamericanos, ya que estimula el ingreso de dólares",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "salida masiva de personas empobrece a las naciones latinoamericanas, por la fuga de mano de obra calificada",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "exportación de productos tradicionales latinoamericanos, ha disminuido en el comer- cio internacional",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "entrada de capitales y dinero, estimula la inflación y el empobrecimiento de nuestros países",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 68,
+            "enunciado": "La democracia en Hispanoamérica ha padecido diversas dificultades, entre otras, las manipulaciones electorales. Por ello, algunos autores denominan \"ficción democrática\" a los sistemas de gobierno desarrollados en América Latina, debido a que consideran que la democracia en estos países",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "apareció como una invención de los criollos ilustrados para alcanzar el poder político",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "es una adaptación política que no cambió el orden social edificado en el siglo XIX",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "es una solución para los problemas sociales que originan violencia y atraso",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "no es producto de un consenso social entre distintas fuerzas y grupos sociales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

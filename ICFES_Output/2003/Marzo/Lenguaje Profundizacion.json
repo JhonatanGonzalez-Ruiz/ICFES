@@ -1,0 +1,590 @@
+{
+    "archivo_origen": "Lenguaje Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Lenguaje Profundizacion",
+    "total_paginas": 5,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "El propósito que involucra, de manera glo- bal, a los textos Ciudad y literatura, La ventanilla del bus y Transformaciones urbanas en la ciu- dad de hoy es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "abordar la realidad humana moderna a par- tir de la ciudad, como una necesidad ine- ludible para enfrentar el futuro."
+                },
+                {
+                    "letra": "B",
+                    "texto": "analizar las causas fundamentales del sub- desarrollo en la ciudad, como un interés prioritario para planear el presente."
+                },
+                {
+                    "letra": "C",
+                    "texto": "pensar el desarrollo socioeconómico y tec- nológico de la ciudad como un eje para comprender su historia."
+                },
+                {
+                    "letra": "D",
+                    "texto": "determinar las características culturales y socioeconómicas de la ciudad, como una posibilidad para pensar el desarrollo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Una problemática que es común a los tex- tos Ciudad y literatura, La ventanilla del bus y Transformaciones urbanas en la ciudad de hoy es la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "confrontación entre presente y futuro."
+                },
+                {
+                    "letra": "B",
+                    "texto": "relación entre ciudad e imaginación."
+                },
+                {
+                    "letra": "C",
+                    "texto": "síntesis entre progreso y democracia."
+                },
+                {
+                    "letra": "D",
+                    "texto": "diferencia entre pasado y presente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "La diferencia fundamental entre los textos Ciudad y literatura, La ventanilla del bus y Trans- formaciones urbanas en la ciudad de hoy es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la estructura narrativa a partir de la cual se desarrolla la reflexión sobre la ciudad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la intención de sus autores frente al hecho de valorar la ciudad como eje de la vida moderna."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el punto de vista desde el cual se aborda la importancia de la ciudad en la actuali- dad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el sentido que se le da a la ciudad como referente principal del desarrollo universal."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Teniendo en cuenta su temática, podemos decir que lo que caracteriza, principalmente, a los textos Ciudad y literatura, La ventanilla del bus y Transformaciones urbanas en la ciudad de hoy es su preocupación por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "pensar la realidad actual a partir de los pro- cesos de urbanización."
+                },
+                {
+                    "letra": "B",
+                    "texto": "caracterizar la ciudad actual a partir de di- ferentes puntos de vista."
+                },
+                {
+                    "letra": "C",
+                    "texto": "replantear los criterios actuales para abor- dar el estudio de la ciudad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "presentar las principales visiones existen- tes sobre la ciudad. --- PAGINA 3 --- 30 AC - 106 - 6 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "A partir de la lectura de los textos Ciudad y literatura, La ventanilla del bus y Transforma- ciones urbanas en la ciudad de hoy, se puede inferir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sobre la realidad contemporánea sólo se puede reflexionar a partir de la ciudad como punto de referencia."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el desarrollo de la imaginación es un asunto relacionado exclusivamente con el espa- cio urbano."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es ineludible tomar la ciudad como punto de referencia para reflexionar sobre la realidad contemporánea."
+                },
+                {
+                    "letra": "D",
+                    "texto": "en la reflexión sobre el mundo moderno la ciudad podría llegar a ser un buen punto de partida."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Los textos anteriores podrían hacer parte de un libro cuyo título más apropiado sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Tecnologías urbanas en la actualidad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Antología de literatura urbana."
+                },
+                {
+                    "letra": "C",
+                    "texto": "La ciudad y el espacio educativo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Pensar la ciudad hoy y mañana."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "A partir de la lectura de los textos Ciudad y literatura y Transformaciones urbanas en la ciu- dad de hoy, podemos afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los procesos de globalización de la econo- mía y la comunicación son el resultado de la constitución de nuevos lenguajes tec- nológicos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "las nuevas formas de producir, consumir, gestionar, informar y pensar son conse- cuencias de las nuevas formas de expre- sión de lo urbano."
+                },
+                {
+                    "letra": "C",
+                    "texto": "las tecnologías de la información y la co- municación influyen en el desarrollo de to- dos los lenguajes a través de los cuales se expresa lo urbano."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los procesos de globalización, las nuevas tecnologías y las nuevas formas de vida son los nuevos lenguajes a través de los cuales se expresa lo urbano."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "Si, como se afirma en el texto Transfor- maciones urbanas en la ciudad de hoy, Las ciu- dades y sociedades de todo el mundo están ex- perimentando en este fin del siglo XX una profunda transformación histórica estructural y, como se dice en el texto Ciudad y literatura, la literatura expresa dicha transformación a través de sus propios lenguajes, podría pensarse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un estudio comparativo entre la literatura del futuro y la actual permitiría percibir la transformación de la conciencia humana causada por los acelerados procesos de urbanización."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la literatura del futuro será completamente diferente a la literatura actual, ya que esta- rá construida a partir de una sociedad con una estructura radicalmente contraria a la actual."
+                },
+                {
+                    "letra": "C",
+                    "texto": "en el futuro la literatura no se diferenciará de lo que es hoy en día, porque en ambos casos el punto de partida fundamental es el lenguaje propio de la ciudad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "comparar la literatura actual con la literatu- ra del futuro será una labor infructuosa, puesto que llegará un punto en el cual el lenguaje se transformará estructuralmente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "A partir de los anteriores textos se ha abor- dado, en esta prueba, la problemática urbana desde diferentes saberes académicos. A ello se le puede denominar",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una metodología esquemática."
+                },
+                {
+                    "letra": "B",
+                    "texto": "una postura interdisciplinaria."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una actitud democrática."
+                },
+                {
+                    "letra": "D",
+                    "texto": "una mirada simplista."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Según lo anterior, un abordaje interdis- ciplinar del tema de la ciudad permite leer los tex- tos Ciudad y literatura, La ventanilla del bus y Transformaciones urbanas en la ciudad de hoy de manera",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "independiente, encontrando sus diferen- cias y señalando sus similitudes."
+                },
+                {
+                    "letra": "B",
+                    "texto": "ordenada, estableciendo su importancia y jerarquía de mayor a menor."
+                },
+                {
+                    "letra": "C",
+                    "texto": "transversal, entrecruzando sus informacio- nes y produciendo nuevos sentidos."
+                },
+                {
+                    "letra": "D",
+                    "texto": "caótica, sin tener en cuenta sus temáticas y sus intenciones comunes. --- PAGINA 4 --- 31 AC - 106 - 6 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Una obra literaria en la que se muestra la transformación de la ciudad en el siglo XX y la lectura permanente que sus habitantes hacen de ella es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Pedro Páramo, de Juan Rulfo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Cien años de soledad, de Gabriel García Márquez."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Rayuela, de Julio Cortázar."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Mi alma se la dejo al diablo, de Germán Castro Caicedo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "En el texto Ciudad y literatura se habla de la ciudad como escenario ambulante y permanente y como el espacio natural de la imaginación narrativa contemporánea. Esto se refleja en el texto La ventanilla del bus, ya que en él se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "narra lo que un habitante de ciudad imagina cuando la recorre."
+                },
+                {
+                    "letra": "B",
+                    "texto": "plantea una definición clara y sencilla de lo que es la literatura urbana."
+                },
+                {
+                    "letra": "C",
+                    "texto": "afirma que en la ciudad cambian los modos de producir, consumir, gestionar, informar y pensar."
+                },
+                {
+                    "letra": "D",
+                    "texto": "propone que en la ciudad se inician una nueva era y un nuevo destino para la humanidad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "En el texto Ciudad y literatura se afirma que lo urbano posee sus maneras específicas de mani- festarse, sus lenguajes, sus problemáticas singulares. De acuerdo con el texto Transformaciones urba- nas en la ciudad de hoy, la anterior afirmación se puede sintetizar en los conceptos de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Infraestructura, comunicación y urbanización."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Globalización, tecnología y comunicación."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Sistema, desarrollo y globalización."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Destino, tecnología y aglomeración."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "Teniendo en cuenta los textos Ciudad y literatura y Transformaciones urbanas en la ciudad de hoy, podemos concluir que la crítica literaria",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "debe asumir el estudio del contexto socioeconómico y cultural en el que se produce la literatura y no se debe limitar a la clasificación o valoración de obras y autores."
+                },
+                {
+                    "letra": "B",
+                    "texto": "podría hacer una mejor clasificación y valoración de las obras literarias en un contexto particular si tuviera en cuenta la revolución tecnológica."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es un lenguaje particular a través del cual se expresa el fenómeno de lo urbano en la globalización."
+                },
+                {
+                    "letra": "D",
+                    "texto": "será en el futuro la expresión fundamental en lo relativo a la comunicación y la información."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "En el texto Transformaciones urbanas en la ciudad de hoy se afirma que En cierto modo, el destino de la humanidad se juega en las áreas urbanas. El texto La ventanilla del bus lo manifiesta, igualmente, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "propone analizar el espacio urbano como un territorio en el cual el individuo está en permanente confrontación con el caos y el desorden."
+                },
+                {
+                    "letra": "B",
+                    "texto": "presenta el recorrido en bus por la ciudad como una aventura interior en la cual el individuo se reconoce a sí mismo y su entorno."
+                },
+                {
+                    "letra": "C",
+                    "texto": "describe el transporte público de la ciudad como una expresión del desorden moderno."
+                },
+                {
+                    "letra": "D",
+                    "texto": "sugiere que la ciudad es un pequeño universo caótico que simboliza a toda la humanidad. --- PAGINA 5 --- 32 AC - 106 - 6 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "De acuerdo con la lectura de los textos Ciudad y literatura y Transformaciones urbanas en la ciudad de hoy, podemos afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los procesos de globalización de la economía y la comunicación son el resultado de la constitu- ción de nuevos lenguajes tecnológicos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "las nuevas formas de producir, consumir, gestionar, informar y pensar son consecuencias de las nuevas formas de expresión de lo urbano."
+                },
+                {
+                    "letra": "C",
+                    "texto": "las tecnologías de la información y la comunicación influyen en el desarrollo de todos los lengua- jes a través de los cuales se expresa lo urbano."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los procesos de globalización, las nuevas tecnologías y las nuevas formas de vida son los nuevos lenguajes a través de los cuales se expresa lo urbano."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "Partiendo de lo que se dice en los tres textos se puede afirmar que hay dos tipos de lectores urbanos:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "uno distraído y ajeno al contexto, y otro atento a lo que ocurre."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el que habita lo urbano y lo hace costumbre, y el que experimenta el sentido estético de lo urbano."
+                },
+                {
+                    "letra": "C",
+                    "texto": "uno alerta y crítico, y el otro en disposición de vivirlo pasivamente."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el que habita lo urbano y no lo reconoce, y el que percibe lo urbano como experiencia de otros."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "Con base en las lecturas anteriores se puede decir que el espacio físico",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "hace parte de la vida del hombre."
+                },
+                {
+                    "letra": "B",
+                    "texto": "es algo externo al hombre."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es sólo el lugar donde se habita."
+                },
+                {
+                    "letra": "D",
+                    "texto": "hace parte de la geografía física."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "Tomando en consideracíón los textos Ciudad y literatura y La ventanilla de bus, se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la literatura contemporánea centra su interés en las sensaciones y vivencias individuales del hombre."
+                },
+                {
+                    "letra": "B",
+                    "texto": "en la producción artística contemporánea se hacen explícitas las barreras entre el espacio urbano y el espacio del arte."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la literatura urbana contemporánea se relaciona con el contexto, señalando evidencias y viven- cias que forman parte de la experiencia colectiva."
+                },
+                {
+                    "letra": "D",
+                    "texto": "en la producción artística contemporánea se rompe con el espacio público para resaltar la interio- ridad del hombre."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "A partir de lo que se dice en el texto Ciudad y literatura y de la experiencia que se muestra en el texto La ventanilla del bus se puede decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la memoria, como registro de las experiencias vividas, cumple un papel fundamental en el recono- cimiento del espacio."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la experiencia sensible de la literatura urbana se refiere únicamente a los sentimientos que des- pierta el contacto con un lugar."
+                },
+                {
+                    "letra": "C",
+                    "texto": "para hacer literatura urbana se debe contar con elementos especializados que permitan la apre- ciación del paisaje."
+                },
+                {
+                    "letra": "D",
+                    "texto": "para hacer literatura urbana el escritor debe despojarse de su experiencia vivida y centrarse en valores abstractos."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

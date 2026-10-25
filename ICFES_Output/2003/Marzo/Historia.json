@@ -1,0 +1,1305 @@
+{
+    "archivo_origen": "Historia.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Historia",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 62,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "En el mundo existen varias formas de go- bierno, entre ellas están la Monarquía, en la que el Rey controla el poder, la Aristocracia, en la que el poder político está en manos de un pequeño grupo de personas, y la Democracia, en la que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el representante es elegido por el pueblo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se gobierna únicamente bajo órdenes del congreso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el partido que está en el poder dictamina las leyes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el gobierno de turno asesora al parlamen- to"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "Los nuevos conceptos sobre filosofía y cien- cia, durante el siglo XVII, rompieron con el pasa- do, en especial con las ideas aristotélicas que perduraron durante la edad media. Los nuevos avances expuestos alcanzaban la certeza em- pleando métodos matemáticos. Uno de los pila- res de esta nueva concepción resumió su punto de partida en la frase \"Pienso, luego existo\", prin- cipio del método cartesiano que se debe a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Jacobo Estuardo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Charles Alexander Calome"
+                },
+                {
+                    "letra": "C",
+                    "texto": "René Descartes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Thomas Hobbes"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 39,
+            "enunciado": "Las comunidades indígenas actualmente atraviesan por diferentes problemáticas. Las condiciones de pobreza, el atraso, la discri- minación, la supervivencia y los escasos espa- cios de participación política evidencian la difi- cultad de comprender la diversidad étnica que presenta la sociedad colombiana y los desarro- llos particulares que tienen cada una de estas comunidades. Una reivindicación actual de los indígenas es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la recuperación de las tierras ancestrales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el aislamiento de la sociedad moderna"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la retribución por 500 años de exterminio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el respeto por la identidad cultural"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 40,
+            "enunciado": "Al convertirse en religión oficial del Imperio Romano, el cristianismo prohibió el cobro de in- tereses por préstamo de dinero considerándolo una forma de usura. Esta medida fue negativa para los comerciantes pero en cambio amplió el poder de los grandes poseedores de tierras al reducir la circulación de dinero. La consecuencia económica negativa más notable para la socie- dad estuvo en que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la desmonetización de la economía hizo volver al trueque"
+                },
+                {
+                    "letra": "B",
+                    "texto": "al expandirsen las grandes haciendas se redujo la productividad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se produjo una gran disminución de las actividades comerciales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se redujo el uso de los metales para la acuñación de moneda PREGUNTAS DE SELECCIÓN MÚLTIPLE CON ÚNICA RESPUESTA (TIPO I)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "India o Indostán es una península del sur de Asia semejante a un inmenso triángulo, que penetra en el Océano Indico. La India se consi- dera una extensa llanura recorrida por dos gran- des ríos, el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Mirto y el Egeo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Amarillo y el Nilo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Indo y el Ganges"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Jordan y Hoangho --- PAGINA 2 --- AC - 005 - 114 I 16"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "Después de varios intentos, la corona es- pañola abolió en 1720 la encomienda, aunque para entonces el peonaje por deudas y otros sis- temas de control habían sustituido a las enco- miendas como medio de obtener una fuerza de trabajo permanente. Esto nos indica que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los encomenderos y no la corona fueron quienes impusieron las formas de explota ción del trabajo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las protestas de los indígenas provo- caron la disolución de las encomiendas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la corona pudo regular de manera efec- tiva las relaciones entre indígenas y españoles"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la corona tenía un control eficaz sobre las actividades de los encomenderos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 43,
+            "enunciado": "El éxito militar de las legiones romanas ge- neró el surgimiento de un ejército profesional que terminó separado de la ciudadanía. Esta espe- cialización militar, si bien permitió la ampliación de las fronteras del Imperio, la conquista de boti- nes, esclavos y tierras, posibilitó que las élites acrecentaran sus propiedades. La consecuencia más destacada de este hecho para la sociedad romana fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el aumento de la participación de los ple- beyos en el gobierno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el enriquecimiento del tesoro público y en esa medida el bienestar general"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el aumento de la diferencias entre las dis- tintas clases sociales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la apatía de todos los ciudadanos hacia los asuntos militares"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 44,
+            "enunciado": "La burguesía se formó en Europa occiden- tal desde la baja edad media dentro de los valo- res de la moderación, la abstinencia y la repre- sión. Valores con los que entró en conflicto al consolidarse definitivamente su éxito a finales del siglo XIX luego de la gran expansión industrial y financiera. La burguesía ya no vivió entonces en una economía familiar de escasez o alejada de las tentaciones de la alta sociedad. En esta me- dida podemos concluir que los valores éticos de la burguesía se modificaron debido a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los sacrificios que debió hacer para alcanzar su posición social"
+                },
+                {
+                    "letra": "B",
+                    "texto": "su ascenso social luego de un gran crecimiento de la industria"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las prédicas morales de la religión que la invitaba al ascetismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la moderación y el ahorro con los cuales debió vivir en el siglo XIX"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 41,
+            "enunciado": "El Referendo es uno de los mecanismos de participación ciudadana, consagrados en la Constitución Política colombiana. Mediante este dispositivo, se pregunta a la ciudadanía acerca de si se deben o no, tomar determinadas deci- siones de carácter político, económico o de otra índole, por parte del Estado. En el caso colom- biano, el referendo es una de las maneras como se pueden llevar a cabo reformas constituciona- les. De acuerdo con el enunciado anterior, se podría deducir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "toda reforma a la Constitución, sólo se puede llevar a cabo por medio de una con- sulta popular"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la participación ciudadana requiere cana- les de expresión que se encuentren garan- tizados constitucionalmente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los referendos son una manera de convo- car a la ciudadanía a la definición de las políticas públicas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la Constitución Política de Colombia, otor- ga a los ciudadanos la facultad de refor- marla --- PAGINA 3 --- AC - 005 - 114 I 17"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "Después de 1555 en el Nuevo Reino de Granada fue fijado el valor de los montos a tribu- tar por parte de los indígenas, con lo cual se dio el paso de la simple apropiación de la riqueza mediante la guerra hacía una regulación de los mecanismos de explotación del trabajo y extrac- ción de productos como mantas, maderas y sal. Este sistema escapó, sin embargo, al poder re- gulador de la corona, que además de ser una autoridad lejana, se encontró con la dificultad de que los conquistadores",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se mantuvieron en la guerra como forma para procurarse riqueza"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se vieron forzados a trabajar y generar así su propio sustento y riqueza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "consideraron que los indígenas debían trabajar para sostenerlos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se vieron sorprendidos por el aumento de la población mestiza"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "Mesoamérica fue el término usado para designar la región, ocupada por pueblos indíge- nas, entre el río Pánuco, en el norte de México, hasta Guatemala, Belice y Honduras en el sur. Estos límites geográficos encerraban diversos grupos étnicos que en el momento de la conquista compartían ciertos rasgos culturales, ya fuera me- diante contactos de tipo comercial, religioso, eco- nómico o de sometimiento tributario o militar. Por lo tanto, de las características de esta región se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "primó entre los pueblos mesoamericanos los contactos e influencias a partir de los elementos militares"
+                },
+                {
+                    "letra": "B",
+                    "texto": "para los diferentes pueblos era necesario el intercambio como reconocimiento a su poderío y grandeza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "hubo disposición para asimilar rasgos cul- turales de otras comunidades lo que mues- tra su actitud tolerante"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las diferencias en algunos aspectos socia- les no impidieron el intercambio entre las comunidades"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "La huelga de las Bananeras fue iniciada en noviembre de 1928 luego que los trabajadores solicitaran a la empresa aumento del salario, crea- ción de un seguro colectivo y de accidentes, des- canso dominical remunerado, servicio hospitala- rio y el pago en efectivo, entre otros aspectos. La compañía bananera United Fruit negó la petición y pidió al gobierno que pusiera orden, lo cual fue hecho a través del ejército que dispersó la huel- ga a bala. Una de las principales causas que motivó al gobierno a responder de esta manera fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "su temor ante las protestas de los trabaja- dores, las cuales consideraba de carácter comunista y revolucionario"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la presión de los militares que esperaban recibir recursos para fortalecer las fuerzas armadas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el interés de los gremios económicos en acabar las organizaciones de obreros por considerarlas perjudiciales para la econo- mía"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la presión ejercida por parte de los bana- neros de otras regiones para beneficiarse de contratos con la United Fruit"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "La Constitución Política colombiana, con- sagra que el Congreso podrá someter a referendo, un proyecto de reforma constitucional. En el Referendo, los electores podrán escoger libremente qué temas votan positivamente y cua- les negativamente. El enunciado anterior significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un elector podrá escoger si aprueba o no, cada una de las preguntas que se some- ten a su consideración"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la Constitución no contempla la posibilidad de que el congreso autónomamente, ade- lante reformas constitucionales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en Colombia, el referendo es uno de los mecanismos constitucionales para llevar a cabo reformas a la Carta Magna"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la consulta a los ciudadanos está supedi- tada a la voluntad del Congreso, si este decide convocar a Referendo --- PAGINA 4 --- AC - 005 - 114 I 18"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "A raíz de las fumigaciones contempladas y ejecutadas dentro del marco del Plan Colombia, un grupo de indígenas contactó a representan- tes del gobierno de Estados Unidos y de la Unión Europea para informarles sobre los perjuicios ocasionados por la fumigación a cultivos legales adyacentes a los sectores fumigados. Con lo anterior este grupo de indígenas NO buscaba",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tener protagonismo en la campaña de erradicación de los cultivos ilícitos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "captar la atención de la comunidad inter- nacional buscando apoyo para evitar la continuación de las fumigaciones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "confrontar las políticas del gobierno por el programa de fumigaciones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "revisar la decisión de las fumigaciones basándose en su derecho a participar en decisiones que afecten su ambiente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "Durante el período del Olimpo Radical, los generales Berrío y Trujillo, presidentes de los Estados de Antioquia y Cauca respectivamente, protestaron ante el presidente de la Unión, el li- beral Santos Acosta, por su intromisión en los asuntos internos del Estado del Tolima. Esa noti- ficación pública demuestra que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "existió una gran fraternidad entre los Es- tados de Antioquia y Cauca luego de sus enfrentamientos a mediados del siglo XIX"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el Estado del Tolima era importante como punto de equilibrio para las tensiones en- tre Cauca y Antioquia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el gobierno de Santos Acosta intervino en forma permanente en los asuntos internos de los Estados de la Unión"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los mandatarios regionales defendían la organización federal que se adoptó como mecanismo de gobierno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 51,
+            "enunciado": "Los Chibchas de Cundinamarca y Boyacá, desarrollaron una compleja estructura socioeco- nómica y adoraron numerosos dioses, los cua- les constituyeron un buen testimonio del grado de cultura y civilización. De lo anterior se dedu- ce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el desarrollo de una sociedad se puede observar por medio de las instituciones religiosas que la componen"
+                },
+                {
+                    "letra": "B",
+                    "texto": "entre más religioso es un pueblo es más desarrollado y complejo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las creencias religiosas son la primera explicación que da el hombre sobre la rea- lidad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las sociedades indígenas eran socialmen- te muy avanzadas por su monoteísmo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "En Noviembre de 1957 se presentó un ple- biscito que consultó la opinión de los colombia- nos sobre salidas a la violencia que sufría el país, especialmente después del asesinato de Jorge Eliecer Gaitán en 1948. La propuesta plebiscitaria afirmaba que un gobierno e instituciones de coa- lición eran la salida al baño de sangre y muerte por el que pasaba el país. De un total de 4.397.090 de colombianos que votaron el plebis- cito, 4.169.294 votaron a favor del plebiscito, en tanto que 206.864 lo hicieron en contra. Una de las consecuencias del voto favorable al plebisci- to de 1957 fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el establecimiento del Frente Nacional"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el fin de la Junta Militar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el juicio político a Gustavo Rojas Pinilla"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la integración de los partidos liberal y con- servador --- PAGINA 5 --- AC - 005 - 114 I 19"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "Durante 1919 en Bogotá se produjo un le- vantamiento popular que protestaba contra la im- portación de vestidos para el ejército. Este movi- miento fue aprovechado por los trabajadores de las fábricas que pedían reducción de la jornada laboral y desde entonces proliferaron nuevos sin- dicatos de mecánicos, plomeros, transportado- res, obreros de jabonerías y de fábricas de ga- seosas. La inconformidad social de aquella época en Bogotá, fue importante porque se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "estimuló el interés económico de los lí- deres obreros"
+                },
+                {
+                    "letra": "B",
+                    "texto": "organizó la clase obrera, que empezó a buscar un espacio político"
+                },
+                {
+                    "letra": "C",
+                    "texto": "reconoció el trabajo sindical como parte del derecho ciudadano"
+                },
+                {
+                    "letra": "D",
+                    "texto": "garantizó la participación de los pobres en decisiones del gobierno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 55,
+            "enunciado": "La civilización del antiguo Egipto, después del suicidio de la reina Cleopatra entró en deca- dencia. Catorce siglos antes, esta cultura desa- rrolló campos como la astronomía, matemáticas y arquitectura, dejando sentir su influencia en Gre- cia y Roma. El legado cultural egipcio plantea que esta civilización",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "constituyó el punto de partida de la llama- da \"cultura occidental\""
+                },
+                {
+                    "letra": "B",
+                    "texto": "representó lo más destacado de la \"socie- dad oriental\""
+                },
+                {
+                    "letra": "C",
+                    "texto": "integró los aportes políticos y científicos de Grecia y Roma"
+                },
+                {
+                    "letra": "D",
+                    "texto": "promovió la construcción de grandes obras arquitectónicas en Grecia"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 56,
+            "enunciado": "La consolidación del ejército legionario per- mitió a Roma, primero el control militar de vastos territorios y en segundo lugar la romanización de los gobernantes de los pueblos conquistados. Los elementos militares fueron esenciales, pero se necesitaron medidas de otro tipo para lograr el fortalecimiento del Imperio, tales como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "usar medidas represivas contra gobernan- tes y pueblos conquistados"
+                },
+                {
+                    "letra": "B",
+                    "texto": "imponer la cultura romana para establecer una civilización homogénea"
+                },
+                {
+                    "letra": "C",
+                    "texto": "establecer una confederación económica conformada por Roma y sus aliados"
+                },
+                {
+                    "letra": "D",
+                    "texto": "establecer una federación socialmente uniforme que asociara a Roma y sus alia- dos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "En el periodo posterior al proceso de independencia surgieron en América Latina líderes que buscaron controlar el poder a partir de sus regiones. Estos caudillos surgidos de la guerra, generalmente provenientes del campo, aprovechaban la oportunidad de mejorar su fortuna personal y expandir su radio de influencia, representando los intereses de familias o regiones para así controlar más cargos e incrementar sus haciendas. Sin embargo, la figura del caudillo fue importante en la medida que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "fue una alternativa de cohesión social que respondía a intereses nacionales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la sociedad estaba fragmentada social y políticamente y había diferentes ideales de nación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "concretó en las sociedades latinoamericanas los ideales de democracia y justicia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el pueblo apoyó al caudillo para constituir realmente una nación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "Durante el primer gobierno de Alfonso López Pumarejo conocido como la \"Revolución en Mar- cha\" se llevó a cabo una reforma tributaria que produjo quejas entre los grandes productores de café y algunos grupos acomodados del país pues desde ese momento los giros cafeteros debían pagar impuestos de timbre, y fueron creados im- puestos sobre la renta del suelo, sobre el patri- monio y sobre el exceso de utilidades. Con esta reforma tributaria se pretendía",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "favorecer a los sectores más pobres exi- miéndolos del pago de impuestos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dejar de depender exclusivamente de los impuestos al comercio exterior"
+                },
+                {
+                    "letra": "C",
+                    "texto": "que el Estado pudiera intervenir en el de- sarrollo económico del país"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ordenar las instituciones estatales de con- trol de ingresos por exportaciones --- PAGINA 6 --- AC - 005 - 114 I 20"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 59,
+            "enunciado": "La edad media en el mundo occidental, se caracterizó fundamentalmente por la fuerte inter- vención de la Iglesia en las decisiones económi- cas, políticas y culturales. Las explicaciones de los fenómenos naturales, el desarrollo económi- co y las decisiones son determinadas por una fundamentación judeo-cristiana. De lo anterior podemos concluir que en la edad media",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el horizonte de comprensión es el mode- lo teocéntrico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el paradigma filosófico es la religión cris- tiana"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la explicación de todos los fenómenos la brinda la Iglesia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la realidad de la vida cotidiana se encuen- tra en la religión"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 60,
+            "enunciado": "La civilización griega heredó a la humani- dad destacadas creaciones intelectuales en cam- pos tan diversos como la escultura, la filosofía, la arquitectura, la literatura y la medicina. En fi- losofía, intentaron conocer el ser humano y su naturaleza a través del pensamiento y la reflexión sistemática de brillantes filósofos. Entre ellos encontramos a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Platón y Esquilo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Sófocles y Heródoto"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Sócrates y Aristóteles"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Platón y Jenofonte"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "El historiador Lucien Febvre afirmaba que cada época construye mentalmente sus propios universos a partir de los acontecimientos de que dispone, sean falsos o verdaderos, y que ade- más emplea en la elaboración de su pasado los dones, ingenios, cualidades, curiosidades y en general todo lo que la distingue de las épocas pasadas. Estas afirmaciones aluden al hecho de que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en un momento ciertos temas de investi- gación resultan atractivos mientras se desdeñan otros que habían concentrado la atención"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la falsedad o veracidad de un aconteci- miento depende exclusivamente del sa- ber que se construye en un momento par- ticular"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la historia, más que trabajar sobre la ver- dad o falsedad de los acontecimientos lo hace con los deseos de su época"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en la investigación histórica se privilegia el ingenio más que la verdad de los dis- cursos construidos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "Cristóbal Colón se aventuró a atravesar el océano Atlántico con destino a las Indias Occi- dentales gracias, entre otros factores, al uso de inventos recientes para la navegación que per- mitían a los marineros orientarse con mayor exac- titud. Uno de estos instrumentos fue",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el radar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la brújula"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el barómetro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el sonar"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "Entre los siglos XV y XVI surgió en Europa un movimiento filosófico y artístico que se cono- ce como Renacimiento. Se caracterizó por una filosofía humanista y por la revalorización de la antigüedad clásica. El hombre fue centro de sus preocupaciones y expresiones manifestándose en la pintura y la escultura y la exaltación del cuer- po humano al estilo grecolatino. Los artistas más destacados fueron",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "César Borgia y Nicolás Maquiavelo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Giordano Bruno y Denis Diderot"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Miguel Angel y Leonardo da Vinci"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Francois Rabelais y Guillermo de Ocam --- PAGINA 7 --- AC - 005 - 114 I 21 EJEMPLO Y El progreso industrial en los países europeos tuvo como consecuencia inevitable una polí- tica imperialista, expresada en el afán por extender su dominio territorial a otros continentes ricos en recursos naturales y en materias primas. Es así como Inglaterra, Francia y Alema- nia competían por colonizar África, Asía y América para asegurar el poderío mundial que aún hoy mantienen. De acuerdo con este planteamiento, se puede concluir acertadamente que"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "la idea de progreso benefició a los países subdesarrollados",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "los países europeos han civilizado al mundo entero",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el capitalismo promovió las políticas imperialistas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el progreso europeo se dio gracias a los recursos de sus colonias La respuesta correcta es C y así debería marcarla en su Hoja de Respuestas: Y: PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1,2,3, y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que parece a continuación.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 63,
+            "enunciado": "La polis griega se constituye en la historia universal, como un gran espacio social y cultural que permite la expresión de las instituciones políticas, el ejercicio democrático por parte de los habitantes considerados ciudadanos y la discusión como evidencia de participa- ción. Por lo tanto la polis es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una institución política en el seno del esclavismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una expresión arquitectónica en la antigüedad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un territorio democrático en el seno del esclavismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un recinto basado en principios democráticos --- PAGINA 8 --- AC - 005 - 114 I 22 64.Las creencias religiosas explican muchas de las costumbres humanas. En algunas regiones o países, la ganadería no prospera porque la religión practicada prohibe el consumo de carne; en otras, a pesar de que el clima favorece el cultivo de viñedos, esta actividad carece de interés económico, ya que la religión prohibe tomar vino en"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "Francia, Italia, Grecia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "India, China, Japón",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Arabia, Irán, Líbano",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "Brasil, Colombia, Perú",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 65,
+            "enunciado": "Estudios sobre la economía europea del siglo XVII han demostrado que la población de este continente experimentó un crecimiento entre los años 1620 a 1640 y posteriormente entre 1720 a 1740, produciéndose luego un sensible retroceso, excepto en Inglaterra y los Países Bajos. Esta información podría expresarse en dos de las siguientes gráficas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 66,
+            "enunciado": "Durante el período indígena en Colombia, los Taironas se ubicaron en la Sierra Nevada, territorio montañoso y de difícil acceso, que ellos acondicionaron a sus necesidades, mediante el establecimien- to de densos núcleos de población, la construcción de puentes y la adecuación de terrazas de cultivo. Las ciudades taironas que se han venido descubriendo desde hace algún tiempo, poseen un complejo sistema urbanístico de viviendas y sitios ceremoniales. Los hallazgos de la cultura tairona son de espe- cial interés para la arqueología, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "demuestran la influencia urbanística de otros pueblos indígenas americanos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "son motivos de controversia científica entre los investigadores de grupos aborígenes ya desa- parecidos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "proporcionan indicios de una adecuada relación entre el hombre indígena y su entorno ambiental",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "son testimonio evidente de un alto grado de desarrollo social, económico y arquitectónico --- PAGINA 9 --- AC - 005 - 114 I 23",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 67,
+            "enunciado": "En el territorio que hoy es Colombia habita- ron numerosas sociedades indígenas con dife- rentes grados de desarrollo sociocultural. En tan- to unas se caracterizaron por la concentración de su población, otras se distinguieron por la dis- persión de sus miembros. Lo anterior nos indica que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el territorio de la actual Colombia fue el escenario de múltiples modelos de desa- rrollo socio-cultural",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "los aborígenes estuvieron lejos de estar integrados bajo una sola identidad socio- cultural",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la enorme variedad social de los pueblos indígenas hizo que ellos se dispersaran sin posibilidades de reencuentro",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la geografía y la extensión del territorio nacional fue la responsable del desen- cuentro cultural indígena",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 69,
+            "enunciado": "La rivalidad entre diferentes ciudades fue el gran problema del mundo griego. Vencida por Esparta, Atenas aprovechó el conflicto entre Esparta y Tebas para recuperarse militarmente. Con la esperanza de vencer y fortalecerse eco- nómicamente, ambas ciudades recurrieron a un antiguo contrincante para pedirle oro: el rey de Persia, el cual aceptó con la condición de que se le dejara restablecer su dominio sobre Asia Me- nor, lo cual se hizo efectivo en el año 387",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "C",
+                    "texto": "El enfrentamiento entre ciudades fue la principal causa de la decadencia del mundo griego ya que"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "algunos pueblos de Asia Menor despoja- ron a los griegos de esa producción cultu- ral que los caracterizó",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "los enemigos de la unidad estatal apro- vecharon para fraccionar los territorios de los griegos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "esa lucha arruinó las finanzas de las ciu- dades y debilitó a los ejércitos y a la pobla- ción",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los persas ganaron territorio y tomaron re- vancha de las derrotas que habían sufrido por causa de los griegos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 68,
+            "enunciado": "Entre 1966 y 1969 transcurre la llamada Revolución Cultural China, que buscaba retor- nar a las fuentes originales del comunismo y parar el riesgo de la burocratización del partido comunista. Esta actitud revolucionaria originó una facción de extrema izquierda que rescataba el pensamiento de Mao y proponía un acelerado de- sarrollo económico para el país fundado en la pro- ducción comunitaria. Estas tendencias comunis- tas ya habían deteriorado las relaciones con la Unión Soviética y dieron por resultado",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "las más enconadas contiendas religiosas y diplomáticas entre China y la Unión So- viética",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la negación sistemática de los chinos ha- cia un régimen comunista de dictadura del proletariado",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la ruptura política de China con la Unión Soviética, pues existían abismos concep- tuales insuperables",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la necesidad de llevar a cabo la colectivi- zación de la economía del país con la pro- puesta de gobierno",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 70,
+            "enunciado": "Durante la segunda mitad del siglo XIX, el proceso de industrialización en Europa occiden- tal, repercutió en Hispanoamérica y en Brasil de- bido a que los primeros demandaban materias primas y productos agropecuarios para alimen- tar a la creciente población urbana. Esto signifi- có para los países latinoamericanos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la construcción de vías férreas y toda una infraestructura de comunicaciones destina- da solamente a sacar las materias primas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "su especialización en la producción agro- pecuaria y minera para satisfacer la de- manda internacional, descuidando las ne- cesidades regionales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "un tipo de economía regional cada vez más especializada que benefició a un amplio sector de la sociedad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "una economía independiente de las de- mandas extranjeras que permitió la pro- ducción de bienes de consumo masivo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

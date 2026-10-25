@@ -1,0 +1,1039 @@
+{
+    "archivo_origen": "Química.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Química",
+    "total_paginas": 8,
+    "total_preguntas_detectadas": 44,
+    "preguntas": [
+        {
+            "numero": 4,
+            "enunciado": "Teniendo en cuenta que hay suficiente canti- dad de ambos reactivos es válido afirmar que para producir 8g de CH4 se necesitan",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "16 gramos de C"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 gramos de H"
+                },
+                {
+                    "letra": "C",
+                    "texto": "12 gramos de C"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4 gramos de H"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "Las sustancias que aparecen en la tabla, se utilizan frecuentemente como fertilizantes y con- tribuyen a la nitrogenación del suelo Teniendo en cuenta esta información, es válido afirmar que la sustancia que contribuye con más nitrógeno al suelo es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la urea porque presenta 2 moles de N por cada molécula"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la guanidina ya que presenta 3 moles de N por cada mol de sustancia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el nitrato de amonio porque presenta 4 moles de N por cada mol de sustancia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el amoníaco ya que una molécula contie- ne 3 átomos de N"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 3,
+            "enunciado": "Un elemento tiene un número de masa de 65 y se determinó que presenta 35 neutrones en su núcleo. Teniendo en cuenta esta información, el número de electrones que tiene este elemento es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "35"
+                },
+                {
+                    "letra": "B",
+                    "texto": "30"
+                },
+                {
+                    "letra": "C",
+                    "texto": "65"
+                },
+                {
+                    "letra": "D",
+                    "texto": "100"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 5,
+            "enunciado": "De acuerdo con la ecuación representada, es válido afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se conservó la cantidad de materia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se conservó el número de moles"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aumentó el número de moléculas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumento el número de átomos de cada ele- mento CONTESTE LAS PREGUNTAS 4 Y 5 DE ACUERDO CON LA SIGUIENTE INFORMA- CION"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "En el análisis elemental de un compuesto or- gánico se estableció que existe la siguiente rela- ción entre los átomos de carbono e hidrógeno que lo conforman: por cada átomo de carbono en una molécula del compuesto hay 2 de hidró- geno. De acuerdo con el análisis, es probable que la fórmula del compuesto sea De acuerdo con ésta, se puede establecer que las funciones orgánicas presentes en la adrenalina son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "fenol, alcohol y amina"
+                },
+                {
+                    "letra": "B",
+                    "texto": "alqueno, alcano, alcohol y amida"
+                },
+                {
+                    "letra": "C",
+                    "texto": "cicloalcano, alqueno y amida"
+                },
+                {
+                    "letra": "D",
+                    "texto": "fenol, alcohol, amina y éster"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "La siguiente es la representación de la mo- lécula de la adrenalina 2H C CH 2 4 + → a ic n a ts u S )lo m / g ( r alo m a s a M C 0 , 2 1 H 0 , 1 H C 4 0 , 6 1 a i c n a t s u S a l u m r ó F a e r u o in o m a e d o t a rtin a n id in a u g o c aín o m a H N ( 2)2 O C H N 4 O N 3 H N ( C N H 2)2 H N 3",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "CH4 H H H H"
+                },
+                {
+                    "letra": "B",
+                    "texto": "H - C - C - C - C - H H H H H"
+                },
+                {
+                    "letra": "C",
+                    "texto": "CH2 = CH2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "CH3 - (CH2)3 - CH3 --- PAGINA 2 --- AC - 002 - 114 I 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 8,
+            "enunciado": "El siguiente esquema representa parte de la información que contiene la tabla periódica Si se tiene en cuenta que los elementos que quedan ubicados en un mismo grupo presentan propieda- des químicas semejantes, es válido afirmar que forman parte de un grupo los siguientes elementos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "B, C y N"
+                },
+                {
+                    "letra": "B",
+                    "texto": "N, S y Br"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Be, Mg y Ca"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Li, Na y Be"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 10,
+            "enunciado": "A un tubo de ensayo que contiene agua, se le agregan 20g de NaCl; posteriormente, se agita la mezcla y se observa que una parte del NaCl agregado no se disuelve permaneciendo en el fondo del tubo. Es válido afirmar que en el tubo de ensayo el agua y el NaCl conforman",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una mezcla heterogénea"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un compuesto"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una mezcla homogénea"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un coloide"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 9,
+            "enunciado": "De acuerdo con la ecuación anterior, si reaccionan 10 moles de agua con 3 moles de calcio probable- mente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los reactivos reaccionarán por completo sin que sobre masa de alguno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el calcio reaccionará completamente y permanecerá agua en exceso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se formarán 13 moles de hidrógeno"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se formará un mol de hidróxido de calcio Ca 2H O Ca(OH) H 2 2 2 + → + ↑"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 7,
+            "enunciado": "Un ión es una especie química que ha ganado o perdido electrones y por lo tanto tiene carga. La configuración electrónica para un átomo neutro \"P\" con Z = 19 es 1s22s22p63s23p64s1. De acuerdo con esto, la configuración electrónica más probable para el ión P2+ es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1s22s22p63s23p64s2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1s22s22p63s23p6"
+                },
+                {
+                    "letra": "C",
+                    "texto": "1s22s22p63s23p5"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1s22s22p63s23p64s23d1 --- PAGINA 3 --- AC - 002 - 114 I 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 14,
+            "enunciado": "De acuerdo con la gráfica es correcto afir- mar que bajo estas condiciones en 1L de agua la cantidad de sal disuelta en el punto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Y es mayor de 20g"
+                },
+                {
+                    "letra": "B",
+                    "texto": "X es igual a 20g"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Y es menor de 20g"
+                },
+                {
+                    "letra": "D",
+                    "texto": "X es menor de 20g RESPONDA LAS PREGUNTAS 14 Y 15 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN A 1L de agua se adiciona continuamente una sal obteniendo la gráfica que se presenta a conti- nuación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "La concentración es una medida de la can- tidad relativa de un soluto que se disuelve en un solvente. A una solución de sal en agua se adi- ciona gradualmente sal y posteriormente se adi- ciona agua. La gráfica que representa la concen- tración durante el transcurso del ensayo es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 12,
+            "enunciado": "La siguiente tabla presenta las solubilidades (S) del NaNO3 a diferentes temperaturas (T) La gráfica que representa correctamente los da- tos contenidos en la tabla, es C º , a r u t a r e p m e T O N a N g , d a d ilib ulo S 3 H g 0 0 1 / 2O 0 1 0 8 0 2 8 8 0 3 6 9",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 11,
+            "enunciado": "Las masas molares de las sustancias J y R son respectivamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "40 y 30 g/mol"
+                },
+                {
+                    "letra": "B",
+                    "texto": "10 y 20 g/mol"
+                },
+                {
+                    "letra": "C",
+                    "texto": "20 y 40 g/mol"
+                },
+                {
+                    "letra": "D",
+                    "texto": "10 y 30 g/mol RESPONDA LAS PREGUNTAS 11 Y 12 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN Las sustancias P y J reaccionan de acuerdo con la siguiente ecuación P + J 2 X Adicionalmente la sustancia X reacciona con la sustancia R de acuerdo con la siguiente ecua- ción X + R Q + J Químicamente la sustancia R no reacciona con las sustancias P y J En la siguiente tabla se presentan algunas ca- racterísticas de las sustancias mencionadas Todas las sustancias son líquidas a 20 ºC a ic n a ts u S r alo m a s a M )lo m / g ( e d a r u tr e p m e T ) C º( n ó icillu b e P 0 5 5 1 2 J ? 0 5 X 0 3 0 8 1 R ? 0 0 1 Q 0 4 0 0 2 --- PAGINA 4 --- AC - 002 - 114 I 5 RESPONDA LAS PREGUNTAS 20 Y 21 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN El proceso de halogenación del 1- propino se lle- va a cabo mediante 2 reacciones consecutivas de adición, como se muestra en el siguiente es- quema Paso 1 CH3 - C ≡CH + Cl2 (g) ® CH3 - C (Cl) = CH (Cl) Paso 2 CH3-C(Cl) = CH(Cl)+Cl2(g)® CH3- C(Cl)2 - C -H(Cl)2 Si una solución al 10% (p/p) de la sustancia X se prepara a 30ºC y después se enfría hasta alcan- zar una temperatura de 0ºC es válido afirmar que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "se precipitarán 10g de X, porque el solven- te está sobresaturado a 0ºC"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no se presentará ningún precipitado, por- que la solución está saturada a 0ºC"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no se presentará ningún precipitado, por- que la solución está sobresaturada a 0ºC"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se precipitarán 5g de X, porque el solven- te solo puede disolver 5g a 0ºC"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 17,
+            "enunciado": "La siguiente gráfica ilustra la solubilidad de una sustancia X en 100g de agua, con respecto a la temperatura.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 16,
+            "enunciado": "Dos recipientes contienen dos mezclas distintas. El recipiente 1 contiene agua y aceite y el reci- piente 2 contiene metanol y gasolina. Al combi- nar los contenidos de los dos recipientes, el nú- mero de fases que se obtiene de acuerdo con los datos de la tabla es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Si se realiza el experimento utilizando 2L de agua y las mismas cantidades de sal, la gráfi- ca que representa correctamente la variación de la concentración de sal disuelta en función de la cantidad de sal adicionada es A I C N A T S U S D A D I R A L O P a u g A r alo P e tie c A r alo p A lo n a t e M r alo P a n ilo s a G r alo p A RESPONDA LAS PREGUNTAS 18 Y 19 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN En un experimento de laboratorio se lleva a cabo el siguiente procedimiento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "Se hacen reaccionar Ca y TiO2 obteniéndose Ti puro y el óxido de calcio",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "Se separa el óxido de calcio y se mezcla con agua, dando lugar a una reacción cuyo producto es un sólido blanco",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 18,
+            "enunciado": "De acuerdo con el anterior procedimiento, los compuestos de calcio que se producen en el primero y segundo paso son respectivamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "CaTi2 y CaO"
+                },
+                {
+                    "letra": "B",
+                    "texto": "CaO y CaH2 C CaO y Ca(OH)2 D CaTi y Ca(H2O)2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 19,
+            "enunciado": "Al examinar la mezcla obtenida en el paso 2 utilizando papel tornasol rojo, se obtiene una coloración azul. De acuerdo con esta informa- ción, el compuesto de calcio formado en el paso 1 se clasifica como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una sal"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un óxido básico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una base"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un óxido ácido --- PAGINA 5 --- AC - 002 - 114 I 6"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 22,
+            "enunciado": "A 100ºC y una presión P1 un recipiente rígido contiene una mezcla formada por 1 mol de cada uno de los gases X, Y y Z. Si se retira com- pletamente el gas Y, la presión ejercida por los gases X y Z será",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2/3 de P1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el doble de P1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la mitad de P1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3/2 de P1"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 21,
+            "enunciado": "Si se lleva a cabo un proceso de halogena- ción utilizando es probable que al finalizar el paso 2 del proceso se obtenga",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 20,
+            "enunciado": "Suponiendo rendimiento del 100%, para producir un mol de Cl Cl CH3 - C - C - H Cl Cl Por medio de adicción sucesiva de cloro se re- quieren",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "4 moles de 1- propino y 2 moles de cloro gaseoso"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 moles de 1 - propino y 4 moles de cloro gaseoso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "1 mol de 1 - propino y 2 moles de cloro gaseoso"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 moles de 1 - propino y 2 moles de cloro gaseoso"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "Los cambios de estado de un material se pueden visualizar así El diagrama de fase de una sustancia X es el siguiente De acuerdo con el diagrama anterior, si la sus- tancia X pasa de las condiciones del punto 1 a las condiciones del punto 2, los cambios de esta- do que experimenta son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "evaporación y fusión"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sublimación y condensación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "condensación y solidificación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "evaporación y sublimación inversa"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 23,
+            "enunciado": "A temperatura constante y a 1 atmósfera de presión, un recipiente cerrado y de volumen va- riable, contiene una mezcla de un solvente líqui- do y un gas parcialmente miscible en él, tal como lo muestra el dibujo Si se aumenta la presión, es muy probable que la concentración del gas en la fase",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "líquida aumente"
+                },
+                {
+                    "letra": "B",
+                    "texto": "líquida permanezca constante"
+                },
+                {
+                    "letra": "C",
+                    "texto": "gaseosa aumente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "gaseosa permanezca constante --- PAGINA 6 --- AC - 002 - 114 I 7 RESPONDA LAS PREGUNTAS 26 Y 27 DE ACUERDO CON LA SIGUIENTE INFORMA- CIÓN Puntos de ebullición normales (1 atm)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "Se analiza una muestra de la sustancia Q para determinar su punto de ebullición a 1 atm de presión. Para ello se emplean diferentes volú- menes de esta sustancia. Los resultados se mues- tran a continuación A partir de estos resultados es correcto concluir que el punto de ebullición de la sustancia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es directamente proporcional al volumen de la muestra"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no depende de la cantidad de muestra"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es inversamente proporcional al volumen de la muestra"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumenta linealmente con la cantidad de muestra"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 25,
+            "enunciado": "En la siguiente gráfica se ilustra el cambio en la presión en función de la temperatura. De acuerdo con el diagrama anterior, si la sus- tancia L se encuentra en el punto 1 a temperatu- ra T1 y presión P1, y se somete a un proceso a volumen constante que la ubica en el punto 2 a temperatura T2 y presión P2, es correcto afirmar que en el proceso",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la temperatura se mantuvo constante"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumentó la temperatura"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la presión se mantuvo constante"
+                },
+                {
+                    "letra": "D",
+                    "texto": "disminuyó la presión a ic n a ts u S ) C º( n ó icillu b e e d o tn u P P Q 0 3 5 5 ) l m ( .lo V 1 5 0 1 9 1 ) C º( T 5 5 5 5 5 5 5 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "A 1 atm de presión y en recipientes diferen- tes, se deposita 1 ml de cada una de las sustan- cias P y Q, y se espera hasta que alguna de las sustancias se evapore completamente. La prime- ra sustancia en hacerlo es P, lo que indica que la presión de vapor de la sustancia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Q es mayor que 1 atm"
+                },
+                {
+                    "letra": "B",
+                    "texto": "P es igual a la de la sustancia Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "P es menor que 1 atm"
+                },
+                {
+                    "letra": "D",
+                    "texto": "P es mayor que la de la sustancia Q"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 28,
+            "enunciado": "La gráfica representa la titulación de 100ml de HCl 0,1 M, con NaOH 0,1 M. Si ahora se utiliza NaOH 0,01M la gráfica que representa la titulación, es --- PAGINA 7 --- AC - 002 - 114 I 8",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 29,
+            "enunciado": "Si la acidez de una solución aumenta al disminuir su pH, la gráfica que representa la acidez en función del pH es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 32,
+            "enunciado": "Se cuenta con tres compuestos cuyas propiedades se presentan en la tabla. A 25ºC y 1 atm de presión, se mezclan en un recipiente abierto los compuestos U, V y W. Si estos compuestos son insolubles y no reaccionan entre sí, es muy probable que al aumentar la temperatura a 280ºC el recipiente contenga",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los compuestos U y V en estado líquido y el compuesto W en estado sólido"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el compuesto V en estado líquido y el compuesto W en estado sólido"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el compuesto U en estado líquido, el compuesto W en estado sólido y los productos de la des- composición de V"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el compuesto W en estado sólido y los productos de la descomposición de V o ts e u p m o C a r u t a r e p m e T ) C º( n ó is u f e d e d a r u t a r e p m e T ) C º( n ó icillu b e n ó icis o p m o c s e d e d a r u t a r e p m e T ) C º( U 0 1 0 1 1 C º 0 1 1 e d s e r o y a m s a r u t a r e p m e t a e n o p m o c s e d e s o n V 0"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 9,
+            "enunciado": "0 5 2 W 0 0 3 0 0 8 C º 0 0 8 e d s e r o y a m s a r u t a r e p m e t a e n o p m o c s e d e s o n",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 30,
+            "enunciado": "La siguiente tabla presenta el pH para diferentes concentraciones de H2SO4 Para una solución de H2SO4 que tiene una concentración de 50g/L, es muy probable que su pH sea",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor que 2,1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1,2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menor que 0,3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2,1 H e d s o m a r g 2 O S 4 n ó ic ulo S L / H p 9 4 3 , 0 9 , 4 2 , 1 9 4 , 0 1 , 2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "En la etiqueta de un frasco de vinagre aparece la información: «solución de ácido acético al 4% en peso». El 4% en peso indica que el frasco contiene",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "4 g de ácido acético en 96 g de solución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "100 g de soluto y 4 g de ácido acético"
+                },
+                {
+                    "letra": "C",
+                    "texto": "100 g de solvente y 4 g de ácido acético"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4 g de ácido acético en 100 g de solución --- PAGINA 8 --- AC - 002 - 114 I 9"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 33,
+            "enunciado": "Cl |",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "CH3 - CH2 - CH2 - Cl",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "CH2 - CH2 - CH3",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "CH3 - CH2 - CH - CH2 - CH3",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "CH3 | C - Cl CH - Cl C3H7 Son fórmulas del mismo compuesto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 y 3"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 y 3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3 y 4"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 y 2 CONTESTE LAS PREGUNTAS 34 Y 35 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Uno de los procedimientos para producir nitrobenceno en el laboratorio es el siguiente:"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "Mezclar en un tubo de ensayo 5 ml de benceno, 3 ml de ácido nítrico y 3 ml de ácido sulfúrico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "En un baño de agua caliente, aumentar la temperatura de la mezcla hasta que expida un fuerte olor y en aquel momento, suspender el calentamiento. Para realizar la práctica de acuerdo con el procedi- miento, los instrumentos más adecuados son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tres tubos de ensayo, una pipeta de 5 ml y un mechero"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un tubo de ensayo, una probeta de 5 ml, un mechero con trípode y placa y una pipeta de 5 ml"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un tubo de ensayo, un mechero con trípode y placa, una pipeta de 5 ml y un vaso de precipi- tado de 50 ml"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un tubo de ensayo, un vaso de precipitado de 50 ml y un mechero"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 35,
+            "enunciado": "De acuerdo con el procedimiento, la reacción que se debe llevar a cabo para la producción de nitrobenceno es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 34,
+            "enunciado": "En el laboratorio, un estudiante cuenta con los instrumentos que aparecen en el recuadro.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

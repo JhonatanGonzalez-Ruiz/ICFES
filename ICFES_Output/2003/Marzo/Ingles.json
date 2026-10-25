@@ -1,0 +1,1192 @@
+{
+    "archivo_origen": "Ingles.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Ingles",
+    "total_paginas": 7,
+    "total_preguntas_detectadas": 47,
+    "preguntas": [
+        {
+            "numero": 71,
+            "enunciado": "A zoo guide is describing and comparing some animals for a tourist group. He is saying:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "A hippo is heavier and bigger than a panda bear."
+                },
+                {
+                    "letra": "B",
+                    "texto": "A hippo is more heavy and big than a panda bear."
+                },
+                {
+                    "letra": "C",
+                    "texto": "A hippo is he aviest and biggest than a panda bear."
+                },
+                {
+                    "letra": "D",
+                    "texto": "A hippo is more heavier and big than a panda bear."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 72,
+            "enunciado": "John has been reading about mountains in his encyclopaedia. He learned that",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Mount Aconcagua is the most high mountain in America."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Mount Aconcagua is the highest mountain in America."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Mount Aconcagua is the higher mountain in America."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Mount Aconcagua is the more high mountain in America."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 73,
+            "enunciado": "Steve is talking to a friend about the first thing he normally does as soon as he gets home.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "I turn on frequently the TV right after I get home from work."
+                },
+                {
+                    "letra": "B",
+                    "texto": "I turn on the TV right after I frequently get home from work."
+                },
+                {
+                    "letra": "C",
+                    "texto": "I turn on the TV right after I get home from work frequently."
+                },
+                {
+                    "letra": "D",
+                    "texto": "I frequently turn on the TV right after I get home from work."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 74,
+            "enunciado": "When Charles and Vicky were asked about Jack,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "they said they hadn´t seen Jack for a long time."
+                },
+                {
+                    "letra": "B",
+                    "texto": "they say they hadnt seen Jack for a long time."
+                },
+                {
+                    "letra": "C",
+                    "texto": "they told they hadnt seen Jack for a long time."
+                },
+                {
+                    "letra": "D",
+                    "texto": "they tell they hadnt seen Jack for a long time."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 75,
+            "enunciado": "Peggy and Michael are talking about restrictions on smoking in public places.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "In recent years, more and more public places have been restricted smoking."
+                },
+                {
+                    "letra": "B",
+                    "texto": "More and more public places have been restricted smoking in recent years."
+                },
+                {
+                    "letra": "C",
+                    "texto": "More and more public places in recent years have been restricting smoking."
+                },
+                {
+                    "letra": "D",
+                    "texto": "In recent years, more and more public places have been restricting smoking. --- PAGINA 2 --- AC - 051 - 100 I 25"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 76,
+            "enunciado": "An alien at a Beauty Parlor According to the picture",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "he is friendly, and they are astonished."
+                },
+                {
+                    "letra": "B",
+                    "texto": "he is confused, and they are frightened."
+                },
+                {
+                    "letra": "C",
+                    "texto": "they are frustrated, and he is embarrassed."
+                },
+                {
+                    "letra": "D",
+                    "texto": "they are disgusted, and he is charming. Mrs. Parkers at the market. According to the picture,"
+                },
+                {
+                    "letra": "A",
+                    "texto": "the man is buying fruit when Mrs. Parkers wallet falls on the ground. The man picks it up and delivers it to a police officer."
+                },
+                {
+                    "letra": "B",
+                    "texto": "the man is helping Mrs. Parker choose some fruit when she notices her wallet is being picked up by a police officer. The man catches him."
+                },
+                {
+                    "letra": "C",
+                    "texto": "the man isnt buying fruit. He is taking Mrs. Parkers wallet. The man runs away, but a police officer pursues and catches him."
+                },
+                {
+                    "letra": "D",
+                    "texto": "the man is looking at Mrs. Parkers wallet and takes it. Then Mrs. Parker pursues him until she finds a police officer."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 77,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 78,
+            "enunciado": "Judy was in a department store. These are some of the objects that she bought: These objects are made of:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "steel, leather, and wood."
+                },
+                {
+                    "letra": "B",
+                    "texto": "steel, silk, and wood."
+                },
+                {
+                    "letra": "C",
+                    "texto": "wood, leather, and silver."
+                },
+                {
+                    "letra": "D",
+                    "texto": "steel, cotton, and leather. INTERPRETACIÓN DE GRÁFICAS El enunciado o las opciones en estas preguntas son gráficas o dibujos. Usted debe escoger entre las opciones la oración que describa, interprete o responda a la gráfica del enunciado, o la gráfica que corresponda a la descripción dada en el mismo. --- PAGINA 3 --- AC - 051 - 100 I 26"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 79,
+            "enunciado": "Mike is cooking dinner He might be",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "crying because he cut his finger."
+                },
+                {
+                    "letra": "B",
+                    "texto": "shouting because the food burnt."
+                },
+                {
+                    "letra": "C",
+                    "texto": "moaning because he burnt his finger."
+                },
+                {
+                    "letra": "D",
+                    "texto": "screaming because the dog bit his finger."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 80,
+            "enunciado": "Ralph is at a restaurant and he has been waiting for a long time. According to the picture,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "he seems to be anxious, and she is desperate."
+                },
+                {
+                    "letra": "B",
+                    "texto": "he seems to be resigned, and she is cool."
+                },
+                {
+                    "letra": "C",
+                    "texto": "she is annoyed, and he seems to be serene."
+                },
+                {
+                    "letra": "D",
+                    "texto": "she is worried, and he seems to be upset. TEXTOS INCOMPLETOS El enunciado de estas preguntas es un texto con espacios en blanco numerados, cada número corresponde a una pregunta. Usted debe leer detenidamente el texto y escoger la opción que en cada pregunta lo complete en forma lógica y coherente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 81,
+            "enunciado": "83. 1992 marked the 500th (81) of Christopher Columbus discovery of the New World. Many people do not know that other explorers came to North America before Columbus. However, these (82) explorations do nothing to diminish the fact that when Colombus landed in the Bahamas and (83) to report his discoveries, he opened the North and South American continents to further exploration and eventual settlement.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 81,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "centenary"
+                },
+                {
+                    "letra": "B",
+                    "texto": "anniversary"
+                },
+                {
+                    "letra": "C",
+                    "texto": "celebration"
+                },
+                {
+                    "letra": "D",
+                    "texto": "birthday 82"
+                },
+                {
+                    "letra": "A",
+                    "texto": "following"
+                },
+                {
+                    "letra": "B",
+                    "texto": "earlier"
+                },
+                {
+                    "letra": "C",
+                    "texto": "previously"
+                },
+                {
+                    "letra": "D",
+                    "texto": "later 83"
+                },
+                {
+                    "letra": "A",
+                    "texto": "arrived at"
+                },
+                {
+                    "letra": "B",
+                    "texto": "came from"
+                },
+                {
+                    "letra": "C",
+                    "texto": "moved out"
+                },
+                {
+                    "letra": "D",
+                    "texto": "went back --- PAGINA 4 --- AC - 051 - 100 I 27 CONSTRUCCIÓN DE PÁRRAFOS En el enunciado de estas preguntas se presentan varias oraciones numeradas y en las opciones aparece el orden de éstas para construir un párrafo. Usted debe leer cuidadosamente el enunciado, organizar las oraciones en forma lógica y coherente, y escoger la opción que contenga el orden correcto."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 87,
+            "enunciado": "Valerie is talking to her friend Bob about her uncle Alan",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "He has been doing the same job for nearly 40 years,",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "I was a girl. So he hasnt changed much.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "and he has been driving the same car since",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "My uncles been living in the same house since the 50s.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2,1,3,4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "4,3,1,2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2,4,1,3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4,1,3,2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 88,
+            "enunciado": "Sue will be home late and has left a note for her husband about things she wants him to do:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "and my jacket at the dry cleaner?",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "Ill be home late tonight.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Will you please pick up the children at school,",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "Dont wait for me because",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2,3,4,1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "3,4,1,2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4,2,3,1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3,2,1,4 DIÁLOGOS INCOMPLETOS En estas preguntas el enunciado es un diálogo incompleto. Usted debe escoger la opción que complete el diálogo en forma lógica y coherente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 89,
+            "enunciado": "Al is in his bedroom when his mother arrives. Mother: What are you doing, Al? Al: Im listening to music. Mother: You have Math and German tests tomorrow. Al: I know. . Math is easy, and Im listening to a German song. Mother: Al!",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "I really have to study."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Anyway, I dont like exams."
+                },
+                {
+                    "letra": "C",
+                    "texto": "But I dont need to study."
+                },
+                {
+                    "letra": "D",
+                    "texto": "I think exams are difficult. The happiest person in England today is a professional, married man (84) lives in the southern part of the country. He owns a comfortable house and (85) two cars. He has a steady job in an office in London. (86) a hard day at work, he relaxes in front of the television and watches a video with his two children."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "which"
+                },
+                {
+                    "letra": "B",
+                    "texto": "whose"
+                },
+                {
+                    "letra": "C",
+                    "texto": "where"
+                },
+                {
+                    "letra": "D",
+                    "texto": "who"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 85,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "has"
+                },
+                {
+                    "letra": "B",
+                    "texto": "having"
+                },
+                {
+                    "letra": "C",
+                    "texto": "have"
+                },
+                {
+                    "letra": "D",
+                    "texto": "had"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 86,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Then"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Later"
+                },
+                {
+                    "letra": "C",
+                    "texto": "After"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Next"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "86 --- PAGINA 5 --- AC - 051 - 100 I 28",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 94,
+            "enunciado": "96",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 92,
+            "enunciado": "Sara is reading a magazine about health and nutrition which gives advice about how to be healthy and keep your skin free of acne. It Says that",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "you should put on make up. You shouldnt clean your face everyday."
+                },
+                {
+                    "letra": "B",
+                    "texto": "you should wash your face carefully. You shouldnt eat candy."
+                },
+                {
+                    "letra": "C",
+                    "texto": "you should do more exercise. You shouldnt sleep in the afternoon."
+                },
+                {
+                    "letra": "D",
+                    "texto": "you should eat chips everyday. You shouldnt drink pop and coffee. COMPRENSIÓN DE SITUACIONES En el enunciado de estas preguntas se plantea una situación. Usted debe leer cuidadosamente la situación planteada y escoger la opción que la complete en forma lógica y coherente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 93,
+            "enunciado": "Your boss is very busy and you need to talk to him. You insist on talking to him without letting him know. The secretary might suggest:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "You shouldn´t be kind."
+                },
+                {
+                    "letra": "B",
+                    "texto": "You shouldn´t disturb him."
+                },
+                {
+                    "letra": "C",
+                    "texto": "You shouldn´t be patient."
+                },
+                {
+                    "letra": "D",
+                    "texto": "You shouldn´t have lunch with him. COMPRENSIÓN DE TEXTOS En esta parte de la prueba se formulan varias preguntas a partir de un texto. Usted debe leer cuidadosamente el texto y elegir la opción que corresponda a la pregunta formulada. The story of Santa Claus began with a kind bishop named Saint Nicholas. He lived during the fourth century in what is now Turkey. He often gave presents to children and poor people in secret. One day he heard about three young sisters. They were poor, lived alone, and had nothing to eat. So he climbed up on their roof, and dropped three bags of gold down their chimney. The legend of this good saint and his generosity grew. Now, children believe that Santa Claus lives at the North Pole with his wife and his reindeer. This friendly old man wears a red coat and black boots, and has a long white beard. Over the centuries he has come to be considered magical and a symbol of Christmas time."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 91,
+            "enunciado": "Lucy is going to travel to Moscow. Now she is arranging her luggage. Lucy: Have you seen my passport? Mark: Your passport? ______________ I saw it in the drawer last night. Lucy: But it´s not there. Mark: Did you already look in your pocket diary? Lucy: (she takes her pocket diary out.) Let´s see. Yes, it´s here! Thank you.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Where on earth can it be?"
+                },
+                {
+                    "letra": "B",
+                    "texto": "It can be on the night table."
+                },
+                {
+                    "letra": "C",
+                    "texto": "You are joking, aren´t you?"
+                },
+                {
+                    "letra": "D",
+                    "texto": "It´s time for you to go. Hurry up!"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 90,
+            "enunciado": "Maggie and Anna live in an apartment and they have a dog as a pet. It´s Sunday morning and they are in their apartment. Maggie: I´m bored. Anna: Well, it´s a lovely day. Why don´t we take the dog for a walk? Maggie: I´m too tired. Anna: You need to go out! ____________ Maggie: Oh no! I´d prefer doing anything but going out.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Let´s go shopping!"
+                },
+                {
+                    "letra": "B",
+                    "texto": "How awful for you!"
+                },
+                {
+                    "letra": "C",
+                    "texto": "What about watching TV?"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Try not to worry. --- PAGINA 6 --- AC - 051 - 100 I 29"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 97,
+            "enunciado": "99 WRITE LETTERS The pen is mightier than the sword, they say; so why not use it? Write to packaging manufacturers and ask them to forgo CFCs and excess packaging on items you buy regularly. Write to manufacturers of canned goods and ask them to remove the sugar. Write to paper suppliers and ask them to produce unbleached and recycled paper.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 97,
+            "enunciado": "In the text, the underlined word it refers to:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "The pen"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Letters"
+                },
+                {
+                    "letra": "C",
+                    "texto": "The sword"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Items"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 98,
+            "enunciado": "In the text, the underlined word regularly means",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Only"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Rarely"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Frequently"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Lately"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 99,
+            "enunciado": "In the text, the words canned goods mean:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Plastic goods"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Dog food"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Metal goods"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Tinned food"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 96,
+            "enunciado": "According to the reading, this is",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "an account about stories of people at Christmas time."
+                },
+                {
+                    "letra": "B",
+                    "texto": "a summary of events about Santa Claus life."
+                },
+                {
+                    "letra": "C",
+                    "texto": "a tale about anecdotes of people at Christmas time."
+                },
+                {
+                    "letra": "D",
+                    "texto": "an abstract of Santa Claus and his friends lives."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 95,
+            "enunciado": "An important idea that could be taken from the reading is:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "For many years Santa Claus has helped people, and he became important around the world in this era."
+                },
+                {
+                    "letra": "B",
+                    "texto": "For a few years Santa Claus has been considered a magician because he flies over the roofs."
+                },
+                {
+                    "letra": "C",
+                    "texto": "For a few years Santa Claus has given presents to poor people, so that they will consider him a generous man."
+                },
+                {
+                    "letra": "D",
+                    "texto": "For many years people have thought Santa Claus is a kind man for his generosity at Christmas."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "A proper title for this reading would be: A Santa Claus and Christmas beliefs.",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "B",
+                    "texto": "Christmas traditions and Santa Claus stories."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Traditional stories at Christmas time."
+                },
+                {
+                    "letra": "D",
+                    "texto": "History of, and beliefs about Santa Claus. --- PAGINA 7 --- AC - 051 - 100 I 30"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 103,
+            "enunciado": "The underlined word they refers to:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "people"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1950s"
+                },
+                {
+                    "letra": "C",
+                    "texto": "lyrics"
+                },
+                {
+                    "letra": "D",
+                    "texto": "songs"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 104,
+            "enunciado": "The underlined word spectrum can be replaced by:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "community"
+                },
+                {
+                    "letra": "B",
+                    "texto": "troop"
+                },
+                {
+                    "letra": "C",
+                    "texto": "group"
+                },
+                {
+                    "letra": "D",
+                    "texto": "quality"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 105,
+            "enunciado": "The underlined word merged means the same as:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "marked"
+                },
+                {
+                    "letra": "B",
+                    "texto": "joined"
+                },
+                {
+                    "letra": "C",
+                    "texto": "emerged"
+                },
+                {
+                    "letra": "D",
+                    "texto": "divided"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 102,
+            "enunciado": "The most appropriate title for this text is:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Summer Vacation"
+                },
+                {
+                    "letra": "B",
+                    "texto": "A Natural Park"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Western Places"
+                },
+                {
+                    "letra": "D",
+                    "texto": "A Luxurious City"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 101,
+            "enunciado": "The underlined expression Let yourself be enchanted by landscapes means:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Let yourself be motivated by amusement buildings."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Let yourself be attracted by splendid views."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Let yourself be unhappy to see a paradise."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Let yourself be anxious to take photographs. It is time to get away! Let yourself be enchanted by landscapes where clear, blue waters catch the light of green hills and red rocks. Take in the clean, fresh air; enjoy the unusual; walk through boutiques, museums, galleries and amusement parks, or simply relax as time passes peaceful by... The provinces resorts offer all this, and more."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 100,
+            "enunciado": "According to the text:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "You usually visit provincial resorts."
+                },
+                {
+                    "letra": "B",
+                    "texto": "You are going to hate our provinces resorts."
+                },
+                {
+                    "letra": "C",
+                    "texto": "You are marvellous for provinces resorts."
+                },
+                {
+                    "letra": "D",
+                    "texto": "You can be marvelled by provinces resorts."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 100,
+            "enunciado": "102",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 103,
+            "enunciado": "105 In the early 1950s rock and roll radically changed the way people thought about music. Before that time, songs were generally popular because they appealed to a broad spectrum of people, and the music and lyrics were more important than the individuals who perfomed them. Rock and roll merged the music and the performer and aimed itself at a young audience teenagers. In writing and performing songs that spoke specifically to teenagers, Chuck Berry, a black rhythm and blues musician from St. Louis, helped invent rock and roll.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

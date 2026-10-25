@@ -1,0 +1,1124 @@
+{
+    "archivo_origen": "Biologia.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Biologia",
+    "total_paginas": 11,
+    "total_preguntas_detectadas": 47,
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "Según la información suministrada el mejor color para comunicarse de noche mediante ban- deras sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "azul"
+                },
+                {
+                    "letra": "B",
+                    "texto": "rojo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "amarillo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "verde"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "La percepción del color depende de las dife- rencias en la actividad nerviosa (número de im- pulsos nerviosos por segundo) entre los tres ti- pos de conos (ver figura 2). Así, el color amarillo se percibe cuando los conos tipo 2 presentan la actividad máxima, mientras que los conos tipo 1 presentan una actividad algo inferior y los conos tipo 3 presentan una actividad muy baja. En algunas formas de la enfermedad conocida como daltonismo, las personas carecen de co- nos funcionales del tipo 2. Según la figura, esta anomalía tendría como consecuencia que las per- sonas podrían ser incapaces de distinguir los co- lores",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "verdes de los naranjas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "azules de los verdes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "azules de los amarillos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "naranja de los rojos --- PAGINA 2 --- 3 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 3,
+            "enunciado": "La mayor parte de los reptiles dependen de la temperatura ambiental para regular su temperatura corporal, por lo que su producción de calor es baja y su metabolismo lento. Por otro lado los mamíferos no dependen de la temperatura ambiental para regular su temperatura corporal. Teniendo en cuenta esta diferencia usted pensaría que los",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mamíferos presentan una menor cantidad de mitocondrias en sus células en comparación con los reptiles"
+                },
+                {
+                    "letra": "B",
+                    "texto": "reptiles presentan una menor cantidad de mitocondrias en sus células en comparación con los mamíferos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mamíferos presentan una menor cantidad de ribosomas en sus células en comparación con los reptiles"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reptiles presentan una menor cantidad de ribosomas en comparación con los mamíferos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 4,
+            "enunciado": "Dos polillas macho ( A y",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "B",
+                    "texto": "que buscan aparearse con una hembra se desplazan a lo largo de las rutas señaladas por las flechas. Sólo la polilla A tiene éxito, sugiriendo con esto que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "los machos prefieren aparearse con las hembras que se encuentran más cerca"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los machos siguen olores que emiten las hembras"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los machos prefieren el camino más corto para llegar a una hembra"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las hembras prefieren machos capaces de recorrer distancias más largas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 5,
+            "enunciado": "El siguiente árbol muestra la herencia de una enfermedad que afecta el funcionamiento del riñón en humanos A partir de este árbol puede pensarse que la herencia de la enfermedad",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "depende de un alelo de tipo dominante"
+                },
+                {
+                    "letra": "B",
+                    "texto": "está ligada al sexo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "está ligada al sexo y depende de un alelo recesivo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no está ligada al sexo y depende de un alelo recesivo --- PAGINA 3 --- 4 AC - 004 - 112 I RESPONDA LAS PREGUNTAS 6 Y 7 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Los niveles de azúcar en un organismo son re- gulados por las hormonas insulina y glucagón. Mientras una de ellas estimula el almacenamien- to de la glucosa en los tejidos la otra promueve su movilización. El siguiente gráfico muestra los resultados de mediciones de la concentración de estas hormonas con respecto a la cantidad de glucosa en sangre realizadas a un paciente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "De este gráfico es posible deducir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la insulina actúa incrementando el nivel de glucagón en la sangre"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el glucagón aumenta el nivel de insulina en la sangre"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la insulina aumenta al incrementarse los niveles de glucosa sanguínea"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el glucagón aumenta al incrementarse los niveles de glucosa sanguínea"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 7,
+            "enunciado": "Una persona ingiere un almuerzo rico en pro- teínas y lípidos pero sin carbohidratos. Tres ho- ras después de almorzar asiste a su entrenamien- to de fútbol. Considerando la información obtenida en las preguntas anteriores puede pensarse que en esta persona",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los niveles de insulina aumentan antes de almorzar, porque de esta manera puede almacenar la glucosa de la comida ante- rior que luego será necesaria para el en- trenamiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los niveles de glucagón aumentan al almor- zar para permitir que los carbohidratos se liberen y de esta forma la persona obtiene la energía que necesitará para entrenar 3 horas más tarde"
+                },
+                {
+                    "letra": "C",
+                    "texto": "al comenzar el entrenamiento, los niveles de glucagón aumentarán para permitir que la energía almacenada en los tejidos pue- da ser liberada"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los niveles de insulina se elevan al comen- zar el entrenamiento para estimular la pro- ducción de energía almacenada CONTESTE LAS PREGUNTAS 8 Y 9 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El sistema inmune de los vertebrados contiene células especializadas para reconocer la presen- cia de antígenos (cuerpos extraños) que logren entrar al organismo. Estas células inmunitarias, denominadas B ó T, poseen una alta diversidad de proteínas en sus membranas que les permi- ten reconocer los antígenos. Cuando alguna de estas células reconoce un antígeno, esta célula experimenta un proceso denominado selección clonal, es decir, se divide por mitosis y produce un gran número de células genéticamente igua- les. En un experimento se inyecta a un ratón dos antígenos en momentos diferentes y se observa la respuesta inmune mostrada en la siguiente gráfica"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 8,
+            "enunciado": "De acuerdo con toda esta información, usted podría suponer que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el antígeno A es más peligroso para el or- ganismo que el antígeno B y por eso ge- nera una segunda respuesta más fuerte"
+                },
+                {
+                    "letra": "B",
+                    "texto": "entre más tiempo ocurra desde la inyec- ción del antígeno, mayor debería ser el nú- mero de clones de células inmunitarias pro- ducidas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el antígeno B no provocó la clonación de las células inmunitarias, como si ocurrió con el antígeno A"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la segunda respuesta del organismo al an- antígeno A es mayor por la persistencia en el tiempo de algunos clones de células inmunitarias anti A --- PAGINA 4 --- 5 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 9,
+            "enunciado": "Según la gráfica inicial, la forma en que res- pondería el sistema inmune ante una nueva ino- culación con los antígenos A y B sería",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 10,
+            "enunciado": "Las plantas al igual que los animales pue- den adaptarse a diferentes condiciones ambien- tales. Un investigador observa dos plantas A y B de la misma especie que viven en áreas cuyas condiciones ambientales son diferentes. En la tabla se resumen las observaciones que el inves- tigador realizó: Gracias a la información obtenida en varias in- vestigaciones, se sabe que la profundidad de las raíces, la posición de los estomas y la densidad de pelos en la planta son características que, para esta especie varían como respuesta a las condi- ciones climáticas. Con respecto al color de las hojas se cree que éste no varía como respuesta a las condiciones ambientales es decir, plantas de hojas verdes tendrán descendencia de hojas verdes en cualquier ambiente. Para comprobar esta hipótesis, el investigador puede hacer varias cosas:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "lograr líneas puras de cada una de las cla- ses A y B para cruzarlas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "realizar cruces con material colectado en el campo sin establecer líneas puras",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "realizar los cruces en condiciones ambien- tales controladas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "realizar los cruces en ambas condiciones ambientales De estas opciones usted pensaría que la com- binación más adecuada sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 y 3"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 y 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 y 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 y 4 A A T N A L P B A T N A L P s ajo h s al e d r olo C o r u c s o e d r e V e d r e V s e cia r s al e d d a d id n u f o r P s a d n u f o r p y u M a d n u f o r p o c o P s a m o ts e s ol e d n ó icis o P s o d id n u H s ela icifr e p u S al n e s ole p e d d a d is n e D a tn alp a tl A aja B"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 11,
+            "enunciado": "La digestión de alimentos vegetales es más compleja que la de alimentos de origen animal. Al observar la longitud del intestino de renacuajos de dos especies se observó que el de la especie 1 es más larga que el de la especie 2. A partir de esta información se podría pensar que posiblemente los renacuajos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "de la especie 1 son carnívoros y los de la especie 2 herbívoros"
+                },
+                {
+                    "letra": "B",
+                    "texto": "de ambas especies son carnívoros"
+                },
+                {
+                    "letra": "C",
+                    "texto": "de la especie 1 son herbívoros y los de la especie 2 carnívoros"
+                },
+                {
+                    "letra": "D",
+                    "texto": "de ambas especies son herbívoros --- PAGINA 5 --- 6 AC - 004 - 112 I CONTESTE LAS PREGUNTAS 13 Y 14 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En algún lugar del bosque húmedo amazónico existía una población de ranas de cierta especie. Debido a un fuerte cambio climático comenzó una sequía prolongada que redujo la extensión del bosque húmedo y lo fragmentó en áreas muy separadas entre sí. Como consecuencia de lo anterior, el grupo de ranas quedó dividido en gru- pos más pequeños, cada uno de los cuales habi- taba un fragmento diferente y separado del bos- que."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "Respecto a estos grupos, se podría supo- ner que, inmediatamente después de haber ocu- rrido la separación",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se formaron poblaciones diferentes de ra- nas, que presentan separación de sus hábitats"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se formaron poblaciones diferentes de ra- nas que empezaron a cambiar sus carac- terísticas físicas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se mantuvo la misma población de ranas que no presentó aislamiento reproductivo entre los grupos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se mantuvo la misma población de ranas que conservó las características de la po- blación original"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 12,
+            "enunciado": "En muchos lugares los campesinos permi- ten la presencia de algunas especies de cule- bras en sus propiedades, porque éstas prestan un servicio como controladores de plagas. En la tabla se muestra el resultado de las observacio- nes hechas en un cultivo de trigo, en el cual se han utilizado culebras para controlar el tamaño de una población de ratas Entre las siguientes, la gráfica que mejor repre- senta la variación en las poblaciones de ratas y culebras en este cultivo es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 14,
+            "enunciado": "Después de algunos cientos de años, los individuos de uno de los fragmentos de bosque eran tan diferentes a los individuos de los otros fragmentos que fueron considerados como una especie nueva. Tal cambio en sus característi- cas probablemente se debió a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "siempre que existe una separación geo- gráfica entre grupos de individuos de una especie, uno de los grupos origina una nue- va especie"
+                },
+                {
+                    "letra": "B",
+                    "texto": "algún cambio ambiental ocasionó que los individuos con ciertas características se vieran favorecidos y transmitieran éstas a nuevas generaciones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "todos los individuos del grupo se cruzaron con individuos de otras especies de ranas por lo que adquirieron características nue- vas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ciertos individuos desarrollaron durante su vida características ventajosas y las trans- mitieron a las nuevas generaciones --- PAGINA 6 --- 7 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 16,
+            "enunciado": "Para mejorar el cultivo artificial de una es- pecie de flores de alto valor comercial se han escogido y mantenido los caracteres más favo- rables durante su producción y mantenimiento. Este proceso conocido como selección artificial luego del cultivo de varias generaciones, proba- blemente hará que dicha especie de plantas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "obtenga un alto valor de supervivencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "erradique definitivamente sus plagas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "reduzca su variabilidad genética"
+                },
+                {
+                    "letra": "D",
+                    "texto": "disminuya su productividad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Una asociación entre organismos de dos especies diferentes se denomina simbiosis. Si una de las especies se perjudica en la relación esta simbiosis se llama parasitismo y si las dos se benefician mutualismo. Los siguientes consti- tuyen ejemplos de este tipo de relaciones",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "un insecto que poliniza una planta y a la vez consume su néctar",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las pulgas que viven en un perro",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "las amebas que los seres humanos tene- mos en el intestino De acuerdo con lo planteado, podría decirse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 es un ejemplo de mutualismo y 2 y 3 de parasitismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 y 2 son ejemplos de mutualismo y 3 de parasitismo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 y 3 son ejemplos de mutualismo y 1 de parasitismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3 es un ejemplo de mutualismo y 1 y 2 de parasitismo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 17,
+            "enunciado": "Consultando sobre la posibilidad de utilizar algunas especies de aves nativas para controlar una plaga de insectos en un cultivo, un biólogo presentó el siguiente resultado sobre las aves presentes en los alrededores del cultivo Podríamos decir que para resolver el problema de la plaga, la información es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "suficiente, porque lo más importante es conocer qué aves frecuentan la misma altura del cultivo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "insuficiente, porque no todas las aves que frecuentan la misma altura del cultivo pueden alimentarse de los insectos que conforman la plaga"
+                },
+                {
+                    "letra": "C",
+                    "texto": "insuficiente, porque sólo conociendo el tamaño de la población de las especies de aves se sabrá que medida tomar"
+                },
+                {
+                    "letra": "D",
+                    "texto": "suficiente, porque si escogemos algunas especies de cada altura tendremos más proba- bilidad de controlar la plaga s e v A e d o p i T s e i c e p s e e d o r e m ú N .ct e ,s o r ol,s e n a c u t :) s elo b r á e d a p o c ( le s o D e d s e v A 5 4 .ct e ,s e d a d elo s ,s o r e tn ip r a c s o r ajá p : e u q s o b le d a id e m a r u tla e d s e v A 0 4 .ct e , e tn o m e d s a n illa g ,s o r e h c a r a c u c : ole u s le d s e v A 8 1 .ct e ,s olu h c ,s a n ir d n olo g : o d in e ts o s o e n alp o /y ole u v e d s e v A 7"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 18,
+            "enunciado": "La siguiente figura, evidencia la morfología si- milar de algunos mamíferos placentarios com- parados con algunos marsupiales. Todos los marsupiales están más relacionados entre sí que con cualquier placentario y viceversa, lo que impli- ca para ambos grupos antecesores inmediatos di- ferentes. Teniendo en cuenta lo anterior, el parecido entre parejas de marsupiales y placentarios puede ser explicado, porque el ambiente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ha favorecido la existencia de genotipos idén- ticos y fenotipos similares"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ha favorecido la existencia de fenotipos simi- lares aunque los genotipos sean distintos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "homogeniza los fenotipos de todos los orga- nismos y consecuentemente los genotipos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "homogeniza los genotipos de todos los orga- nismos y consecuentemente los fenotipos --- PAGINA 7 --- 8 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 19,
+            "enunciado": "En los desiertos, la tasa de fotosíntesis es mucho mayor en la época de lluvia que en el res- to del año. Para los grandes animales de saba- na, la falta de alimento durante la época seca produce el descenso en el tamaño de sus pobla- ciones. Para las plantas epifitas es decir las que viven sobre otras plantas, la existencia del espa- cio en las ramas y troncos de los árboles es in- dispensable para asegurar la dispersión de sus semillas para crecer exitosamente en nuevos lu- gares. De lo mencionado anteriormente, podría- mos decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el alimento es el único factor limitante en el desarrollo de cualquier ser vivo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "debido a la complejidad de la naturaleza, cualquier recurso escaso puede ser reem- plazado por otro"
+                },
+                {
+                    "letra": "C",
+                    "texto": "todos los recursos son igualmente impor- tantes y cuando alguno de estos escasea, cualquier proceso se detiene"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la escasez de ciertos elementos limita al- gunos procesos que se dan en plantas y animales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 20,
+            "enunciado": "A medida que aumentó la población Colom- biana y se requirió más espacio para asenta- mientos humanos, la gente se fue desplazando hacia las áreas boscosas, reemplazando así la vegetación nativa por cultivos y pastos para el ganado. Como resultado las grandes extensio- nes de bosque se dividieron en fragmentos pe- queños, separados entre sí. Los grandes carnívoros del bosque como jagua- res, tigres y águilas realizan grandes desplaza- mientos diariamente en busca de presas gene- ralmente difíciles de encontrar. El hecho frecuente de que estos animales visiten fincas con anima- les domésticos para alimentárse de ellos, luego de que ha ocurrido la fragmentación de un bos- que como causa de las actividades humanas, se puede atribuir a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sus presas naturales desaparecen, que dando los depredadores sin recursos ali- menticios"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el tamaño de las poblaciones de sus pre- sas disminuye haciendo difícil su búsque da"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el tamaño de sus presas disminuye por que disminuye la cantidad de recursos ali- menticios"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tamaño de las poblaciones de sus pre- sas aumenta, pero su búsqueda se hace más difícil por la alteración del aspecto del bosque CONTESTE LAS PREGUNTAS 21 Y 22 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En cierta región los tramos bajos de los ríos cre- cen e inundan el área circundante durante 6 o 7 meses al año. El nivel del agua se eleva hasta 10 metros dejando totalmente sumergida la vegeta- ción baja del bosque. Las aguas se expanden hasta 20 km selva adentro por ambos lados del cauce. La crecida de los ríos reúne las especies del suelo con las que viven en los árboles, pues los artrópodos y algunos vertebrados del suelo migran hacia arriba para escapar de la inunda- ción."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 21,
+            "enunciado": "Si en las siguientes figuras, cada óvalo re- presenta el nicho general de cada grupo de or- ganismos, entonces, la figura que mejor ilustra la situación descrita durante una inundación sería.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 22,
+            "enunciado": "La información que mejor concuerda con su respuesta anterior es que durante la inunda- ción en la parte alta del bosque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se relaja la presión de predación y los dos grupos de organismos utilizan de manera diferente los recursos por lo que hay muy poca competencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hay una mayor presión de predación y los dos grupos de organismos utilizan de ma- nera diferente los recursos, restringiendo su espacio, por lo que hay muy poca com- petencia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "hay una mayor presión de predación y una fuerte competencia por los recursos como el espacio y los alimentos que son restrin- gidos en esta zona"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se relaja la presión de predación y hay una fuerte competencia por los recursos como el espacio y los alimentos que son restrin- gidos en esa zona --- PAGINA 8 --- 9 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "En un organismo multicelular que se repro- duce sexualmente; luego de la unión de las célu- las sexuales que lo originan; las células no sexua- les comienzan a reproducirse rápidamente hasta organizarse para conformar los sistemas que constituyen al organismo. El proceso para la for- mación de estas células no sexuales consiste en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la unión de dos células madres con igual cantidad de información genética"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la división de una célula madre que origi- na dos células hijas con igual cantidad de información genética"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la unión de una célula padre y una célula madre con la mitad de la información ge- nética"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la división de una célula madre que origi- na dos células hijas con la mitad de la in- formación genética"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 25,
+            "enunciado": "El esquema ilustra la secuencia más probable, desde la información de un gen hasta la utiliza- ción de las enzimas (proteínas) digestivas producidas por la célula. Si el fósforo (P) que hace parte de las moléculas de ADN se marca con una sustancia radiactiva, más tarde se detectará radiactividad en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sólo en el ADN, porque ninguna parte de él pasa al citoplasma"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el ADN y el ARN, porque el ARN se forma de partes del ADN"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en las proteínas, ya que los genes contenidos en el ADN contienen la información para la síntesis de proteínas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en los lisosomas, ya que por acción de las enzimas el fósforo es liberado"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "La anemia falciforme es una enfermedad que se produce por el cambio de un sólo aminoácido en las moléculas de hemoglobina (encargadas de llevar oxígeno). En África don- de se presenta esta enfermedad, también son altos los índices de malaria, enfermedad cau- sada por un parásito que reconoce y se une a los glóbulos rojos. Curiosamente las personas que sufren de anemia falciforme no sufren de malaria, haciendo que la incidencia de personas que presentan anemia falciforme sea muy alta. La anemia falciforme podría deberse a que en poblaciones africanas se dé una mutación en el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "gen único responsable de la fabricación de los glóbulos rojos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "gen de la hemoglobina"
+                },
+                {
+                    "letra": "C",
+                    "texto": "gen del ARN de transferencia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ARN ribosomal"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 23,
+            "enunciado": "Los glóbulos rojos son células que hacen parte del tejido sanguíneo. Si a una muestra de sangre se agrega una solución salina muy con- centrada (5%), los glóbulos rojos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "estallarían debido a la absorción de agua, ya que el líquido circundante contiene menos sustancias disueltas que el líquido intracelular, por tanto el agua tiende a entrar a la célula para equilibrarse con el medio externo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "estallaría debido a la absorción de agua, ya que el líquido circundante contiene más sus- tancias disueltas que el líquido intracelular, por tanto el agua tiende a entrar a la célula para equilibrarse con el medio externo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se deshidratarían debido a la eliminación de agua, porque el líquido circundante tiene más sustancias disueltas que el líquido intracelular por tanto el agua tiende a salir de la célula tratando de equilibrarse con el medio externo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se deshidratarían debido a la eliminación de agua, porque el líquido circundante contiene menos sustancias disueltas que el líquido intracelular, por tanto el líquido tiende a salir de la célula para equilibrarse con el medio externo --- PAGINA 9 --- 10 AC - 004 - 112 I A partir de la gráfica puede deducirse que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "la actividad de la amilasa no es favorecida por la concentra- ción de almidón"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la concentración de disacáridos depende de la concentración de almidón"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la actividad de la amilasa depende de la concentración de disacáridos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la concentración de disacáridos es independiente de la con- centración de almidón"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 28,
+            "enunciado": "El marcaje radioactivo es un procedimiento utilizado para monitorear el camino que sigue un ele- mento químico dentro de un sistema biológico. Para evidenciar la fuente de oxígeno gaseoso liberado en la fotosíntesis se realizó un experimento en el que se colocaron algas unicelulares en cuatro cajas de petri que contenían dióxido de carbono y glucosa disueltos en agua. En cada caja se marcó radioactivamente el oxígeno de una o de las tres sustancias anteriores, antes de ser colocadas las algas. La sustancia que fue marcada en cada caso y los productos de la fotosíntesis obtenidos en cada caja aparecen en la siguiente tabla: Las letras encerradas en los recuadros indican la sustancia en la cual quedó localizado el oxígeno radioactivo una vez las células realizaron el proceso de fotosíntesis. Si se comparan los productos obtenidos en las diferentes cajas de petri, se puede suponer que con mayor probabilidad el oxígeno (O2) liberado en el proceso de fotosíntesis en estas algas proviene",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "del agua"
+                },
+                {
+                    "letra": "B",
+                    "texto": "del dióxido de carbono"
+                },
+                {
+                    "letra": "C",
+                    "texto": "del dióxido de carbono y el agua"
+                },
+                {
+                    "letra": "D",
+                    "texto": "de la glucosa"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "La amilasa es la enzima que descompone los almidones en azúcares dobles (disacáridos). Duran- te un experimento se mantiene constante la concentración de amilasa y se va aumentando la concentra- ción de almidón, obteniendo las siguiente gráfica. RESPONDA LAS PREGUNTAS 29 Y 30 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En el esquema anterior se representa el proceso de la respiración en presencia de oxígeno, conocida como aerobia.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 29,
+            "enunciado": "Teniendo en cuenta lo planteado, la función del organelo donde ocurre la reacción (1) es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "asimilación de CO2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "intercambio de moléculas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "producción de energía a nivel celular"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la incorporación de agua a la célula --- PAGINA 10 --- 11 AC - 004 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 30,
+            "enunciado": "Teniendo en cuenta lo anterior, se puede afirmar que la respiración celular es un proceso",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "intracelular productor de energía gracias a la oxidación de glucosa"
+                },
+                {
+                    "letra": "B",
+                    "texto": "extracelular productor de gases y agua"
+                },
+                {
+                    "letra": "C",
+                    "texto": "extracelular consumidor de energía en forma de ATP"
+                },
+                {
+                    "letra": "D",
+                    "texto": "extracelular consumidor de oxígeno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 32,
+            "enunciado": "A la información genética almacenada en el ADN que se traduce en una secuencia de aminoácidos y posteriormente en proteínas, se le conoce como CÓDIGO GENÉTICO. Su presencia en todos los organismos permite afirmar que éstos probablemente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tienen células con membranas internas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "comparten un antepasado común"
+                },
+                {
+                    "letra": "C",
+                    "texto": "producen el mismo tipo de proteínas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se reproducen sexualmente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "pared celular y cloroplastos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "gran cantidad de aparato de Golgi",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "gran cantidad de mitocondrias",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "células sin membranas internas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 5,
+            "enunciado": "gran cantidad de vacuolas II",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "célula glandular"
+                },
+                {
+                    "letra": "B",
+                    "texto": "célula bacteriana"
+                },
+                {
+                    "letra": "C",
+                    "texto": "célula vegetal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "espermatozoide e. glóbulos blancos En una evaluación de biología celular, los alumnos debían colocar la etiqueta correspondiente a cada una de las imágenes vistas al microscopio. Después de realizar las observaciones (columna I), la forma más apropiada de relacionarlas con la etiqueta (columna II) es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "1b, 2d, 3e, 4a, 5c"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1c, 2d, 3a, 4b, 5e"
+                },
+                {
+                    "letra": "C",
+                    "texto": "1c, 2a, 3d, 4b, 5e"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1a, 2e, 3c, 4b, 5d"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 33,
+            "enunciado": "La figura muestra el proceso de la mitosis, los números que faltan corresponden a las siguientes figuras --- PAGINA 11 --- 12 AC - 004 - 112 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 34,
+            "enunciado": "De los siguientes esquemas el que representaría más correctamente la interdependencia entre plantas y animales con respecto al suministro de carbohidratos, oxígeno y dióxido de carbono es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 35,
+            "enunciado": "En la tabla se indica la presencia (+) o ausencia (-) de características compartidas entre siete especies de dinosaurios. El esquema que mejor representa las relaciones filogenéticas (cladograma) entre las siete especies de dinosaurios y que es más consistente con los datos de la tabla es S O I R U A S O N I D 1 2 3 4 5 6 7 A + + + + + + + B - - - + + + + C - - - - + + + D - - - - - + + E + + + - - - - F + + - - - - - C A R A C T E R Í S T IC A S",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

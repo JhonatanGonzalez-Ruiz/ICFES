@@ -1,0 +1,1518 @@
+{
+    "archivo_origen": "Geografia.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Geografia",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 83,
+    "preguntas": [
+        {
+            "numero": 71,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 72,
+            "enunciado": "Una de las catástrofes más recordadas por los colombianos es la de Armero en 1985. Hay razones para pensar que los efectos del evento pudieron ser prevenidos, dado el conocimiento acumulado sobre la dinámica del volcán Nevado del Ruiz; conocimiento que al parecer estaba al alcance tanto de los gobernantes como de algunos habitantes. Para que los efectos del fenómeno natural no hubieran sido tan grandes se debió hacer una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "campaña por los medios de comunicación sobre los riesgos de ocupar ciertas áreas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "evacuación de los habitantes asentados en las áreas de alto riesgo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "política de ocupación del territorio que tuviera en cuenta la relación asentamientos-riesgo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "relocalización de los habitantes en las grandes ciudades donde los riesgos eran menores"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 73,
+            "enunciado": "El alcalde de un municipio prohíbe la quema de llantas y el uso de pólvora durante las festividades de fin de año, pero igualmente permite que se instale una industria que emana gases tóxicos. En esta situación el ambiente local se vería afectado, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la contaminación producida por la quema de llantas y pólvora es menor que la ocasionada por la industria"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no hay una coherencia en el manejo de la problemática de contaminación atmosférica, pues no se puede concluir que una actividad contamina más por no ser industrial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es preferible la quema de llantas y pólvora durante las festividades que la contaminación produci- da por la industria"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los ingresos por impuestos que paga la industria al municipio no alcanzan para hacer programas de reforestación y reciclaje A partir de la información de la gráfica una iniciativa para lograr controlar los niveles de contaminación sería"
+                },
+                {
+                    "letra": "A",
+                    "texto": "no permitir la circulación de más vehículos ni la apertura de nuevas industrias"
+                },
+                {
+                    "letra": "B",
+                    "texto": "reducir el uso de la electricidad y restringir la cir- culación de vehículos particulares"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mejorar e implementar controles en las emisio- nes de los vehículos y las industrias"
+                },
+                {
+                    "letra": "D",
+                    "texto": "trasladar las actividades industriales al exterior y hacer reciclaje de los desperdicios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 74,
+            "enunciado": "David Ernesto Peñas y Alberto Corradine plantean en su libro, Mompox: isla en el tiempo, que cuando el brazo de Mompox constituía el principal cauce del río Magdalena hacia la segunda mitad del siglo XVIII, la ciudad de Mompox era la tercera ciudad en importancia después de Santafé de Bogotá y Cartagena. Entre 1830 y 1860 la navegación disminuyó sustancialmente por el brazo de Mompox, pues el nivel de sedimentación del río impedia su tránsito, tomando como ruta alterna el brazo de Loba. Esta situación ocasionó en Mompox",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la conservación de sus recursos naturales y su patrimonio arquitectónico, con el objetivo de ex- plotarlos en la actividad turística"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el aislamiento del comercio regional, debilitando el auge económico de la ciudad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el incremento del número de sus habitantes y así seguir conservando la influencia que tenía en el siglo anterior"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la práctica intensiva de la agricultura campesina importando tecnología moderna, con el objetivo de remplazar las actividades económicas abandonadas --- PAGINA 2 --- 20 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 75,
+            "enunciado": "El politólogo Alejandro Reyes afirma que Colombia ha vivido en estos treinta y cinco años un avance progresivo de la guerra interna, que creció desde la periferia hacia los centros de po- der nacional. Al comienzo, los focos guerrilleros se hicieron presentes en espacios de coloniza- ción con muy poca presencia del Estado, donde impusieron un orden local y establecieron un im- puesto de guerra a la agricultura y la ganadería, el petróleo, el narcotráfico y otras fuentes de ri- queza. A partir de esta información se puede concluir que la guerrilla tuvo inicialmente como principal escenario zonas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "de la periferia urbana, ya que eran centros de miseria y abandono por parte del Esta- do"
+                },
+                {
+                    "letra": "B",
+                    "texto": "rurales, porque eran los lugares propicios donde no se ejercía vigilancia constante de las fuerzas estatales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "urbanas, ya que en éstas se podía encon- trar personas especializadas para liderar estos grupos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "rurales, porque encontraban en la pobla- ción campesina una mayor recepción de sus doctrinas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 76,
+            "enunciado": "Uno de los problemas que afronta la planeación urbana frente al manejo y distribución del agua potable es el crecimiento desordenado de la ciudad. Esto implica sobrecostos en el su- ministro de los servicios para los asentamientos ubicados fuera de la red de servicios, frente a esta problemática usted propondría soluciones como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el empalme de los proyectos de expansión urbana a largo plazo, y la proyección de las redes de distribución del acueducto y alcantarillado"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la reubicación de los asentamientos peri- féricos hacia el interior de la red urbana de distribución de acueducto y alcantarillado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el desplazamiento de los habitantes hacia las poblaciones próximas a la ciudad, con el fin de abastecer adecuadamente estos lugares"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la concesión del servicio de acueducto y alcantarillado a empresas privadas para que ellas diseñen sus propias redes de abastecimiento"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 77,
+            "enunciado": "La revolución verde, entendida como el con- junto de conocimientos científico-técnicos enca- minados a aumentar y racionalizar la producción agrícola, incentivó la aplicación de pesticidas con nuevas y más eficientes propiedades. Estas prác- ticas adoptadas en años pasados y que aún se siguen aplicando en algunas zonas provocan el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mejoramiento de la calidad de los produc- tos y la satisfacción de las necesidades alimentarias de más personas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "uso indiscriminado de agroquímicos y la pérdida de fertilidad del suelo, así como su contaminación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "control y eliminación de plagas y a su vez aumentan la fertilidad de los suelos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "desarrollo y adecuación de más tierra para la producción agroindustrial con mayor ren- tabilidad y eficacia"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 78,
+            "enunciado": "Algunas de las ciudades latinoamericanas están teniendo acelerados procesos de creci- miento, esto ha dado origen a áreas marginadas caracterizadas por la deficiencia en la prestación de servicios. Uno de los factores que ha reforza- do esta característica se relaciona con la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "administración local, la cual debe instalar las redes de servicios a toda la comunidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "organización social, ya que es ésta la que debe garantizarse los servicios básicos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "planeación, ya que ésta no ha previsto la magnitud del fenómeno en sus planes de gestión"
+                },
+                {
+                    "letra": "D",
+                    "texto": "administración pública, la cual presiona para el aumento del área urbana"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 79,
+            "enunciado": "El ozono se manifiesta en la atmósfera como una capa localizada entre los 10 y 35 kilómetros de altura aproximadamente. Esta capa protege la vida de La Tierra de las nocivas radiaciones ultravioleta, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "su mezcla con el oxígeno filtra los rayos ultravioleta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "emite radiaciones ultravioleta al espacio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "absorbe las radiaciones ultravioleta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "repele eléctricamente la radiación ultravio- leta --- PAGINA 3 --- 21 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 80,
+            "enunciado": "El esquema representa un modelo generalizado de la circulación de los vientos y de las masas de humedad en algunos valles localizados al interior de las montañas colombianas, como por ejemplo el valle del Patía (Nariño) y el valle del Chicamocha (Santander). Una consecuencia de este efecto de puente es la disminución de la capacidad hídrica de la cuenca y la presencia de una vegetación subxerofítica. Teniendo en cuenta esto, una consecuencia en términos socio-ambientales sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la generación de un déficit hídrico al interior de la cuenca provocando una restricción en la pro- ducción agrícola de la zona"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la no formación de nubes y el establecimiento de un bosque de niebla, desestimulando la activi- dad agrícola en la cuenca"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la existencia de una condición de sequía permanente haciendo que la población no desarrolle actividades agrícolas en la cuenca"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el desplazamiento de todas las actividades agrícolas e industriales hacia valles menos profundos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 81,
+            "enunciado": "Durante el período comprendido entre 1938 y 1951 el proceso de urbanización en Colombia tuvo como uno de los principales factores las migraciones. Estos desplazamientos hacia las ciudades prin- cipales se dieron, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las condiciones de vida en las ciudades eran muy similares a las de los lugares de origen"
+                },
+                {
+                    "letra": "B",
+                    "texto": "había más posibilidades para desarrollar actividades comerciales, de servicios y mejorar las condiciones económicas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las condiciones de seguridad laboral y la prestación de servicios públicos eran ideales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en este período se inició el proceso de industrialización y la política del gobierno central fomenta- ba indirectamente la migración"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 82,
+            "enunciado": "Algunos geógrafos analizan el espacio geográfico como un hecho histórico, donde el espacio mismo es social, entendiendo que no existe sociedad aespacial y que la historia no se cumple por fuera del espacio. Para tal efecto, plantean la formación socioeconómica y espacial, como una estructura productiva y técnico productiva, expresada geográficamente por una cierta distribución de las activida- des de los modos de producción, donde las formas espaciales serían un lenguaje de los modos de producción, y donde el espacio no es solamente una tela de fondo inerte y muerta. De acuerdo con los anteriores preceptos usted abordaría un estudio de carácter geográfico teniendo en cuenta",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "características bióticas, abióticas, antrópicas y su desarrollo e interacción en determinado espa- cio, con una mirada retrospectiva"
+                },
+                {
+                    "letra": "B",
+                    "texto": "elementos económicos y políticos del presente ya que éstos articulan el conjunto esencial de toda sociedad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la oferta socio-ambiental, ya que ésta determina el grado de subdesarrollo y/o desarrollo de cualquier espacio geográfico"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los acontecimientos netamente históricos que configuran las realidades espaciales hoy en día --- PAGINA 4 --- 22 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 83,
+            "enunciado": "Mafalda al relacionar el nacimiento de su padre con un lugar que ella en la actualidad identifica como sin desarrollos tecnológicos ni científicos estaría desconociendo que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "cada lugar tiene dinámicas espacio-temporales específicas, y así mismo, que la implementación técnica no es homogénea"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los lugares se desarrollan homogéneamente en un período de tiempo y que la técnica del pasado no es la misma de hoy"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Matto Grosso hace parte del desarrollo técnico mundial, y que su dinámica espacio temporal es muy activa"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la temporalidad del desarrollo técnico está determinada por el lugar de nacimiento y que Buenos Aires era igual que Matto Grosso hace 50 años"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "La región occidental de América anglosajona posee menor densidad demográfica, debido a que no ofrece condiciones ambientales óptimas para el asentamiento humano. La cercanía al polo de la parte septentrional y la improductividad de las tierras montañosas son, entre otras razones, los hechos que explican este fenómeno. Del texto se infiere que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en esta zona se encuentran ciudades turísticas, como los Angeles, que atraen más habitantes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "debido a la variedad de climas que presenta, desde el desértico hasta el glacial, a la gente no le gusta vivir allí"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las vías de comunicación son escasas y la tierra es poco apta para el cultivo y la ganadería"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los sistemas montañosos sólo llaman la atención a los escaladores y deportistas extremos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 85,
+            "enunciado": "La alteración del ciclo del agua implica, en la actualidad, un grave problema ambiental debido a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "cambia la dinámica natural y se hace necesario implantar nuevas tecnologías"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el ser humano se ha adaptado a un clima determinado lo cual limita su supervivencia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se presenta una nueva dinámica climática afectando las actividades socioeconómicas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el agua es el único recurso que permite el desarrollo de la vegetación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 86,
+            "enunciado": "Colombia es un país tradicionalmente agrícola. Actualmente las actividades agrarias afrontan innumerables problemas, dentro de los cuales se destaca que la producción agrícola ha pasado a un tercer plano en la economía nacional, situación que impide una óptima comercialización de los produc- tos del campo. La solución más inmediata y adecuada al problema de la comercialización es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "realizar campañas que promuevan la organización de cooperativas campesinas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dedicar gran parte de los ingresos nacionales a la tecnificación del campo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "realizar una reforma que permita una distribución equitativa de las tierras"
+                },
+                {
+                    "letra": "D",
+                    "texto": "crear centros de acopio y reducir las importaciones de productos del campo --- PAGINA 5 --- 23 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 87,
+            "enunciado": "El gráfico representa el período medio de vida del carbono 14, con lo cual se puede determinar de manera confiable, las edades para algunas rocas pertenecientes a épocas geológicas tales como el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Cretácico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Jurásico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Mioceno"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Cuaternario"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 88,
+            "enunciado": "En la actualidad se reconocen dos clases generales de movimientos sísmicos: los tectónicos y volcánicos. Los sismos de origen tectónico son, con diferencia, los más devastadores además plantean dificultades a los científicos que intentan predecirlos. La razón por la cual Japón y la costa occidental de los Estados Unidos son zonas de alto riesgo por sismicidad tectónica se debe a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "su ubicación en el sur del llamado cinturón de fuego del Pacífico"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la gran cantidad de población que habita estas zonas de ruptura tectónica"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la presencia de los mayores registros tectónicos en la historia de La Tierra, lo que la hace única en términos de amenaza por sismicidad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la presencia de volcanes tanto emergidos como sumergidos, los cuales generan la tectónica de placas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 89,
+            "enunciado": "Del gráfico sobre el uso del suelo en Argentina y Uruguay se puede argumentar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los bosques ocupan el mayor porcentaje del espacio, lo que indica que hay una gran explotación maderera"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las tierras mejor utilizadas son las dedicadas a la explotación maderera y a la agricultura"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las zonas dedicadas a los prados y pastos son las más extensas, porque son utilizadas para la ganadería"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los cultivos ocupan la mayor parte del suelo especialmente para abastecer a sus pobladores --- PAGINA 6 --- 24 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 90,
+            "enunciado": "Es muy común observar el espectáculo len- to y deprimente de la degradación de los suelos y de la contaminación de las aguas. Algunas ins- tituciones ambientalistas han desarrollado con- ciencia sobre la preservación del medio ambien- te, pero esto no ha sido suficiente, pues se sabe que muchas veces han primado los intereses eco- nómicos e individuales sobre los comunitarios. Una estrategia para impedir estos problemas ambientales es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "promover la construcción de centros urba- nos para evitar dicho deterioro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "incentivar asentamientos de comunidades a lo largo de los ríos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "realizar planes ecológicos con el fin de evi- tar el deterioro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "crear industrias y fomentar los monoculti- vos en las regiones"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 91,
+            "enunciado": "La geografía es la ciencia social que estu- dia los elementos, hechos y procesos que se pre- sentan en la superficie terrestre. Además, es una disciplina que sirve para conocer las carac- terísticas del lugar donde se habita, pues ella des- cribe, explica e interpreta la acción de las perso- nas sobre un espacio. La geografía nos ayuda a entender esto porque explica la relación",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "que el hombre establece con la superficie terrestre a partir de las potencialidades que el espacio le ofrece para satisfacer sus necesidades"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existente entre los seres vivos pues a és- tos se les dificulta sobrevivir unos sin otros, ya sean animales o vegetales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "que el ser humano tiene con el paisaje cul- tural pues lo trasforma para su beneficio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "existente entre todos los lugares de La Tierra que han sido afectados directamen- te por la acción del hombre"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 92,
+            "enunciado": "En los medios internacionales es cada vez mayor el temor que el conflicto colombiano so- brepase los límites fronterizos y afecte a los paí- ses vecinos. Algunos acusan a los grupos gue- rrilleros de violar las fronteras y de impulsar la creación de grupos insurgentes en su territorio aprovechando el descontento social interno. De lo anterior podemos deducir que los países limí- trofes con Colombia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ven amenazada su soberanía nacional por la guerrilla"
+                },
+                {
+                    "letra": "B",
+                    "texto": "tienen condiciones internas de conflicto social"
+                },
+                {
+                    "letra": "C",
+                    "texto": "están interesados en intervenir militarmen- te en Colombia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "quieren participar en la solución del con- flicto"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 93,
+            "enunciado": "De acuerdo con las temperaturas que se dan en el mes de julio en el mundo y según la gráfica, se puede afirmar que las mayores se presentan en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Centroamérica y Asia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Suramérica y África"
+                },
+                {
+                    "letra": "C",
+                    "texto": "África y parte de Asia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Australia y Europa PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación. --- PAGINA 7 --- 25 AC - 001 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "En Colombia, durante las últimas décadas, se ha producido un notable incremento en los índices demográficos de las ciudades. Para 1938 la población urbana representó el 29.1% de la población total, para 1973 fue del 70% y para 1993 alcanzó el 73.8%. Esta situación, ha generado un proceso acelerado de urbanización que repercute en la calidad de vida de los habitantes. Se puede inferir que dos de las principales consecuencias directas de este fenómeno demográfico en la ciudad son",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el incremento de las fábricas y la necesidad de mano de obra barata",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la población marginada en las ciudades y la carencia de servicios públicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la carencia de empleo y el aumento de la economía informal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la creación de estrategias para evitar las migraciones rurales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 95,
+            "enunciado": "El impacto negativo del hombre sobre el me- dio ambiente es a veces irreversible, pues hay más consumo de materia prima y de recursos no renovables en relación con los renovables. Ade- más se producen desechos industriales y quí- micos que contaminan el aire y las aguas, afec- tando la salud del hombre, la fauna y la flora. En nuestra nación, la opción más recomendada para preservar el medio ambiente sería",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "emplear sólo elementos biodegradables favorables para los diferentes ecosistemas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "concientizar a toda las comunidades para que no arrojen desechos en los bosques",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "prohibir el uso de elementos químicos en la producción industrial de los países",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "educar ambientalmente para que las nue- vas generaciones protejan el ambiente",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 96,
+            "enunciado": "Actualmente, el estudio de los grupos hu- manos reconoce las relaciones significativas que mantienen éstos con la región que ocupan. La poca importancia asignada a esta relación radi- ca en que la influencia de la región en los grupos humanos, no había sido analizada desde un en- foque geográfico. Ocasionalmente se había he- cho alusión al espacio territorial como símil del contorno general de los países, pero ahora se ha llegado a la conclusión de que éste ejerce un in- flujo definitivo en el desarrollo de las comunida- des humanas que lo habitan. El texto plantea que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "del territorio dependen los problemas rela- cionados con la comunicación y el trans- porte",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "lo importante es la posesión de las tierra y lo que se haga con ellas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "las relaciones humanas dependen del ám- bito geográfico en el cual se viva o habite",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la vida social y política de los individuos está íntimamente relacionada",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 97,
+            "enunciado": "El mapa ilustra una red de comercial monopolis- ta entre España y América en el siglo XVII, di- chas relaciones de movilidad generaron una se- rie de transformaciones espaciales en las costas del Caribe entre las que se destacan",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "ausencia de contrabando al interior del litoral Caribe Colombiano",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "dinámica de intercambio constante en las costas de Panamá",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "gran concentración de rutas marítimas de España y América en Cartagena",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "autonomía regional del Caribe frente al poder central de Bogotá --- PAGINA 8 --- 26 AC - 001 - 114 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 100,
+            "enunciado": "La mendicidad es un problema social y cultural que aumenta día a día y afecta a muchas ciuda- des colombianas, a la vez que genera otros problemas de diversa índole en todos los campos de la vida nacional. Se han generado algunas hipótesis sobre la causa de este fenómeno así como intentos de solución centrados en el aspecto económico pero muy pocos desde el aspecto cultural. Una alternativa para la solución de esta problemática desde el campo cultural sería la de",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "realizar procesos masivos y continuos de alfabetización a todos y cada uno de los mendigos del país",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "fomentar programas educativos que apunten hacia la especialización del trabajo cotidiano con el mendigo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "promover espacios culturales que permitan a los mendigos aportar desde su saber posibles sali- das a la problemática",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "organizar campañas nacionales y departamentales que fomenten fundamentalmente la unidad familiar",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 101,
+            "enunciado": "Teniendo en cuenta los aspectos que definen el crecimiento económico y el desarrollo, algunas de las características que presentaría un país que no se halle en dicho proceso estarían relacionadas con una",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "producción agrícola y minera muy extendida y estable ingreso percápita",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "conflictividad tanto económica como subversiva y altas tasas de mortalidad y natalidad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "producción industrial incipiente y altos índices de analfabetismo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "diferencia muy grande en la distribución del ingreso y altas tasas de desempleo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 99,
+            "enunciado": "Durante muchos años se pensó que la contaminación atmosférica era el resultado de la concentra- ción de gases industriales producidos por los países desarrollados. Sin embargo, especialistas sobre problemas del medio ambiente plantean que los países del tercer mundo también son culpables de este fenómeno, debido a las débiles medidas de control ambiental que ejercen. De lo anterior se deduce que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los países con más alta tecnología pueden ejercer controles más efectivos sobre los agentes contaminantes",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "en los países pobres se ha llevado un proceso de industrialización desorganizado y con estrate- gias legales poco efectivas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "los países pobres escasamente tienen los recursos económicos y tecnológicos para mitigar la contaminación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los países con poco desarrollo tecnológico son los que producen los índices más altos de conta- minación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 98,
+            "enunciado": "El cambio climático global está relacionado con la dinámica de los procesos naturales y la actividad humana. Esta última afecta al ambiente global en forma directa, ya sea a través de la acumulación de alteraciones locales o regionales. Dentro de los procesos que están acelerando el cambio climático global se encuentran la deforestación y la emisión a la atmósfera de gases producto de la utilización de combustibles fósiles. Una característica de éstos es que sus efectos espacio-temporales varían, pudién- dose manifestar respectivamente en",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "las regiones y sus efectos pueden ser medidos en días",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las grandes ciudades y se puede hacer un seguimiento permanente",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "todo el mundo y puede ser medido en días",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "un país y se presenta en períodos que van desde decenios hasta milenios --- PAGINA 9 --- 27 AC - 001 - 114 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 104,
+            "enunciado": "Algunas de las consecuencias del efecto de invernadero en La Tierra serían, el descontrol de la temperatura del planeta, el descongela- miento de los polos, y con esto, aumento del ni- vel del agua de los océanos. Desaparecerían las costas y archipiélagos, tendríamos noches heladas y días calurosos, con inviernos de llu- vias ácidas que afectarían las cosechas y a los animales. Una estrategia para la conservación de la atmósfera es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "propiciar la expulsión de agentes contami- nadores",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "estudiar las diferentes capas de atmósfe- ra terrestre",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "proteger el medio ambiente con programas ecológicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "evitar las concentraciones de gas carbóni- co en la atmósfera De acuerdo con el gráfico se deduce que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "algunos planetas del sistema solar son es- féricos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "nuestro planeta es redondo y tiene un mo- vimiento de traslación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "los viajes alrededor del mundo pueden ser posibles",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los buques aparecen y desaparecen en el horizonte",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 105,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 103,
+            "enunciado": "Las áreas metropolitanas se caracterizan por la consolidación de interrelaciones funciona- les, administrativas y de dependencia, integrando los municipios en una sola entidad territorial. Al- gunos efectos positivos y negativos que pueden generarse por la formación de las áreas metro- politanas podrían ser",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la descentralización equitativa de las fun- ciones que presta la gran ciudad en cada uno de los municipios adscritos al área me- tropolitana para que se beneficien directa- mente",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el incremento de las actividades producti- vas, mejores perspectivas laborales, ade- cuación de servicios públicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el aumento de la pobreza y pérdida de oportunidades laborales para los habitan- tes de cada municipio",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la pérdida de la identidad y de autonomía en cuanto al manejo de los recursos ya sean físicos o financieros en cada uno de los municipios adscritos al área metropoli- tana",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 102,
+            "enunciado": "En 1946 Mariano Ospina Pérez resulta elegido presidente de la república. Desde el ini- cio de su gobierno busca fomentar la política de Unión Nacional con la participación de liberales y conservadores. El propósito de unificar los par- tidos tradicionales no se logró por el incremento de la división bipartidista a causa del asesinato de Jorge Eliécer Gaitán en 1948. Este conflicto generó para el país",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "mayor violencia regional entre sectores li- berales y conservadores",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la creación del llamado organismo popol, de policía política",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la circulación de la violencia política inclu- so en el congreso",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la destrucción de sectores conservadores del país por parte de los liberales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

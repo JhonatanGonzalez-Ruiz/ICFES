@@ -1,0 +1,461 @@
+{
+    "archivo_origen": "Medio ambiente.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Medio Ambiente",
+    "total_paginas": 5,
+    "total_preguntas_detectadas": 15,
+    "preguntas": [
+        {
+            "numero": 126,
+            "enunciado": "Se puede afirmar que la contaminación atmosférica se debe principalmente a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la ausencia de políticas para la reducción de emisiones atmosféricas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el crecimiento desorbitado de la pobla- ción mundial"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el uso intensivo de combustibles fósiles en los últimos años"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la naturaleza tóxica y peligrosa de los con- taminantes emitidos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 129,
+            "enunciado": "Una forma de mitigar el poder contami- nante de los óxidos de nitrógeno (NOx) que se liberan fundamentalmente en el proceso de quema de combustibles fósiles, es mediante su reducción a nitrógeno molecular (N2). De las siguientes sustancias químicas la que se po- dría utilizar para propiciar esta reducción es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el dióxido de carbono (CO2)"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el metano (CH4)"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el oxígeno (O2)"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el dióxido de azufre (SO2)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 128,
+            "enunciado": "Conociendo la magnitud del problema de destrucción del ozono, cuál de las siguientes opciones contribuye en mayor medida en su so- lución y es más sostenible",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "prohibir la producción de cualquier com- puesto que en su estructura química con- lleve una molécula de cloro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "producir y liberar una mayor cantidad de ozono a la atmósfera, del que se libera actualmente en diferentes procesos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "producir y liberar a la atmósfera compues- tos que reaccionen con las moléculas de cloro y eviten la destrucción del ozono"
+                },
+                {
+                    "letra": "D",
+                    "texto": "evitar el uso de compuestos que liberen moléculas de cloro al ambiente y propen- der por su reemplazo periódico"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 127,
+            "enunciado": "El material particulado emitido por vehí- culos y chimeneas en la mayoría de los casos no supera los 10 m de tamaño y está constitui- do por finos elementos como carbón, alquitrán, resinas, polen, hongos, bacterias y otros com- puestos. El impacto sobre la salud humana aso- ciado al material particulado está dado funda- mentalmente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "por su pequeño tamaño ya que puede fil- trarse por las fosas nasales y depositar- se en los alvéolos de los pulmones"
+                },
+                {
+                    "letra": "B",
+                    "texto": "por su pequeño tamaño, debido al cual puede entrar al cuerpo a través de la piel y llegar al torrente sanguíneo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "por las transformaciones químicas que sufre cuando ingresa al organismo, libe- rando las sustancias tóxicas que lo acom- pañan"
+                },
+                {
+                    "letra": "D",
+                    "texto": "por el polen presente en el mismo, el cual es un agente biológico causante de aler- gias y afecciones para el sistema respi- ratorio superior µ --- PAGINA 2 --- 33 AC - 043 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 131,
+            "enunciado": "En 1992, durante el desarrollo de la Cumbre de Río se promulgó el Convenio Marco de las Naciones Unidas sobre Cambio Climático, que buscaba el compromiso de los países con la reduc- ción de las emisiones atmosféricas responsables del calentamiento del planeta. Los compromisos adquiridos por los estados están condicionados por sus responsabilidades \"co- munes pero diferenciadas\", lo cual significa que las responsabilidades de dichos países son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "comunes porque todos han contribuido a generar el cambio climático, diferenciadas porque cada uno lo ha hecho en diferente medida y su respuesta debe estar acorde con el grado de afectación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "comunes porque todos han contribuido al problema de cambio climático, diferenciadas porque cada uno debe responder de acuerdo con sus condiciones sociales y su capacidad económica"
+                },
+                {
+                    "letra": "C",
+                    "texto": "comunes porque el Convenio Marco de Cambio Climático obliga a todos a afrontar el problema; diferenciadas porque cada país posee medios tecnológicos diferentes para responder a éste."
+                },
+                {
+                    "letra": "D",
+                    "texto": "comunes porque aun cuando no hayan contribuido al problema de cambio climático la conse- cuencia es global, diferenciadas porque los países en vía de desarrollo contaminan más"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 132,
+            "enunciado": "De las siguientes regiones las que están más expuestas a las consecuencias del problema de cambio climático son las",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "costeras, por la repercusión del efecto climático en el ciclo hidrológico, haciendo que éstas se vuelvan áridas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "zonas de vocación agrícola, por la repercusión que pueda tener el cambio en la temperatura y la precipitación en los cultivos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "africanas, puesto que es en este continente donde se exploran y explotan la mayor cantidad de combustibles fósiles"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ecuatoriales, por el efecto que sobre ellas tiene el descongelamiento de los glaciares polares"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 130,
+            "enunciado": "Algunas sustancias químicas, que son contaminantes atmosféricos, pueden desencadenar procesos de eliminación del ozono, por medio de dos reacciones consecutivas de la siguiente forma: Donde la especie X es por lo común un elemento halógeno como el cloro, una molécula que tiene la capacidad de destruir hasta 1000 moléculas de ozono. En cuál de los siguientes enunciados se describe correctamente la relación entre los efectos sobre el ozono y la acción que los ocasiona",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el incremento en los niveles de ozono por la disminución de productos que contengan halógenos en su composición y los liberen al ambiente"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la pérdida de ozono por el uso indiscriminado de productos que contengan halógenos en su composición y los liberen al ambiente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la pérdida de ozono por el uso indiscriminado de productos que contengan metales en su composición y los liberen al ambiente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el incremento en los niveles de ozono por la disminución de productos que contengan metales en su composición y los liberen al ambiente X O XO O 3 2 + → + --- PAGINA 3 --- 34 AC - 043 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 134,
+            "enunciado": "El transporte juega un papel fundamental en el desarrollo de los países y las ciudades, al mismo tiempo que es una de las actividades que más afecta al ambiente. En el siguiente cuadro se muestran cuatro actividades tendientes a mejorar la problemática asociada al transporte en una ciudad colombiana que cuenta con poco presupuesto. De acuerdo con las consideraciones técnicas y económicas mencionadas, se podría considerar que entre estas acciones aquella que se podría realizar en un plazo más corto es la acción",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 135,
+            "enunciado": "En Colombia se ha entendido la potestad de todos a gozar de un ambiente sano como un derecho y un deber. De las siguientes opciones la que sustenta mejor esta afirmación es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los ciudadanos pueden tomar parte en las decisiones que afectan el medio ambiente, generan- do los recursos para protegerlo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los ciudadanos deben vigilar la toma de decisiones que afectan el medio ambiente y la conse- cución de los recursos para protegerlo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los ciudadanos pueden tomar parte en las decisiones que afectan el medio ambiente, debien- do a su vez proteger los recursos naturales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los ciudadanos podrán solicitar información acerca de las decisiones que afectan el medio ambiente y vigilar los resultados de la aplicación de las mismas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 133,
+            "enunciado": "Se ha dicho que la reforestación puede contribuir a mitigar las concentraciones de gases que produce el efecto invernadero y que este tipo de medida es más efectiva en los países ecuatoriales, pues en ellos los árboles crecen más rápido. Los países industrializados quieren que los países ecuatoriales, que en su mayoría están en vías de desarrollo, reforesten y dejen de talar árboles. Por su parte, estos países no quieren renunciar a su derecho de explotar los bosques pues consideran que son parte de sus recursos para lograr el desarrollo. De las siguientes alternativas aquella que haría parte de la solución al problema de la reforestación sin menoscabar los derechos de ninguno de los países sería que los que se encuentran en vías de desarrollo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "renunciaran a su derecho a explotar los recursos en beneficio de la humanidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "solicitaran a los países desarrollados, ayudas tecnológicas alternativas a la reforestación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "planificaran los usos del suelo, estableciendo áreas forestales protectoras y áreas suscepti- bles de explotación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reforestaran para contribuir a la regulación del clima, así no se encuentren en la zona ecuatorial --- PAGINA 4 --- 35 AC - 043 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 137,
+            "enunciado": "Los comités municipales de atención y prevención de desastres son los organismos oficiales que en cada municipio, con base en la evaluación de situaciones de riesgo generadas por un fenóme- no natural, adoptan medidas económicas y técnicas con el propósito de prevenir o mitigar daños en la población. En 1985 con el fin de evaluar la vulnerabilidad de la población de Armero así como las medidas de contingencia generales que se hubieran debido adoptar, los actores más pertinentes para integrar el comité hubieran sido",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "alcalde e. profesor"
+                },
+                {
+                    "letra": "B",
+                    "texto": "policía f. geólogo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "líder comunitario g. grupo ecologista"
+                },
+                {
+                    "letra": "D",
+                    "texto": "autoridad ambiental"
+                },
+                {
+                    "letra": "A",
+                    "texto": "d, f, g"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a, c, e"
+                },
+                {
+                    "letra": "C",
+                    "texto": "b, d, e"
+                },
+                {
+                    "letra": "D",
+                    "texto": "a, c, f"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 136,
+            "enunciado": "En los eventos naturales catastróficos la evaluación de pérdidas humanas es prioritaria a la evaluación de pérdidas naturales. Sin embargo, los cambios en la estructura, morfología y funcionalidad de las áreas naturales afectadas son también de considerable importancia. De los siguientes fenó- menos ¿cuál afecta en mayor proporción el entorno en el que se desarrolla?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una inundación por aumento periódico del cauce de un río puede arrastrar más sedimentos de su ribera y tornarse más turbio que de costumbre"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un deslizamiento de un bloque de tierra constituye pérdida de la capacidad retenedora del suelo y de la vegetación asentada en el mismo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una sequia prolongada en una zona selvática puede provocar incendios forestales que destru- yen parte de la vegetación nativa y fauna endémica de la zona"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un maremoto interviene en las condiciones geodinámicas del océano, modificando en altamar la dirección y periodicidad de las olas CONTESTE LAS PREGUNTAS 136 A 140 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN LAS AMENAZAS NATURALES Y SU INTERACCIÓN CON LAS FORMAS HUMANAS DE APROPIACIÓN Conceptualmente, se define una amenaza natural como un evento que se presenta en un área y que excede una intensidad y una frecuencia temporal determinadas. La amenaza se considera como un peligro latente el cual está asociado con la ocurrencia de un fenómeno físico que puede causar efectos adversos en un lugar dado. En Colombia existen muchos poblados y ciudades, vías, infraes- tructura y actividades humanas que están expuestas a amenazas de tipo natural, tales como terremo- tos, movimientos en masa, inundaciones, erupciones volcánicas, maremotos, vendavales y sequías entre otros. La intensidad o el grado de destrucción para cada uno de estos fenómenos depende de la vulnerabilidad de los elementos expuestos, la cual está en función de la localización, el número de habitantes, el tipo y densidad de infraestructura, así como el área ocupada por las construcciones humanas. En la actualidad las amenazas naturales son latentes, las riberas de importantes ríos como el Mag- dalena y el Cauca son susceptibles de presentar inundaciones, algunas ciudades costeras están expuestas a la erosión del litoral, en la zona andina se desarrollan numerosos derrumbes y deslizamientos e igualmente hay varios volcanes activos; ante estas circunstancias vale la pena preguntarse cuándo, dónde y por qué ocurrirá la próxima catástrofe. --- PAGINA 5 --- 36 AC - 043 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 140,
+            "enunciado": "Considerando las limitaciones tecnológicas y financieras del país, ¿cuáles son las acciones más apropiadas que se pueden implementar para evitar o disminuir los daños relacionados con las inundaciones en la depresión Momposina?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "construir diques o taludes de contención a los lados del río Magdalena que sean capaces de resistir la presión del agua y puedan aislar una gran superficie de tierra, de tal forma que solo se inunden las áreas ribereñas sin afectar el resto de la depresión Momposina"
+                },
+                {
+                    "letra": "B",
+                    "texto": "construir nuevos centros urbanos en áreas seguras y más altas de tal forma que las nuevas generaciones no sean afectadas por este fenómeno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "construir una represa en la parte alta de la cuenca del río Magdalena, la cual en forma conjunta con el embalse de Betania, regule el caudal de esta corriente en épocas lluviosas evitando así las inundaciones en la parte baja"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reubicar los poblados más afectados y no permitir el establecimiento de asentamientos huma- nos en riberas del río así como en zonas cenagosas, y construir diques de protección en corrientes menores"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 139,
+            "enunciado": "¿Cuáles son las principales consecuencias sociales que se pueden presentar en zonas afectadas periódicamente por inundaciones como es el caso de la depresión Momposina, el bajo Sinú y el bajo Patía?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "daños en viviendas e infraestructura, inutilización temporal o permanente de las tierras para labores agrícolas o pecuarias y deterioro de la capacidad productiva"
+                },
+                {
+                    "letra": "B",
+                    "texto": "recesión económica, crisis política, alteración en la pirámide poblacional, surgimiento de la economía informal y encarecimiento de bienes y servicios"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aumento en el costo de vida, destrucción de viviendas e infraestructura, inutilización permanen- te de las tierras para labores agrícolas y pérdida del poder adquisitivo de la población."
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumento en los índices de mortalidad y morbilidad, disminución en el crecimiento demográfico, aumento en la oferta de empleo y disminución en la demanda de empleo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 138,
+            "enunciado": "Usted hace parte de un grupo de trabajo encargado de tomar decisiones en una situación de riesgo generada por señales emitidas en un volcán activo en donde se ubica una población de 30.000 habitantes. Retomando la experiencia de Armero y haciendo un análisis de costos y beneficios de las siguientes alternativas, ¿cuál sugeriría para disminuir la vulnerabilidad de la comunidad?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "elaborar estudios que identifiquen esquemáticamente las zonas anteriormente cubiertas por flujos y prever a partir del estudio cuáles zonas serán afectadas y cuáles no. Esta opción solo requiere contratar a un equipo técnico que realice el estudio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "reubicar a la población en forma planificada, en áreas cercanas y seguras. Esta opción implica un alta inversión de recursos económicos y humanos que serán utilizados en este proceso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "canalizar el cauce principal del río que conducirá el flujo y desviarlo para evitar daños en la población. Esta opción requiere de grandes esfuerzos técnicos y económicos pero evita tener que desalojar a la gente de sus viviendas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "instalar un sistema de alarmas a lo largo del río con el propósito de dar aviso periódicamente a la población sobre el desarrollo del flujo de lodo. Esta opción no demanda grandes inversiones económicas ni humanas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

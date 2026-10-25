@@ -1,0 +1,1021 @@
+{
+    "archivo_origen": "Lenguaje.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Lenguaje",
+    "total_paginas": 7,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "Al inicio del texto, en la expresión: \"Las Musas -o la Musa, porque son una y varias a la vez- son hijas de Zeus y Mnemosine\", el enunciado que se encuentra entre guiones cumple la función de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "citar textualmente una información producida por alguien que no es el autor."
+                },
+                {
+                    "letra": "B",
+                    "texto": "separar una idea que no tiene relación con lo planteado."
+                },
+                {
+                    "letra": "C",
+                    "texto": "identifcar tanto el comienzo como el final de un diálogo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "ampliar una información planteada anteriormente. --- PAGINA 2 --- 11 AC - 042 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "En la expresión: Ahabrían respondido que era menester la presencia de seres que con sus cantos celebraran la gloria imperecedera de Zeus: fue entonces cuando surgieron las Musas@, el uso de enunciados en letras cursivas cumple la fun- ción de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mostrar una intención irónica por parte del autor."
+                },
+                {
+                    "letra": "B",
+                    "texto": "citar de manera textual lo dicho en otro idio- ma por los dioses."
+                },
+                {
+                    "letra": "C",
+                    "texto": "hacer énfasis en una afirmación enuncia- da por los dioses."
+                },
+                {
+                    "letra": "D",
+                    "texto": "distinguir expresiones traducidas de otro idioma."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 39,
+            "enunciado": "Del texto anterior se puede deducir que las Musas surgieron para celebrar con sus cantos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la victoria de Zeus sobre los Titanes."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la gloria de todos los dioses."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la unión de Zeus y Mnemosine."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la gloria imperecedera de los Titanes."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 40,
+            "enunciado": "El autor del texto anterior cita a O.Bie para",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "generalizar su posición sobre el tema a tra- vés de un ejemplo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "sustentar su posición a través de lo dicho por una autoridad en el tema."
+                },
+                {
+                    "letra": "C",
+                    "texto": "explicar su posición sobre el tema a través de una relación causa-efecto."
+                },
+                {
+                    "letra": "D",
+                    "texto": "contradecir su posición a través de lo di- cho por una autoridad en el tema."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 41,
+            "enunciado": "En el texto anterior se cita la Ilíada, de Homero, como uno de los primeros testimonios del culto a la Musa, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el poeta canta a la Musa."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la Musa canta al poeta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la Musa canta su facultad poética."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el poeta canta inspirado por la Musa."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "En el tercer párrafo, las comillas cumplen la función de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "citar lo escrito por otro autor."
+                },
+                {
+                    "letra": "B",
+                    "texto": "enfatizar el sentido de una expresión."
+                },
+                {
+                    "letra": "C",
+                    "texto": "citar lo dicho por otro autor."
+                },
+                {
+                    "letra": "D",
+                    "texto": "enfatizar el sentido de algunas palabras."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 43,
+            "enunciado": "Por la forma como se presenta la informa- ción, se puede decir que el texto anterior es de carácter",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "narrativo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "poético."
+                },
+                {
+                    "letra": "C",
+                    "texto": "dramático."
+                },
+                {
+                    "letra": "D",
+                    "texto": "argumentativo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "En la expresión del primer párrafo: \"habrían respondido que era menester la presencia de seres que con sus cantos celebraran la gloria imperecedera de Zeus\", la palabra subrayada puede reemplazarse, sin cambiar el sentido del enunciado, por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "imprescindible."
+                },
+                {
+                    "letra": "B",
+                    "texto": "comprensible."
+                },
+                {
+                    "letra": "C",
+                    "texto": "imposible."
+                },
+                {
+                    "letra": "D",
+                    "texto": "razonable. --- PAGINA 3 --- 12 AC - 042 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 44,
+            "enunciado": "El autor del texto anterior plantea una re- flexión sobre el período",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "clásico, ya que caracteriza un aspecto de la mitología grecolatina."
+                },
+                {
+                    "letra": "B",
+                    "texto": "romántico, ya que enaltece y exalta la li- bertad creativa del poeta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "surrealista, ya que describe una estética que supera la racionalidad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "realista, ya que retrata con fidelidad el con- flicto estético del poeta."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "Al final del cuarto párrafo, en la expresión: \"mientras ellas me ordenaban celebrar la raza de los bienaventurados siempre vivientes\", la raza a la cual se hace referencia es la de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los dioses."
+                },
+                {
+                    "letra": "B",
+                    "texto": "los pastores."
+                },
+                {
+                    "letra": "C",
+                    "texto": "las Musas."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los poetas."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "En el texto anterior, la cita más importante para la argumentación del autor es la que toma de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la Ilíada, de Homero, porque aporta los pri- meros antecedentes sobre el tema trata- do."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la Teogonía, de Hesíodo, porque sirve para explicar la posición desarrollada por el au- tor."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la Ilíada, de Homero, porque sirve para con- trastar la posición desarrollada por el au- tor."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la Teogonía, de Hesíodo, porque aporta al- gunos ejemplos sobre el tema tratado."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "El pero con el cual se inicia el cuarto párra- fo del texto anterior introduce una información que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tiene una relación de igualdad con lo plan- teado anteriormente."
+                },
+                {
+                    "letra": "B",
+                    "texto": "expresa una contradicción entre lo que se ha dicho y lo que se va a decir."
+                },
+                {
+                    "letra": "C",
+                    "texto": "especifica lo que se ha dicho anteriormen- te."
+                },
+                {
+                    "letra": "D",
+                    "texto": "niega la información que se ha suministra- do con anterioridad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "La tesis central del texto anterior plantea que la Musa era",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una composición de género poético y mu- sical."
+                },
+                {
+                    "letra": "B",
+                    "texto": "una divinidad que habitaba en el panteón olímpico."
+                },
+                {
+                    "letra": "C",
+                    "texto": "quien inspiraba al poeta y hablaba a tra- vés de él."
+                },
+                {
+                    "letra": "D",
+                    "texto": "sinónimo de canto celebrante, poesía y música."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "La información del texto anterior se en- cuentra organizada de la siguiente forma:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "testimonios literarios del culto a las Musas, tres posibles sentidos de la palabra \"musa\", origen y conclusión."
+                },
+                {
+                    "letra": "B",
+                    "texto": "introducción al culto de las Musas, etimo- logía de la palabra \"musa\", testimonios li- terarios, origen y conclusión."
+                },
+                {
+                    "letra": "C",
+                    "texto": "etimología de la palabra \"musa\", origen, testimonios literarios, introducción al culto y conclusión."
+                },
+                {
+                    "letra": "D",
+                    "texto": "origen de las Musas, tres posibles senti- dos de la palabra \"musa\", primeros testi- monios literarios y conclusión. --- PAGINA 4 --- 13 AC - 042 - 112 I RESPONDA LAS PREGUNTAS 50 A 65 DE ACUERDO CON LA SIGUIENTE CARICATURA:"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "De acuerdo con el contexto general de la caricatura de Quino, las primeras seis viñetas cumplen la función de representar",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la cotidianidad aventurera y fascinante que vive el escritor."
+                },
+                {
+                    "letra": "B",
+                    "texto": "los fantasmas y obsesiones del mundo interior del escritor."
+                },
+                {
+                    "letra": "C",
+                    "texto": "los momentos significativos de la cotidianidad del escritor."
+                },
+                {
+                    "letra": "D",
+                    "texto": "las influencias literarias que determinan la labor del escritor. --- PAGINA 5 --- 14 AC - 042 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 51,
+            "enunciado": "Los signos , que aparecen en las viñetas 6 y 11 pueden entenderse como una ex- presión de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "perplejidad y desconcierto."
+                },
+                {
+                    "letra": "B",
+                    "texto": "alegría y euforia."
+                },
+                {
+                    "letra": "C",
+                    "texto": "solemnidad y recato."
+                },
+                {
+                    "letra": "D",
+                    "texto": "desconcierto y desagrado."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "De acuerdo con las viñetas 8, 9 y 10, el personaje de la caricatura de Quino asume la rea- lidad como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un contexto que explica su propia condi- ción humana."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un mundo incomprensible, caótico y sin sentido poético."
+                },
+                {
+                    "letra": "C",
+                    "texto": "un espejo que él describe de manera ob- jetiva y precisa."
+                },
+                {
+                    "letra": "D",
+                    "texto": "un pretexto que él recrea de manera poéti- ca e imaginativa."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "El proceso creativo del personaje de la ca- ricatura de Quino se encuentra próximo al del es- critor que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se evade de la realidad e idealiza un pa- sado remoto y lejano."
+                },
+                {
+                    "letra": "B",
+                    "texto": "refleja las contradicciones sociales de su propia época."
+                },
+                {
+                    "letra": "C",
+                    "texto": "utiliza sus vivencias como fuente de su ins- piración."
+                },
+                {
+                    "letra": "D",
+                    "texto": "experimenta con nuevas formas expresi- vas a través del lenguaje."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 55,
+            "enunciado": "En la historieta de Quino, los hechos se reconstruyen según",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la perspectiva del dibujante."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el punto de vista del escritor."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la mirada de un periodista. D el pensamiento de un mecánico."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 56,
+            "enunciado": "Cuando el personaje de la caricatura escri- be su texto en el computador, utiliza un narrador",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "protagonista, porque es el personaje prin- cipal quien cuenta la historia desde su pun- to de vista."
+                },
+                {
+                    "letra": "B",
+                    "texto": "testigo, porque es un personaje que de- sempeña un papel marginal en la acción que se cuenta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "omnisciente, porque tiene el poder de sa- berlo todo y de penetrar en la conciencia de los personajes."
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuasi-omnisciente, porque es un narrador que no entra en la mente de los persona- jes ni brinda explicaciones."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "En la historieta anterior, el escritor-perso- naje",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "copia la realidad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "niega la realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "recrea la realidad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "oculta la realidad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "Los signos , que aparecen en las viñetas 6 y 11, a pesar de ser los mismos, poseen un sentido distinto en cada una, porque en la viñeta 6 expresan algo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "de manera oral, y en la viñeta 11, a través de un pensamiento."
+                },
+                {
+                    "letra": "B",
+                    "texto": "en un contexto de ficción, y en la viñeta 11, en un contexto cotidiano."
+                },
+                {
+                    "letra": "C",
+                    "texto": "de manera escrita, y en la viñeta 11, a través de la oralidad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "en un contexto ficticio, y en la viñeta 11, en un contexto teatral."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "En la última viñeta, la periodista afirma: \"¡Sólo alguien que sabe bucear en un mundo in- terior tan rico y tan propio como el suyo, distinto de nuestra vulgar vida cotidiana, puede transmi- tirnos cosas tan bellas!\". De acuerdo con este punto de vista, se podría afirmar que el arte es una expresión",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "objetiva y concreta, que afirma y le da sen- tido a la realidad superficial."
+                },
+                {
+                    "letra": "B",
+                    "texto": "de lo efímero, frívolo y banal, que niega y cuestiona la compleja realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "subjetiva y sublime, que trasciende y su- pera una realidad frívola y banal."
+                },
+                {
+                    "letra": "D",
+                    "texto": "de lo eterno, profundo y heterogéneo, que afirma y dignifica a la realidad. --- PAGINA 6 --- 15 AC - 042 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 59,
+            "enunciado": "De acuerdo con la caricatura anterior, se podría afirmar que existen tres momentos signifi- cativos en la producción artística. Éstos son, en su orden:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "observación de la realidad, creación artís- tica y crítica especializada."
+                },
+                {
+                    "letra": "B",
+                    "texto": "creación artística, crítica especializada y observación de la realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "evasión de la realidad, creación artística y crítica especializada."
+                },
+                {
+                    "letra": "D",
+                    "texto": "creación artística, crítica especializada y evasión de la realidad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 60,
+            "enunciado": "Es posible afirmar que la intención de Quino, autor de la caricatura anterior, fue presentar",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una reflexión filosófica sobre la creación artística."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un ensayo argumentativo sobre el oficio de escribir."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una parodia del oficio de la crítica."
+                },
+                {
+                    "letra": "D",
+                    "texto": "un cuestionamiento de los medios de co- municación."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "Con base en las viñetas 8-11 se puede de- cir que alguien está escribiendo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "pone en voz de otro algo que le ocurrió a él."
+                },
+                {
+                    "letra": "B",
+                    "texto": "cuenta algo que le ocurrió a él como si le hubiera sucedido a otro."
+                },
+                {
+                    "letra": "C",
+                    "texto": "cuenta lo que le está ocurriendo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuenta algo que le contaron."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "De las siguientes definiciones de literatura, la que más se aproxima a la concepción del pro- tagonista de la caricatura es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "La literatura es la recreación poética de la realidad a través del lenguaje."
+                },
+                {
+                    "letra": "B",
+                    "texto": "La literatura es la revelación del incons- ciente colectivo a través del hombre indivi- dual."
+                },
+                {
+                    "letra": "C",
+                    "texto": "La literatura es la expresión del corazón a través de un lenguaje emotivo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "La literatura es una forma de alertar las con- ciencias a través de un lenguaje compro- metido."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 63,
+            "enunciado": "De las siguientes tendencias estéticas, la que más se aproxima a la posición expresada por la periodista es aquella que plantea",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la torre de marfil de los románticos: hay que aislarse para crear."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el compromiso entre arte y revolución, pro- pio del realismo socialista."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el sentido lúdico del surrealismo: el arte es una forma de diversión."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la libertad del \"arte por el arte\" que está más allá del bien y del mal."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 64,
+            "enunciado": "De las siguientes concepciones estéticas, la que más se aproxima a lo planteado por la ca- ricatura anterior es la de la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "inspiración, pues el escritor es el medio de expresión de una divinidad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "mimesis, pues el arte es, en esencia, una imitación creativa de la realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "catarsis, pues el arte sirve para purificar las emociones del espectador."
+                },
+                {
+                    "letra": "D",
+                    "texto": "literariedad, pues el escritor actualiza to- dos los recursos del lenguaje."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 65,
+            "enunciado": "De las siguientes afirmaciones de escrito- res célebres, la que más se aproxima al posible pensamiento del escritor de la historieta es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "\"Escribo porque es una de las raras cosas que sé hacer\" (Carlos Fuentes)."
+                },
+                {
+                    "letra": "B",
+                    "texto": "\"Escribir es una manera de aproximación indirecta a la vida\" (Henry Miller)."
+                },
+                {
+                    "letra": "C",
+                    "texto": "\"Escribo para que mis amigos me quieran más\" (Gabriel García Márquez)."
+                },
+                {
+                    "letra": "D",
+                    "texto": "\"Escribir, para mí, es como respirar. No podría vivir sin escribir\" (Pablo Neruda). --- PAGINA 7 --- 16 AC - 042 - 112 I RESPONDA LAS PREGUNTAS 66 A 70 DE ACUERDO CON EL SIGUIENTE TEXTO: TEXTO 2 ¡OH BELLA INGRATA! Carta de Don Quijote a Dulcinea del Toboso (tomada del libro de Miguel de Cervantes Saavedra). Soberana y alta señora: El herido de punta de ausencia y el llagado de las telas del corazón, dulcísima Dulcinea del Toboso, te envía la salud que él no tiene. Si tu hermosura me desprecia, si tu valor no es en mi pro, si tus desdenes son en mi afincamiento, maguer que yo sea asaz de sufrido, mal podré sostenerme en esta cuita, que, además de ser fuerte, es muy duradera. Mi buen escudero Sancho te dará entera relación, ¡oh bella ingrata, amada enemiga mía!, del modo en que por tu causa quedo: si gustares de acorrerme, tuyo soy; y si no, haz lo que te viniere en gusto; que con acabar mi vida habré satisfecho a tu crueldad y a mi deseo. Tuyo hasta la muerte, El Caballero de la Triste Figura."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 66,
+            "enunciado": "En el saludo que da inicio a la carta se utili- za la expresión Soberana y alta señora. En es- tas palabras se refleja",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la imagen que Don Quijote tenía de Dulcinea."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la clase social a la que pertenecía Dulcinea."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el aspecto físico que caracterizaba a Dulcinea."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el amor que sentía Don Quijote por Dulcinea."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 67,
+            "enunciado": "La intención principal de quien escribió la carta era",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "enseñarle algo a alguien."
+                },
+                {
+                    "letra": "B",
+                    "texto": "persuadir de algo a alguien."
+                },
+                {
+                    "letra": "C",
+                    "texto": "explicarle algo a alguien."
+                },
+                {
+                    "letra": "D",
+                    "texto": "ordenarle algo a alguien ."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 68,
+            "enunciado": "De la carta anterior se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es un texto que hace parte del mundo no- velesco creado por Cervantes en el siglo XVII."
+                },
+                {
+                    "letra": "B",
+                    "texto": "es un texto en el que se alude al amor cor- tés del siglo XVI."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es un texto en el que se expresan los sen- timientos de Cervantes."
+                },
+                {
+                    "letra": "D",
+                    "texto": "es un texto que hace parte de una colec- ción epistolar del siglo XVII."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 69,
+            "enunciado": "En la carta, a la expresión Mi buen escude- ro Sancho le subyace una relación entre",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "criado y rey."
+                },
+                {
+                    "letra": "B",
+                    "texto": "esclavo e hidalgo."
+                },
+                {
+                    "letra": "C",
+                    "texto": "asistente y noble."
+                },
+                {
+                    "letra": "D",
+                    "texto": "labrador y señor."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 70,
+            "enunciado": "En la Carta de Don Quijote a Dulcinea del Toboso, las palabras asaz de podrían reem- plazarse, sin que se modificara el sentido de lo enunciado, por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "poco."
+                },
+                {
+                    "letra": "B",
+                    "texto": "nada."
+                },
+                {
+                    "letra": "C",
+                    "texto": "algo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "tan."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

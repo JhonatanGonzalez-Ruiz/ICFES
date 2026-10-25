@@ -1,0 +1,516 @@
+{
+    "archivo_origen": "Biologia Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Biologia Profundizacion",
+    "total_paginas": 8,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "La figura ilustra la estratificación y distribu- ción de la luz en un bosque. Las especies de hier- bas, arbustos y árboles, presentan la mayor parte de sus hojas a alturas diferentes sobre el suelo y están adaptadas a vivir bajo diferentes intensidades de luz. Al derribar los árboles de un área de este bosque podríamos predecir que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 107,
+            "enunciado": "A medida que aumentó la población Colombiana y se requirió más espacio para asentamientos humanos, la gente se fue desplazando hacia las áreas boscosas, reemplazando así la vegetación nativa por cultivos y pastos para el ganado. Como resultado las grandes extensiones de bosque se dividieron en fragmentos pequeños, separados entre sí. Si deseamos conocer como se alteró el flujo de energía en el bosque luego de la fragmentación, lo más apropiado sería hacer énfasis en el estudio",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "del número de animales que permanecieron o desaparecieron en los diferentes fragmentos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "de la ubicación espacial de los animales en el bosque determinada por sus hábitos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "del cambio en la proporción de animales que se alimentan de frutos, flores, insectos y carne"
+                },
+                {
+                    "letra": "D",
+                    "texto": "del cambio en el número de animales que se ven favorecidos por la elevada exposición a la luz solar causada por la deforestación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "El sistema inmune de los vertebrados contie- ne células especializadas para reconocer la presen- cia de antígenos (cuerpos extraños) que logren en- trar al organismo. Estas células inmunitarias, denominadas B ó T, poseen una alta diversidad de proteínas en sus membranas que les permiten reco- nocer los antígenos. Cuando alguna de estas célu- las reconoce un antígeno, esta célula experimenta un proceso denominado selección clonal, es decir, se divide por mitosis y produce un gran número de células genéticamente iguales. En un experimento se inyecta a un ratón dos antígenos en momentos diferentes y se observa la respuesta inmune mostra- da en la siguiente gráfica Si usted tratara a un ratón con medicamentos que inhibieran la replicación de ADN justo antes de empe- zar el experimento mostrado en la gráfica inicial, la forma en que cambiaría la respuesta inmunológica es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las especies propias de los estratos bajos colonizan las zonas altas del bosque"
+                },
+                {
+                    "letra": "B",
+                    "texto": "algunas especies favorecidas por la radiación solar directa colonizan ese espacio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "algunas plantas evolucionan y se adaptan a ese nuevo ambiente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la radiación directa, por la ausencia de árboles, nunca permitirá que allí vuelva a levantarse un bosque --- PAGINA 2 --- 30 AC - 100 - 7 I CONTESTE LAS PREGUNTAS 109 y 110 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El PCR (Amplificación en Cadena de la Polimerasa), es utilizado para multiplicar numéricamente seg- mentos de ADN con el fin de facilitar su análisis. Esta técnica imita la replicación del ADN en la célula utilizando una enzima (la polimerasa), las unidades estructurales del ADN libres (los nucleótidos), y fragmentos cortos de ADN (los iniciadores) indispensables para que la polimerasa pueda unirse a la cadena de ADN molde. Los indicadores son diseñados para que rodeen la secuencia de nucleótidos que se desea amplificar. La forma en que ocurre el proceso es la siguiente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "A cada proceso de aumento de temperatura a 950C, disminución a 600C y aumento nuevamente a 720C, se le denomina ciclo. Partiendo de una sola molécula de ADN, después del primer ciclo se obtienen dos segmentos amplificados del sector que se desea, después del segundo ciclo cuatro seg- mentos amplificados del mismo sector y así sucesivamente. Teniendo en cuenta esta información, la curva que describe el número de segmentos producidos después de varios ciclos es --- PAGINA 3 --- 31 AC - 100 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 110,
+            "enunciado": "Si usted incluyera premeditadamente en la reacción de PCR una modificación en uno de los cuatro tipos de nucleótidos libres (el precursor de la citosina) de tal forma que la polimerasa al reconocer ese nucleótido detuviera la síntesis de la cadena complementaria, lo que usted cree que sucedería después del ciclo 30 es que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "no se tendría ningún producto de amplificación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sólo se obtendrían segmentos del mismo tamaño compuestos únicamente por citosinas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sólo se obtendrían segmentos amplificados carentes de citosinas de diferentes tamaños"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se obtendrían fragmentos amplificados de diferentes tamaños terminados todos en citosina"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Imagine un experimento en el que se mide la fuerza máxima alcanzada con cada una de las manos en 200 personas dentro de las que hay zurdos y diestros cuyos padres pueden haber sido ambos zurdos o ambos diestros, como puede verse en la tabla. En el experimento se encuentra lo que puede verse en la figura Teniendo en cuenta toda la información disponible, usted podría proponer que la mejor explicación para el hecho de que la mano derecha pudo ejecutar la mayor fuerza sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ha sido la más ejercitada a lo largo de la vida"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ser zurdo depende principalmente de la influencia del ambiente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ser diestro tiene una fuerte base genética"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los diestros tienen un menor desarrollo muscular en ambos brazos s o rt s e i d % s o d r u z % s e r eju m 0 9 0 1 s e r b m o H 9 8 1 1 s o d r u z e d s ojih 0 6 0 4 s o rts e id e d s ojih 7 9 3 s o d r u z e d s ajih 5 6 5 3 s o rts e id e d s ajih 8 9 2 RESPONDA LAS PREGUNTAS 112 A 114 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La teoría de la evolución propone que como resultado del proceso de selección natural, los organismos están adaptados al medio en que se encuentran, de tal manera que sus características biológicas tienen un valor óptimo en ese medio, y no en otro lugar o momento. A continuación se muestra la secuencia de ADN que contiene instrucciones para fabricar la enzima X en una especie de mamífero ancestral. Dicha secuencia ha sufrido cambios a través de las generaciones, dando origen a cuatro nuevas secuencias pertenecientes a cuatro nuevas especies de mamífero que sobreviven hasta hoy. La enzima X se caracteriza por intervenir en la respiración celular de los mamíferos y consta de tres aminoácidos que pueden variar en su secuencia entre diferentes especies o entre diferentes individuos de una misma especie. A continuación se muestra la eficiencia enzimática de cada una de estas varian- tes a diferentes temperaturas --- PAGINA 4 --- 32 AC - 100 - 7 I Según la gráfica que muestra la temperatura media anual de cuatro lugares de Colombia en donde se encuentran estas especies de mamífe- ro, y teniendo en cuenta las secuencias del ARN que codifican para cada aminoácido mostrados en la tabla 1, usted propondría que con mayor probabilidad RESPONDA LAS PREGUNTAS 115 Y 116 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Algunos de los primates cercanos a los seres humanos son capaces de desplazarse cortas distan- cias en dos patas. Al hacerlo, los más grandes gastan menos energía desplazando cada kilogra- mo de su cuerpo, según como se ilustra en la anterior figura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Según la teoría de la evolución por selección natural, la forma de desplazamiento de los animales debería ser aquella que les representa los mismos beneficios (distancia recorrida) a menores costos (gasto energético). Sabiendo que los chimpancés son energéticamente los más eficientes caminando en cuatro extremidades y los seres humanos en dos, usted propondría que en la figura anterior, el chimpancé y los humanos están representados respectivamente por los puntos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3 y 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 y 6"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4 y 5"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3 y 4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "El lugar del cual cree usted que más pro- bablemente proviene la especie ancestral que dio origen a las cuatro especies de mamífero men- cionadas anteriormente sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Amazonas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Guajira"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Boyacá"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Tolima"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Entre los siguientes el que pudo ser un factor importante en la colonización de nuevos lugares por parte de estas especies es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "errores en el desplazamiento de cromoso- mas al final de la mitosis"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mutaciones en la enzima X causadas por cambios en la temperatura"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mutaciones en el ADN causados por cam- bios en la temperatura corporal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "errores durante la replicación del ADN du- rante la producción de gametos sexuales"
+                },
+                {
+                    "letra": "A",
+                    "texto": "la especie 3 se encuentra en Boyacá"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la especie 4 se encuentra en el Amazonas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la especie 1 se encuentra en la Guajira"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la especie 2 se encuentra en el Tolima"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "--- PAGINA 5 --- 33 AC - 100 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 116,
+            "enunciado": "En la historia de nuestra especie, la aparición de los primeros Homo parece coincidir con una época en la que las áreas de sabanas se estaban extendiendo a costa de las áreas boscosas en el trópico africano. Estos primeros hombres se alimentaban de la grasa acumulada al interior de los huesos largos de los cadáveres abandonados por leones, hienas y leopardos, de raíces que recolecta- ban en las sabanas y de los frutos de los escasos arbustos que se daban allí. Para conseguir su alimen- to, algunos miembros del clan humano debían caminar largas distancias durante un día. Para conse- guir la mayor cantidad de energía de los alimentos en relación con la energía gastada en conseguirlos, los primeros Homo debieron",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "alimentarse primariamente de raíces y caminar diariamente un área de unos 3 km de diámetro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "alimentarse primariamente de grasa y caminar diariamente un área de 1 km de diámetro"
+                },
+                {
+                    "letra": "C",
+                    "texto": "alimentarse primariamente de frutos y correr diariamente un área de unos 3 km de diámetro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "alimentarse primariamente de raíces y caminar diariamente un área de 1 km de diámetro"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Los animales endotermos se caracterizan porque mantienen su temperatura corporal estable mediante la modificación de su metabolismo: un aumento en el metabolismo del cuerpo aumenta la cantidad de calor que se genera desde adentro. La región corporal que posee un mayor contacto con el ambiente es la piel, por lo tanto, esta región influye notablemente en la ganancia o pérdida de calor en estos organismos y, a la vez, en su metabolismo. A continuación se muestra la relación geométrica que existe entre el área y el volumen tomando como ejemplo un cubo Con base en la información suministrada, considere dos organismos endotermos de diferen- te tamaño corporal pero con el mismo tipo de dieta y con similares requerimientos de energía al día. La proporción de tiempo durante cada día que estos animales dedicarían a alimentar- se, sería RESPONDA LAS PREGUNTAS 118 Y 119 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La anemia falciforme es una enfermedad que se produce por el cambio de un sólo aminoácido en las moléculas de hemoglobina (encargadas de llevar oxígeno). En África donde se presenta esta enferme- dad, también son altos los índices de malaria, enfermedad causada por un parásito que reconoce y se une a los glóbulos rojos. Curiosamente las personas que sufren de anemia falciforme no sufren de malaria, haciendo que la incidencia de personas que presentan anemia falciforme sea muy alta. --- PAGINA 6 --- 34 AC - 100 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 118,
+            "enunciado": "Según la información que ya posee, la gráfica que mejor describiría la relación entre la incidencia hipotética de las dos enfermedades en diferentes regiones geográficas sería",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "Según esta información y sus conocimientos básicos en biología, una explicación adecuada para la alta incidencia de personas con anemia falciforme en África sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el cambio del aminoácido en la hemoglobina genera un cambio en la estructura del glóbulo rojo, impidiendo su reconocimiento por parte del parásito"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la hemoglobina alterada, al no poder llevar oxígeno, favorece la intervención del parásito causan- te de la anemia falciforme"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el no reconocimiento del parásito al glóbulo rojo, genera cambios en la replicación del ARN, fenó- meno que favorece el cambio de aminoácidos en la hemoglobina"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cambio del aminoácido en el glóbulo rojo impide la transcripción de ADN en los ribosomas, lo que favorece la aparición y alta incidencia de anemia falciforme RESPONDA LAS PREGUNTAS 120 Y 121 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Unos investigadores colombianos han tratado de encontrar las bases genéticas de la coloración de las alas de dos especies de mariposas, muy abundantes en el Valle del Cauca. La siguiente tabla muestra algunos alelos responsables de la coloración de las alas en estas mariposas:"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "Los investigadores notaron que las mariposas Sp1 cuya coloración alar era completamente ne- gra, tenían una mayor probabilidad de sobrevivir al ataque de los predadores pues eran más difíciles de detectar dentro del bosque en el que habitan. Asi mismo, encontraron que algunos individuos de Sp2 presentaban una coloración similar a la de Sp1 para reducir el riesgo de ser atacadas por los predadores. Si esto es así, usted podría proponer que los genes que producen la coloración de estas mariposas imitadoras (Sp2) son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "AA BB CC"
+                },
+                {
+                    "letra": "B",
+                    "texto": "AA bb cc"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aa bb CC"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aa bb cc O L E L A S A C I T S Í R E T C A R A C A a c n alb a h c n a m a n u n o c a r g e n ala a a r g e n ala le n e s a c n alb s a h c n a m e d a ic n e s u a B s a c n alb s a h c n a m s al e d oja b e d allir a m a a s e u r g a e níl b s a c n alb s a h c n a m s ale d oja b e d allir a m a a e níl e d a ic n e s u a C s a c n alb s a h c n a m s al e r b o s ojo r o tn u p e d a ic n e s u a c s a c n alb s a h c n a m s al e r b o s ojo r o tn u p e d a ic n e s e r p --- PAGINA 7 --- 35 AC - 100 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Más tarde, decidieron hacer un experimento en el que varios individuos de Sp2 eran trasladados a otro bosque donde también había individuos de Sp1. En este caso, a la mitad de los individuos trasladados se les pintó con temperas una gran mancha roja. La gráfica muestra el número de días que sobrevivieron las mariposas no pintadas y las que fueron pintadas. Según estos resultados, usted podría sugerir que varias generaciones después, la cantidad de indivi- duos de Sp2 con cada combinación de alelos podría estar mejor representada por la figura",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 122,
+            "enunciado": "En el esquema anterior se representa el llamado efecto «cuello de botella», en una población de esca- rabajos, en la cual al cabo de un tiempo el número de alelos de dicha población disminuye. La población resultante o final respecto a la original, luego del fenómeno",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "muestra variabilidad genética y fenotípica reducida"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumenta el tamaño poblacional"
+                },
+                {
+                    "letra": "C",
+                    "texto": "exhibe con mayor frecuencia otros fenotipos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "reduce su variabilidad genética y aumenta la fenotípica --- PAGINA 8 --- 36 AC - 100 - 7 I RESPONDA LAS PREGUNTAS 123 A 125 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El siguiente esquema muestra algunos de los pasos básicos que se siguen en un laboratorio en el cual se propagan plantas in vitro"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "Sabiendo que en campo abierto las plan- tas crecen naturalmente, es posible que los cien- tíficos seleccionen una planta de una especie, como la presentada, y la propaguen en laborato- rio, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la planta escogida presenta un genotipo diferente al común de la especie por lo que no puede crecer en un sitio distinto al cual se encontró"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la planta escogida, es un organismo genéti- camente diferente a otros organismos de especies similares"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la planta escogida presenta ciertas carac- terísticas en el fenotipo, que otras plantas de la misma especie no poseen"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la planta escogida es un organismo con fenotipo aberrante dentro de la especie, por lo tanto indeseable para ser cultivada Planta de la especie A en campo 1 2 1 1 3 4 5 1 Segmento de hoja de la planta , colocada , sobre un medio de cultivo in vitro Plántula formada a partir del segmento de hoja sobre un medio de cultivo Plántula propagada, en un medio de cultivo Planta nueva"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "En el ejemplo dado, una vez selecciona- da la planta que ha de propagarse in vitro, una de las maneras como se produce en laboratorio es cultivando segmentos de la misma planta, pro- cedimiento que se conoce como organogénesis indirecta. Esto es posible debido a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "algunas partes de la planta tienen genoti- po diferente al de otras partes de la planta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "algunas partes de la planta tienen células que contienen en su ADN moléculas que les permiten crecer in vitro"
+                },
+                {
+                    "letra": "C",
+                    "texto": "todas las partes de una misma planta tie- nen células que poseen la capacidad de regenerar nuevas plantas completas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "todas las células de una misma planta son capaces de dividirse continuamente por meiosis"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "La planta mostrada en el paso 4, crece en un ambiente cerrado, sin suelo ni suminis- tro de agua, aunque le llegue luz durante 12 horas. Si analizamos por qué aún así crece, podemos decir que esto es gracias a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las plántulas nuevas dentro del frasco no necesitan de oxígeno ni de CO2 para su supervivencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las plántulas regeneradoras no hacen fotosíntesis dentro del frasco de vidrio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el medio de cultivo contiene suficiente agua como para evitar la deshidratación de la planta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el medio de cultivo suministra a la planta nutrientes como Nitrógeno y Carbono"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

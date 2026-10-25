@@ -1,0 +1,493 @@
+{
+    "archivo_origen": "Fisica Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Fisica Profundizacion",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 21,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "El punto A representa el instante en que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el carro 1 alcanza al carro 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la aceleración es igual para los dos ca- rros"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la velocidad relativa entre los dos carros es cero"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los dos carros toman distinta dirección"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Desde el momento que parten hasta el instante t1, el carro 1 ha recorrido una distancia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "igual a la del carro 2, porque t1 es el ins- tante en que se encuentran"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mayor que la del carro 2, porque está moviéndose aceleradamente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "que no puede ser determinada, porque no se conocen las condiciones iniciales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor que la del carro 2, porque antes de t1 la velocidad del carro 1 siempre es menor que la del 2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "La variación de 2(t) en la unidad de tiempo se llama velocidad angular (T ). En este caso la gráfica cualitativa de T en función del tiempo es --- PAGINA 2 --- 32 AC - 103 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 109,
+            "enunciado": "En cualquier instante, la fuerza neta sobre la esfera es igual a la suma vectorial del peso de la esfera y la normal aplicada por la pista. Acerca de los torques que actúan sobre la esfe- ra, medidos desde el punto P, se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el torque neto sobre la esfera es cons- tante a media que la esfera se desplaza por la superficie"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el peso es la única fuerza que realiza torque y éste varía a medida que la esfe- ra se desplaza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el torque que ejerce la normal es mayor en los extremos que en el centro de la superficie"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuando la esfera pasa por el punto 0 el torque neto es máximo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Se atan a una cuerda esferas de plo- mo separadas a distancias iguales. Se quiere que el tiempo de caída de la esfera 1 sea la mitad del tiempo de caída de la esfera",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "La configuración que produce este efecto es la presentada en la figura CONTESTE LAS PREGUNTAS 111 Y 112 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se toma una jeringa de área transversal A y se mueve su émbolo hacia arriba una distancia",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "D",
+                    "texto": "La temperatura del lugar es T y P la presión atmosférica. Luego se sella la punta de la jerin- ga."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 111,
+            "enunciado": "Si a partir de la posición indicada en la figura, el émbolo se desplaza hacia arriba una distancia X y se suelta, sucederá que émbolo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se quedará en la nueva posición, porque la nueva presión del gas es mayor que P"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se quedará en la nueva posición, porque la presión del gas sigue siendo P"
+                },
+                {
+                    "letra": "C",
+                    "texto": "retornará a la posición inicial, porque la presión del gas sigue siendo P"
+                },
+                {
+                    "letra": "D",
+                    "texto": "retornará a la posición inicial, porque la nueva presión del gas es menor que P"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Para que el émbolo baje una distancia d/3, a partir de la posición inicial indicada en la figura, se le debe colocar encima un cuerpo cuyo peso sea igual a Considere el aire en el interior de la jeringa como un gas ideal y deprecie cualquier fricción --- PAGINA 3 --- 33 AC - 103 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 113,
+            "enunciado": "Dos bloques de iguales masas (M), pero de metales diferentes, se introducen en cámaras herméticas de igual volumen. Las masas moleculares de los materiales son tales que F1 < F2. Las cámaras se calientan hasta que los metales se evaporan totalmente. Si se tienen los metales evaporados a la mis- ma temperatura y se consideran ambos como gases ideales, es correcto afirmar que la pre- sión en la cámara 1 es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "igual que en la cámara 2, porque las masas de los gases son iguales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "igual que en la cámara 2, porque los volúmenes son iguales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor que en 2, porque el número de partículas en 1 es mayor"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor que en 2, porque el número de partículas en 1 es menor"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Si la temperatura del vapor de agua en el instante en que se evapora totalmente es T1, el aumento de presión entre ese instante, y uno 3 en el cual la temperatura es T1 vale 2 N = número de moléculas de agua dentro de la olla k = constante de Boltzman 3 N k T1",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2 V Nk T1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2V Nk 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "V Nk T1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3V"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Una olla a presión es básicamente una cámara hermética cuya tapa tiene un sistema de seguridad que soporta altas presiones. Por la mañana cuando vamos al baño, pisamos el tapete y luego la baldosa, sintiendo más fría la baldosa que el tapete (fig. 1). Al medir la tem- peratura del tapete y de la baldosa se encuentra que están a la misma temperatura (fig. 2). De lo anterior se afirma que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la baldosa absorbe calor más rápido que el tapete"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el tapete absorbe calor más rápido que la baldosa"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la baldosa absorbe calor y el tapete no"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tapete absorbe calor y la baldosa no Considere el interior de la olla de volumen V. En la olla ilustrada en la figura se coloca un poco de agua líquida, se asegura y se pone sobre un fogón. --- PAGINA 4 --- 34 AC - 103 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Se tiene cierto tipo de vidrio cuyo índice de refracción varía con la longitud de onda de la luz en el vacío (8), como se muestra en la gráfica. Sobreponiendo varias capas delga- das de este vidrio se forma un bloque en el que la luz se refracta de diversas formas de- pendiendo de 8.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 116,
+            "enunciado": "Un polarizador lineal es un dispositivo que permite únicamente el paso de la luz que oscila paralela a una dirección definida, conoci- da como el eje de transmisión p. Si una onda luminosa oscila en la dirección in- dicada por las flechas (ver figura), para no obte- ner luz a la salida del polarizador, el eje de trans- misión p debe ir como se indica en la figura Un haz de luz de 81 = 3x10-7 m y otro de 82 = 6x10-7 m se hacen incidir desde el aire al bloque de vidrio. La trayectoria de los haces es la que se ilustra en",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 118,
+            "enunciado": "En una cuerda 1, sujeta a una tensión T se generan ondas armónicas de frecuen- cia f = 3Hz. Las siguientes son fotografías de la cuerda en un instante dado. La figura en la que se señalan correctamente la amplitud de la onda (A), la longitud de onda (8) y la dirección de propagación (6) es --- PAGINA 5 --- 35 AC - 103 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 120,
+            "enunciado": "Se generaron dos ondas circulares de igual amplitud (",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "y frecuencia (f) en un lago. La figura 1 muestra las formas de las ondas en el lago. Los círculos representan las crestas de las ondas Un punto en el que se puede ubicar un minuto corcho de tal forma que no se mueva es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "9"
+                },
+                {
+                    "letra": "B",
+                    "texto": "7"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4"
+                },
+                {
+                    "letra": "D",
+                    "texto": "3 RESPONDA LAS PREGUNTAS 121 A 124 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se tiene dos alambres de sección transversal circular, del mismo material y de la misma lon- gitud L. El radio del alambre 1 es r mientras que el del alambre 2 es 2r. Con un ohmiómetro, se mide la resistencia eléc- trica entre uno de los extremos del alambre 1 y distintos puntos a lo largo de éste. Con los valo- res obtenidos se obtiene la siguiente gráfica"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Se repite el experimento anterior con el alambre 2. La gráfica de R contra R que se ob- tiene en este caso es (tenga en cuenta que la resistencia de un alambre es inversamente pro- porcional al área transversal del mismo)",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "El índice de refracción del medio b res- pecto al medio a, se define como el cociente entre las velocidades del sonido en esos me- dios (nab = Va/Vb). Si nab ≈100, esto significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "cuando el sonido pasa del medio a al medio b, su velocidad prácticamente no cambia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cuando una onda sonora se propaga pa sando del medio a al medio b práctica- mente se detiene"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la rapidez de propagación del sonido en el medio a es mucho menor que en el medio b"
+                },
+                {
+                    "letra": "D",
+                    "texto": "si una onda sonora pasa del medio b al medio a, se amortigua completamente --- PAGINA 6 --- 36 AC - 103 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "La resistencia de un alambre se puede DL expresar como R = ; donde L es la A longitud, A el área transversal y D una constan- te característica del material denominada resistividad. Con otro alambre (3) de radio r, se realizan las mediciones indicadas anteriormen- te, obteniéndose la gráfica siguiente De acuerdo con esto, es válido afirmar que, con respecto al alambre 1, el alambre 3 es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "del mismo material y de longitud 3L"
+                },
+                {
+                    "letra": "B",
+                    "texto": "del mismo material y de longitud L/3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "de otro material cuya resistividad es 3D"
+                },
+                {
+                    "letra": "D",
+                    "texto": "de otro material cuya resistividad es D/3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "Si se construye un circuito con cada uno de los tres alambres, sometiéndolos a un mismo po- tencial, es correcto afirmar que la corriente que circula por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los tres circuitos es igual"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el circuito del alambre 1 es mayor que en los otros dos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el circuito del alambre 2 es mayor que en los otros dos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el circuito del alambre 3 es mayor que en los otros dos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "Se hacen tres circuitos conectando los tres alambres de maneras diferentes, como se muestra en los esquemas De acuerdo con esto, es correcto decir que la potencia disipada en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los tres circuitos es la misma"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el circuito 1 es menor que en los otros dos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el circuito 2 es menor que en los otros dos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el circuito 3 es menor que en los otros dos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "Tres bloques de metal están en contac- to sobre una mesa de madera. Otros dos blo- ques metálicos cargados positivamente se co- locan cerca de los anteriores como muestra la figura. Luego se separan lentamente los 3 bloques centrales mediante una varilla aislante y final- mente se retiran los dos bloques cargados po- sitivamente. La gráfica que ilustra las cargas que quedan en los bloques es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

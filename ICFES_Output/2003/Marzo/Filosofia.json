@@ -1,0 +1,1409 @@
+{
+    "archivo_origen": "Filosofia.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Filosofia",
+    "total_paginas": 7,
+    "total_preguntas_detectadas": 71,
+    "preguntas": [
+        {
+            "numero": 71,
+            "enunciado": "San Anselmo quiere probar la existencia de Dios aduciendo que dado que Dios es la per- fección, esta idea exige que ese ser exista, pues si no existiera no sería la idea del sumo perfecto, ya que la superaría la idea de un ser que sí exis- tiera. Por consiguiente, Dios tiene que existir. De acuerdo con esto puede afirmarse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la idea de un ser perfecto implica su exis- tencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "es imposible que Dios sea superado por algo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sólo lo que existe hace parte del contenido del pensamiento"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la existencia de Dios depende exclusiva- mente de Dios mismo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 72,
+            "enunciado": "La filosofía busca la representación de con- ceptos de la realidad. Sócrates propuso un mé- todo para descubrir la verdad mediante pregun- tas continuas hasta llegar a ella. Luego Platón estableció como método la Dialéctica, ciencia que trata del raciocinio de sus leyes, formas y modos cuya base para llegar a la idea pura universal, es el diálogo. Según lo anterior la filosofía requiere para su estudio",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un tipo de investigación definido según el objeto"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un procedimiento lógico de razonamientos ordenados"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una ciencia de conocimientos lógicos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un método de investigación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 73,
+            "enunciado": "Según Aristóteles la poesía es más filosófi- ca que la historia. En efecto, la historia narra lo que ha sucedido. En cambio, la poesía cuenta lo que siempre puede suceder; nos enseña a ver lo universal en el obrar humano y cómo la filosofía expresa las inquietudes fundamentales del hom- bre. Esto significa que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la filosofía debería guiarse por la poesía"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la poesía guarda en sí una perspectiva fi- losófica, porque se interroga por lo univer- sal"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la historia sólo es un recuento de hechos sin interrogarse sobre el significado del obrar"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la historia debería hacerse más poética"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 74,
+            "enunciado": "La diferencia en la denominación de sabio y de filósofo se estableció en la antigüedad. Fue- ron los pitagóricos los responsables de introdu- cir este término cuando se autoproclamaron ami- gos de la sabiduría. Este hecho pone de mani- fiesto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el sentido de modestia de los pitagóricos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la diferencia entre el saber y el actuar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la cercanía entre filosofía y sabiduría"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el rigor al asignar nombres a los hechos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 75,
+            "enunciado": "Max Scheler creador de la sociología de la ciencia y fundador de la antropología filosófica, plantea que existe una identidad entre organis- mo y alma, manifestada en la unidad de la vida psicofísica. Dicho planteamiento supera los dis- cursos suscitados en relación con el estudio de la naturaleza humana en la medida que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "integra los aspectos físico y espiritual por tradición opuestos en el estudio del hom- bre"
+                },
+                {
+                    "letra": "B",
+                    "texto": "retoma aspectos de la estructura física a veces descuidados al abordar la naturale- za humana"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la naturaleza humana distingue varios as- pectos que finalmente se integran en un todo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el estudio de lo humano sólo puede efec- tuarse con rigor si responde a un modelo holístico"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 76,
+            "enunciado": "En el siglo XVIII se desarrolló una doctrina que expresaba el pleno florecimiento de las fa- cultades humanas en perfecta libertad. Este mo- vimiento individualista y libertario que fue llama- do liberalismo pretendió edificar la sociedad según las necesidades y las aspiraciones de la persona individualmente. Sin embargo, esto no significaba el desprecio de la sociedad, pues en el liberalismo se manifestaba una preocupación explícita por organizar la comunidad de hombres, ya que para éste",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el expandirse en comunión con otros hom- bres era su principal meta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existía una necesidad en el ser que se re- flejaba en el participar dentro de una so- ciedad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el orden humano era concebido como pa- ralelo al orden del mundo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la sociedad únicamente era posible me- diante el florecimiento y la expansión del individuo --- PAGINA 2 --- 23 AC - 010 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 77,
+            "enunciado": "Durante el Renacimiento italiano, los artis- tas concibieron órdenes ideales del hombre y del mundo en todos sus aspectos. Con tal finalidad, utilizaron entre otras herramientas la matemáti- ca para estudiar las leyes de la perspectiva en la representación del mundo y la anatomía para estudiar la construcción del cuerpo. Por esta ra- zón se hicieron reconocer como poseedores de la verdad al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "presentarse como inspirados por los dio- ses"
+                },
+                {
+                    "letra": "B",
+                    "texto": "explorar todos los misterios de la Natura- leza y del hombre"
+                },
+                {
+                    "letra": "C",
+                    "texto": "orientarse predominantemente hacia el conocimiento científico"
+                },
+                {
+                    "letra": "D",
+                    "texto": "realizar el arte por propia iniciativa"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 78,
+            "enunciado": "Frente al conócete a tí mismo, afirmado por el método socrático y que se funda en el diá- logo para llegar a conocimientos verdaderos, los sofistas plantean que ese conocimiento verda- dero se da gracias a la ley natural del mundo, por encima de la ley humana y cuando se rompe esta ley lleva al sofista a replantear sus conocimien- tos si van en contra de ella. La crítica de Sócrates a los sofistas se da, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la ley humana depende de la ley natural, por lo tanto, todo conocimiento está ligado a ella"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existe una verdad universalmente válida que los sofistas pretenden desconocer"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el hombre es el ser que accede al conoci- miento y conocer la verdad depende de su razón"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los sofistas reconocen en la ley natural la fuente de todo conocimiento existente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 79,
+            "enunciado": "En ética por lo general se define la voluntad como una disposición moral supeditada a la ra- zón. Sin embargo, Schopenhauer estima que la voluntad es la fuerza por la que todo lo viviente y lo no viviente puede existir y obrar. Para él, la razón no es un rasgo de la voluntad, porque la razón es por completo ajena a las decisiones de la voluntad. De aquí se infiere que para Schopenhauer",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "podemos engañarnos al intentar explicar la conducta por motivos racionales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la voluntad es el impulso de existencia de todo lo real"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es correcta la definición tradicional de vo- luntad, ya que su lectura es ontológica"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se incluyen los motivos racionales dentro de su teoría voluntarista"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 80,
+            "enunciado": "Si se afirma que no hay diferencia entre una máquina y el cuerpo de un animal porque las partes de uno y de otro, como los nervios o la memoria, funcionan de forma semejante y por lo tanto, pueden ser reemplazados por partes artifi- ciales y si se sostiene que el cuerpo del animal y el cuerpo del hombre son similares en sus fun- ciones, pues ambos están determinados por un proceso mecánico, se concluiría entonces, que no habría forma de diferenciarlos. Sin embargo, su diferencia sería aclarada si se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "afirma que el hombre es sensibilidad y pensamiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "reconoce al lenguaje como propio del hom- bre"
+                },
+                {
+                    "letra": "C",
+                    "texto": "propone al alma como prueba de la exis- tencia humana"
+                },
+                {
+                    "letra": "D",
+                    "texto": "plantea que el alma es libre y el cuerpo dependiente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 81,
+            "enunciado": "En la medida en que la metafísica es la ciencia del ser en cuanto ser, se interesa por un concepto y no por una cosa. Esta afirmación puede llevar a pensar que el concepto de ser, en cuanto es abstracto, es algo misterioso que debe ser conocido por el hombre antes de que pueda conocer seres particulares, pues dichos seres son una simple participación de él. Sin embargo, esta interpretación cambia si aceptamos al igual que Ockham que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el concepto general de ser es unívoco y se predica de todas las cosas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las cosas existen sin necesidad de participar del concepto de ser"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el conocimiento del concepto ser es posterior al conocimiento de las cosas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el concepto general de ser lleva implícito las cosas particulares --- PAGINA 3 --- 24 AC - 010 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 82,
+            "enunciado": "Para Descartes el error no sólo está en la intervención de la voluntad que lleva al entendi- miento a juicios apresurados, sino está en los sen- tidos que pueden presentar una imagen falsa de la realidad. Por lo tanto, se podría pensar que Descartes propone un olvido total del hombre. Sin embargo, Descartes neutraliza esta lectura de su planteamiento al afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en el proceso del conocimiento se debe partir de simplificar las ideas complejas en ideas simples para asegurar un progreso en el mismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el hombre debe suspender el asentimiento hasta que el entendimiento vea con clari- dad y distinción la idea que se le presenta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "en el camino del conocer se deben tener ideas claras y distintas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "debe dejarse de lado toda idea incompren- dida por el entendimiento"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 83,
+            "enunciado": "El problema epistemológico sobre la natu- raleza de la vedad encuentra una de sus posi- bles soluciones en la doctrina denominada teo- ría de la correspondencia, que concibe la verdad como relación concreta entre la proposición y su objeto. Se puede concluir que para esta teoría, la verdad",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se halla en la capacidad subjetiva que com- prende todo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "está acompañada de una proposición que se retrata en un hecho"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es la identidad total entre el sujeto que conoce y el objeto conocido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se encuentra a partir de las ideas innatas que posee el ser humano"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "Para Descartes el hombre es un compues- to de cuerpo y alma, de pensamiento y extensión que ha sido creado a imagen y semejanza de Dios a pesar de encontrarse en la duda y el error. Por lo tanto, la idea de Dios ha llegado a la men- te humana a pesar de su finitud, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ha sido impresa en su alma como un sello indeleble"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el hombre participa del pensamiento y la existencia de Dios, porque ha sido creado por él"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Dios es el principio y fundamento último de la esencia y existencia del hombre y el mundo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el hombre reconoce a Dios en la medida en que reconoce su existencia"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 85,
+            "enunciado": "La forma de vida de los filósofos cínicos se caracterizaba porque rechazaban radicalmente las normas sociales consagradas por la tradición. En efecto, iban desnudos por la calle, se mas- turbaban o hacían el amor en público, no tenían casa ni propiedades y vivían sin preocuparse por el futuro. Todo esto lo hacían porque preferían vivir de un modo natural, como los animales, an- tes que someterse a los convencionalismos so- ciales. Frente a la forma de vida de los cínicos es posible proponer una forma de vida alternativa en la que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la sociedad respeta los límites de la natu- raleza en el ejercicio de su poder"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las cualidades naturales del hombre se combinan con normas creadas para su per- feccionamiento"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los hombres se abstienen de crear normas cuyo sentido esté orientado hacia lo inma- terial"
+                },
+                {
+                    "letra": "D",
+                    "texto": "lo importante para los seres humanos no es la convivencia sino el respeto de los valores sociales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 86,
+            "enunciado": "La tradición ontológica ha enfrentado siem- pre dos concepciones de la realidad como lo son la permanencia y el movimiento. En el diálogo El Sofista de Platón se plantea en un primer mo- mento lo siguiente: decir que todo se mueve, identifica al ser con el movimiento; decir lo con- trario es identificarlo con la inmovilidad y el repo- so. Esto quiere decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el ser es móvil, y por lo tanto la realidad está en continuo cambio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el ser es mutable y por ello la realidad se desarrolla constantemente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el ser tiene como manifestaciones la diná- mica y lo estático"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el ser es inmóvil, por lo cual la realidad es estática"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 87,
+            "enunciado": "Kant al hablar del juicio estético o juicio de gusto pone a la base del mismo al sentimiento. El sujeto se relaciona con el mundo a través del placer que le permite sentirse vivo, sentirse en el mundo. Con la estética se desarrolla la capaci- dad de compartir con el mundo, de interactuar con el mundo a través del sentimiento. Por esta razón la estética",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se convierte en mediadora y posibilitadora de la relación hombre mundo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "es ciencia de lo bello y permite al hombre refinar sus sentidos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se especializa en encontrar lo bello que hay en el mundo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "habla de lo bello y refina la capacidad de juzgar eso bello del mundo --- PAGINA 4 --- 25 AC - 010 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 88,
+            "enunciado": "Según los estoicos, un acto solamente per- tenece al ámbito de la moral, es decir, puede ser bueno o malo, cuando depende de nuestra deci- sión. Los actos que no dependen de nosotros son indiferentes para la moral. De acuerdo con esta noción es posible afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el acto de suicidarse tiene un significado que escapa a la autoridad de la moral"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la escuela estoica jamás admitió la posibi- lidad del suicidio como algo válido"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el hombre que se quita la vida desconoce los principios morales del estoicismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la muerte deja de ser indiferente y se con- vierte en moral mediante el suicidio"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 89,
+            "enunciado": "Frente a la ética estoica que se basa en la renuncia a los placeres del mundo y en el some- timiento al destino, aceptándolo y viviéndolo, el epicureísmo dice que a la felicidad se llega a tra- vés del placer espiritual, único medio que lleva al hombre al conocimiento de sí mismo. Por lo tan- to, la ética estoica es desestimada por Epicuro, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los placeres hacen parte de la naturaleza humana y por tanto, debe tenerse en cuen- ta al momento de pensar la felicidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "para lograr la autosuficiencia es necesario el conocimiento de las debilidades huma- nas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los placeres para Epicuro son la base de la felicidad del hombre"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el placer es el que brinda al espíritu el auto- conocimiento y la autosuficiencia que el hombre necesita"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 91,
+            "enunciado": "Heráclito basa la teoría de la generación del ser y del no ser en un logos que es el principio universal de todo lo existente y por lo tanto su fundamento. Este razonamiento se basa en que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la razón universal se concibe como un prin- cipio activo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el movimiento de la naturaleza depende de la razón universal"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el orden en el cosmos depende del princi- pio universal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el logos posibilita el ser y no ser de cada elemento de la naturaleza"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 92,
+            "enunciado": "La existencia de la divinidad se ha expresa- do de diversas maneras, en el monismo ontológico se concibe la existencia de un solo Dios, mientras que el pluralismo ontológico sos- tiene la creencia en múltiples deidades. En este sentido, es posible afirmar que el monismo ontológico es un planteamiento más evolucionado que el pluralismo en cuanto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la unidad que plantea el monismo permite realizar más fácilmente la generalidad pro- pia de la ontología que el pluralismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las manifestaciones de la divinidad son es- tudiadas por el monismo y pluralismo onto- lógico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el Pluralismo ontológico se contrapone a la forma unitaria de lo absoluto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la evolución de un planteamiento frente al otro se da al interior de un contexto y de una historia de la humanidad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 90,
+            "enunciado": "Frente a la oposición entre la razón y los sentidos como fundamento del conocimiento planteada entre racionalistas y empiristas respec- tivamente, Kant realiza una nueva lectura en fun- ción de los elementos presentes en la cognición cuando dice sólo conocemos de las cosas lo que nosotros mismos ponemos en ellas. De esta manera supera dicha disputa al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "indagar las condiciones necesarias para construir una ciencia verdadera"
+                },
+                {
+                    "letra": "B",
+                    "texto": "invertir la forma de concebir el problema del conocimiento"
+                },
+                {
+                    "letra": "C",
+                    "texto": "realizar un examen analítico de las posibi- lidades reales de conocer"
+                },
+                {
+                    "letra": "D",
+                    "texto": "postular lo trascendental como condición de posibilidad de conocimiento"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 93,
+            "enunciado": "Según Descartes el hombre tiene dos me- dios para diferenciar un conocimiento verdadero de un conocimiento falso. En primer lugar cuenta con el entendimiento donde sólo se conciben las cosas que se pueden afirmar o negar. En segun- do lugar tiene la voluntad, pues ella es la facultad libre que tiene el hombre de juzgar o de elegir qué conocimiento es verdadero o falso. De lo anterior se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la posibilidad que tiene la voluntad de ele- gir lo verdadero de lo falso lleva al hombre a juzgar erróneamente un conocimiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el entendimiento y la voluntad participan en el acto de conocer en la medida en que estos elementos conducen al hombre a las certezas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la voluntad conduce al hombre a decidir qué conocimiento es verdadero o falso sin haberlo sometido a un análisis del enten- dimiento"
+                },
+                {
+                    "letra": "D",
+                    "texto": "entendimiento y voluntad son facultades que están sometidas a la finitud y por tan- to a la imperfección humana --- PAGINA 5 --- 26 AC - 010 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "El motivo central de la pintura de Caballero es el cuerpo. Para él, el cuerpo es todo, pues está cargado de todo lo que es significativo. Sólo cuando dibuja un cuerpo se siente implicado de manera casi carnal, él pinta cuerpos para sentir el propio y así, en el momento de pintarlos todo se confunde y se mezcla. La pintura de Caballe- ro, al estar cargada de tantas intensidades se aleja de lo meramente representativo, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las formas del cuerpo son plasmadas des- de todos sus ángulos posibles"
+                },
+                {
+                    "letra": "B",
+                    "texto": "lo que le interesa a Caballero es plasmar sus emociones a todo nivel"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el cuerpo pintado es el cuerpo propio sen- tido visceralmente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cuerpo pintado es aquello que surge del conocimiento de la propia anatomía"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 96,
+            "enunciado": "Frente a la teoría de Platón que dice que el hombre es un compuesto de cuerpo y alma la cual está encarcelada dentro del cuerpo, Aristóteles dice que el cuerpo y el alma constitu- yen una unidad donde se plantea una correla- ción constante entre ellos. Por lo tanto, la sepa- ración entre Platón y Aristóteles se da, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "para Platón el cuerpo tiene un sentido pe- yorativo, mientras que para Aristóteles el cuerpo es una fuente de movimiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el compuesto de cuerpo y alma en Platón diferencia estos dos elementos que perte- necen a naturalezas distintas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "para Platón cuerpo y alma son dos entida- des diferentes, en tanto para Aristóteles éstas están en continua relación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "para Platón el conocimiento se da sólo a través del alma, para Aristóteles se nece- sita el cuerpo y el alma para acceder al conocimiento"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 95,
+            "enunciado": "En la modernidad, el problema de la exis- tencia de Dios dio un giro frente a la tradición on- tológica anterior. En efecto, Spinoza expone una visión panteísta de la realidad en la que el uni- verso es idéntico a Dios y donde cada cosa con- tiene la sustancia de Él. Por su parte Nietzsche postula en varios apartados de su obra, la muer- te de Dios dentro de su crítica a la metafísica, toda vez que encubre una intencionalidad del pensamiento. Es correcto plantear que el ateís- mo de Spinoza es retomado y radicalizado por Nietzsche al afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la filosofía escéptica de Nietzsche radica- liza la crítica a la idea de toda teleología e idea de causalidad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Spinoza plantea la presencia de Dios en todas las cosas de la naturaleza, lo cual sugiere una forma de ateísmo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Nietzsche recurre a los argumentos pan- teístas de Spinoza para argumentar la im- posibilidad de un Dios"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el concepto de Sustancia o Dios en Spi- noza se plantea como natura naturans es decir la naturaleza que crea todo lo demás"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 97,
+            "enunciado": "En el período grecorromano los filósofos, a excepción de los neoplatónicos, se preocuparon por hallar una regla de conducta humana que pro- porcionara el equilibrio de las pasiones. Así, los estoicos sostuvieron que el bienestar del hom- bre consiste en dominar todo aquello que pueda perturbar su paz. Es decir que para los estoicos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la vida humana es un constante esfuerzo voluntario en busca de ser mejor"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los hombres poseen una entereza de ca- rácter que acepta los padecimientos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la acción humana tiene como objetivo ha- cer todo por amor al deber"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el hombre debe controlar el libre ejercicio de sus pasiones --- PAGINA 6 --- 27 AC - 010 - 114 I PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA ( TIPO IV ) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación. EJEMPLO Y Bacon determinó la esencia o forma del calor después de señalar un cierto número de casos en que aparece el calor, otros en los cuales no aparece el calor, otros en los que varía. Esto significa que el método baconiano consiste en"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 1,
+            "enunciado": "un axioma o principio que parte de casos particulares y permite avanzar hacia otros casos particulares",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "una generalización por la cual se establecen afirmaciones sobre todas las entida- des de una clase",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "una teorización especulativa, sobre los fenómenos que carecen de demostración o prueba empírica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "una construcción que parte de los sentidos y cosas particulares y asciende hasta las leyes La respuesta correcta es D y así deberías marcarla en su Hoja de Respuestas: Y :",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 98,
+            "enunciado": "Según Platón, son los deseos y las pasiones del cuerpo los que ocasionan estados de desorden y de inquietud en el alma de los hombres. En consecuencia, sólo mediante una continua disciplina espiri- tual puede el hombre sabio dominar sus apetitos carnales y alcanzar la serena contemplación de las ideas puras. Esto se explica porque según Platón sólo el sabio",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "tiene en su poder las herramientas teóricas para la felicidad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "es capaz de someter sus impulsos corporales al dominio de la razón",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "tiene la fortaleza anímica necesaria para sujetar sus instintos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "es capaz de persuadir a sus semejantes de construir la armonía social",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 99,
+            "enunciado": "Para los cínicos el bien del hombre consiste en vivir solo, sin familia ni patria para alcanzar su felicidad que la obtiene mediante la supresión de las necesidades. Esto los llevó a despreciar el bienes- tar, las riquezas, los honores, el amor y todo aquello que pudiera hacerlos dependientes de algo o de otro. De lo anterior podemos deducir que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la felicidad del hombre significa dejar de lado cualquier elemento que sugiera un lazo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la autarquía que significa vivir con sus propios recursos es el ideal de vida para un cínico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "los reconocimientos sociales impiden que el hombre se desarrolle como tal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el amor, el bienestar y los demás placeres impiden que el hombre alcance su felicidad --- PAGINA 7 --- 28 AC - 010 - 114 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 100,
+            "enunciado": "Escribe Pascal: Dado que no podemos ser universales y saber todo lo que es posible saber sobre todo, es preciso saber un poco de todo. Porque es mucho mejor saber algo de todo que saberlo todo acerca de una cosa; esta uni- versalidad es lo mejor. Si pudiéramos tener am- bas cosas sería aún mejor; pero al tener que es- coger, hay que escoger aquélla. De acuerdo con esto, el hombre tiene que escoger como forma de conocimiento aquella que le permita conocer muchos temas aunque no logre profundizar en ninguno. Tal actitud es muy aconsejable, porque si un hombre profundiza demasiado en un único tema y descuida los demás",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "llega a darse cuenta de la imposibilidad de tener un conocimiento universal sobre la existencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "tiene que replantear su tema de investiga- ción y perder la información recolectada previamente",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "puede caer en el error de creer que el suyo es el único tema importante que existe en el mundo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "corre el peligro de convertirse en un espe- cialista incapaz de orientarse en otros te- mas diferentes",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 101,
+            "enunciado": "Para San Agustín, el Mal no existe, sola- mente existe el Bien, y lo que llamamos Mal es la ausencia de Bien. El Marqués de Sade, por su parte, opina que el Mal es la fuerza cósmica su- prema, frente a la cual el Bien es apenas un pá- lido reflejo. Ante estas posiciones radicalmente contradictorias, una posible teoría alternativa acerca de la esencia del Bien y el Mal será aque- lla que afirma",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la capacidad del Mal para reducir lo bueno a su mínima expresión emocional",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el carácter irreductible del Bien frente a las cosas malas que hay en la vida",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la imposibilidad de concebir el Bien o el Mal sin comparar el uno con el otro",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el hecho de que el Bien y el Mal son igual- mente necesarios en la existencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 103,
+            "enunciado": "Hobbes sostiene que la libertad significa ausencia absoluta de impedimentos externos al hombre que entorpecen el desarrollo de su po- der. Sin embargo, ésta debe ser controlada y limitada por el Estado, porque ella permite que las pasiones como el miedo y la desconfianza conduzcan al hombre a la guerra y por lo tanto, a terminar con su vida. De esta forma, los hom- bres deciden que su libertad sea coartada por el Estado, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "ellos confían en que el Estado les librará de una muerte violenta",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la libertad absoluta impide que ellos vivan con tranquilidad y gocen de sus bienes",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la libertad hace que se vean entre sí como obstáculos para desarrollar su poder",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el origen de la lucha es la libertad y el de la paz es la limitación mediante normas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 104,
+            "enunciado": "Aristóteles al concebir la retórica como arte, la separa de la lógica y de la dialéctica pero al mismo tiempo la entiende vinculada a ellas. Afirma que está basada en principios lógicos y dialécticos que le permiten ser arte y la señala como dominio específico no de lo verdadero sino de lo verosímil, de suerte que el orador debe sos- tener el pro y el contra. Esta concepción de la retórica se explica, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la retórica requiere de la referencia es pecífica a una vasta cultura filosófica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el orador posee un razonamiento que lle- va de la retórica hacia la dialéctica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Aristóteles establece una distinción entre razonamiento dialéctico y razonamiento de mostrativo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la retórica se centra en el estudio de los temas del discurso y de los medios lógi- cos de persuación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 105,
+            "enunciado": "Kant afirma que el hombre actúa por bue- na voluntad siempre y cuando su obrar esté orien- tado e inspirado en el deber. Este deber no debe ser motivado por conveniencias o castigos so- ciales sino que debe ser un querer puro, convir- tiéndose en la única ley moral que proviene de la razón y debe obedecer a la voluntad para ser buena. De lo anterior se concluye que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la moral kantiana permite que en el actuar, el hombre se diferencie de otros seres vi- vos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la moral humana se basa en el libre uso de la buena voluntad y del deber",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el hombre obra de manera libre cuando actúa bajo la buena voluntad y el deber",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el deber por el deber evita cualquier ac- ción manipulada por premios o por casti- gos sociales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 102,
+            "enunciado": "Para Kant, al conocimiento a priori inde- pendiente de la experiencia se le opone el empí- rico o aposteriori, como un conocimiento menor en la medida en que no es universal ni necesa- rio. Cuando pregunta sobre cuál es el alcance del conocimiento a priori, distingue los juicios sin- téticos de los analíticos. Su genialidad se evi- dencia al postular los juicios sintéticos a priori mediante los cuales puede construirse una ver- dadera ciencia. De esta manera supera la ten- sión entre racionalismo y empirismo cuando afir- ma que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "todo lo que sucede posee una causa",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "todas las proposiciones matemáticas son juicios sintéticos a priori",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la verdad depende del principio de la exis- tencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el principio de contradicción es determinan- te a la hora de hacer ciencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

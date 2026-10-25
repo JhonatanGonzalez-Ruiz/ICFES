@@ -1,0 +1,1423 @@
+{
+    "archivo_origen": "Geografía.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Geografía",
+    "total_paginas": 9,
+    "total_preguntas_detectadas": 75,
+    "preguntas": [
+        {
+            "numero": 71,
+            "enunciado": "Las diversas técnicas de regadío en los cultivos permiten un manejo adecuado de algunas propie- dades del suelo, porque se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "controla la humedad del suelo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "asegura totalmente la distribución de agua para todas las plantas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "concentra una mayor cantidad de nutrientes en el suelo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mantienen las reservas de agua subterránea"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 72,
+            "enunciado": "El gráfico muestra un proceso de contaminación de aguas subterráneas. Una opción económicamente viable para reducir la contaminación en el pozo, y así poder utilizar el agua, sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "profundizar el nivel freático del terreno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "importar el agua de otra cuenca hidrográfica"
+                },
+                {
+                    "letra": "C",
+                    "texto": "construir una planta de tratamiento de aguas contaminadas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "minimizar la infiltración de contaminantes líquidos al acuífero Teniendo como referencia el mapa, la concertación y consolidación de los lími- tes marítimos de Colombia en el Caribe debería hacerse a través de negociacio- nes bilaterales con países como"
+                },
+                {
+                    "letra": "A",
+                    "texto": "Venezuela, Panamá y Honduras"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Nicaragua, Jamaica y Venezuela"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Haití, Nicaragua y Venezuela"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Venezuela, Costa Rica, Puerto Rico e Islas Caimán"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 73,
+            "enunciado": "--- PAGINA 2 --- 18 AC - 001 - 116 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 75,
+            "enunciado": "Si se presenta una erupción volcánica con un importante aporte de ceniza, los efectos a lar- go plazo sobre la relación suelo - vegetación se- rían",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor fertilidad debido a los minerales que posee la ceniza"
+                },
+                {
+                    "letra": "B",
+                    "texto": "menor fertilidad debido a la reducción de la insolación por efecto de la ceniza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menor fertilidad, porque las cenizas taponan los conductos vasculares de las plantas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mayor fertilidad, porque las cenizas esti- mulan la formación de nubes de lluvia"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 76,
+            "enunciado": "Las rocas de origen deposicional marino se forman después de haber pasado por un proce- so de compactación en el que interactúan dife- rentes fuerzas y fenómenos geológicos. Es de esperar entonces, que en este tipo de roca pre- dominen las características propias de las forma- ciones",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sedimentarias"
+                },
+                {
+                    "letra": "B",
+                    "texto": "metamórficas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "estrato-volcánicas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "estrato-cristalinas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 77,
+            "enunciado": "Respecto al poblamiento precolombino de los Llanos Orientales en Colombia, Rausch (1994), afirma que «algunas técnicas de super- vivencia de las comunidades, tales como la agri- cultura de roza y la quema de praderas para fa- cilitar la caza y movilización a pie, eran des- tructoras del medio ambiente. Aún así, la pre- sencia humana durante miles de años en los lla- nos no tuvo un efecto perjudicial en el medio am- biente». De acuerdo con el anterior texto se concluye que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los indígenas no ocasionaron impactos en el medio ambiente de los llanos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "en los asentamientos indígenas pudo man- tenerse el equilibrio del medio ambiente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "si los indígenas hubieran mantenido más tiempo sus técnicas, habrían ocasionado daños ambientales severos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los indígenas sólo se dedicaban a activi- dades que no afectaban al medio ambien- te La situación mostrada en el mapa acerca de las divisiones territoriales en el Africa son el resul- tado de"
+                },
+                {
+                    "letra": "A",
+                    "texto": "la ocupación y radicación de gran una cantidad de europeos en África, desde finales del siglo XIX hasta principios del siglo XX"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los estímulos que dieron los europeos, desde finales del siglo XIX, al desarrollo de Africa con la explotación de sus recursos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la implementación, de hecho, de una política y estrategia neocolonial, por parte de las potencias mundiales durante los siglos XIX y XX"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un proceso de demarcación, por parte de los europeos, de las fronteras de las naciones africanas durante los siglos XIX y XX para el establecimiento de la democracia"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 74,
+            "enunciado": "--- PAGINA 3 --- 19 AC - 001 - 116 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 81,
+            "enunciado": "En Colombia se han incrementado drásticamente las áreas de producción ganade- ra sin tener en cuenta la aptitud del suelo. Es así como, las áreas potencialmente aptas para la agri- cultura se han destinado a la ganadería. De con- tinuar esta tendencia, es posible esperar una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sobreproducción de cabezas de ganado que inestabilizaría el mercado nacional"
+                },
+                {
+                    "letra": "B",
+                    "texto": "revalorización del campo, al desarrollarse una producción pecuaria intensiva"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor erosión de los suelos por el incre- mento de los pastizales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mayor biodiversidad, debido al incremen- to de material orgánico en los suelos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 83,
+            "enunciado": "En Colombia existen varias áreas con alta biodiversidad. Dichas áreas se ubican en la Sie- rra Nevada de Santa Marta, el Chocó biogeográfico, el Catatumbo y la Amazonia, en- tre otras. En el contexto del desarrollo sosteni- ble, una actividad básica para desarrollarse en estas áreas, debería encaminarse a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "explotar la riqueza de fauna y flora para fomentar el comercio de especies e incre- mentar el desarrollo económico del país"
+                },
+                {
+                    "letra": "B",
+                    "texto": "facilitar la incursión de multinacionales de fármacos para que ellas obtengan paten- tes que beneficien a la humanidad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "establecer y consolidar el sector turístico en masa aprovechando la alta demanda- da internacional de estos escenarios"
+                },
+                {
+                    "letra": "D",
+                    "texto": "fomentar la investigación de las áreas biogeográficas incorporando el saber po- pular sobre el manejo de estos recursos naturales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 82,
+            "enunciado": "La zona del oriente medio ha sido impor- tante para la economía mundial puesto que en esta región hay",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un conflicto religioso entre católicos y mu- sulmanes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una oferta importante de hidrocarburos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un conflicto político entre Irak y Estados Unidos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una comercialización de productos de Irak, Israel y Yemen por medio del canal de Suez"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 79,
+            "enunciado": "En Colombia aparte de presentarse el fe- nómeno del desplazamiento forzado, existen también los desplazados ambientales (Márquez, 2002). En los lugares de origen se presentan usos inadecuados de los recursos que incremen- tan la pobreza, favoreciendo las migraciones en búsqueda de mayores posibilidades de supervi- vencia y calidad de vida. Las razones que expli- carían este tipo de desplazamiento son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el marcado proceso de urbanización e in- dustrialización que ha provocado el dete- rioro de los recursos y de los ecosistemas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los usos intensivos del espacio habitado, el aumento de la erosión y la alteración y agotamiento de los recursos naturales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el conflicto armado que está destruyendo el potencial biótico de las regiones y que contribuye a reforzar los desplazamientos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los cambios de actividades económicas al pasar de una agricultura tradicional a acti- vidades agroindustriales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 80,
+            "enunciado": "La elaboración, por un grupo de investiga- dores, de un plan de manejo ambiental en la zona del eje cafetero, tuvo en cuenta el aprovecha- miento racional de sus recursos naturales por- que dependiendo de la utilización de éstos, se puede",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "beneficiar la población de Antioquia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mantener la sostenibilidad de Armenia, Pereira y Manizales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "condicionar definitivamente el uso del suelo en la región"
+                },
+                {
+                    "letra": "D",
+                    "texto": "contribuir al crecimiento económico del país"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 78,
+            "enunciado": "Una de las principales problemáticas que afronta la planeación urbana de las ciudades la- tinoamericanas radica en la dificultad de abaste- cer de agua a sus habitantes; especialmente en los barrios considerados como marginales. Frente a esta problemática seria recomendable",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "reubicar los barrios que no pagan el servi- cio de acueducto y alcantarillado"
+                },
+                {
+                    "letra": "B",
+                    "texto": "consolidar las empresas privadas y esta- tales que prestan el servicio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "confrontar las proyecciones de crecimien- to de la ciudad con la oferta hídrica regio- nal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "importar el recurso hídrico de otras regio- nes y utilizar aguas subterráneas --- PAGINA 4 --- 20 AC - 001 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 87,
+            "enunciado": "Alfredo Vanín, un habitante del pacífico colombiano explica que: \"Si a alguien se le pregunta, De dónde eres tú, dice yo soy del río Chagüí, aquí en Nariño o yo soy del río Saijá en el Cauca. Mas que hablar de su pueblo, primero es el río\" Cuadernos de Geografía. Volumen VII. 1998. Según lo declara Alfredo Vanín para los habitantes del pacífico colombiano",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el río es la referencia geográfica más inmediata"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las orillas de los ríos se constituyen en su hogar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "su origen está en los ríos Chagúí y Saijá"
+                },
+                {
+                    "letra": "D",
+                    "texto": "es más importante el río que el pueblo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 86,
+            "enunciado": "La gráfica muestra la relación entre la precipita- ción y la evaporación en el municipio de Duitama (Boyacá), durante un año. En los períodos de ene- ro a marzo y julio a agosto se presenta escasez de agua en el suelo, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la precipitación ha disminuido con la des- trucción de la capa de ozono"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la evaporación es mayor a la precipitación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la evaporación aumenta en forma exponencial"
+                },
+                {
+                    "letra": "D",
+                    "texto": "generalmente este lugar es desértico"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 85,
+            "enunciado": "La sinuosidad de un río es la relación que existe entre la longitud del cauce de un río y la distancia que recorrería si éste fuera recto (ver en la figura línea 1-2). Según la figura el tipo de río más sinuoso es el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "torrencial"
+                },
+                {
+                    "letra": "B",
+                    "texto": "trenzado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "meándrico"
+                },
+                {
+                    "letra": "D",
+                    "texto": "recto"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 84,
+            "enunciado": "\"Los llanos son una compleja región que brinda enorme diversidad dentro de un medio ambiente donde se combinan los bosques tropicales y las planicies. En épocas precolombinas, las variaciones temporales con respecto al clima, la fertilidad del suelo y los recursos animales produjeron un número de culturas interdependientes y relacionadas\". Jane Rausch, 1994: Los llanos de Colombia: una frontera de la sabana tropical 1531-1831 Respecto a la apropiación social de los llanos y según el texto expuesto anteriormente, se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la diversidad de ambientes de los llanos está representada por variaciones en el clima, los suelos y los recursos naturales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la diversidad del medio ambiente de los llanos tuvo poca influencia en la diversidad cultural actual"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la diversidad cultural de los llanos está relacionada con la diversidad de sus condiciones ambien- tales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el clima, la fertilidad del suelo y los recursos animales influyen en la diversidad del medio ambien- te --- PAGINA 5 --- 21 AC - 001 - 116 I Según el gráfico, un proyecto para la construcción de vivienda de interés so- cial, teniendo en cuenta el precio y uso del suelo, debería ubicarse en"
+                },
+                {
+                    "letra": "A",
+                    "texto": "4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "3 y 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "5 y 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 88,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 89,
+            "enunciado": "Los coremas son esquemas que representan de manera sintética el espacio geográfico a partir de figuras geométricas, convirtiéndose en un nuevo lenguaje que incluye la forma del mapa y el significado de lo que se quiere representar. De las siguientes figuras, la que mejor reproduce el territorio de Colom- bia, tomando como referente a sus principales ciudades sería",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 91,
+            "enunciado": "En las últimas décadas del siglo XX y en la que se inicia del siglo XXI se ha incrementado el desarrollo de los medios de comunicación y transporte, facilitando los contactos y desplazamientos a larga distancia. Paralelo a ello se da la reafirmación o pérdida de identidad por parte de algunos grupos humanos. En esta afirmación se hace referencia al fenómeno de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el neoliberalismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la globalización"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el ultraliberalismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la comercialización salvaje"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 90,
+            "enunciado": "La gráfica representa el flanco de la montaña en el que los rayos solares le llegan directamente duran- te la mayor parte del día. En consecuencia es el flanco que presenta",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor evaporación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "menor infiltración"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menor precipitación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mayor escorrentía --- PAGINA 6 --- 22 AC - 001 - 116 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 92,
+            "enunciado": "En las regiones donde se hace explotación petrolera se produce una especialización económica regional debido a que la mayoría de los ingresos empiezan a provenir de esa actividad. Para Colombia, en general, cuando termina la explotación se deprimen algunas actividades que aparecieron con ella y los presupuestos de la región bajan por depender de las regalías. Para que esta situación no afecte la dinámica económica de la región sería recomendable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "no se descuiden las demás actividades económicas tales como la agricultura, ganadería y el comercio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "gobiernos locales destinen mejor las regalías, obtenidas con la explotación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no se apoye la explotación de este recurso por parte del Estado"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se aproveche el recurso en las regiones y que se explote a riesgo de los municipios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 93,
+            "enunciado": "El proceso de urbanización en algunas ciudades del mundo tiene como características el alto número de migrantes de origen rural. Esto ha generado lo que se conoce como \"ruralización de la ciudad\", entendida como una combinación de estilos de vida urbanos y rurales. Desde el punto de vista del uso del suelo la \"ruralización de la ciudad\" se evidencia en la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "construcción de viviendas de tipo campesino"
+                },
+                {
+                    "letra": "B",
+                    "texto": "presencia de un uso mixto: residencial, cría de animales y pequeñas huertas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "práctica agrícola de los residentes de los barrios ilegales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ocupación de terrenos de carácter privado para la urbanización"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 94,
+            "enunciado": "Simultáneamente con la mundialización de la economía está teniendo lugar un proceso de regionalización económica, es decir, de creación de bloques económicos que ligan a una serie de paí- ses que comparten un proyecto de este tipo. Entre éstos se cuenta la Unión Europea, Mercosur y la Comunidad Andina de Naciones, cuya principal finalidad es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "fomentar las relaciones comerciales y políticas entre sus miembros para formar alianzas estraté- gicas regionales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "promover la estabilidad de las monedas de los distintos países y financiar proyectos de desarrollo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "expandir la economía en la región y mejorar el nivel de vida de la población en los países miem- bros"
+                },
+                {
+                    "letra": "D",
+                    "texto": "tener mayor ingerencia en la vida política y económica de los países que no pertenecen al bloque"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 95,
+            "enunciado": "El gráfico representa una erupción volcánica. Algunas de ellas pueden proyectar su emisión de polvo, gases y cenizas hasta altitudes de 30 y 50 kilómetros; ele- mentos que pueden quedar suspendidos en la tropósfera y la estratósfera inferior durante largos pe- ríodos de tiempo. A partir de la interpretación del grá- fico se puede proponer que se presentará",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una disminución leve de la temperatura a esca- la regional"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una contaminación de las aguas continentales afectando todo el planeta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un reforzamiento del efecto invernadero en el planeta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un deterioro más rápido del agujero de ozono --- PAGINA 7 --- 23 AC - 001 - 116 I PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA - (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los núme- ros 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la res- puesta correcta de acuerdo con el cuadro que aparace a continuación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 96,
+            "enunciado": "La figura representa el comportamiento de la tem- peratura y la presión atmosférica en nuestro pla- neta. Con esta información se puede afirmar que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el comportamiento de estas dos variables muestra que a mayor altura corresponde una menor presión y menor temperatura",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "a medida que ascendemos en la tropósfera, la densidad, la presión del aire y la temperatura disminuyen con rapidez",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la presión atmosférica y la temperatura del planeta están determinadas por la capa de ozono de la estratósfera",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "un factor que incide en la diferencia térmi- ca de dos ciudades como Barranquilla y Bogotá es la variación altitudinal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 97,
+            "enunciado": "De acuerdo con el mapa, el deterioro que presenta la cuenca de la laguna de Suesca en Cundinamarca, se explica por",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "un acelerado proceso de se- dimentación y eutroficación del espejo de agua",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la pérdida de la cobertura vegetal y de la capa super- ficial del suelo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "los cambios climáticos loca- les que provocan la dismi- nución de lluvias en la cuen- ca",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los densos procesos de ur- banización que se presentan al sur de la cuenca --- PAGINA 8 --- 24 AC - 001 - 116 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 98,
+            "enunciado": "La fotografía aérea es una herramienta para la interpretación de la superficie terrestre. Con ella podemos identificar las diferentes unidades de uso del suelo a partir de los colores, patrones y las figuras geométricas que conforman la imagen. En una zona urbana, este tipo de herramienta sería aprovechable para identificar",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "viviendas y parques recreacionales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "infraestructura vial y equipamiento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "quebradas y cultivos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "redes de servicios públicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 99,
+            "enunciado": "La alta emisión de gases y partículas contaminantes en las áreas urbanas ha provocado efectos negativos sobre la salud humana. Una propuesta de mitigación eficaz para esta problemática debería contemplar la",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "creación de multas a las fuentes emisoras y receptoras de contaminantes o en su defecto la cancelación de los permisos de funcionamiento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "reubicación paulatina de los corredores industriales hacia zonas perifericas, en las que se dismi- nuya el impacto a la ciudad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "puesta en práctica de tecnologías limpias, al igual que la capacitación en el manejo y prevención de contaminantes en suspensión",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "anexión a la Organización Mundial de la Salud para conocer las restricciones y recomendaciones en el manejo de contaminantes atmosféricos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 100,
+            "enunciado": "En las áreas periféricas de las grandes ciudades se han generado una gran cantidad de barrios de invasión, debido en parte al proceso de desplazamiento forzado de la población en muchas regiones de Colombia. En la mayoría de estos barrios las condiciones de vida son muy precarias, entre otras razones, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "están muy alejados del centro de la ciudad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "no existen servicios públicos o son insuficientes",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "prácticamente no existe la presencia estatal",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "frecuentemente se ubican en áreas de amenazas naturales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 101,
+            "enunciado": "Los Estudios de Impacto Ambiental (E.I.A.) son instrumentos de planificación y gestión, con los cuales se busca identificar los impactos ambientales negativos y positivos que puedan derivarse al establecerse una actividad económica en un lugar determinado. Este tipo de estudios se justifican, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "las empresas deben reconocer el terreno antes de realizar el proyecto para evitar gastos excesi- vos, maximizando con ello las ganancias que puedan generarse",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "cada lugar es contenedor de ecosistemas variados y comunidades con diversas formas de apro- piación que reaccionan de manera distinta a una actividad externa",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "cada espacio presenta ciertas aptitudes, por lo tanto solamente pueden ser permitidas las acti- vidades que no generen ningún tipo de impacto",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "es necesario un conocimiento integral del espacio a ser utilizado para prever cualquier tipo de efecto que pueda generarse --- PAGINA 9 --- 25 AC - 001 - 116 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 104,
+            "enunciado": "Tanto en el campo como en la ciudad se presentan procesos de contaminación en los ríos, generados principalmente por",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los desechos producto de la actividad industrial",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la utilización de agroquímicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el incremento del turismo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la proliferación de barrios de invasión",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 103,
+            "enunciado": "La actividad agropecuaria propia de la economía campesina se ha visto afectada por la apertura económica en diferentes formas. Entre éstas se encuentran las desigualdades en la competencia, tanto con los productos externos, como también con los grandes productores internos, quienes tienen patro- nes de producción basados en el mercado y una alta tecnología. En este sentido las más afectadas han sido las",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "grandes empresas agroindustriales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "pequeñas parcelas que no tienen una adecuada implementación técnica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "empresas importadoras de alimento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "familias campesinas que tienen cultivos de autosubsistencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 105,
+            "enunciado": "La distribución actual de la población colombiana es producto de un proceso rápido de concen- tración en las ciudades. Entre las causas que explican la proyección de este fenómeno se encuentran la creciente industrialización de las ciudades, el desarrollo de ciudades intermedias y capitales de depar- tamentos. De acuerdo al texto podemos plantear que el alto índice de población urbana se debe",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "a la negligencia administrativa de los funcionarios",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "al acelerado proceso de tecnificación del campo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "a la falta de planeación en el desarrollo de las ciudades",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "al progesivo desarrollo de la industria en las principales ciudades",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 102,
+            "enunciado": "Según la Dirección Antinarcóticos de la Policía Nacional, para octubre del 2001 existían 57.000 hectáreas sembradas de coca en el departamento del Putumayo. De éstas, el 76% se concentraban en tres municipios: San Miguel, Orito y La Hormiga. La proliferación de cultivos de coca en esta región se debe, entre otras razones a que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la gente de esta región aprueba el cultivo de coca, antes que el de otros productos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el río Putumayo permite el transporte de mercancías y raspachines",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la cercanía con la frontera puede facilitar el tráfico de insumos para el procesamiento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "en estos municipios el costo de la mano de obra es más barato",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

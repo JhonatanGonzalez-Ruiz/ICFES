@@ -1,0 +1,954 @@
+{
+    "archivo_origen": "Quimica.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Quimica",
+    "total_paginas": 10,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "Teniendo en cuenta que el punto de ebullición es una propiedad intensiva, al graficar el punto de ebullición (Tb) de diferentes masas de un mis- mo líquido, la gráfica que se obtiene es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "C2H6 De la fórmula del etano es válido afirmar que por cada molécula de etano hay",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2 moléculas de C"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 mol de H"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 átomos de C"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 moles de C"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "La síntesis industrial del ácido nítrico se re- presenta por la siguiente ecuación: 3NO2(g) + H2O(g) 2HNO3(ac) + NO(g) En condiciones normales, un mol de NO2 reac- ciona con suficiente agua para producir",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3/2 moles de HNO3"
+                },
+                {
+                    "letra": "B",
+                    "texto": "4/3 moles de HNO3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "5/2 moles de HNO3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2/3 moles de HNO3 ÿ"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 4,
+            "enunciado": "Un recipiente tiene la siguiente etiqueta PENTANO 1 LITRO Densidad = 0,63 g/ml p. ebullición = 36ºC p. fusión = -130ºC soluble en disolventes orgánicos Los datos que sirven para determinar la masa del líquido en ese recipiente son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la solubilidad y punto de fusión"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el volumen y el punto de ebullición"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la densidad y el volumen"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el volumen y la solubilidad --- PAGINA 2 --- 3 AC - 002 - 112 I RESPONDA LAS PREGUNTAS 5 Y 6 DE ACUERDO CON LA SIGUIENTE FIGURA RESPONDA LAS PREGUNTAS 7 Y 8 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Un recipiente como el que se ilustra en el dibujo, contiene 0,2 moles de hidrógeno En la gráfica se describe la variación del volumen del gas cuando aumenta la temperatura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 5,
+            "enunciado": "De acuerdo con la información inicial el nú- mero atómico del cadmio es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "48"
+                },
+                {
+                    "letra": "B",
+                    "texto": "47"
+                },
+                {
+                    "letra": "C",
+                    "texto": "50"
+                },
+                {
+                    "letra": "D",
+                    "texto": "49"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "Con base en la información inicial es válido afirmar que el elemento Te tiene",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor tamaño atómico que el elemento S y que el elemento Fr"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mayor electronegatividad que el elemento Fr y que el elemento S"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor electronegatividad que el elemento Po y que el elemento Fr"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor tamaño atómico que el elemento H y que el elemento Po --- PAGINA 3 --- 4 AC - 002 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 7,
+            "enunciado": "Si se ubica otra masa de un kilogramo sobre el émbolo del recipiente es muy probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la temperatura disminuya a la mitad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se duplique el volumen del gas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se duplique la temperatura"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el volumen del gas disminuya a la mitad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 8,
+            "enunciado": "Si por la válvula del recipiente se adicionan 0,8 moles de H2 es muy probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "disminuya la presión"
+                },
+                {
+                    "letra": "B",
+                    "texto": "disminuya la temperatura"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aumente el volumen"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumente la temperatura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 9,
+            "enunciado": "La presión de vapor de un líquido es la presión que ejerce el vapor de ese líquido a una temperatura determinada. A 20°C se tienen iguales cantidades de cuatro líquidos P,Q,R,S cada uno en un recipiente cerrado conectado a un manómetro como se muestra en el siguiente dibujo. De acuerdo con la información anterior, es correcto afirmar que el líquido con mayor presión de vapor es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "P"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "R"
+                },
+                {
+                    "letra": "D",
+                    "texto": "S"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 10,
+            "enunciado": "Dos recipientes de igual capacidad contienen respectivamente 1 mol de N2 (recipiente 1) y 1 mol de O2 (recipiente 2). De acuerdo con esto, es válido afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la masa de los dos gases es igual"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los recipientes contienen igual número de moléculas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la densidad de los dos gases es igual"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el número de moléculas en el recipiente 1 es mayor"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 11,
+            "enunciado": "Se vierten en el embudo de decantación 4 ml de Tolueno, 3 ml de Formamida, 2 ml de Diclorometano y 1 ml de Cloroformo. Las densidades de estos líquidos se muestran en la siguiente tabla: o d iu qí L l m / g d a d is n e D o m r o f o r ol C 6 8 4 , 1 o n a t e m o r olci D 5 2 3 , 1 a d i m a m r o F 4 3 1 , 1 o n e ulo T 7 6 8 , 0 Si luego de un tiempo de reposo se abre la llave del embudo se obtiene primero",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tolueno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "formamida"
+                },
+                {
+                    "letra": "C",
+                    "texto": "diclorometano"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cloroformo --- PAGINA 4 --- 5 AC - 002 - 112 I RESPONDA LAS PREGUNTAS 12 Y 13 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Se aumenta la temperatura a una muestra de n-decanol. La gráfica describe el proceso en función del tiempo a una atmósfera de presión"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 12,
+            "enunciado": "De acuerdo con lo anterior, cambia el esta- do del n-decanol de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sólido a líquido entre t1 y t2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "líquido a gaseoso entre t3 y t4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "líquido a sólido entre t0 y t1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sólido a líquido entre t3 y t4"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "De acuerdo con la gráfica, es correcto afir- mar que la muestra de n-decanol se encuentra completamente líquida entre",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "t0 y t1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "t1 y t2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "t2 y t3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "t4 y t5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 14,
+            "enunciado": "En la tabla se muestran los valores de pH para las soluciones P, Q, R y S La solución de mayor basicidad es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "P"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "R"
+                },
+                {
+                    "letra": "D",
+                    "texto": "S A I C N A T S U S H p P Q R S 7 2 1 2 9"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Los carbohidratos se transforman en energía y otros productos en presencia de oxígeno como lo representa la siguiente ecuación Luz C6H12O6 + 602 6CO2 + 6H2O + Energía Ultravioleta En una atmósfera compuesta en un 80% de Hidrógeno y 20% de Dióxido de Carbono, y que permite el paso de la luz ultravioleta; se tiene una cantidad de Glucosa. Transcurrido un tiempo y al analizar los gases de la atmósfera se tiene que:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "contiene 20% de CO2, 40% de H2O y 40% de H2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "contiene 10% de CO2, 10% de H2O y 80% de H2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "contiene 40% de CO2, 20% de H2O y 40% de H2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "contiene 20% de CO2 y 80% de H2 --- PAGINA 5 --- 6 AC - 002 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 16,
+            "enunciado": "A continuación se describen diferentes técnicas para la separación de mezclas En el laboratorio se llevan a cabo las reacciones químicas en relaciones estequiométricas que se repre- sentan en las siguientes ecuaciones: Reacción 1: HCl(ac) + NaOH(ac) NaCl(ac) + H2O( ) Reacción 2: 2Kl(ac) + Pb(NO3)2(ac) Pbl2(s) + 2KNO3(ac) Reacción 3: CaCO3(s) CaO(s) + CO2(g) Reacción 4: CO2(g) + 2NaOH(ac) Na2CO3(s) + H2O( ) Si se filtran los productos de la reacción 1, es muy probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se separe el agua por estar en estado líquido"
+                },
+                {
+                    "letra": "B",
+                    "texto": "permanezca la mezcla ya que los componentes no pueden separarse"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se separe el NaCl, ya que está disuelto en el agua"
+                },
+                {
+                    "letra": "D",
+                    "texto": "disminuya la cantidad de NaCl disuelto en el agua"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 17,
+            "enunciado": "Se tienen 1000 ml de una solución 0,5 M de KOH con pH = 13,7. Si a esta solución se le adiciona 1 mol de KOH es muy probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "permanezca constante la concentración de la solución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aumente la concentración de iones [OH_]"
+                },
+                {
+                    "letra": "C",
+                    "texto": "permanezca constante el pH de la solución"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aumente la concentración de iones [H+] a c i n c é T r a r a p e s a a l c z e m e d o p i T n ó ic a rtli F o d iu qíl n u n e elb ulo s n i o d iló s n ó ic alits e D n ó icillu b e e d s o tn u p s e tn e r e fid n o c s elb ic si m s o d iu qíl o d u b m e n o c n ó ic a tn a c e D n ó ic a r a p e s e d s e d a d is n e d s e tn e r e fid n o c s elb ic si m n i s o d iu qíl o d a zi m a T alu cítr a p e d o ñ a m a t e tn e r e fid n o c s o d iló s n ó ic a r o p a v E o d iu qíl n u n e o tle u sid o d iló s"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 18,
+            "enunciado": "La tabla muestra el porcentaje en peso de los iones presentes en los lagos de dos lugares distintos. masa de X % Pesox = x 100 masa de muestra Al evaporar toda el agua de una muestra tomada en el lugar 1 se obtiene un sólido conformado por una mezcla de sales. Es muy probable que las sales que contiene la mezcla sean",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "NaK, CaCl2 NaKCl"
+                },
+                {
+                    "letra": "B",
+                    "texto": "CaNa2, CaK2 , CaCl2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "NaCl, KCl , CaCl2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "NaCl, KCa, KCl s e n oI s o s e p n e % 1 r a g u L 2 r a g u L K+ 0 9 , 3 0 a N + 0 3 , 2 a C + + 0 0 , 4 0 l C + 0 2 , 4 1 5 6 , 0 1 R R --- PAGINA 6 --- 7 AC - 002 - 112 I RESPONDA LAS PREGUNTAS 19 A 21 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la tabla se describen algunas propiedades de dos compuestos químicos a una atmósfera de presión. Tres mezclas preparadas con ácido butanoíco y agua, se representan en una recta donde los puntos intermedios indican el valor en porcentaje peso a peso (% P/P) de cada componente en la mezcla. Mezclas de ácido butanoíco en agua."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 19,
+            "enunciado": "Para cambiar la concentración de la solución de ácido butanoíco indicada en el punto , al , lo más adecuado es a i c n a t s u S l a r u t c u rt s E a l u m r ó F n ó i c ill u b e e d o t n u P C º o cí o n a tu b o d ic á O // H C 3 H C 2 H C 2 C \\ H O 4 6 1 a u g a H2O 0 0 1 â ã",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 20,
+            "enunciado": "Al cambiar la concentración de la solución de ácido butanoíco del punto , al , es válido afir- mar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "permanece constante el porcentaje de agua en la solución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "disminuye la concentración de la solución"
+                },
+                {
+                    "letra": "C",
+                    "texto": "disminuye la masa de agua en la solución"
+                },
+                {
+                    "letra": "D",
+                    "texto": "permanece constante la concentración de la solución â ã"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 21,
+            "enunciado": "A una atmósfera de presión, para cambiar la concentración de la solución de ácido butanoíco, indicada en el punto , al el procedimiento más adecuado es ã ä --- PAGINA 7 --- 8 AC - 002 - 112 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 22,
+            "enunciado": "En la tabla se indica la presión de vapor (Ps) de tres soluciones de tetracloruro de carbo- no (CCl4) y benceno (C6H6) de diferentes fraccio- nes molares a 50ºC. La gráfica que representa la variación de la frac- ción molar del CCl4 (Xccl4) y la presión de vapor de las soluciones (Ps), es N Ó I C U L O S lc c X 4 ) g H m m ( s P 1 1 , 0 4 7 2 2 5 , 0 0 9 2 3 9 , 0 6 0 3",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 23,
+            "enunciado": "Un vaso de precipitados contiene agua a una temperatura de 70ºC, si se le agrega una gota de tinta negra, el agua al poco tiempo ad- quirirá una coloración oscura. Esto probablemen- te se debe a que las",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "moléculas de tinta colorean a cada una de las moléculas de agua"
+                },
+                {
+                    "letra": "B",
+                    "texto": "partículas de tinta se distribuyen entre las de agua"
+                },
+                {
+                    "letra": "C",
+                    "texto": "moléculas de agua se transforman en tin- ta"
+                },
+                {
+                    "letra": "D",
+                    "texto": "partículas de tinta se introducen dentro de las moléculas de agua"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "El punto de fusión es la temperatura a la cual un sólido se encuentra en equilibrio con su fase líquida. En el punto de fusión ya no hay au- mento de temperatura pues el calor suministra- do se emplea en proporcionar a todas las molé- culas, energía para pasar al estado líquido. La presencia de impurezas disminuye la tempe- ratura a la cual comienza la fusión y no permite que se presente un punto de fusión definido. La gráfica que representa mejor la fusión de un sólido con impurezas es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 25,
+            "enunciado": "Un recipiente de 10 litros de capacidad con- tiene 0,5 moles de nitrógeno, 2,5 moles de hidró- geno y 1 mol de oxígeno. De acuerdo con esto, es correcto afirmar que la presión",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "total en el recipiente depende únicamente de la presión parcial del hidrógeno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "parcial del oxígeno es mayor a la presión parcial del hidrógeno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "total en el recipiente es igual a la suma de las presiones del nitrógeno, del oxígeno y del hidrógeno"
+                },
+                {
+                    "letra": "D",
+                    "texto": "parcial del nitrógeno es igual a la presión parcial del hidrógeno --- PAGINA 8 --- 9 AC - 002 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "A partir del agua de mar, se puede obtener agua pura por la separación de los solutos no volátiles. La siguiente gráfica muestra el comportamiento de la presión de vapor de tres soluciones de agua-soluto, con la temperatura. Con ayuda de la información anterior la temperatura de ebullición, de 2 litros de solución de concentra- ción 0.1 molar, es mayor que la temperatura de ebullición de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 litro de solución de concentración 0.1 molar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 litros de solución de concentración 0.25 molar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 litros de solución de concentración 0.01 molar"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 litro de solución de concentración 0.25 molar"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "La descomposición de 4 muestras de carbonato de calcio, CaCO3, se lleva a cabo en cuatro recipientes rígidos cerrados, tal como se ilustra en la siguiente tabla La ecuación que representa el proceso es calor CaCO3(s) CaO(s) + CO2(s) Un material contiene 50% CaCO3. Si se deposita igual cantidad de material en cada uno de los cuatro recipientes, es muy probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las presiones internas sean iguales, ya que se produce igual cantidad de CO2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se produzca mayor cantidad de CO2 en los recipientes 2 y 3, ya que el volumen es mayor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las presiones internas sean diferentes, ya que el volumen de los recipientes es diferente"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la presión interna en los recipientes 2 y 3 sea mayor que en los recipientes 1 y 4 Masas molares (g/mol) CaCO3 = 100 CaO = 56 CO2 = 44 e t n e i p i c e R e d d a d it n a C O C a C 3 d a d i c a p a C e t n e i p i c e r l e d e d a i c n e i c if E n ó i c c a e r a l 1 g 0 1 L 1 % 0 0 1 2 g 0 5 L 2 % 5 2 3 g 0 0 1 L 2 % 0 1 4 g 0 2 L 1 % 0 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 28,
+            "enunciado": "Se tienen 3 recipientes a la misma temperatu- ra, el primero con agua pura, el segundo con una solución acuosa de NaCl 0.05M y el tercero con una solución acuosa de NaCl 0.01M. Se determinó el punto de ebullición de los líquidos a dos presiones diferentes, tal como se observa en la tabla. De acuerdo con lo anterior, es correcto afirmar que el punto de ebullición de una solución",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "aumenta, cuando la presión aumenta y disminuye la concentración de la solución"
+                },
+                {
+                    "letra": "B",
+                    "texto": "disminuye, cuando la presión aumenta y disminuye la concentración de la solución"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aumenta, cuando la presión aumenta y aumenta la concentración de la solución"
+                },
+                {
+                    "letra": "D",
+                    "texto": "disminuye, cuando la presión disminuye y aumenta la concentración de la solución --- PAGINA 9 --- 10 AC - 002 - 112 I CONTESTE LAS PREGUNTAS 29 Y 30 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El elemento Q reacciona con el oxígeno formando el monóxido o el dióxido dependiendo de la tempera- tura, según la tabla: ) C º( T n ó ic c a e R n ó ic p ir c s e D 0 0 1 Q 2 ) s ( O + ) g ( 2 O Q 2 ) g ( Q e d o d ix ó n o m le d n ó ic a m r o F 0 8 1 Q ) s ( O + ) g ( 2 O Q ) g ( 2 O Q 2 ) g ( O + ) g ( 2 O Q 2 ) g ( 2 a Q e d o d ix ó id le d n ó ic a m r o F o d ix ó n o m u s e d y Q e d ritr a p 0 5 2 O Q ) g ( 2 Q ) s ( O + ) g ( 2 e d o d ix ó id le d n ó icis o p m o c s e D Q"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 29,
+            "enunciado": "Sabiendo que el número de oxidación del oxígeno es 2-. Con relación al número de oxida- ción del elemento Q se puede inferir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "su magnitud es 1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "tiene signo positivo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es de magnitud 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "es igual al del oxígeno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 30,
+            "enunciado": "Un recipiente rígido y cerrado a 25ºC y 1 atm que contiene 1 mol de QO2 y 1 mol de O2 se calienta hasta que la temperatura es de 100ºC y después de un tiempo se analiza el contenido del recipiente. La composición más probable será",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 mol de QO2 y 1 mol de O2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 moles de O2 y 1 mol de Q"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 moles de QO y 1 mol de O2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 mol de O2 y 1 mol de QO"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "A 273 K y 1 atm de presión (condiciones normales) el volumen ocupado por un mol de cualquier gas es 22,4 L. Cuatro globos idénticos (de paredes elásticas y volumen variable) se inflan, con cada uno de los gases que se enuncian en la siguiente tabla. Para que el volumen de los globos sea igual en todos los casos es necesario que a condi- ciones normales, la cantidad de gas en gramos, de N2, O2, CH3CH2CH3 y CH4 sea respecti- vamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "16, 44, 32 y 28"
+                },
+                {
+                    "letra": "B",
+                    "texto": "44, 28, 32 y 16"
+                },
+                {
+                    "letra": "C",
+                    "texto": "28, 32, 44 y 16"
+                },
+                {
+                    "letra": "D",
+                    "texto": "44, 32, 28 y 16 PV = nRT --- PAGINA 10 --- 11 AC - 002 - 112 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 32,
+            "enunciado": "La siguiente tabla muestra información sobre las soluciones I y II moles soluto M = litros solución",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la solución I tiene mayor número de moles de soluto y su concentración es mayor que la solución II"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la solución II tiene menor número de moles de soluto y su concentración es mayor que la solución I"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la solución I tiene menor número de moles de soluto y su concentración es mayor que la solución II"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la solución II tiene mayor número de moles de soluto y su concentración es mayor que la solución I RESPONDA LAS PREGUNTAS 33 Y 34 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN. Se tienen 4 tubos: El ácido reacciona con los metales, observándose desprendimiento de burbujas (de hidrógeno) mien- tras disminuye la cantidad de metal a través del tiem- po, a diferente velocidad en cada tubo. De las observaciones, se establece que el orden de velocidad de reacción del ácido con los metales de mayor a menor es: Mg, Zn, Fe y Cu"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 33,
+            "enunciado": "De lo anterior, es correcto afirmar que el factor que afecta la velocidad de reacción en el experimento es la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "concentración"
+                },
+                {
+                    "letra": "B",
+                    "texto": "temperatura"
+                },
+                {
+                    "letra": "C",
+                    "texto": "naturaleza de los reaccionantes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "presencia de catalizadores"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 34,
+            "enunciado": "En general, la temperatura afecta, en forma directa, la velocidad de reacción. Si el experi- mento se realiza 3 veces, primero a 90°C, des- pués a temperatura ambiente (20°",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "C",
+                    "texto": "y por último a 0°C, lo más probable es que la velocidad de reacción sea"
+                },
+                {
+                    "letra": "A",
+                    "texto": "igual en los tres casos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mayor cuando se realiza a 90°C"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menor cuando se realiza a 90°C"
+                },
+                {
+                    "letra": "D",
+                    "texto": "igual, a 20°C y a 0°C s e n o ic ulo S o tulo s le d r alo m a s a M )lo m / g ( ) g ( o tulo s e d a s a M n ó ic ulo s e d n e m ulo v m c ( 3) I 0 0 2 0 0 2 0 0 0 1 II 0 0 2 0 0 4 0 0 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 35,
+            "enunciado": "La reacciones de los hidrocarburos insaturados (alquenos y alquinos) son de adición. Cuando se tiene un alquino, primero se produce la adición al enlace triple y luego la adición al enlace doble. Se hace reaccionar el hidrocarburo Y como lo muestra la siguiente ecuación Y + H2 CH2 = CH2 CH2 = CH2 + T CH3 - CH2 Br Bromoetano Con base en la información anterior se puede afirmar que Y y T son respectivamente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "etino e hidrógeno"
+                },
+                {
+                    "letra": "B",
+                    "texto": "eteno e hidrógeno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "etino y HBr"
+                },
+                {
+                    "letra": "D",
+                    "texto": "etano y HBr"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

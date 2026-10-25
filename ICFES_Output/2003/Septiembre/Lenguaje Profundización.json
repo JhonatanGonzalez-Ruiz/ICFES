@@ -1,0 +1,590 @@
+{
+    "archivo_origen": "Lenguaje Profundización.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Lenguaje Profundización",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "En el primer verso del poema de Fernan- do Pessoa se dice: \"Los antiguos invocaban a las Musas\". Teniendo en cuenta el primer texto, titulado \"Las Musas\", estos antiguos a los que se refiere Pessoa pudieron ser",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Zeus y los Titanes."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Homero y Hesíodo."
+                },
+                {
+                    "letra": "C",
+                    "texto": "O. Bie y Hugo Bauza."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los dioses y los héroes."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Los textos 1 y 2 hablan, desde el punto de vista de la actualidad, de la temática específi- ca de las Musas. Se diferencian entre sí porque el texto de Hugo Bauza es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "poético y el de Pessoa es argumentativo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "dramático y el de Pessoa es poético."
+                },
+                {
+                    "letra": "C",
+                    "texto": "argumentativo y el de Pessoa es dramáti- co."
+                },
+                {
+                    "letra": "D",
+                    "texto": "argumentativo y el de Pessoa es poético."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "De los diferentes sentidos de la palabra Musa que se plantean en el texto 1, el que más se aproxima a lo planteado en el poema de Pessoa es el de la Musa considerada como una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "composición musical, lograda a través del ritmo del poema."
+                },
+                {
+                    "letra": "B",
+                    "texto": "expresión subjetiva, que puede ser anali- zada por el poeta."
+                },
+                {
+                    "letra": "C",
+                    "texto": "personificación divina, que habita en un mundo mítico."
+                },
+                {
+                    "letra": "D",
+                    "texto": "facultad poética, que celebra la gloria mítica de los dioses."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "De acuerdo con el texto 1, el canto de las Musas es un canto celebrante que evoca la me- moria de los dioses. En el poema de Pessoa",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se cuestiona la presencia de los dioses y se afirma la existencia de las Musas."
+                },
+                {
+                    "letra": "B",
+                    "texto": "se reivindica la presencia de los dioses y se afirma la existencia de las Musas."
+                },
+                {
+                    "letra": "C",
+                    "texto": "se explora la presencia de las Musas y se afirma la interioridad de los poetas de la antigüedad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "se niega la existencia de las Musas y se afirma la interioridad del poeta. Una manera de resolver los problemas consiste en negarlos. Si la inspiración es un hecho incompatible con nuestra idea del mundo, nada más fácil que negar su existencia. Desde el siglo XVI comienza a concebirse la inspiración como una frase retórica o una figura literaria. Nadie habla por boca del poeta, excepto su propia conciencia; el verdadero poeta no oye otra voz, ni escribe el dictado: es un hombre despierto y dueño de sí mismo. Durante una época se denunciaron los extravíos a que conducía la creencia en la inspiración. Su verdadero nombre era pereza, descuido, amor a la improvisación, facili- dad. Delirio e inspiración se transformaron en sinónimos de locura y enfermedad. El acto poético era trabajo y disciplina; escribir: \"luchar contra la corriente\". La historia de la poesía moderna es la del continuo desgarramiento del poeta, dividido entre la moderna concepción del mundo y la presencia a veces intolerable de la inspiración. Los primeros que padecen este conflicto son los románticos alemanes. Asimismo, son los que lo afrontan con mayor lucidez y plenitud y los únicos hasta el movimiento surrealista que no se limitan a sufrirlo sino que intentan trascenderlo. Para los románticos el hombre es un ser poético. Lo poético no es algo dado, que esté en el hombre desde su nacimiento, sino algo que el hombre hace y que, recíprocamente, hace al hombre. Lo poético es una posibilidad, no una categoría a priori ni una facultad innata. (Texto editado de Paz, Octavio, El arco y la lira, México, Fondo de Cultura Económica, 1983, págs. 160- 172.) --- PAGINA 4 --- 29 AC - 106 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "La pregunta que se hace Fernando Pessoa sobre la existencia de las Musas nunca se la for- mularon Homero y Hesíodo, porque en aquella época",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el mundo de los dioses era más cercano que hoy al mundo de los hombres."
+                },
+                {
+                    "letra": "B",
+                    "texto": "las sociedades eran primitivas y creían en leyendas y supersticiones."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el mundo de los dioses era más distante, del mundo de los hombres que hoy."
+                },
+                {
+                    "letra": "D",
+                    "texto": "las sociedades carecían de un sistema fi- losófico regido por la razón. RESPONDA LAS PREGUNTAS 111 A 115 TE- NIENDO EN CUENTA LOS TEXTOS 1 Y 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "De las distintas concepciones sobre la inspiración planteadas en el texto de Octavio Paz, la que se encuentra en concordancia con la con- cepción de Musa planteada por Hugo Bauza en su texto es la de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Sócrates, porque afirmó que la divinidad era quien hablaba a través del poeta."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el movimiento surrealista, porque logró su- perar la irracionalidad de la poesía."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Aristóteles, porque concibió la creación poética como imitación de la naturaleza."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el Romanticismo alemán, porque padeció con lucidez el conflicto de la creación."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Una de las principales diferencias entre los planteamientos hechos en sus textos por Hugo Bauza y Octavio Paz radica en que el texto de Bauza presenta una perspectiva",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "anecdótica del culto a las Musas, y el texto de Paz, una mirada puntual a la inspira- ción en la historia de la poesía."
+                },
+                {
+                    "letra": "B",
+                    "texto": "puntual del origen del culto a las Musas y el texto de Paz plantea un recorrido anec- dótico sobre la inspiración en la historia de la poesía."
+                },
+                {
+                    "letra": "C",
+                    "texto": "histórica de la historia del culto a las Mu- sas, y el texto de Paz, una mirada puntual al origen del culto a las Musas."
+                },
+                {
+                    "letra": "D",
+                    "texto": "puntual del origen del culto a las Musas y el texto de Paz plantea un recorrido histó- rico sobre la inspiración en la historia de la poesía."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "De las distintas concepciones plantea- das en el texto de Octavio Paz, la que contradice la tesis que remata el texto de Hugo Bauza es aquella que afirma que la inspiración es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un misterio generado por una posesión demoníaca."
+                },
+                {
+                    "letra": "B",
+                    "texto": "una voz ajena, capaz de crear mundos más allá de la conciencia."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una expresión irracional, propia de la locu- ra y la enfermedad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "un concepto problemático, causado por la imitación de la naturaleza."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Teniendo en cuenta los textos de Hugo Bauza y Octavio Paz se podría afirmar que la ins- piración se convirtió en un problema cuando",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Zeus se unió con Mnemosine y engendró a las Musas, encargadas de cantar su glo- ria."
+                },
+                {
+                    "letra": "B",
+                    "texto": "cambió la concepción mítica de la realidad por una concepción moderna y racionalis- ta del mundo."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Homero y Hesíodo cantaron, creyéndose, inspirados por las Musas, la gloria de los dioses y héroes."
+                },
+                {
+                    "letra": "D",
+                    "texto": "cambió la concepción moderna y raciona- lista de la realidad por una concepción mítica del mundo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Una de las principales diferencias entre los textos de Hugo Bauza y Octavio Paz radica en que dichos autores hablan de dos momentos históricos distintos, pues el texto de Bauza",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se concentra en la antigüedad clásica mientras que el de Paz proporciona una visión histórica de la inspiración."
+                },
+                {
+                    "letra": "B",
+                    "texto": "hace un recorrido histórico a partir de la noción de inspiración y el texto de Paz ha- bla del origen de las Musas."
+                },
+                {
+                    "letra": "C",
+                    "texto": "se sitúa en la actualidad y el texto de Paz habla desde el punto de vista de la anti- güedad clásica."
+                },
+                {
+                    "letra": "D",
+                    "texto": "sitúa históricamente el origen de las Mu- sas y el texto de Paz habla desde el punto de vista de la antigúedad clásica. --- PAGINA 5 --- 30 AC - 106 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Una de las principales diferencias entre los textos de Fernando Pessoa y Octavio Paz con- siste en que el texto de Pessoa asume una mira- da",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "filosófica para invocar a las Musas, y el de Paz, una perspectiva poética para hablar de la inspiración."
+                },
+                {
+                    "letra": "B",
+                    "texto": "argumentativa para invocar a las Musas, y el de Paz, una perspectiva histórica para hablar de la inspiración."
+                },
+                {
+                    "letra": "C",
+                    "texto": "poética para invocar a las Musas, y el de Paz, una perspectiva filosófica para hablar de la inspiración."
+                },
+                {
+                    "letra": "D",
+                    "texto": "histórica para invocar a las Musas, y el de Paz, una perspectiva argumentativa para hablar de la inspiración. PARA RESPONDER LAS SIGUIENTES PREGUNTAS, TENGA EN CUENTA LOS TEXTOS 2 Y 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Partiendo del texto de Octavio Paz se pue- de afirmar que los antiguos a los cuales se refie- re Pessoa en el primer verso de su poema son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Sócrates y Platón."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Descartes y los fiolósofos racionalistas."
+                },
+                {
+                    "letra": "C",
+                    "texto": "los romáticos alemanes."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los surrealistas."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "De acuerdo con el texto de Octavio Paz, la poética de Fernando Pessoa se puede rela- cionar con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la antigüedad clásica, porque en ese en- tonces se veía al poeta como un médium privilegiado por su locura."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el racionalismo del siglo XVI, porque se- gún esa filosofía la inspiración no era más que una figura literaria."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el Romanticismo alemán del siglo XVIII, porque sus representantes exploraron y padecieron los misterios del ser."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la corriente surrealista, porque los poetas de esa corriente lucharon en contra de toda fuerza poética de origen sobrenatural."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "De acuerdo con el texto de Octavio Paz puede decirse que las Musas no aparecen en el poema de Pessoa porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en la actualidad prevalece una concepción mítica de la poesía."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el verdadero acto poético está dado por el trabajo y la disciplina."
+                },
+                {
+                    "letra": "C",
+                    "texto": "su presencia es incompatible con nuestra concepción del mundo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "en su nombre se cometieron demasiados extravíos y locuras."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "Si Octavio Paz leyera el poema de Fernando Pessoa, le diría que su conflicto poético consiste en que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "pretende alcanzar una sensibilidad poética propia de la antigüedad viviendo en la época moderna, ajena al mundo de los dioses."
+                },
+                {
+                    "letra": "B",
+                    "texto": "se limita a sufrir la ausencia de la Musa en el mundo moderno, habitado por mu- chos más dioses."
+                },
+                {
+                    "letra": "C",
+                    "texto": "pretende ser original invocando el misterio indescifrable de las Musas para justifi- car su vacío espiritual."
+                },
+                {
+                    "letra": "D",
+                    "texto": "se limita a idealizar la presencia de las Musas, convirtiéndolas en un pretexto para abandonar definitivamente la creación poética. --- PAGINA 6 --- 31 AC - 106 - 8 I PARA RESPONDER LAS SIGUIENTES PRE- GUNTAS, TENGA EN CUENTA LOS TRES TEX- TOS ANTERIORES"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Los tres textos anteriores comparten la te- mática de la Musa considerada como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una expresión dinámica y paradójica de la divinidad y la inspiración."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un criterio de verdad en la creación artísti- ca contemporánea."
+                },
+                {
+                    "letra": "C",
+                    "texto": "un problema psicológico muy común entre los poetas antiguos."
+                },
+                {
+                    "letra": "D",
+                    "texto": "una condición misteriosa y demoníaca de la memoria y la ficción."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "El enunciado que mejor sintetiza, en su orden, las ideas centrales de los tres textos en relación con las Musas es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "origen - invocación - historia."
+                },
+                {
+                    "letra": "B",
+                    "texto": "culto - contemplación - origen."
+                },
+                {
+                    "letra": "C",
+                    "texto": "escepticismo - ausencia - filosofía."
+                },
+                {
+                    "letra": "D",
+                    "texto": "testimonios - interioridad - conciencia."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "De acuerdo con lo leído en los tres textos anteriores se podría afirmar que el escepticismo actual ante la existencia de las Musas se debe a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la conciencia moderna, que privilegia la ob- jetividad y la racionalidad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la ambigüedad permanente entre revela- ción y creación poética."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la creencia actual en divinidades abstrac- tas e ídolos sin cuerpo ni forma."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la ausencia de contradicciones en el pro- ceso de la creación poética."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "En los tres textos anteriores se hace alu- sión a las Musas y a la inspiración a través del acto creativo de la escritura. Sin embargo, no se hace referencia al papel del lector en este proce- so. De las siguientes afirmaciones, ¿cuál cree usted que definiría a un lector inspirado por las Musas?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "\"Hay quienes se pasan la vida leyendo pegados a la página\" (José Saramago)."
+                },
+                {
+                    "letra": "B",
+                    "texto": "\"Leer es traducir, pues no hay dos perso- nas que compartan las mismas experien- cias\" (W.H. Auden)."
+                },
+                {
+                    "letra": "C",
+                    "texto": "\"Los libros que leemos son como textos de adivinación que influyen en nuestro fu- turo\" (Graham Greene)."
+                },
+                {
+                    "letra": "D",
+                    "texto": "\"La lectura nos asegura la deliciosa ilusión de un infinito aplazamiento de la muerte\" (J. Campos)."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "El tema de las Musas ha sido recurrente en la historia de la poesía. De los siguientes ver- sos, el que más evidencia la naturaleza proble- mática de la Musa en la modernidad es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "\"Léeme una lección, Musa, bien fuerte /en la cumbre del Nevis, ciega en niebla / Me asomo a los abismos y un sudario / de vapor me esconde\" (Keats)."
+                },
+                {
+                    "letra": "B",
+                    "texto": "\"Pobre Musa mía, ¿qué te sucede hoy? / Espectros nocturnos invaden tus hundidos ojos, / y en los colores de tu cara alterna- tivamente veo / la locura y el pánico, con su frío y su tristeza\" (Baudelaire)."
+                },
+                {
+                    "letra": "C",
+                    "texto": "\"EL POETA: ¿Por qué, por qué lo quiso así el destino, / y sobre mi fragilidad se modeló un poeta? / Vanas son mis pala- bras; los sones de mi lira, / aunque bien musicales, no son auténticos... LA MUSA: No eres, poeta, mentiroso. El mundo al que / tú miras es auténtico\" (Cavafis)."
+                },
+                {
+                    "letra": "D",
+                    "texto": "\"¿Vas a cantar tristezas?, dijo la Musa; / entonces yo me vuelvo para allá arriba. / Descansar quiero ahora de tantas lágri- mas; / hoy he llorado tanto que estoy ren- dida... / ¡Si me das mariposas te daré ri- mas!\" (Silva)."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

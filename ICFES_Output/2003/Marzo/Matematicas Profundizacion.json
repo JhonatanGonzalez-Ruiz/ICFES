@@ -1,0 +1,546 @@
+{
+    "archivo_origen": "Matematicas Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Matematicas Profundizacion",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "Diego afirma que, para hacer el mismo recorrido en el mismo tiempo, si fuera a la mis- ma velocidad tanto en el ascenso como en el des- censo, ésta sería de 3km/h. Esta afirmación es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "falsa, puesto que si Diego hiciera el mis- mo recorrido a esta velocidad, emplearía un tiempo menor"
+                },
+                {
+                    "letra": "B",
+                    "texto": "verdadera, ya que es el promedio de los datos que se obtienen de las velocidades de ascenso y descenso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "verdadera, porque para hallar esta veloci- dad es suficiente con considerar las velo- cidades empleadas tanto en el ascenso como en el descenso"
+                },
+                {
+                    "letra": "D",
+                    "texto": "falsa, ya que caminando a esa velocidad Diego sí hubiese podido hacer el mismo recorrido RESPONDA LAS PREGUNTAS 108 A 111 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En 1980, 4.500 millones de habitantes poblaban la Tierra y se observaba un crecimiento de cerca del 2% anual, encontrándose que la expresión que proporcionaba la información del número de millones de habitantes en la Tierra después de t-años a partir de ese año era: H (t) = 4.500 e0,02t"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Una expresión que permite determinar una velocidad que sea igual, tanto en el ascenso como en el descenso de la montaña, man- teniendo el mismo tiempo utilizado por Diego, es 2 km/h + 4 km/h",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ", puesto que se consi- 2 deran las dos velocidades, de ascenso y de descenso 2 km/h + 4 km/h"
+                },
+                {
+                    "letra": "B",
+                    "texto": ", ya que se conocen dos 3 datos de velocidad y también que el re- corrido se hizo en 3 horas 2 km/h + 2 km/h + 4 km/h"
+                },
+                {
+                    "letra": "C",
+                    "texto": ", porque se 3 tiene en cuenta el cambio de la distancia recorrida en cada hora transcurrida 2 (2 km/h) + 4 km/h"
+                },
+                {
+                    "letra": "D",
+                    "texto": ", debido a que se 2 tiene en cuenta el recorrido total y se conocen dos datos de velocidad --- PAGINA 2 --- 30 AC - 101 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "De las siguientes gráficas ¿cuál describe el crecimiento de la población en t-años?",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 109,
+            "enunciado": "Para determinar el número de años que deben transcurrir desde 1980 para que la pobla- ción sea el doble de la que había en ese año, se debe hallar el valor de t que satisface la ecua- ción",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "2 = e0,02(t-1980)"
+                },
+                {
+                    "letra": "B",
+                    "texto": "2 = e0,02t"
+                },
+                {
+                    "letra": "C",
+                    "texto": "H(t) = 9 000 e0,02t"
+                },
+                {
+                    "letra": "D",
+                    "texto": "H(t) = 4 500 e0,02(2t)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Se estima que para proveer de alimento durante un año a una persona se necesita de 0,5 km2 de tierra para cultivo, sabiendo que hay 40 x 109 km2 de tierra cultivable. Se afirma que después de un cierto número de años NO se podrá suplir la necesidad de alimento para todos los habitantes de la Tierra, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la cantidad de tierra cultivable sólo será suficiente hasta cuanto t tome el valor 1 800 Rn 0,02  45 "
+                },
+                {
+                    "letra": "B",
+                    "texto": "al año siguiente de que t satisfaga la ecuación 80 x 109 = (4500 x 106) e0,02t la población excederá a 80 x 109 habitantes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "a partir del año t , con t igual a 1 80 x 109 Rn 0,02  4.500  el número de habitantes de la tierra ex- cederá a 80 x 109"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la cantidad de tierra cultivable sólo será su- ficiente hasta cuando t satisfaga la ecuación 2 (40 x 107) = 45 e0,02t"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Un informe presentado en 1980 muestra que 2 de cada 10.000 habitantes portaban el vi- rus del SIDA y se proyectó que el número de mi- llones de portadores del SIDA se duplicaría cada 4 años, el cual se representa mediante la expre- sión",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "S (t) = 900.000 (2t/4) con t = 4, 8, 12, ..."
+                },
+                {
+                    "letra": "B",
+                    "texto": "S (t) = 0,9 (24t) con t = 1, 2, 3, 4, ..."
+                },
+                {
+                    "letra": "C",
+                    "texto": "S (t) = 0,9 (2t/4) con t = 1, 2, 3, 4, ..."
+                },
+                {
+                    "letra": "D",
+                    "texto": "S (t) = 900.000 (24t) con t = 4, 8, 12, ... --- PAGINA 3 --- 31 AC - 101 - 7 I RESPONDA LAS PREGUNTAS 112 A 115 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En una industria construyen un tanque de forma cónica de radio 5 dm y altura 15 dm, para el almacenamiento de agua, pero por una falla en su construcción pierde agua a razón de 1 dm3 por minuto."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Al cabo de t minutos, h(t) representa",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la profundidad del agua en un instante t"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la altura del tanque en t minutos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el espacio desocupado en el tanque en un instante t"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tiempo que tardó en desocuparse una parte del tanque"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "La expresión que permite encontrar la rapidez con que el nivel del agua desciende des- de cualquier profundidad, es dv B dh",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "= (h(t))2. dt 27 dt dv B"
+                },
+                {
+                    "letra": "B",
+                    "texto": "= (h(t))2 dt 27 dh 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "= B (r(t))2. h(t) dt 3 dh dv"
+                },
+                {
+                    "letra": "D",
+                    "texto": "= h(t) + (r(t))2 dt dt"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "En la figura 2, se hace una representa- ción de la sección transversal del tanque en un instante t. De la representación se puede dedu- cir la siguiente proporción",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 15,
+            "enunciado": "x 15",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "= 5 r x r"
+                },
+                {
+                    "letra": "B",
+                    "texto": "= 15 5"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "x r",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "C",
+                    "texto": "= 15 5 x 15"
+                },
+                {
+                    "letra": "D",
+                    "texto": "= 5 r"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "¿Cuál de los siguientes planteamientos es suficiente para encontrar la rapidez con la que desciende el nivel del agua cuando está a una altura de 10 dm? dh dv",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "dado = 0 dm, se requiere encontrar dt dt cuando v = 1 dm3 dv"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dado = 1 dm3/min, se requiere encon- dt dh trar , cuando h = 10 dm dt dv"
+                },
+                {
+                    "letra": "C",
+                    "texto": "dado = 1 dm3/min, se requiere encon- dt dh trar , cuando h = 5 dm dt dh"
+                },
+                {
+                    "letra": "D",
+                    "texto": "dado = 5 dm, se requiere encontrar dt dv , cuando v = 1 dm3 dt --- PAGINA 4 --- 32 AC - 101 - 7 I RESPONDA LAS PREGUNTAS 116 A 120 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El siguiente gráfico representa la posición respec- to al tiempo de un cuerpo durante 12 segundos. El movimiento se realiza en tres intervalos de 4 segundos cada uno."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Respecto al movimiento realizado por el cuerpo en el intervalo de 4 a 8 segundos, podemos afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el cuerpo parte de la posición 4 y recorre con velocidad constante 8 metros"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el cuerpo permanece en reposo, ya que mantiene la misma posición, mientras transcurren los 4 segundos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el cuerpo cambia la dirección del movimiento y recorre 4 metros más en una superficie plana"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cuerpo recorre 4 metros con velocidad constante en 8 segundos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "La función que representa el movimiento del cuerpo durante los 12 segundos puede definirse como 4t, si 0 # t # 4",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "f(t) = 0 , si 4 # t # 8 9 8t - 6, si 8 # t # 12 2t, si 0 # t # 4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "f(t) = 8 , si 4 # t # 8 9 -3.5t +36, si 8 # t # 12 4t, si 0 # t # 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "f(t) = 0 , si 4 # t # 8 9 8t + 6, si 8 # t # 12 2t, si 0 # t # 4"
+                },
+                {
+                    "letra": "D",
+                    "texto": "f(t) = 8 , si 4 # t # 8 9 3.5t + 36, si 8 # t # 12"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "Según la gráfica, se puede inferir que la velocidad del cuerpo en el transcurso de 8 a 12 segundos fue negativa, lo cual indica que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el cuerpo disminuyó la velocidad que venía manteniendo en el intervalo de 4 a 8 segundos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el cuerpo se devolvió seis metros más, desde el punto de partida"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el cuerpo redujo el espacio recorrido durante los cuatro segundos respecto a los intervalos anteriores"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cuerpo recorrió la misma distancia, pero empleó más tiempo que en los intervalos anteriores --- PAGINA 5 --- 33 AC - 101 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "La gráfica que relaciona la velocidad y el tiempo respecto al movimiento realizado por el cuerpo durante los tres intervalos, es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 120,
+            "enunciado": "En el intervalo de 12 a 16 segundos se produjo un movimiento representado por la función: 3 f(t) = t - 15. La interpretación de este movimiento realizado por el cuerpo es 4",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el cuerpo recorrió tres metros durante los cuatro segundos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el cuerpo incrementó su velocidad en 5 metros por cada segundo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el cuerpo retrocedió 15 metros durante el intervalo de tiempo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cuerpo disminuyó su velocidad en dos metros durante los cuatro segundos RESPONDA LAS PREGUNTAS 121 A 125 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Los siguientes modelos de embaldosados, se construyen sucesivamente. Tienen baldosas negras colocadas en forma rectangular, y un borde de baldosas blancas, como se muestra en la figura. Cada modelo tiene un área distinta, y las baldosas blancas y negras que se usaron tienen forma cuadrada de 11 cm de lado."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "De acuerdo con la sucesión de modelos de embaldosados presentada, ¿cuál de los siguientes modelos corresponde al embaldosado que tiene un área de 6.776 cm2? --- PAGINA 6 --- 34 AC - 101 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 122,
+            "enunciado": "¿El cambio de área que corresponde a las baldosas blancas entre un modelo y el siguiente, es siempre de 484 cm2?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sí, porque la cantidad de baldosas de la base del rectángulo, excede en una a la cantidad de baldosas de la altura"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, porque el cambio de área de las baldosas blancas en cada uno de los modelos varía de uno a cien centímetros cuadrados"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sí, porque la cantidad de baldosas blancas aumenta en cuatro para cada modelo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque el aumento del número de baldosas negras y blancas no es constante de posición a posición"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "La expresión que indica el número de baldosas negras en el n-ésimo modelo de embaldosado es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "6n - 4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "n2 (2 + n)"
+                },
+                {
+                    "letra": "C",
+                    "texto": "n (n + 1) 1"
+                },
+                {
+                    "letra": "D",
+                    "texto": "n2 + 2 2 124.Con la expresión k + (4n + 6) se obtiene el total de baldosas negras y blancas en el n-ésimo modelo. En esta expresión k representa"
+                },
+                {
+                    "letra": "A",
+                    "texto": "el número de baldosas blancas que hay en el modelo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el número de baldosas que conforman la base del rectángulo en el modelo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de baldosas negras que componen el modelo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el número de baldosas que se encuentran en la diagonal principal del modelo 125.¿En el modelo con 132 baldosas entre blancas y negras, el número de baldosas blancas es mayor que el número de baldosas negras?"
+                },
+                {
+                    "letra": "A",
+                    "texto": "sí, porque el número de baldosas blancas en cualquier modelo es siempre mayor que el número de baldosas negras"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, porque a partir de la posición 5 el número de baldosas negras es mayor que el número de baldosas blancas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sí, porque el número de baldosas blancas aumenta con la misma proporción de posición a posición, manteniéndose mayor que el número de negras"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque esta relación sólo se cumple en los 3 primeros modelos presentados, y en los si guientes, la relación se vuelve inversa"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

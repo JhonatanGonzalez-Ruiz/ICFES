@@ -1,0 +1,523 @@
+{
+    "archivo_origen": "Medios de comunicacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Medios De Comunicacion",
+    "total_paginas": 4,
+    "total_preguntas_detectadas": 23,
+    "preguntas": [
+        {
+            "numero": 126,
+            "enunciado": "Llamamos \"censura\" a la supresión par- cial o total de información o contenidos en los medios de comunicación por parte de actores ex- ternos. De acuerdo con lo anterior, quien aplica censura a un medio es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el dueño del medio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el directivo del medio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el periodista"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el Estado"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 127,
+            "enunciado": "\"Los medios se han echado sobre los hom- bros una responsabilidad que no deberían tener: a falta de castigo hacen escarnio público. Se han vuelto medios de control social en lugar de me- dios de comunicación social. Están llenando los vacíos del Estado, así como lo hacen los narcos o la guerrilla. Los medios se han echado la res- ponsabilidad de la justicia, eso los ha vuelto radi- cales e injustos\". De acuerdo con las palabras de Germán Castro Caycedo, los medios",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "han pasado de controladores sociales a jueces públicos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cambiaron su función de informadores por la de fiscales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "asumieron la función de la guerrilla y los paramilitares"
+                },
+                {
+                    "letra": "D",
+                    "texto": "han reemplazado al Estado en todas sus responsabilidades"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 128,
+            "enunciado": "Los medios de comunicación nos permi- ten percibir lo social, llevándonos a crear mode- los a partir de lo que se nos informa. Según esto, se puede decir que los medios",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "dan lugar a las intercomunicaciones entre diversos sectores de la población"
+                },
+                {
+                    "letra": "B",
+                    "texto": "son el punto de conexión entre lo cotidia- no y la realidad del país"
+                },
+                {
+                    "letra": "C",
+                    "texto": "tienen la capacidad de influir sobre los modos de pensar de los sujetos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "impiden tener una posición crítica ante los hechos políticos de la nación"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 129,
+            "enunciado": "El conjunto de factores políticos, econó- micos y sociales influye en la recepción de un mensaje. Por lo tanto, la recepción del mensaje:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "varía según espacios y tiempos específi- cos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "es igual entre un colombiano y un hindú"
+                },
+                {
+                    "letra": "C",
+                    "texto": "varía según el idioma del mensaje emitido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no cambia en ninguna parte del mundo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 131,
+            "enunciado": "Cuando un medio de comunicación deci- de establecer criterios para evitar la difusión y publicación de imágenes y fotografías que pue- dan generar repulsión en el público estamos ha- blando de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la autorregulación, porque es el control in- terno de los medios sobre sus contenidos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la regulación, porque es la forma como el Estado reglamenta los contenidos de los medios"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la normatividad, porque es la forma como los medios se sujetan a la ley"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la censura, porque es la supresión por par- te de agentes externos sobre los conteni- dos de los medios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 130,
+            "enunciado": "Ante la masificación de la mayoría de los bienes generada por la modernidad - educación, alimentos, televisión - las diferencias se produ- cen cada vez más no por los objetos que se po- seen sino por la forma en que se los utiliza: a qué escuela se envía a los hijos, que programas de espectáculos se prefieren. Según esta posi- ción, el consumo no puede ser explicado exclu- sivamente como una satisfacción de necesida- des naturales, pues aquel consiste en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un repertorio de necesidades homogéneas de la sociedad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "un campo en el cual se construyen y co- munican diferencias sociales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un procedimiento para la creación de mer- cados artificiales homogéneos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un proceso exclusivamente económico para satisfacer necesidades --- PAGINA 2 --- AC - 045 - 8 I 33"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 132,
+            "enunciado": "\"La participación que propicien los medios de comunicación, el pluralismo que generen, el senti- do social de la información que ofrezcan, el seguimiento crítico de toda forma de poder y su propio autoanálisis como actor social importante\", son factores que los medios deberán considerar en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "su capacidad tecnológica"
+                },
+                {
+                    "letra": "B",
+                    "texto": "su necesidad de tener \"rating\""
+                },
+                {
+                    "letra": "C",
+                    "texto": "su manera de presentar los hechos noticiosos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "su responsabilidad frente a la sociedad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 133,
+            "enunciado": "El consumo no se puede asumir simplemente como una categoría económica, dado que él, en sí mismo, es un acto cultural. Desde este punto de vista el consumo está determinado por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los gustos y necesidades de cada persona al comprar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la diferencia social entre grupos de consumidores"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el poder adquisitivo de los compradores D el marco social donde se da su apropiación y uso"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 134,
+            "enunciado": "La función social de los medios tiene que ver con su capacidad para convertirse realmente en mediadores pluralistas y abiertos de las realidades sociales (....). Es la capacidad de comprensión mutua entre medios y comunidad en lo que se refiere al resaltamiento oportuno y objetivo de sus nece- sidades, sus propósitos para el mejoramiento de la calidad de vida, su sentido de la participación y la expresión de sus identidades culturales, así como la legitimación del orden público de la sociedad. Según lo anterior, la función social de los medios tiene que ver con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la cohesión, correlación, participación y expresión de las identidades culturales nacionales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la mediación entre la realidad política y la realidad social y económica de un país"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la mediación que busca homogenizar el pensamiento y expresión de pueblos distintos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la mediación que oculta la coyuntura entre el bienestar público y los intereses particulares"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 135,
+            "enunciado": "\"Los procesos de autorregulación nacidos al interior de los medios, buscan fundamentalmente definir unas reglas de juego básicas, una suerte de mínimos que señalen los límites y posibilidades del ejercicio periodístico en sus relaciones con la sociedad, los lectores, los periodistas, otros medios, etc\". De acuerdo con el texto anterior, son mecanismos de autorregulación",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las defensorías del lector, la formulación y aplicación de códigos éticos y los procedimientos gremiales de control"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los mecanismos de control estatal, la Junta de Censores y las leyes excepcionales para el control de la información"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la Comisión Nacional de Televisión, la Junta de Televidentes y la Liga de Consumidores de Servi- cios Informativos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "La Junta de Censores, la Comisión Nacional de Televisión y los Defensores del Lector --- PAGINA 3 --- AC - 045 - 8 I 34 RESPONDA LAS PREGUNTAS 137 Y 138 DE ACUERDO CON EL SIGUIENTE TEXTO La cultura escolar es tal vez el instrumento pedagógico más complejo y poderoso con que cuenta la escuela, no sólo para llevar a cabo su trabajo en el campo del conocimiento, sino fundamentalmente para ejercer su labor de formadora de ciudadanos. La cultura escolar se expresa en la vida cotidiana y es en esa vida, y no en los discursos escolares sobre la democracia, donde se crean y refuerzan valo- res, normas y formas de ver y vivir la vida (Parra Sandoval, R. La cultura fracturada, Santafé de Bogotá, Tercer Mundo, 1995)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 137,
+            "enunciado": "El texto supone una distancia existente entre los discursos y la vida cotidiana. Esto permitiría pensar que los medios de comunicación, como parte de la vida escolar,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "son instrumentos que atentan contra los valores, normas y formas de ver y vivir una vida cultural aceptable"
+                },
+                {
+                    "letra": "B",
+                    "texto": "deben excluirse de la vida cotidiana de la institución educativa por la inestabilidad que trasmiten"
+                },
+                {
+                    "letra": "C",
+                    "texto": "tienen sobre la cultura escolar la fuerza transformadora de un mensaje, pero NO precisamente por lo que dicen"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los discursos escolares que para informar, se sirven de los medios de comunicación, cambian la cotidianidad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 138,
+            "enunciado": "Si la cultura escolar no debe confundirse con los discursos sobre cultura que en ella circulen, entonces los valores, normas y formas de ver y vivir la vida, referidos en el texto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "son obsoletos como factores de cambio para la escuela actual"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no se dominan mediante los discursos sobre la cotidianidad de la escuela"
+                },
+                {
+                    "letra": "C",
+                    "texto": "son instrumentos al servicio de los discursos pedagógicos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "imposibilitan la articulación de los medios masivos de comunicación al espacio escolar"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 136,
+            "enunciado": "Una de las creadoras de la telenovela educativa llamada Francisco, el matemático, cuya finali- dad es la formación de docentes en valores, en una entrevista acerca del programa, afirma: nos intere- sa que todos los televidentes de la serie hablen; se refieran a terceros y no a ellos mismos; que otros digan, 'no estoy de acuerdo con lo que dicen el profesor y la rectora'. Todo esto porque es más fácil que la gente discuta y tome distancia de otros, que de sí mismos. Al desarrollar la opinión de la entrevista es posible concluir que la distancia que el espectador tome de sí mismo es una condición necesaria para que él elabore una reflexión moral en torno al contenido de la telenovela. Si esa misma condición se debe cumplir para responder correctamente una pregunta del presente examen respecto al texto citado y que no deje de lado el propósito formativo de la telenovela, dicha pregunta",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "pide enumerar las acciones de aquellos con quienes el televidente no está de acuerdo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "permite conceptualizar principios morales universales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "pide encontrar la distancia existente entre el entrevistador y la entrevistada"
+                },
+                {
+                    "letra": "D",
+                    "texto": "permite a quien la responde tomar distancia de sí mismo --- PAGINA 4 --- AC - 045 - 8 I 35"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 140,
+            "enunciado": "La caracterización del conocimiento como la fuente de poder más importante para el mundo del mañana y su relación con la democracia, tal como se hace en los textos citados, permite afirmar que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "será inútil el papel del Estado como mediador entre comerciantes de información",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "se dará paso a la informatización de los sistemas de control económico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el cambio en el conocimiento no alterará el sentido de la actual democracia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la democracia se vivirá como una lucha por el dominio de los nuevos conocimientos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 139,
+            "enunciado": "Los cambios en los procedimientos de información señalados en el Texto II le permitirían al autor del Texto I afirmar que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los cambios en educación provienen de la dinámica cambiante de la economía mundial",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las nuevas formas de circulación de conocimiento dan lugar a la constitución de nuevos centros de poder",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "frente a la rapidez de los avances tecnológicos, los procesos educativos quedaron rezagados",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "los fenómenos económicos que afectan al mundo político, llevan a la crisis del sistema educativo RESPONDA LAS PREGUNTAS 139 Y 140 DE ACUERDO CON EL SIGUIENTE TEXTO Texto I El acontecimiento económico más importante ha sido el nacimiento de un nuevo sistema para crear riqueza, que no se basa en la fuerza sino en la mente. Por tanto, el conocimiento resulta ser la fuente más importante de poder para el mundo del mañana en el que se van a desenvolver nuestros alumnos, nuestros hijos y nietos, además debemos verlo como la más democrática fuente de riqueza a la que todos debemos tener acceso. (Revista Aula Urbana No. 12, Julio de 1999). Texto II La incidencia de las transformaciones tecnológicas sobre el poder, se pone en evidencia en una trans- formación en el plano de los conocimientos: se sabe que al normalizar, miniaturizar y comercializar los aparatos, se modifican las operaciones de adquisición, clasificación, posibilidad de disposición y de explotación de conocimientos. PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA. ( TIPO IV ) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

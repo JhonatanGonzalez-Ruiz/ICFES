@@ -1,0 +1,502 @@
+{
+    "archivo_origen": "Química Profundización.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Química Profundización",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 23,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "En una molécula orgánica, los átomos de carbono se clasifican de acuerdo con el número de átomos de carbono a los que se encuentran enlazados, como se muestra a continuación De acuerdo con lo anterior, es válido afirmar que existe carbono de tipo cuaternario en la estructura de A.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "penteno B.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "metíl - 2 - butanol",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "C",
+                    "texto": "2,2 - dimetíl hexano D."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "propanona",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 107,
+            "enunciado": "En la siguiente figura se representa la forma en la que se disponen los orbitales de 2 átomos de carbono en un compuesto orgánico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 108,
+            "enunciado": "Los hidrocarburos insaturados reaccio- nan con KMnO4 de acuerdo con la siguiente ecuación Cuando un compuesto X de fórmula molecular C7H12 se óxida con una solución concentrada de KMnO4 produce un ácido de fórmula estruc- tural CH3 - CH - CH2 COOH y ácido etanico | CH3 La fórmula estructural del compuesto X es De acuerdo con la figura, el compuesto orgáni- co es H H",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "C / C H H"
+                },
+                {
+                    "letra": "B",
+                    "texto": "H = C = C = H"
+                },
+                {
+                    "letra": "C",
+                    "texto": "H - C / C - H H H"
+                },
+                {
+                    "letra": "D",
+                    "texto": "H - C = C - H --- PAGINA 2 --- AC -105 - 8 I 27 RESPONDA LAS PREGUNTAS 109 Y 110 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Los ácidos carboxílicos se disuelven en soluciones acuosas de NaOH formando sales. La reacción producida se representa en la siguiente ecuación general"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Al calentar una sal de sodio con una mez- cla de CaO y NaOH se forma un hidrocarburo y Na2CO3, como se representa en la siguiente ecuación Una sal orgánica se calienta en presencia de NaOH y CaO formando etano y Na2CO3. De acuer- do con esta información, la sal se deriva del ácido",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 110,
+            "enunciado": "Al mezclar una sal de sodio con HCl se produce el ácido orgánico del cual se deriva la sal y NaCl. De acuerdo con esta información, los productos de la reacción de HCl con acetato de sodio (CH3 - COONa) son NaCl y",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 111,
+            "enunciado": "La gráfica que representa el establecimiento del equilibrio dinámico en la reacción , es --- PAGINA 3 --- AC -105 - 8 I 28",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 112,
+            "enunciado": "Una muestra de ácido clorhídrico puro, HCl, necesita 100 g de NaOH de 80% de pureza para neutralizarse. La masa de la muestra de ácido clorhídrico es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "73 g"
+                },
+                {
+                    "letra": "B",
+                    "texto": "80 g"
+                },
+                {
+                    "letra": "C",
+                    "texto": "40 g"
+                },
+                {
+                    "letra": "D",
+                    "texto": "36,5 g Las sustancias P y J reaccionan de acuerdo con la siguiente ecuación P + J 2 X Adicionalmente la sustancia X reacciona con la sustancia R de acuerdo con la siguiente ecua- ción X + R Q + J Químicamente la sustancia R no reacciona con las sustancias P y J RESPONDA LAS PREGUNTAS 113 Y 114 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la siguiente tabla se presentan algunas ca- racterísticas de las sustancias P, J, X, R y Q. Todas las sustancias son líquidas a 20 ºC"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "Si reaccionan 2 moles de J con 1 mol de P y el producto reacciona con 1 mol de R, la cantidad de cada sustancia al final de las dos reacciones es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "1 mol de Q, 2 moles de J y 2 moles de X"
+                },
+                {
+                    "letra": "B",
+                    "texto": "1 mol de Q y 1 mol de J"
+                },
+                {
+                    "letra": "C",
+                    "texto": "1 mol de Q, 2 moles de J y 1 mol de X"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 moles de Q y 1 mol de J"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Se mezclan en un recipiente a 25ºC, 1 mol de cada una de las sustancias P,J,Q,X,R. Obtenido el producto final se cierra el recipiente herméticamente, luego se aumenta la tempera- tura hasta 185ºC. Sí a esta temperatura se ana- liza el contenido del recipiente, es probable que éste contenga",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Q líquido, J gaseoso y X gaseoso"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Q líquido y J líquido"
+                },
+                {
+                    "letra": "C",
+                    "texto": "Q gaseoso, J líquido y X líquido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Q gaseoso y X gaseoso"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "De acuerdo con las situaciones 1 y 2, durante el transcurso de la reacción, es válido afirmar que la presión en el recipiente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3 es menor que en los recipientes 1 y 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "3 es igual que en los recipientes 1 y 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "2 es mayor que en los recipientes 1 y 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "2 es igual que en los recipientes 1 y 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "En un recipiente se mezclan sin reaccio- nar 50 ml de un líquido incoloro con un sólido rojo que contiene algunas impurezas. De esta mezcla se obtiene una solución de color rojo. Si la adición del sólido no afecta el volumen y la concentración de impurezas en la solución ob- tenida es igual a 20 mg/ml, puede afirmarse que la cantidad de impurezas presentes en el sólido era igual a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "200 mg"
+                },
+                {
+                    "letra": "B",
+                    "texto": "20 mg"
+                },
+                {
+                    "letra": "C",
+                    "texto": "10 g"
+                },
+                {
+                    "letra": "D",
+                    "texto": "1 g o tn e m el E r alo M a s a M )lo m / g ( l C O a N H 5 , 5 3 6 1 3 2 1 a ic n a ts u S r alo M a s a M )lo m / g ( e d a r u t a r e p m e T ) C º( n ó icillu b E P 0 5 5 1 2 J ? 0 5 X 0 3 0 8 1 R ? 0 0 1 Q 0 4 0 0 2 RESPONDA LAS PREGUNTAS 116 Y 117 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN A 420ºC, dos recipientes rígidos (recipiente 1) y (recipiente 2) de igual capacidad contienen 1 mol del gas X2 y 3 moles del gas J2 respectiva- mente (situación 1). Los gases se mezclan en un recipiente idéntico (recipiente 3) donde se produce la siguiente re- acción (situación 2). --- PAGINA 4 --- AC -105 - 8 I 29"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "De acuerdo con la ecuación anterior, la expresión correcta para calcular la constante de equilibrio (Keq) en función de las concentracio- nes es En donde [ ] S = Concentración en mol/L S = Sustancia: reactivo o producto La siguiente tabla presenta el valor de la masa molar de dos sustancias V y W y su solubilidad en un líquido X cuya masa molar es 10g/mol; a dos temperaturas diferentes RESPONDA LAS PREGUNTAS 118 Y 119 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN a ic n a ts u S r alo m a s a M )lo m / g ( ) X e d g 0 0 1 / g ( d a d ilib ulo S C º 0 2 C º 0 6 W 0 , 8 2 3 4 6 V 0 , 6 6 3 6 3",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 118,
+            "enunciado": "Si la temperatura de la mezcla disminu- ye a 20ºC, la fracción molar de W en la solución será",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "0,20"
+                },
+                {
+                    "letra": "B",
+                    "texto": "0,25"
+                },
+                {
+                    "letra": "C",
+                    "texto": "0,33"
+                },
+                {
+                    "letra": "D",
+                    "texto": "0,36"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "Al realizar adiciones sucesivas, cada una de 3g, de una sustancia Z a la mezcla que se encuentra a 60ºC, se observa que precipita cierta cantidad de V y W como se observa en la tabla De acuerdo con esta información la gráfica que representa correctamente el efecto de la cantidad de Z adicionada sobre la solubilidad de V y W en X a 60ºC es n ó icid A o d ilo s e d la t o t d a d itn a C ) g ( o d a tip ic e r p V W 1 2 2 2 4 4 3 6 6 --- PAGINA 5 --- AC -105 - 8 I 30",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 120,
+            "enunciado": "Teniendo en cuenta que la temperatura de ebullición, es la temperatura a la cual la pre- sión de vapor del líquido es igual a la presión ejercida sobre él, es válido afirmar que a una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "presión dada, la temperatura de ebulli- ción del solvente puro es mayor que la de la solución Q"
+                },
+                {
+                    "letra": "B",
+                    "texto": "temperatura dada, la presión de vapor de la solución Q es mayor que la del solven- te puro"
+                },
+                {
+                    "letra": "C",
+                    "texto": "presión dada, la temperatura de ebulli- ción de la solución R es menor que la de la solución Q"
+                },
+                {
+                    "letra": "D",
+                    "texto": "temperatura dada, la presión de vapor de la solución Q es mayor que la de la solu- ción R Las concentraciones de las soluciones Q y R son 2 y 5 mol/L respectivamente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Si se prepara una solución Q, de con- centración 1 mol/L, es probable que para una temperatura dada, la presión de vapor de ésta sea",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor que la del solvente puro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "menor que la de la solución R"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor que la de la solución Q inicial"
+                },
+                {
+                    "letra": "D",
+                    "texto": "igual que la del solvente puro RESPONDA LAS PREGUNTAS 120 Y 121 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la gráfica se presentan las líneas de tempe- raturas de ebullición para un solvente y dos so- luciones de soluto no volátil en el solvente"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "A una temperatura T1 y una presión P1, un gas ocupa un volumen V1. Si el gas se somete a un proceso en el cual la temperatura se dupli- ca y la presión se disminuye a la mitad, la gráfi- ca que representa correctamente el cambio en el volumen es P1V1T2 = P2V2T1 --- PAGINA 6 --- AC -105 - 8 I 31",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "Después de 20 minutos de destilación, lo más probable es que la temperatura del con- tenido del matraz sea",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "menor que la temperatura de ebullición de X y en el matraz haya X puro"
+                },
+                {
+                    "letra": "B",
+                    "texto": "igual a la temperatura de ebullición de W y en el matraz haya una mezcla de X y W"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor que la temperatura de ebullición de X y en el matraz haya una mezcla de X y W"
+                },
+                {
+                    "letra": "D",
+                    "texto": "igual a la temperatura de ebullición de W y en el matraz haya W puro"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "Si la destilación de la mezcla se realiza empleando los dos mecheros, lo más probable es que la temperatura de ebullición de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "W disminuya y la destilación se realice en un menor tiempo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "X aumente y la destilación se realice en un mayor tiempo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "X y W permanezca constante y la destila- ción se realice en un menor tiempo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "X y W aumente y la destilación se realice en un mayor tiempo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 125,
+            "enunciado": "Al destilar una mezcla que contiene X y una sustancia V cuya temperatura de ebullición es menor que la de X , lo más probable es que se obtenga la gráfica RESPONDA LAS PREGUNTAS 123 A 125 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Dos sustancias X y W que tienen temperaturas de ebullición de 60ºC y 90ºC, respectivamente, se mezclan formando una solución que poste- riormente se destila empleando el montaje que se presenta a continuación Durante la destilación, empleando solo un me- chero, se mide la cantidad de X y W obtenida en el vaso de precipitados y se gráfica, como se observa a continuación",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

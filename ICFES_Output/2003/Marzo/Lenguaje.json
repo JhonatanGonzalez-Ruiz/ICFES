@@ -1,0 +1,1025 @@
+{
+    "archivo_origen": "Lenguaje.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Lenguaje",
+    "total_paginas": 7,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "La imagen que aparece en el cuadro ha sido creada por el pintor surrealista René Magritte. Con respecto a una obra como ésta, se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es posible en la medida en que fue pensada y plasmada artísticamente por el autor."
+                },
+                {
+                    "letra": "B",
+                    "texto": "resulta extraña, pues da la impresión de que el artista posee una idea equivocada de la realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es absurda, en vista de que el autor confunde sus intereses estéticos con la función del arte."
+                },
+                {
+                    "letra": "D",
+                    "texto": "corresponde a una propuesta real de ciertos objetos que son usados por el artista. --- PAGINA 2 --- 13 AC - 042 - 110 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "Uno de los intereses esenciales del pintor René Magritte giró en torno a la liberación del hombre de cualquier restricción mental o física. Según la imagen, se podría pensar que el autor está interesado en provocar una reflexión en tor- no a múltiples aspectos, excepto en torno a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "lo interesante que sería poder cambiar de personalidad ocasionalmente."
+                },
+                {
+                    "letra": "B",
+                    "texto": "lo insoportable que a veces nos resulta nuestro propio cuerpo."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la necesidad de ausentarnos de nosotros mismos como rutina cotidiana."
+                },
+                {
+                    "letra": "D",
+                    "texto": "lo desconcertante que siempre nos ha re- sultado el cuerpo humano."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "Si se quisiera pensar en una persona que el artista ha evocado en este cuadro, la afirmación más real respecto a ella sería que no",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tiene zapatos, ya que éstos son falsos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "desea usar por ahora esos zapatos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "puede caminar porque le faltan los pies."
+                },
+                {
+                    "letra": "D",
+                    "texto": "tiene pies, pues los dejó abandonados."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 41,
+            "enunciado": "En este cuadro están plasmadas las ideas de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un creador que considera que lo imposible es posible."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un inventor que cree que los pies pueden convertirse en zapatos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "un idealista que está muy cansado y de- sea unos zapatos imposibles."
+                },
+                {
+                    "letra": "D",
+                    "texto": "un soñador que quiere sentirse tan tran- quilo como cuando duerme."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 39,
+            "enunciado": "Una situación que definitivamente reduce las posibilidades de interpretación de una obra surrealista como el cuadro presentado es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Un hombre estuvo trabajando todo el día, llegó muy temprano a casa y deseó poder quitarse los pies como si fueran zapatos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Un hombre con una gran sensibilidad de- seó poder tocar el suelo y sentir su textura con unos zapatos tan sutiles como pies."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Un pintor partió de la idea de que hay co- sas inútiles que deben existir y representó sus propias necesidades cotidianas."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Un hombre decidió que era necesario transformar el arte a partir de las necesi- dades humanas e hizo este bosquejo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 40,
+            "enunciado": "El cuadro El modelo rojo, como toda obra de arte, puede remitir a quien la contempla a múl- tiples significados, pero si se piensa que estos zapatos acaban de ser usados por alguien, una posible causa de que hayan sido dejados al lado de una construcción de madera es que, para esta persona,",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sentir las piedras del camino es más agra- dable que usar zapatos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un lugar a donde ingresó está sucio y no desea dañar sus zapatos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el camino que va a recorrer es suave y no necesita zapatos."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el suelo que va a pisar ya no exige el uso de zapatos."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "De las siguientes expresiones, aquella que resulta más adecuada al sentido del cuadro es:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Para qué zapatos si no tengo pies."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Mis pies sienten aun con zapatos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "Pies sobre los pies y ¡adiós, zapatos!"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Sin zapatos me libero de caminar. --- PAGINA 3 --- 14 AC - 042 - 110 I RESPONDA LAS PREGUNTAS DE LA 43 A LA 62 DE ACUERDO CON EL SIGUIENTE TEXTO CIUDAD Y LITERATURA La ciudad puede ser perfectamente un tema literario, escogido por el interés o la necesidad de un autor determinado. Ahora pululan escritores que se autodenominan o son señalados por alguna crítica como escritores urbanos. No obstante, considero que muchos de ellos tan sólo se acercan de manera superficial a ese calificativo y lo hacen equívocamente al pretender referirse a la ciudad a través de una mera nominación de calles, de bares en esas calles, de personajes en esos bares de esas calles, como si la descripción más o menos pormenorizada de esas pequeñas geografías nos develara una ciudad en toda su complejidad. La ciudad es, en sí misma, un tema literario. Además, es el escenario donde transcurren y han transcu- rrido miles y miles de historias de hombres y mujeres. La ciudad es la materia prima de los sueños y las pesadillas del hombre moderno, el paisaje en el cual se han formado sentimental e intelectualmente muchas generaciones de narradores en todo el mundo. Esa condición de escenario ambulante y permanente hace que la ciudad sea casi un imperativo temáti- co o, mejor, el espacio natural de la imaginación narrativa contemporánea. Por supuesto que existen otros temas y otros imaginarios, distintos a los urbanos; pero quiero señalar de forma especial la impre- sionante presencia de lo citadino en la literatura y, en este caso, primordialmente en la cuentística universal del presente siglo. Frente a la pregunta de qué es lo urbano en literatura, habría que contestar que urbano no es necesaria- mente lo que sucede o acontece dentro de la urbe. Una narración puede ubicarse legítimamente en la ciudad pero estar refiriéndose a una forma de pensar, actuar y expresarse rural o ajena al universo comprendido por lo urbano. Esto último, lo urbano, posee sus maneras específicas de manifestarse, sus lenguajes, sus problemáticas singulares: en definitiva, un universo particular. En consecuencia se podría afirmar que la narrativa urbana es aquella que trata sobre los temas y los comportamientos que ha generado el desarrollo de lo urbano, y siempre a través de unos lenguajes peculiares. Esta definición no pretende ser exhaustiva ni excluyente, pero es útil para delimitar ese universo esquivo y manoseado de lo urbano. (Tomado de: TAMAYO S., Guido L. Prólogo al texto Cuentos urbanos. Colección El Pozo y el Péndulo, Bogotá: Panamericana, 1999.)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 43,
+            "enunciado": "La intención del texto anterior es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "describir una teoría en torno a lo urbano en la literatura, para caracterizar la estruc- tura de un libro."
+                },
+                {
+                    "letra": "B",
+                    "texto": "exponer una posición sobre la ciudad como tema literario, para motivar a la lectura de un libro."
+                },
+                {
+                    "letra": "C",
+                    "texto": "narrar algunas experiencias de escritores urbanos, para mostrar algunos fragmentos de un libro."
+                },
+                {
+                    "letra": "D",
+                    "texto": "apoyar una postura tradicional sobre la li- teratura urbana, para promover la venta de un libro."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 44,
+            "enunciado": "El texto anterior se ocupa fundamentalmen- te de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la relación entre narradores urbanos y ru- rales en la literatura contemporánea."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la similitud entre literatura y urbanismo en la narrativa contemporánea."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la diferencia entre urbanismo y ciudad en la literatura contemporánea."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la relación entre ciudad y literatura en la narrativa contemporánea. --- PAGINA 4 --- 15 AC - 042 - 110 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "En el texto, con el enunciado La ciudad pue- de ser perfectamente un tema literario se",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "afirma algo que posteriormente se susten- ta."
+                },
+                {
+                    "letra": "B",
+                    "texto": "predice algo que luego se constata."
+                },
+                {
+                    "letra": "C",
+                    "texto": "instituye algo que posteriormente se reali- za."
+                },
+                {
+                    "letra": "D",
+                    "texto": "advierte algo que luego se comprueba."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "En el primer párrafo del texto, la palabra crí- tica aparece entre comillas para",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "enfatizar el sentido de esa palabra en el texto."
+                },
+                {
+                    "letra": "B",
+                    "texto": "señalar que se trata de una postura que el autor no comparte."
+                },
+                {
+                    "letra": "C",
+                    "texto": "nombrar algo que ha sido mencionado por alguien especial."
+                },
+                {
+                    "letra": "D",
+                    "texto": "señalar que lo que se dice proviene de un juicio colectivo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "En el enunciado No obstante, considero que muchos de ellos tan sólo se acercan de manera superficial a ese calificativo, la expresión subra- yada puede ser reemplazada, sin que se modifi- que el sentido del enunciado, por",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "y."
+                },
+                {
+                    "letra": "B",
+                    "texto": "aunque."
+                },
+                {
+                    "letra": "C",
+                    "texto": "sin embargo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "pero."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "A partir del texto anterior, podemos afirmar que la crítica literaria es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un proceso por el cual se valora o califica la producción literaria en un contexto par- ticular."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la acción de organizar la producción litera- ria teniendo en cuenta sus aspectos geo- gráficos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el acto por el cual alguien señala los as- pectos negativos en la producción literaria de otro."
+                },
+                {
+                    "letra": "D",
+                    "texto": "una actitud con la cual se muestran las cosas positivas en la producción literaria de alguien."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 51,
+            "enunciado": "En el primer párrafo, la expresión ese califi- cativo hace referencia a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "pequeñas geografías."
+                },
+                {
+                    "letra": "B",
+                    "texto": "escritores urbanos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "temas literarios."
+                },
+                {
+                    "letra": "D",
+                    "texto": "hombres modernos."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "En el primer párrafo del texto se dice que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "algunos escritores se caracterizan por ser urbanos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la literatura urbana se caracteriza por des- cribir la ciudad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es posible que en literatura exista un tema como la ciudad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la denominación literatura urbana es muy ingenua."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "En el primer párrafo del texto se cuestiona fundamentalmente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un juicio."
+                },
+                {
+                    "letra": "B",
+                    "texto": "un concepto."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una definición."
+                },
+                {
+                    "letra": "D",
+                    "texto": "una explicación."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "En el primer párrafo del texto, la expresión No obstante permite introducir",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una idea que explica un juicio."
+                },
+                {
+                    "letra": "B",
+                    "texto": "una opinión que rebate un juicio."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una idea que apoya un juicio."
+                },
+                {
+                    "letra": "D",
+                    "texto": "una opinión que explica un juicio."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "De lo dicho en el segundo párrafo del texto se puede concluir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el arte es el espejo en el que se refleja la realidad del hombre."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el mundo de la literatura es ajeno a la co- tidianidad del hombre."
+                },
+                {
+                    "letra": "C",
+                    "texto": "en la literatura se construye la cotidianidad del hombre."
+                },
+                {
+                    "letra": "D",
+                    "texto": "en la realidad se construyen los mundos posibles de la literatura."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "Cuando en el texto se dice que la ciudad es un imperativo temático en la narrativa contempo- ránea, se afirma que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es una obligación para los escritores es- cribir sobre la ciudad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "en el futuro se producirá exclusivamente literatura urbana."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la literatura actual no puede evadir el tema de lo urbano."
+                },
+                {
+                    "letra": "D",
+                    "texto": "es urgente rescatar la narración de corte urbano. --- PAGINA 5 --- 16 AC - 042 - 110 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "Por la manera como se presenta la informa- ción en el texto, se podría decir que en él predo- mina un discurso",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "informativo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "poético."
+                },
+                {
+                    "letra": "C",
+                    "texto": "narrativo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "argumentativo."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "De acuerdo con los planteamientos que se desarrollan en el texto con relación a la literatura urbana, se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "todo escrito que tenga como referente a la ciudad puede llegar a ser considerado co- mo ejemplo de la literatura urbana."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el referente fundamental para valorar una obra literaria como perteneciente a la lite- ratura urbana es el lugar donde haya naci- do el escritor."
+                },
+                {
+                    "letra": "C",
+                    "texto": "una obra literaria puede llegar a ser consi- derada como ejemplo de la literatura urba- na cuando en ella se percibe la vida que se moldea en el complejo mundo de lo ur- bano."
+                },
+                {
+                    "letra": "D",
+                    "texto": "todo escrito puede llegar a ser clasificado como literatura urbana si en él se descri- ben los espacios que caracterizan una for- ma de vida."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 55,
+            "enunciado": "Del enunciado La ciudad es la materia pri- ma de los sueños y las pesadillas del hombre moderno se puede inferir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la problemática y el presente del hombre moderno se pueden estudiar a partir de la literatura urbana."
+                },
+                {
+                    "letra": "B",
+                    "texto": "el estado mental del hombre moderno de- pende del grado de desarrollo expresado en la ciudad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la imaginación es una diferencia fundamen- tal entre el hombre moderno y el hombre antiguo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el hombre moderno desarrolla su capaci- dad para soñar únicamente si vive en la ciudad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 56,
+            "enunciado": "Según el texto anterior, se puede afirmar que la ciudad",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ha sido siempre un tema fundamental en la literatura universal."
+                },
+                {
+                    "letra": "B",
+                    "texto": "es el referente más significativo en la na- rrativa contemporánea."
+                },
+                {
+                    "letra": "C",
+                    "texto": "podría llegar a ser un gran tema literario si los escritores quisieran."
+                },
+                {
+                    "letra": "D",
+                    "texto": "es un escenario ambulante que reproduce sueños y pesadillas."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 59,
+            "enunciado": "De acuerdo con lo leído en el texto anterior, lo urbano se define como un universo particu- lar, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se constituye a partir de pequeñas geogra- fías en las que viven y sueñan miles de hombres y mujeres."
+                },
+                {
+                    "letra": "B",
+                    "texto": "posee una problemática propia, que se ex- presa a través de formas y lenguajes es- pecíficos."
+                },
+                {
+                    "letra": "C",
+                    "texto": "se construye en espacios naturales donde la imaginación se manifiesta de forma com- pleja."
+                },
+                {
+                    "letra": "D",
+                    "texto": "tiene sus propios límites conceptuales y te- rritoriales que lo diferencian de lo rural."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 60,
+            "enunciado": "Podríamos decir que la visión del autor en torno a la relación entre literatura y ciudad es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "reduccionista, porque se limita a unos po- cos ejemplos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "objetiva, porque considera el contexto en el que sucede."
+                },
+                {
+                    "letra": "C",
+                    "texto": "ingenua, porque se basa en concepciones tradicionales."
+                },
+                {
+                    "letra": "D",
+                    "texto": "subjetiva, porque no considera más que su propio interés."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "Según el texto anterior, podríamos decir que es fundamentalmente un escritor de literatura ur- bana",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "Gabriel García Márquez."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Andrés Caicedo."
+                },
+                {
+                    "letra": "C",
+                    "texto": "José Eustasio Rivera."
+                },
+                {
+                    "letra": "D",
+                    "texto": "Pablo Neruda. --- PAGINA 6 --- 17 AC - 042 - 110 I RESPONDA LAS PREGUNTAS DE LA 63 A LA 70 DE ACUERDO CON EL SIGUIENTE TEXTO LA VENTANILLA DEL BUS Comienza a oscurecer, ya están encendidas las vitrinas de la Carrera Trece, en los andenes se agolpa la multitud; voy en un bus que lucha por abrirse paso en la congestión vehicular. Entre la ciudad y yo está el vidrio de la ventanilla que devuelve mi imagen, perdida en la masa de pasajeros que se mueven al ritmo espasmódico del tránsito. Ahora vamos por una cuadra sin comercio, la penumbra de las fachadas le permite al pequeño mundo del interior reflejarse en todo su cansado esplendor: ya no hay paisaje urbano superpuesto al reflejo. Sólo estamos nosotros, la indiferente comunidad que comparte el viaje. El bus acelera su marcha y la ciudad desaparece. Baudrillarddice que un simulacro es la suplantación de lo real por los signos de lo real. No hay lo real, tan sólo la ventanilla que nos refleja. Nosotros, los pasajeros, suplantamos la realidad, somos el paisaje. ¿Somos los signos de lo real? Un semáforo nos detiene en una esquina. Otro bus se acerca lentamente hasta quedar paralelo al nuestro; ante mí pasan otras ventanillas con otros pasajeros de otra comunidad igualmente apática. Pasan dos señoras en el primer puesto. Serán amigas -pienso-, quizás compañeras de trabajo. Pero no hablan entre ellas. Sigue pasando la gente detrás de las otras ventanas, mezclando su imagen real con nuestro reflejo. Creo verme sentado en la cuarta ventanilla del bus que espera la señal verde junto a nosotros. Es mi reflejo, intuyo; pero no es reflejo: soy yo mismo sentado en el otro bus. Con temor y asombro, él y yo cruzamos una mirada cómplice, creo que nos sonreímos más allá del cansancio del día de trabajo. Los dos vehículos arrancan en medio de una nube de humo negro. (Texto tomado de: PÉRGOLIS, Juan Carlos; ORDUZ, Luis Fernando; MORENO, Danilo. Reflejos, fantasmas, desarraigos. Bogotá recorrida. Bogotá: Arango Editores, Instituto Distrital de Cultura y Turismo, 1999.)"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "Si las ciudades y sociedades de todo el mundo están experimentando una profunda transforma- ción histórica y la literatura expresa dicha transformación a través de sus propios lenguajes, podría pensarse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un estudio comparativo entre la literatura del futuro y la actual permitiría percibir la transformación de la conciencia humana causada por los acelerados procesos de urbanización."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la literatura del futuro será completamente diferente a la literatura actual, ya que estará construida a partir de una sociedad con una estructura radicalmente contraria a la actual."
+                },
+                {
+                    "letra": "C",
+                    "texto": "en el futuro la literatura no se diferenciará de lo que es hoy en día, porque en ambos casos el punto de partida fundamental es el lenguaje propio de la ciudad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "comparar la literatura actual con la literatura del futuro será una labor infructuosa, puesto que llegará un punto en el cual el lenguaje se transformará estructuralmente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 63,
+            "enunciado": "En el texto anterior predomina",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la descripción del entorno material de una ciudad a partir de un viaje en bus por el centro de ella."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la narración del viaje que alguien realiza en un bus por el centro de una ciudad y la presentación de sus reflexiones."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la caracterización de una ciudad a partir de la relación existente entre el transporte público y el individuo."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la presentación de una teoría sobre la forma de descubrir la falsedad dentro de una ciudad. --- PAGINA 7 --- 18 AC - 042 - 110 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 64,
+            "enunciado": "Otro posible título para el texto anterior se- ría:",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "La ciudad y el transporte."
+                },
+                {
+                    "letra": "B",
+                    "texto": "Caos y transporte."
+                },
+                {
+                    "letra": "C",
+                    "texto": "La ciudad se puede leer."
+                },
+                {
+                    "letra": "D",
+                    "texto": "El transporte público."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 65,
+            "enunciado": "En el texto predomina una narración que combina",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la primera persona del singular y la segun- da persona del plural."
+                },
+                {
+                    "letra": "B",
+                    "texto": "la tercera persona del plural y la tercera persona del singular."
+                },
+                {
+                    "letra": "C",
+                    "texto": "la primera persona del singular y la prime- ra persona del plural."
+                },
+                {
+                    "letra": "D",
+                    "texto": "la segunda persona del plural y la tercera persona del singular."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 66,
+            "enunciado": "El enunciado un simulacro es la suplanta- ción de lo real por los signos de lo real se intro- duce en el texto con la intención de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "argumentar la idea de que leer la ciudad es leernos a nosotros mismos."
+                },
+                {
+                    "letra": "B",
+                    "texto": "definir el significado de simulacro partien- do de un viaje en bus por la ciudad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "proponer un método para leer la ciudad a partir de los planteamientos de Baudrillard."
+                },
+                {
+                    "letra": "D",
+                    "texto": "discutir la concepción de Baudrillard en tor- no a la posibilidad de hallar la ciudad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 68,
+            "enunciado": "Las expresiones Serán amigas y quizás compañeras de trabajo, ubicadas en el tercer pá- rrafo, se han impreso en letra cursiva con la in- tención de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "introducir comentarios que el autor del texto hace para sí mismo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "formular interrogantes del autor del texto hacia sus lectores."
+                },
+                {
+                    "letra": "C",
+                    "texto": "señalar diálogos entre el autor y el narra- dor del texto."
+                },
+                {
+                    "letra": "D",
+                    "texto": "evidenciar la participación de uno de los personajes en el texto."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 69,
+            "enunciado": "Cuando el texto habla de comunidades apá- ticas e indiferentes, se refiere a",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las personas que transitan por el centro de la ciudad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "algunos individuos que observan crítica- mente la ciudad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "todos los seres que pertenecemos a la ciu- dad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "los usuarios del transporte público en la ciudad."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 70,
+            "enunciado": "El texto La ventanilla del bus se puede cla- sificar como urbano, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "trata un problema propio de la ciudad, a partir de referentes urbanos y con un len- guaje propio de ciudad."
+                },
+                {
+                    "letra": "B",
+                    "texto": "analiza las causas del estado actual de la ciudad, apoyándose en estudios científicos y valiéndose de ejemplos de ciudad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "profundiza en una problemática de ciudad partiendo de teorías antropológicas y pro- pone un nuevo lenguaje para la ciudad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "insinúa algunas problemáticas de la ciu- dad a través de anécdotas citadinas, ex- presadas con un lenguaje propio de la lite- ratura."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 67,
+            "enunciado": "Del enunciado Nosotros, los pasajeros, suplantamos la realidad, somos el paisaje se puede concluir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los individuos que componen la masa son sólo objetos para ser observados."
+                },
+                {
+                    "letra": "B",
+                    "texto": "siempre que se hace parte de algo colecti- vo, es inevitable suplantar la realidad."
+                },
+                {
+                    "letra": "C",
+                    "texto": "el concepto de paisaje se fundamenta en la inexistencia de la individualidad."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el objeto que constituye la realidad es el mismo sujeto que la observa."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

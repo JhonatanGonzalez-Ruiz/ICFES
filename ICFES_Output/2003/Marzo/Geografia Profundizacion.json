@@ -1,0 +1,715 @@
+{
+    "archivo_origen": "Geografia Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Geografia Profundizacion",
+    "total_paginas": 5,
+    "total_preguntas_detectadas": 32,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "El páramo es un bioma frágil y complejo, ubicado en las altas montañas andinas ecua- toriales; la intervención humana ha generado pro- cesos de erosión de suelos, contaminación de aguas y desaparición de su fauna. Algunas de las razones más importantes para la intervención de este ecosistema tienen que ver con la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "falta de tierra de las comunidades y la ex- pansión de la frontera agrícola"
+                },
+                {
+                    "letra": "B",
+                    "texto": "producción del cultivo de papa y el uso de fertilizantes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "utilización de los recursos florísticos que posee el páramo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ubicación de asentamientos humanos y creación de carreteras"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Los humedales funcionan como áreas de amortiguación de las corrientes de agua, éstos se ven afectados en su funcionamiento natural por el constante vertimiento de aguas residuales ocasionando un problema ambiental. Un fenóme- no que evidencia lo anterior es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el desplazamiento de la población en bus- ca de un paisaje adecuado para su locali- zación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la eutroficación de las aguas, caracteriza- da por el excesivo crecimiento de algas y la disminución del oxígeno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la disminución de caudal de los ríos que se encuentran cerca a las áreas en que se depositan residuos."
+                },
+                {
+                    "letra": "D",
+                    "texto": "el establecimiento de grupos humanos que aprovechan el espacio dejado por el agua"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Para que el Estado y la sociedad colom- biana se beneficien con la presencia de mul- tinacionales en nuestro territorio, sería ideal que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "disminuyeran los impuestos a la multinacio- nal y la incentivaran con créditos para que se localice en el país"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existiera un conocimiento integral de nuestro espacio que nos permita evaluar las venta- jas y debilidades, las políticas y controles adecuados; así como, incentivar la participa- ción ciudadana para aprovechar la perma- nencia de la multinacional en su territorio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "existiera un conocimiento integral del espa- cio para determinar las riquezas que tenemos; así como, la disposición de mano de obra ba- rata para las actividades que requiere la mul- tinacional, además de adecuar la infraestruc- tura necesaria para atraer al mayor número de estas empresas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se hiciera un control exhaustivo hacia las mul- tinacionales, imponiendo impuestos altos para que éstas no sobreutilicen el espacio ni ex- ploten a las personas y sus ecosistemas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "Durante la edad media la apropiación de la tierra era realizada por los señores feudales quiénes la distribuían de acuerdo a sus intereses para la producción agrícola. Los siervos tenían acceso a la tierra solo en la medida en que esta- blecían un contrato con el señor feudal. Esta for- ma de relación indica que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la propiedad de la tierra es esencial para mantener status social"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la apropiación de la tierra está subordina- da a las formas sociales existentes"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la tierra es el único elemento para la pro- ducción y el mantenimiento en una organi- zación social"
+                },
+                {
+                    "letra": "D",
+                    "texto": "durante la edad media se consolidaron pro- cesos de planificación y distribución de la tierra"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "La región Pacífica de Colombia es el lu- gar en Latinoamérica donde se presentan los más altos niveles de precipitación media anual, con promedios de hasta 8.000 mm/año. Los altos ni- veles de humedad relativa, lluvia, caudales y nu- bosidad que se presentan en esta región son una consecuencia de la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "proximidad al océano Pacífico y su relación con los diferentes ecosistemas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "congregación de diferentes escenarios eco- sistémicos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "interacción de los elementos del clima y las características orográficas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "diversidad de especies vegetales en la región"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "En la Economía Mundo las relaciones mer- cantiles que se establecieron crearon vínculos de subordinación y dependencia entre algunos Es- tados considerados como centro y otros como de carácter periférico. Teniendo en cuenta estos planteamientos se podría considerar a la Econo- mía Mundo como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "una etapa del proceso de consolidación espa- cio temporal del capitalismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la manifestación económica y cultural del neo- liberalismo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el surgimiento del nuevo orden mundial que integra a todo el globo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un punto de partida para la fragmentación de los estados nacionales --- PAGINA 2 --- 29 AC - 107 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Las condiciones atmosféricas predominan- tes en un lugar dado y en un período de tiempo corto, tomadas bajo parámetros como tempera- tura, precipitación, insolación, humedad, viento y nubosidad, y, determinadas por factores radiativos forzantes (radiaciones solares, efecto invernadero), factores físicos (altitud, latitud, oro- grafía, continentalidad) y las diferentes interrelaciones del sistema climático (biosfera, atmósfera, hidrosfera, litosfera, antropósfera), son las que nos permiten hablar del estado del tiem- po, es decir que el estado del tiempo es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el análisis teórico y práctico de cada uno de los factores físicos geográficos del sis- tema climático"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el resultado de una serie de elementos que se combinan entre si, constituyendo las características atmosféricas en un instan- te"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el promedio de cada uno de los elementos climáticos que se presentan en un lugar y momentos del medio día"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el conjunto de dos fenómenos meteoroló- gicos que caracterizan el estado medio de la atmósfera"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "La Economía Mundo, tiene su origen en el siglo XIX donde las relaciones mercantiles que se establecieron crearon vínculos de sub- ordinación y dependencia entre algunos Estados considerados como centro y otros de carácter periférico. La Globalización, hace referencia a mecanismos uniformizadores que propenden por una homogeneización del proceso económico, donde el agente principal es el mercado, que actúa como elemento unificador de las diversas sociedades poniendo en contacto algunas regio- nes. Una de las diferencias de la Globalización respecto a la Economía Mundo se expresa en la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "reducción del mercado, la fragmentación espacio temporal y el estancamiento del sistema productivo."
+                },
+                {
+                    "letra": "B",
+                    "texto": "hiperinflación de los bienes y servicios, el surgimiento de una cultura heterogénea y la implantación de normas de calidad ISO 2000"
+                },
+                {
+                    "letra": "C",
+                    "texto": "comprensión espaciotemporal, la movilidad del capital y la tendencia a la estandariza- ción de las normas de consumo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "desregulación del sistema financiero inter- nacional y la macdonalización de los hábi- tos de consumo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Una pirámide de población es un gráfico que sirve básicamente para representar la estruc- tura poblacional de un país, las variables que se utilizan para su elaboración son",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el número de personas de un lugar clasi- ficándolas por rango de edad y sexo, y de esta forma obtener sus porcentajes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el promedio de edad y sexo de todos los habitantes de un lugar así como una orga- nización de la información de mayor a menor"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la diferencia de nacidos y fallecidos de un lugar, rango de edad y sexo para calcular el porcentaje de cada una de las catego- rías"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los datos consolidados y jerarquizados de los migrantes, al igual que las tasas repre- sentativas de urbanización"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Al finalizar la Segunda Guerra Mundial, Eu- ropa estaba preocupada por su recuperación eco- nómica, ya que los diferentes países habían ter- minado completamente destruidos. La falta de industrias y de una vida comercial óptima esti- mularon la creación de organismos de coopera- ción económica internacional. Los organismos más importantes fueron",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el Fondo Monetario Internacional, y la Co- munidad Económica Europea"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el Banco Internacional de Reconstrucción y Desarrollo, y la Organización de Nacio- nes Unidas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el Fondo Monetario Internacional, y el Ban- co Internacional de Reconstrucción y De- sarrollo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la Organización de las Naciones Unidas y la Comunidad Económica Europea --- PAGINA 3 --- 30 AC - 107 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Las pirámides poblacionales indican dos situaciones distintas. En la primera se observa que los grupos de edad joven son más numerosos que los de edad adulta y vieja, lo cual indica una natalidad y una mortalidad alta y un crecimiento demográfico rápido, catalogada ésta como una pirámide poblacional de tipo progresivo. Para el caso de los Estados Unidos se presenta una situación algo contraria, la cual se denomina una pirámide poblacional de tipo regresivo, porque en ella se observa una",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "tasa de natalidad y de mortalidad estable con síntomas de un crecimiento invertido en los rangos de edad mayores que da inicio a una consolidación poblacional"
+                },
+                {
+                    "letra": "B",
+                    "texto": "natalidad baja y estabilizada, con reducción de la mortalidad y envejecimiento de la población y síntomas de estancamiento demográfico"
+                },
+                {
+                    "letra": "C",
+                    "texto": "natalidad y mortalidad altas con tendencias decrecientes al envejecimiento de la población a pe- sar del paulatino incremento poblacional"
+                },
+                {
+                    "letra": "D",
+                    "texto": "tardía transición demográfica que se expresa en las tasas de crecimiento y la diferencia progresi- va de la natalidad y mortalidad manifestándose en el ancho de la pirámide"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "El aumento de la temperatura media global por el reforzamiento del efecto invernadero se ma- nifiesta en fenómenos como",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el aumento de los días de verano y las escasas precipitaciones en las estaciones de invierno y primavera"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la aparición de formas vegetales típicas del trópico en latitudes ecuatoriales y boreales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el retroceso de los glaciares de montaña y el incremento promedio de 0.38 mm/año del nivel de los océanos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la pérdida de ecosistemas acuáticos y mamíferos endémicos como el oso panda y los koalas australianos En los últimos años estamos asistiendo a un avance trascendental: la creación de autopistas de la información, redes por las que circulan gran cantidad de textos, imágenes y sonidos en forma digital y de manera prácticamente instantánea. A partir de la gráfica se puede observar que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "entre los países menos industrializados hay un gran flujo de conexiones"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a los países altamente industrializados llega el mayor número de conexiones"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los países altamente industrializados cuen- tan con las mejores redes de comunica- ción"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los países altamente industrializados sólo mantienen conexiones entre ellos, aislan- do a los países menos industrializados"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "--- PAGINA 4 --- 31 AC - 107 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "Desde la década del setenta hasta el presente se han consolidado diferentes grupos armados como guerrillas, paramilitares y narcotraficantes; así, como las mismas fuerzas armadas del Estado que en conjunto han incrementado la guerra no oficializada en Colombia, agudizando la crisis. Bajo este panorama algunos aspectos para analizar con el objetivo de evitar que en el futuro el conflicto continúe, serían",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la violencia que por naturaleza tenemos y la crisis de instituciones como las fuerzas armadas que no cuentan con la capacidad militar para enfrentar a los violentos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la ausencia de un proyecto de nación totalitario y la falta de dirigentes fuertes que dicten órdenes pa- ra el control permanente del orden público"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las desigualdades sociales, económicas y políticas; así como, la intolerancia e individualismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la aguda crisis social y la falta de criterio en las negociaciones y los diálogos de paz, ya que esto se debe hacer teniendo en cuenta únicamente los planteamientos oficiales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "Se considera que Colombia es un país megadiverso, por la gran cantidad de especies de fauna y flora existentes en sus ecosistemas; y es considerada también una área crítica por la alta intervención humana que amenaza la conservación de la diversidad biológica. Teniendo en cuenta lo anterior, y dadas nuestras condiciones socio-económicas, una estrategia viable para el manejo ambiental en el país sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "impulsar nuestra biodiversidad en los mercados internacionales para lograr obtener beneficios eco- nómicos a corto plazo y de esta forma reinvertir en la protección del ambiente y los ecosistemas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "impulsar la investigación para conocer el estado real de los ecosistemas, su riqueza y diversidad biótica; así como, evaluar los procesos de transformación y alteración para que sirvan como ejes que permitan su recuperación y de esta forma aprovechar coherentemente el potencial que representan"
+                },
+                {
+                    "letra": "C",
+                    "texto": "aprovechar los diferentes ecosistemas colombianos que se encuentran en estado virgen o prístino, y por ende, marginados de los sistemas productivos, implementando estrategias de divulgación de nuestra biodiversidad para asegurar los mercados a escala internacional"
+                },
+                {
+                    "letra": "D",
+                    "texto": "impulsar políticas de protección y conservación de todos los ecosistemas colombianos, declarándo los reservas o parques naturales, prohibiendo totalmente su utilización y apropiación por parte de las comunidades locales"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "En 1946 Juan Domingo Perón fue elegido presidente de la república Argentina y reelegido en 1951. Desde su primera elección implantó el denominado justicialismo, que buscaba ser un sistema social, político y económico diferente al capitalismo y al comunismo. Su gobierno generó grandes polí- ticas de desarrollo para su país favorecido por la situación financiera en la que quedó Argentina luego de la Segunda Guerra Mundial. La construcción de obras públicas y el impulso de la industria, fue una de las principales actividades de este gobierno que buscaba",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el desarrollo económico garantizado por el modelo capitalista"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el desarrollo social basado en la importación de la industria"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la modernización del país a partir de la construcción de vías"
+                },
+                {
+                    "letra": "D",
+                    "texto": "implementar políticas sociales que favorecieran a la mayoría de población De acuerdo con la caricatura, una alternativa para mejorar indis- cutiblemente la situación sería"
+                },
+                {
+                    "letra": "A",
+                    "texto": "proponer una política de trabajo y seguridad social que se acople a las actividades recreativas, para poder incrementar los beneficios que allí puedan generarse"
+                },
+                {
+                    "letra": "B",
+                    "texto": "proponer una política de recreación masiva, que integre a todas las clases sociales, lo cual llevará a mejorar el bie- nestar de todas las comunidades"
+                },
+                {
+                    "letra": "C",
+                    "texto": "instaurar políticas de distribución de tierras de acuerdo con la situación de las comunidades, buscando satisfacer las necesidades prioritarias"
+                },
+                {
+                    "letra": "D",
+                    "texto": "instaurar políticas de distribución de tierras de acuerdo con las actividades humanas requeridas ya sean recreativas, residenciales, industriales y de servicios"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "--- PAGINA 5 --- 32 AC - 107 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 124,
+            "enunciado": "Un corema es una forma de representación gráfica de los elementos que conforman un espacio y a través de ellos podemos representar organizaciones espaciales. La figura es una representación coremática de Colombia la cual muestra el fenómeno conocido como cuadricefalia urbana, en donde se ubican los 4 núcleos urbanos principales y sus áreas metropolitanas, las cuales concentran un 36% de la población total del país. El corema y la representación del fenómeno están relacionadas, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "El DANE plantea que en Colombia existe una fuerte tendencia al desplazamiento de las personas del campo a la ciudad. Esta dinámica migratoria de las zonas rurales a las urbanas, puede dar como resultado en la ciudad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "un incremento de la mano de obra",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el aumento de la congestión, contaminación, demanda de viviendas y servicios públicos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la densificación en las zonas en donde predomina el sector primario de la economía",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el mejoramiento de la calidad de vida en términos de entorno ambiental PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA (TIPO IV) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 125,
+            "enunciado": "Para 1965 los países del tercer mundo ocupaban el 81% de la superficie de La Tierra con el 50% de la población y con un producto nacional bruto de 135 dólares por persona. El bloque socialista ocupaba el 26% de la superficie con el 33% de la población y un ingreso de 1075 dólares anuales. El bloque capitalista, por su parte, ocupaba el 23% de la tierra con el 19% de la población y un producto nacional bruto de 1675 dólares por persona. Esta desproporción ocasionó problemas sociales y econó- micos entre los países del tercer mundo. Esta situación que aún se mantiene se podría solucionar sí",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "todos los países asumieran el modelo socialista",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las políticas educativas y demográficas mejoraran en cada país",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la inversión extranjera se hiciera con bajos intereses",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la tasa de crecimiento demográfica disminuyera",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los coremas son una representación absoluta del espacio, su precisión facilita la visualización de los fenómenos carac- terísticos de un espacio",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "la cuadricefalia urbana se desarrolla en Colombia por la au- sencia de otros núcleos poblacionales que presenten activi- dades productivas y de servicios que atraigan a la población regional",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "los coremas facilitan la visualización de fenómenos espa- ciales, estando limitados por la poca precisión para ubicar los lugares",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la consolidación de la cuadricefalia urbana se debe princi- palmente a la concentración de actividades industriales, co- merciales, educativas y de servicios, que fomentan la atrac- ción de la población hacia las ciudades principales y sus áreas metropolitanas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

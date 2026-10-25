@@ -1,0 +1,740 @@
+{
+    "archivo_origen": "Filosofia Profundización.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Filosofia Profundización",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "Para Marx, el sistema de producción ca- pitalista obliga al trabajador a vender su fuerza de trabajo al propietario de los medios de pro- ducción, a quien las condiciones del capitalis- mo le permiten comprar la mano de obra para así acrecentar su riqueza. Por esta razón",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "se puede decir que la situación del traba- jador en el capitalismo estaba determi- nada por la riqueza"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el trabajador y el capitalista son objetos del sistema económico y por lo tanto, es- tán determinados por él"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se puede pensar que el obrero siempre será obrero puesto que es él el que cons- tituye la base del capitalismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el obrero es él mismo mercancía en el sentido que su fuerza de trabajo es la que compra el capitalista"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "Kierkegaard critica la posición que sos- tiene que la verdadera esencia del hombre se realiza cuando éste se aleja de su individuali- dad y se somete a la colectividad, a lo universal. El filósofo afirma que este planteamiento es una falacia, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la masa anula definitivamente al indivi- duo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "para que el hombre sea reconocido como parte de lo universal, debe reconocerse primero como particular"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el hombre escapa a la categoría de géne- ro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "lo universal, es decir, el Estado, la huma- nidad o cualquier otra colectividad, impi- de el desarrollo de los hombres"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "Jaspers dice: \"¿Qué es el hombre?. Lo estudian, como cuerpo la fisiología, como alma la psicología, como ser social la sociología. Sabemos del hombre como de una naturaleza que conocemos como la naturaleza de otros seres vivos, y como de una historia que conoce- mos depurando críticamente la tradición, com- prendiendo el sentido de la actividad y el pensa- miento de los hombres y explicando los sucesos por motivos, situaciones y realidades naturales.\" JASPERS, Karl. La filosofía. Según este autor, aunque estos acercamientos al hombre produ- cen saber, no producen el saber del hombre en su totalidad, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el ser humano es inteligible en sí mismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cada una de ellas lo toma como un ser acabado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el hombre por medio de su capacidad de decisión se hace algo impredecible e in- cognoscible"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el hombre desborda toda ciencia y defini- ción"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Kierkegaard considera que es un peligro que los hombres se sometan a la masa, pues pueden correr el riesgo de perder su individuali- dad al seguir solamente lo que el grupo acepte y al alejarse de lo que este rechace, sin consi- derar cada una de estas determinaciones en sí mismas. Sin embargo, el autor propone como forma de esquivar ese riesgo que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los hombres se abstengan de acceder a la colectividad"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se tenga presente que la masa está cons- tituida por seres extraños y ajenos entre sí"
+                },
+                {
+                    "letra": "C",
+                    "texto": "se tenga presente que cada ser humano es un particular que se distingue radical- mente de los demás particulares"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cada hombre actúe con responsabilidad de acuerdo con los principios que él mis- mo ha descubierto --- PAGINA 2 --- 32 AC - 102 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Para San Buenaventura el conocimiento sensible se da gracias a que un objeto sensible afecta el órgano sensorial. Según esto, se po- dría pensar que el conocimiento para este autor es pasivo por parte del hombre, pues al parecer sólo está a la espera de ser afectado por el ob- jeto. Sin embargo, esta apreciación se clarifica al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "entender que aunque el objeto afecte al órgano sensorial, es la facultad sensiti- va la que juzga el contenido de la sensa- ción"
+                },
+                {
+                    "letra": "B",
+                    "texto": "plantear que para San Buenaventura es el alma la que comunica al cuerpo la ac- tividad de la sensación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "demostrar que el intelecto humano de- pende por completo de la sensación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "aceptar que el juicio se da a partir de la sensación aunque no sea reflexivo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "El trabajo filosófico de Descartes no ter- minó en el planteamiento del Cogito ergo sum, sino que continuó hasta reflexionar sobre cier- tos puntos como la existencia de Dios, para lo cual fue imprescindible la certeza del Cogito, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la existencia de Dios depende de la certe- za de la existencia humana"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la certeza de la existencia hace evidentes la duda y el error humano"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es el pensamiento el que fundamenta la existencia del hombre, pero a la vez es el que muestra la imperfección propia del ser humano"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el pensamiento por sí mismo no puede crear las ideas de perfección que posee y revela la necesidad de un ser superior que las origine"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Jaspers encuentra que el valor de la filo- sofía es algo muy discutido, pues no se en- cuentran en ella unanimidad ni universalidad, como sí se encuentran en los resultados de la ciencia. De esta manera, según el autor, se po- dría pensar que la filosofía como tal, no tiene valor alguno diferente al de una simple diver- sión. Sin embargo, Jaspers muestra lo impreci- so de este pensamiento al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "afirmar que la certeza de la filosofía es distinta a la científica y por lo tanto, es im- posible que arroje resultados similares"
+                },
+                {
+                    "letra": "B",
+                    "texto": "plantear que el objeto de la filosofía es diferente y superior al de la ciencia, pues ella se ocupa de la totalidad del ser y no de objetos específicos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "plantear que en cuestiones filosóficas to- dos los hombres se creen competentes y por lo tanto, no hay acuerdo entre ellos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "demostrar que las verdades científicas involucran a todo el género humano, mien- tras que las filosóficas sólo a unos pocos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "La filosofía de Sócrates se identificaba por el método utilizado, el cual era llamado mayéutica. Sócrates decía que el arte que utili- zaba era similar al arte de las parteras, con la diferencia de que él lo que hacía era ayudar a los hombres en el parto del conocimiento. Aho- ra bien, así como las comadronas, él no podía parir por el parturiento, sólo ayudarlo y observar que el hijo naciera correctamente, es decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "lo que perseguía Sócrates con su méto- do era producir conocimiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el filósofo griego no necesitaba parir co- nocimiento pues ya lo poseía"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la mayéutica tenía como finalidad hacer que el hombre descubriera la verdad por sí mismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "a partir del arte de la mayéutica el conoci- miento fue concebido como un proceso doloroso --- PAGINA 3 --- 33 AC - 102 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Descartes en su búsqueda de la verdad considera necesario crear una moral provisio- nal que le permita vivir en sociedad mientras sigue su camino reflexivo. De esta forma plan- tea desde el conocimiento, ciertas máximas para guiar su camino, la primera de las cuales muestra la necesidad de seguir las leyes y cos- tumbres de su país, así como las creencias re- ligiosas. De lo cual se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la moral es el eje de su proceso científi- co"
+                },
+                {
+                    "letra": "B",
+                    "texto": "Descartes desarrolla su método en lo concerniente al conocimiento antes que en lo concerniente a la acción"
+                },
+                {
+                    "letra": "C",
+                    "texto": "su proceso filosófico presenta una con- tradicción"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Descartes es consciente de la importan- cia que tiene ser un ciudadano obediente a las normas del Estado"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "En el diálogo El Gorgias de Platón, Sócrates afirma que en todos los casos, es mejor sufrir una injusticia que cometerla, y si se comete debe ser confesada, pues el hombre que comete una injusticia y queda impune, se convierte en el más desdichado de los hom- bres, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "guarda en su alma el mal cometido, sin importarle que los hombres inocentes paguen por él"
+                },
+                {
+                    "letra": "B",
+                    "texto": "se convierte en alguien desconfiado de los demás, pues sabe que ellos actuarán de igual forma"
+                },
+                {
+                    "letra": "C",
+                    "texto": "corre el riesgo de ser descubierto, casti- gado y por lo tanto, expulsado de la polis y rechazado por los demás"
+                },
+                {
+                    "letra": "D",
+                    "texto": "un alma injusta es un alma enferma y así como un cuerpo enfermo es infeliz, un alma enferma es desdichada"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Parménides sostiene que todo lo que es es y no puede ser de otra manera, es decir, que no cambia, a lo que se le puede objetar que esto es imposible, pues nosotros mismos ex- perimentamos el movimiento y por lo tanto el cambio, al punto que podríamos decir con Heráclito que nadie se baña dos veces en el mismo río. Sin embargo, Parménides defiende su posición al mostrar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "existen dos caminos, el de la apariencia y el de la verdad. Al primero corresponde el reposo y al segundo, el cambio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la negación del cambio permite la afirma- ción del no-ser"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el ser es inmóvil porque si se moviera debería hacerlo sobre algo, lo que es im- posible porque sólo hay un ser"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cambio niega la multiplicidad y la tem- poralidad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "\"Ni en el mundo, ni en general, fuera de él es posible pensar nada que pueda ser con- siderado bueno sin restricción excepto una bue- na voluntad. El entendimiento, el ingenio, la fa- cultad de discernir, o como quieran llamarse los talentos del Espíritu; o el valor, la decisión, la constancia en los propósitos como cualida- des del temperamento son, sin duda, buenos y deseables en muchos sentidos, aunque tam- bién pueden llegar a ser extraordinariamente malos y dañinos si la voluntad que debe hacer uso de estos dones de la naturaleza y cuya cons- titución se llama propiamente carácter, no es buena.\" KANT, Immanuel. Fundamentación de la metafísica de las costumbres. Con esto mues- tra Kant que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la voluntad es buena cuando produce re- sultados acordes con los talentos y con los deseos humanos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la voluntad buena es fundamental para que las acciones humanas sean consi- deradas buenas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "tanto las acciones, como las facultades en general, se pueden perder en la bús- queda de la felicidad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la voluntad es anterior a cualquier objeto de deseo y por lo tanto, a la que se tiende como fin universal --- PAGINA 4 --- 34 AC - 102 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "Según Aristóteles, en la vida, los medios y los fines se van entretejiendo. Así, las activi- dades no suceden aisladamente unas de otras, sino que sirven a la vez para distintos fines, de igual forma como un mismo fin puede servir para más actividades. Por lo tanto, Aristóteles dice que los fines son naturalmente preferibles a los medios, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los medios son indeterminados y contin- gentes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aunque sin los medios no se puede lle- gar a un fin, sin el fin es imposible pensar en los medios"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los fines particulares persiguen un fin universal al cual se subordina toda activi- dad y todo medio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sin los fines, la existencia humana sería imposible"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "Para Sócrates, la retórica es el arte de cuestionarse a sí mismo, a sus amigos, etc. Por lo tanto, no está de acuerdo con la creencia de que la retórica es una herramienta en la bús- queda del poder como algunos sostienen, pues aunque estos digan haber experimentado el poder gracias a ella, Sócrates les hace ver el verdadero papel de este arte al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "presentar al poder como resultado acci- dental de la retórica y como algo perjudi- cial para los hombres"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mostrar que su único fin es la búsqueda de la verdad, por medio de lo cual acerca al hombre a la belleza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mostrar que ella es el camino escogido por los hombres virtuosos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "plantear que es un instrumento que libe- ra al alma humana del mal"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "Para Burke, el gusto no es una idea sim- ple, sino que está constituida por la percepción de los placeres primarios de los sentidos, de los placeres secundarios de la imaginación, y de las conclusiones sobre las relaciones de estos, por parte de la facultad de razonar. Ahora bien, Burke concluye que hay fundamento sufi- ciente para razonar de un modo concluyente sobre el gusto, pues en la base de todo esto están los sentidos, los cuales son los mismos en todos los hombres y por lo tanto, las sensa- ciones que surgen a partir de ellos no cambian, de lo que se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el gusto está fundamentados en princi- pios universales"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el problema del gusto puede ser tratado desde la física"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la investigación y argumentación de Burke parten de una base empírica"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el mecanicismo moderno es fundamen- tal para la existencia del gusto"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "Kant realiza una dialéctica del juicio esté- tico en la cual se puede encontrar la siguiente antinomia: Tesis: el juicio de gusto no se basa en conceptos, pues si fuera así admitiría discu- sión y sería determinable por pruebas y demos- tración. Antítesis: el juicio de gusto se basa en conceptos, porque de lo contrario no se podría discutir sobre él. Sin embargo, el autor resuelve ésto al",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mostrar que el término concepto es utili- zado en distintos sentidos en la tesis y en la antítesis y por lo tanto, estas no son contradictorias"
+                },
+                {
+                    "letra": "B",
+                    "texto": "afirmar la verdad de que el juicio del gus- to se base en un concepto indeterminado que es el del sustrato suprasensible del fenómeno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mostrar que es imposible que el concep- to por sí solo proporcione alguna clase de conocimiento del objeto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "descomponer la antinomia y ver que las dos proposiciones adquieren sentido en conjunto y no individualmente --- PAGINA 5 --- 35 AC - 102 - 8 I PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA (TIPO IV ) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado.Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "Para Burke, existen en el hombre dos tendencias fundamentales: una que lo lleva a conservar su propio ser y otra que lo conduce a la vida en comunidad. En la primera descansa el sentimiento de lo sublime y en la segunda el sentimiento de lo bello. Lo bello reúne, lo sublime aísla. Lo uno civiliza, puesto que desarrolla las formas agradables del trato y sirve al refinamiento de las costumbres. Lo otro penetra hasta el fondo del Yo y nos entrega por completo a nosotros mismos. Según lo anterior, se puede afirmar que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "el Yo se expresa en lo bello a través de la ruptura con el infinito y la afirmación del individuo como ser esencialmente social",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "a diferencia de lo sublime, en lo bello el hombre se hace más humano",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "en la vivencia de lo sublime desaparecen todas las limitaciones del Yo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "en lo sublime, el Yo se encuentra devuelto a sí mismo y tiene que afirmarse en su independen- cia frente al universo, tanto físico como social",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "La filosofía de Pirrón consiste sobre todo en un radical desprecio de cualquier tipo de ontolo- gía, en la afirmación del dominio absoluto de las apariencias y, por consiguiente, el rechazo del principio de no contradicción. Pirrón exclama que si para los sofistas era posible poner en el hombre el último criterio del ser y de la verdad, para él en cambio es fundamental",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "negar la posibilidad de la refutación y de la discusión",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "establecer como meramente posible la aprehensión real del objeto",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "rechazar la posibilidad misma de que exista algún criterio 4 educar al hombre para abstenerse de todo juicio --- PAGINA 6 --- 36 AC - 102 - 8 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 124,
+            "enunciado": "\"Las llamadas pruebas de la existencia de Dios no son, en absoluto, originalmente pruebas, sino caminos para cerciorarse intelecualmente. Las pruebas de la existencia de Dios inventadas durante milenios y repetidas en mil variantes, tienen en realidad un sentido distinto del de las pruebas científicas. Son maneras de cerciorarse el pensamiento en el seno de la experiencia de la elevación del hombre hacia Dios.\" JASPERS, Karl. La filosofía. De esta forma, Jaspers muestra que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "él ha descubierto la verdad en relación con la existencia y realidad de Dios",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "en la investigación sobre Dios, es imposible encontrar puebas lógicas concluyentes de su existencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "el proceder del hombre con relación a Dios es superior al proceder del científico con relación a su objeto",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la experiencia de Dios se da en cada hombre de una manera particular",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 125,
+            "enunciado": "Todas las ciencias tienen reglas de operación o leyes por medio de las cuales pueden combi- narse los objetos que estudia. Por tanto, si se afirma que la lógica es la más general de todas las ciencias es, porque",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "se ocupa de los elementos u operaciones que son comunes a todas las ciencias",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las reglas de la lógica son de operación o transformación conforme a las cuales pueden combinarse todos los objetos posibles",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "su conocimiento pone al descubierto las hipótesis deducidas de las leyes de la ciencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "libera el entendimiento y contribuye al desarrollo y aplicación de las reglas fijas de la ciencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}

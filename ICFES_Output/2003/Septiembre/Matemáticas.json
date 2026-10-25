@@ -1,0 +1,971 @@
+{
+    "archivo_origen": "Matemáticas.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Matemáticas",
+    "total_paginas": 11,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 36,
+            "enunciado": "Uno de los jóvenes ha decidido mostrar a sus compañeros la siguiente representación gráfica de la información proporcionada en la factura --- PAGINA 2 --- AC - 041 - 110 I 13",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 39,
+            "enunciado": "Uno de los jóvenes se ha ganado una nevera que consume 200 kWh. Para justificar tenerla en casa propone a sus compañeros usarla para vender algunos productos fríos, suponiendo que gene- raría ganancias por venta de productos de $20 000 al mes. Ante la propuesta, la decisión que los favorecería económicamente es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "siempre y cuando todo lo propuesto se cumpla, vale la pena mantener la nevera en casa ya que lo que ella produce alcanzaría para cancelar la factura de energía"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no es conveniente tenerla en casa, pues lo que produciría no cubriría el costo de su consumo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no es conveniente tenerlo en casa, pues los $20 000 que se calcula produciría la nevera en el mes, alcanzarían sólo para cubrir el consumo de un día"
+                },
+                {
+                    "letra": "D",
+                    "texto": "puede mantenerse en casa, pues si bien lo que se calcula que produciría la nevera al mes, no alcanzaría para cubrir el costo de la factura de energía, sí sería suficiente para cubrir su propio consumo RESPONDA LAS PREGUNTAS 40 A 42 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Una empresa ha hecho un estudio para determinar qué tan conocido es el producto que ofrece. Para este estudio realizaron encuestas dividiendo la población encuestada en tres grupos. Los resultados fueron los siguientes: o p u r G s a n o s r e p e d la t o T s a d a ts e u c n e e u q s a n o s r e p e d d a d itn a C n e c o n o c o tc u d o r p le e tsix e e u q n a s u o l o n o r e p e u q s a n o s r e p e d d a d itn a C o t c u d o r p l e n a s u y n e c o n o c I 0 0 2 0 1 1 0 7 II 0 0 5 0 5 2 0 2 2 III 0 5 1 0 2 1 0 2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 38,
+            "enunciado": "Los jóvenes están preocupados porque el consumo promedio relacionado en la factura, aumen- tó en 6 kWh respecto al relacionado en el mes de agosto. Discuten porque según ellos deben pagar 36 kWh más que en el mes de agosto. Esto no debería ser razón de discusión pues",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el aumento en el consumo realmente fue de 6 kWh respecto al mes de marzo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el dato proporcionado corresponde a un promedio y por tanto no es posible comparar el consu- mo de septiembre con el de ninguno de los seis meses anteriores"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el consumo sí aumentó en 36 kWh, pero respecto al consumo de abril y no al de agosto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el consumo sí aumentó en 36 kWh, pero respecto al consumo de marzo y no al de agosto"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 37,
+            "enunciado": "De los cinco jóvenes que comparten la casa, uno llegó el 15 de septiembre, entre ellos existe el acuerdo de pagar proporcionalmente al tiempo de permanencia mensual en la casa. El procedimien- to mediante el cual se puede determinar el valor que le corresponde pagar al joven, es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "dividir el valor total de la factura entre cinco,de tal forma que sea equitativo el valor a pagar por cada uno y proporcional al tiempo de permanencia en la casa"
+                },
+                {
+                    "letra": "B",
+                    "texto": "dividir el valor total de la factura entre el total de días de consumo y luego multiplicar por 15 de tal forma que sólo pague por los días de permanencia en el apartamento"
+                },
+                {
+                    "letra": "C",
+                    "texto": "dividir el valor total de la factura entre el total de días de consumo y luego dividir entre 15 de tal forma que el pago sea sólo por los días de consumo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se reparte el valor del consumo de la segunda quincena entre los cinco ocupantes del aparta- mento --- PAGINA 3 --- AC - 041 - 110 I 14"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 42,
+            "enunciado": "En la empresa se ha diseñado un plan para lograr que haya un aumento en el número de personas que usan el producto a partir de un aumento en el número de compradores.El plan garantiza que cada día se incrementará la cantidad de compradores en uno más que el día anterior a partir del primer día. Para ilustrar los efectos del plan, tomando como base los resultados del estudio, se ha construido la gráfica RESPONDA LAS PREGUNTAS 43 A 45 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Los compradores pueden solicitar bolsos cu- yas bases tengan un largo entre 12 y 60 centí- metros. En una microempresa se fabrican bolsos en cuero. Las partes de los bolsos se hacen sobre unas piezas iniciales que corresponden al grá- fico adjunto.",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 40,
+            "enunciado": "Una persona que lee esta información, asegura que en el grupo III se conoce más el producto, que en el grupo I. ¿Estaría usted de acuerdo con esto?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "no, porque la suma de la cantidad de personas que conocen que existe el producto y las que usan el producto, es mayor en el grupo I que en el III"
+                },
+                {
+                    "letra": "B",
+                    "texto": "si, porque la cantidad de personas que conocen que existe el producto pero no lo usan es mayor en el grupo III que en el grupo I"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no, porque la cantidad de personas que conocen el producto en el grupo I corresponde al 21% del total, mientras que en el grupo III corresponde al 16%"
+                },
+                {
+                    "letra": "D",
+                    "texto": "si, porque la cantidad de personas que conocen el producto en el grupo III corresponde aproxi- madamente al 93%, mientras que en el grupo I corresponde al 90%"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 41,
+            "enunciado": "Según las expectativas de la empresa, se fijó que el producto permanecería en el mercado si el 60% de la población hace uso de él. A partir de los resultados del estudio es más probable que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el producto continúe en el mercado, porque en todos los grupos la cantidad de personas que no usan el producto es menor que la cantidad de los que lo usan"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el producto no continúe en el mercado, porque sólo 31 de cada 85 personas encuestadas usan el producto"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el producto continúe en el mercado, porque sólo 6 de cada 85 personas encuestadas no conocen el producto"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el producto no continúe en el mercado, porque el porcentaje de encuestados en el grupo III que usa el producto es aproximadamente el 2,3% de los encuestados --- PAGINA 4 --- AC - 041 - 110 I 15"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 45,
+            "enunciado": "Un operario sabe que la cantidad de hilo que se necesita para coser las partes de un bolso, equivale a dos veces la longitud de las costuras que se hagan. Él asegura que una cantidad suficiente de hilo para realizar las costuras de un pedido de bolsos del mismo tipo, del que se conoce el largo de la base y la cantidad de bolsos, se puede establecer",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "multiplicando la cantidad de bolsos pedidos por el doble de la longitud del largo de la base"
+                },
+                {
+                    "letra": "B",
+                    "texto": "multiplicando el doble de la cantidad de bolsos pedidos por el doble de la longitud del largo de la base"
+                },
+                {
+                    "letra": "C",
+                    "texto": "multiplicando la cantidad de bolsos por ocho veces la longitud del largo de la base"
+                },
+                {
+                    "letra": "D",
+                    "texto": "multiplicando el doble de la cantidad de bolsos por cinco veces la longitud del largo de la base PREGUNTAS DE SELECCIÓN MÚLTIPLE - ( TIPO X ) Estas preguntas constan de: una situación, un problema y cuatro opciones de respuesta. Recuerde que puede encontrar dos opciones válidas para solucionar el problema planteado; usted debe selec- cionar entre las opciones dadas sólo una, la que considere relaciona de manera más estructurada los conceptos matemáticos con las condiciones particulares de la situación problema. RESPONDA LAS PREGUNTAS 46 Y 47 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En un club deportivo tienen 3 cubos numerados del 1 al 3, como se muestra en la figura, que se utilizan en el momento de entregar las medallas de oro, plata y bronce, a los ganadores de cada competencia"
+                },
+                {
+                    "letra": "A",
+                    "texto": "tiene razón porque la medida del alto de la banda lateral no coincide con la medida del lado menor de la cara"
+                },
+                {
+                    "letra": "B",
+                    "texto": "está en un error porque todas y cada una de las medidas del bolso guardan las proporciones de las piezas iniciales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "tiene razón porque los bordes horizontales de las bandas late- rales deben ser dos tercios menos que los bordes horizonta- les de las caras"
+                },
+                {
+                    "letra": "D",
+                    "texto": "está en un error porque la longitud del largo de la base debe ser el doble de la altura del bolso"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 44,
+            "enunciado": "La microempresa presenta sus diseños en un catálogo de modelos en el que se dibujó el siguiente estilo de bolso. Ante esto, el administrador de la microempresa se muestra disgustado, pues, según él, además de ser horrendo, no se puede hacer un bolso con este diseño, por lo tanto no debió incluirse en el catálogo. El administrador",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 43,
+            "enunciado": "Se fabricarán bolsos de tal forma que las dimensiones de cada una de sus partes sean iguales a las dimensiones de las piezas iniciales y de dos colores: bandas laterales y base en blanco, caras y correa en negro. Un trabajador asegura que la mitad del material que se utilizará debe ser blanco, pero él está en un error debido a que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el material blanco es del total"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el material negro corresponde aproximadamente al 33% del total"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el material blanco es del total"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el material negro corresponde al 40% del total 1 3 2 3 --- PAGINA 5 --- AC - 041 - 110 I 16"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 49,
+            "enunciado": "El administrador realiza una prueba a los cajeros del almacén para conocer si entendie- ron la promoción. En esa prueba aparecen va- lores de posibles ventas. Si un cajero la enten- dió, él deberá escoger",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "$14 250, porque corresponde a la venta de una camiseta"
+                },
+                {
+                    "letra": "B",
+                    "texto": "$142 500, porque corresponde a la venta de cinco camisetas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "$156 750, porque corresponde a la venta de seis camisetas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "$285 000, porque corresponde a la venta de diez camisetas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 48,
+            "enunciado": "El gerente pide al administrador del alma- cén que establezca una expresión para conocer el costo (",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "C",
+                    "texto": "de cualquier cantidad de camisetas (x); para cumplir con la solicitud el administra- dor le propone una expresión en la que la infor- mación que NO puede faltar es"
+                },
+                {
+                    "letra": "A",
+                    "texto": "C(x) = 28 500x con x y 1 x 5"
+                },
+                {
+                    "letra": "B",
+                    "texto": "C(x) = 142 500 + 14 250 (x -5) con x y 5 < x 14"
+                },
+                {
+                    "letra": "C",
+                    "texto": "C(x) = 270 750 + 28 500 (x - 14) con x y x > 14"
+                },
+                {
+                    "letra": "D",
+                    "texto": "C(x) = 142 500 + 270 750x + 28 500x con x y x 1 ≤ ≤ 0 0 ≤ 0 0 ≥"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 47,
+            "enunciado": "Si se cambia los cubos 2 y 3 por cajas de base rectangular que tienen el mismo ancho y alto que los cubos 2 y 3 respectivamente, pero cada una con largo igual a la arista del cubo 1, y las numeramos 4 y 5 respectivamente, pode- mos decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las cajas 4 y 5 tienen el mismo volumen, y éste es el doble del volumen del cubo 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el área total de la caja 5 es tres veces el área total del cubo 3, y el área total de la caja 4 es menor que el doble del área total del cubo 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el volumen de la caja 4 es el doble del volumen del cubo 2, y el volumen de la caja 5 es cuatro veces el volumen del cubo 3"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el área total de las cajas 4 y 5 es la misma y ésta es cuatro veces el área total del cubo 3 RESPONDA LAS PREGUNTAS 48 A 50 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Un almacén mayorista vende camisetas a $28 500; cada una le cuesta al almacén $14 250, pero existe una promoción según la cual por la compra de más de cinco camisetas se puede llevar a mitad de precio las restantes, pero sin llevar más de nueve camisetas."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 46,
+            "enunciado": "Si se gasta un galón de pintura para pintar el cubo 3. ¿De qué manera se puede determi- nar el número de galones de pintura que se necesita para pintar los cubos 1 y 2?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "contando el número de cuadrados de área que se necesita para formar una cara del cubo 1 y una cara del cubo 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "contando el número de cubos de volumen que se necesita para formar los cubos 1 y 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sumando los valores de t que solucio- nan las ecuaciones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sumando los valores de t que solucionan las ecuaciones x 4 2     x 4 3     1 6 x 4 t 6 x 2 y 1 6 x 4 t 6x 2 2 2 2     =         = 1 x 4 t x 2 y 1 x 4 t x 3 3 3 2     =        = --- PAGINA 6 --- AC - 041 - 110 I 17 RESPONDA LAS PREGUNTAS 51 A 53 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En la tabla se proporciona información sobre una secuencia de cuadrados construídos con dos tipos de fichas: blancas y negras o d a r d a u c e d o r e m ú N s a h cif e d d a d itn a C la t o t a e r Á n s a c n al B s a r g e N a 1 2 3 4 : : 1 4 9 6 1 : : 2 8 8 1 2 3 : : m c 4 2 m c 6 1 2 m c 6 3 2 m c 4 6 2 : :"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 52,
+            "enunciado": "De acuerdo con la información de la tabla, la cantidad de fichas blancas no puede ser 8, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "todos los datos de esta columna tienen raíz cuadrada exacta, por ser el cuadrado de n, y 8 no cumple esta condición"
+                },
+                {
+                    "letra": "B",
+                    "texto": "si 8 fuese un dato de esta columna, 32 cm2 debería ser dato de la columna a, lo cual no sucede porque 32 no tiene raíz cuadrada exacta"
+                },
+                {
+                    "letra": "C",
+                    "texto": "si 8 fuese un dato de esta columna, este número no estaría en la columna canti- dad de fichas negras porque ningún dato es igual a otro"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los datos de esta columna son el cocien- te entre el dato de la columna cantidad de fichas negras y n, así, para que 8 fue- se dato de la columna cantidad de fichas blancas, en n = 2 la cantidad de fichas negras debería ser 16"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 50,
+            "enunciado": "El gerente del almacén obtiene una des- cripción del comportamiento de las ventas que pueden darse bajo la promoción, a través del gráfico",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 51,
+            "enunciado": "Si una ficha negra tiene un área equivalen- te a del área de una ficha blanca, es posible que las formas y medidas de ellas sean 3 2 --- PAGINA 7 --- AC - 041 - 110 I 18",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 56,
+            "enunciado": "Es suficiente conocer la longitud del pasamanos de la baranda para conocer el largo de cada escalón, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "al conocerla, encontramos la altura de la escalera y como se conoce el número de escalones podemos determinar el valor de x"
+                },
+                {
+                    "letra": "B",
+                    "texto": "al conocerla, encontramos la longitud de la base de la escalera y con ésta el largo de cada esca- lón, puesto que éste es de la longitud de la base de la escalera"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la longitud del largo de la baranda es igual a la altura de la escalera y con esto se determina el largo de los escalones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la razón entre el largo de la baranda y el número de escalones es igual a x 5 6"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 55,
+            "enunciado": "Se necesita calcular el área de la parte sombreada (1) de la escalera para saber la cantidad de papel de colgadura que se utilizará para cubrirla. Para esto se debe",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "hallar el área del triángulo cuya base es la base de la escalera y con altura h y sumarle 3 veces el área de un cuadrado de lado x"
+                },
+                {
+                    "letra": "B",
+                    "texto": "determinar el número de triángulos de área x2 con los que se puede cubrir la parte sombreada y multiplicarlo por 2"
+                },
+                {
+                    "letra": "C",
+                    "texto": "hallar el área del triángulo cuya base es la base de la escalera y con altura h y sumarle 6 veces el área de un cuadrado de lado x"
+                },
+                {
+                    "letra": "D",
+                    "texto": "determinar el número de cuadrados de área x2 que se necesita para cubrirla"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 54,
+            "enunciado": "De acuerdo con el dibujo presentado, es posible afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mientras la razón entre el ancho de un escalón y la base de la escalera es de 1 a 5, la razón entre el ancho de un escalón y la altura de la escalera es de 6 a 1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mientras la razón entre la altura de la escalera y el ancho de un escalón es de 6 a 1, la razón entre el largo de un escalón y la base de la escalera es de 1 a 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mientras la razón entre la altura de la escalera y la base de la escalera es de 1 a 1, la razón entre el alto de un escalón y la altura de la escalera es de 1 a 6"
+                },
+                {
+                    "letra": "D",
+                    "texto": "mientras la razón entre el alto y ancho de un escalón es de 1 a 1 la razón entre el alto y el largo de un escalón es de 1 a 5 RESPONDA LAS PREGUNTAS 54 A 57 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN En el siguiente dibujo se muestra una vista de una escalera construida en un centro co- mercial"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 53,
+            "enunciado": "Una de las generalizaciones que puede deducirse de la información proporcionada en la tabla es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la cantidad de fichas blancas y negras empleadas para la construcción de cualquier cuadra- do n está dada por la expresión C(n) = 3 (n) 2"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la cantidad de fichas blancas empleadas (Cb) para la construcción de cualquier cuadrado n está dada por la expresión Cb(n) = (2n) n-1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la cantidad de fichas blancas y negras empleadas para la construcción de cualquier cuadrado en función de su área ("
+                },
+                {
+                    "letra": "A",
+                    "texto": "está dada por la expresión"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la cantidad de fichas blancas empleadas (C"
+                },
+                {
+                    "letra": "B",
+                    "texto": "para la construcción de cualquier cuadrado en funciónde su área ("
+                },
+                {
+                    "letra": "A",
+                    "texto": "está dado por la expresión ( ) C a 4 3 a = ( ) C a a 4 cm b 2 = --- PAGINA 8 --- AC - 041 - 110 I 19"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 59,
+            "enunciado": "El propietario afirma en el informe final que en las distribuidoras 1 y 2 se obtuvo un promedio mensual de ventas de café de 20 167 kilos y 19 000 kilos respectivamente. Usted justificaría estos datos diciendo que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la distribuidora 1 vendió 121 000 kilos de café y la distribuidora 2 vendió 114 000 kilos, durante los seis meses"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el promedio mensual aproximado de ventas de café Buen Aroma en las dos distribuidoras fue 18 333 kilos, mientras que el promedio aproximado de venta de café El cafetal fue 20 833 kilos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el promedio mensual de ventas de la distribuidora 1 fue 10 500 kilos de café Buen Aroma y 9 667 kilos de El Cafetal, mientras que el promedio de venta de la distribuidora 2 fue 7 833 kilos de café Buen Aroma y 11 167 kilos de El cafetal"
+                },
+                {
+                    "letra": "D",
+                    "texto": "Las dos distribuidoras alcanzaron ventas de 235 000 kilos de café de las dos marcas, durante los seis meses"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 58,
+            "enunciado": "De acuerdo con las ventas de café BUEN AROMA realizadas en las dos distribuidoras, el dueño puede decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las ventas durante los seis meses superaron los 100 000 kilos en las dos distribuidoras"
+                },
+                {
+                    "letra": "B",
+                    "texto": "entre agosto y octubre se vendió la misma cantidad de kilos de café en las dos distribuidoras"
+                },
+                {
+                    "letra": "C",
+                    "texto": "para la venta total de octubre, las ventas en la distribuidora 1 superan en un 20% a las ventas en la distribuidora 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las ventas de noviembre a diciembre en la distribuidora 2 disminuyeron un 25% respecto a las ventas en la distribuidora 1 en ese mismo período RESPONDA LAS PREGUNTAS 58 A 62 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN El propietario de dos distribuidoras de café ha obtenido la mayor utilidad por las ventas de las marcas El Cafetal y Buen Aroma, por lo cual decidió realizar entre sus clientes el sorteo de dos camionetas el 31 de diciembre, una en cada distribuidora. Por la compra de 20 kilos de cualquiera de las dos marcas de café, cada cliente recibirá una boleta para participar en el sorteo. Las siguientes gráficas representan las ventas de las dos marcas de café en las dos distribuidoras"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 57,
+            "enunciado": "Si conocemos el área de la pared no sombreada (2) es posible determinar el largo de un tapete que cubre exactamente la escalera, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el área del tapete que se necesita para cubrir la escalera es el cuádruple del área de la pared y con esto podemos hallar las dimensiones del tapete"
+                },
+                {
+                    "letra": "B",
+                    "texto": "con el área de la pared podemos conocer el área de un cuadrado de lado x y con esto conoce- mos el largo del tapete"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el área del tapete que se necesita para cubrir la escalera es un duplo del área de la pared"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el área del tapete es la mitad del área de la pared y con esto podemos hallar las dimensiones del tapete --- PAGINA 9 --- AC - 041 - 110 I 20"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 61,
+            "enunciado": "El propietario de las distribuidoras ha decidido tomar por cada kilo de café vendido de las dos marcas un porcentaje de dinero para comprar las camionetas que serán sorteadas el último día del año. El procedimiento que usted emplearía para determinar el dinero destinado a la compra de las camionetas es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "multiplicar el número de kilos de café vendidos en cada mes por el porcentaje y luego sumar los seis resultados obtenidos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "multiplicar el valor de cada kilo de café por el porcentaje, este resultado multiplicarlo con las ventas realizadas en cada mes y finalmente sumar los resultados obtenidos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "multiplicar la cantidad de kilos de café vendidos en cada mes por el valor de cada uno, finalmen- te dividir ese resultado entre el porcentaje"
+                },
+                {
+                    "letra": "D",
+                    "texto": "multiplicar el valor de un kilo de café por el total de kilos vendidos durante los seis meses, luego dicho resultado multiplicarlo por el porcentaje"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 60,
+            "enunciado": "El administrador debe presentar al propietario de las distribuidoras, un informe en el cual aparez- ca una tabla con la información sobre las ventas de las dos marcas de café en las dos distribuidoras. ¿Cuál de las siguientes tablas considera usted debe aparecer en ese informe? --- PAGINA 10 --- AC - 041 - 110 I 21",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 64,
+            "enunciado": "Es posible quitar triángulos equiláteros de las esquinas del triángulo ABC, buscando que el polígono que se forma en el interior sea siem- pre de 6 lados, sólo si el lado de cada uno de estos triángulos",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es mayor o igual a 0 pero menor que la mitad de la longitud del lado del triángulo ABC"
+                },
+                {
+                    "letra": "B",
+                    "texto": "es mayor que 0 pero menor o igual que la mitad de la longitud del lado del triángulo ABC"
+                },
+                {
+                    "letra": "C",
+                    "texto": "es mayor que 0 pero menor que la mitad de la longitud del lado del triángulo ABC"
+                },
+                {
+                    "letra": "D",
+                    "texto": "está entre 0 y la mitad de la longitud del lado del triángulo ABC"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 65,
+            "enunciado": "Suponga que la longitud de los lados de los triángulos, en las esquinas del triángulo ABC, es exactamente la mitad de la longitud del lado de dicho triángulo, entonces, es cierto afir- mar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el polígono interior es congruente con cualquiera de los triángulos de las es- quinas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el perímetro del polígono interior es la ter- cera parte del perímetro del triángulo ABC"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el polígono que se forma en el interior no altera el perímetro del triángulo ABC"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el área del polígono interior es la tercera parte del área del triángulo ABC RESPONDA LAS PREGUNTAS 66 A 68 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN Don Juan desea medir el perímetro de una ex- tensión de tierra, pero decide medirla con sus pies. La forma de medir consiste en dar pasos de tal manera que la punta de un pie toque el talón del otro, así que parte del punto A bordean- do la extensión en el sentido 1, pero cuando llega al punto B decide delegar a su hijo Carlitos de 8 años para que continúe con su labor. Carlitos cuenta pasos hasta el punto de salida de su padre ("
+                },
+                {
+                    "letra": "A",
+                    "texto": "En total Don Juan dió 288 pasos y Carlitos 432 pasos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 63,
+            "enunciado": "El perímetro de la zona sombreada puede ser calculado así",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "a 75 cm le restamos el perímetro de cada uno de los triángulos de 5cm de lado"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a 75 cm le restamos el perímetro de uno de los triángulos de 5cm de lado"
+                },
+                {
+                    "letra": "C",
+                    "texto": "calculamos la medida de cada uno de los lados de la figura sombreada y luego su- mamos estos valores"
+                },
+                {
+                    "letra": "D",
+                    "texto": "a cada lado del triángulo ABC le resta- mos 10cm y luego multiplicamos ese valor por 3 RESPONDA LAS PREGUNTAS 63 A 65 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN A un triángulo equilátero de 75cm de perímetro se le quitan tres triángulos también equiláteros de 5cm de lado, como se muestra en la figura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 62,
+            "enunciado": "Un cliente se ha enterado que en cada distribuidora los números de las boletas entre- gadas serán registrados en el computador, para seleccionar aleatoriamente el número ganador. El cliente, que ha recibido la misma cantidad de boletas en las dos distribuidoras, desea saber en cual distribuidora tiene la opción de ganar la camioneta, usted le diría que en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la distribuidora 1, porque entregó más boletas debido a que sus ventas fueron mayores a las obtenidas por la distri- buidora 2, durante los seis meses"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la distribuidora 2, siempre y cuando am- bas distribuidoras hayan entregado el máximo número de boletas por sus ven- tas durante los seis meses"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la distribuidora 1, siempre y cuando la cantidad de boletas entregadas allí sea menor que las entregadas en la distri- buidora 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la distribuidora 2, porque al tener meno- res ventas respecto a la otra distribuidora hay un menor número de compradores y menor número de boletas entregadas --- PAGINA 11 --- AC - 041 - 110 I 22"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 70,
+            "enunciado": "Al final del año corrió el rumor que un pre- so padece una enfermedad terminal. ¿Es posi- ble determinar la probabilidad de que el preso obtenga la casa por cárcel?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sí, porque se tiene la información sobre el total de presos mayores de 65 años, que ingresaron en los últimos 6 meses a la cárcel"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, porque se desconoce en qué mes in- gresó el preso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sí, porque se puede obtener de la tabla el número de presos menores y mayores de 65 años, que ingresaron a la cárcel en cada mes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque la cantidad de presos meno- res de 65 años es mayor que la cantidad de presos mayores de 65 años que in- gresaron a la cárcel"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 69,
+            "enunciado": "El director de la cárcel necesita incluir en el informe el promedio de presos que ingresaron a la cárcel en los últimos seis meses. El cálcu- lo que requiere realizar para encontrar dicho pro- medio es 78",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "6 252"
+                },
+                {
+                    "letra": "B",
+                    "texto": "6 44+42+39+46+28+53"
+                },
+                {
+                    "letra": "C",
+                    "texto": "6 44+86+125+171+199+252"
+                },
+                {
+                    "letra": "D",
+                    "texto": "6 RESPONDA LAS PREGUNTAS 69 Y 70 DE ACUER- DO CON LA SIGUIENTE INFORMACIÓN El director de la cárcel para hombres de Zararaga, debe presentar al alcalde de la ciudad un infor- me sobre el número de presos que han ingre- sado a esta cárcel desde el mes de Julio y cuán- tos de ellos son mayores de 65 años, ya que según el reglamento si un preso es mayor de 65 años y tiene una enfermedad terminal obtie- ne la casa por cárcel. s e M e d l a t o t o r e m ú N o d a l u m u c a s o s e r p s e d a d e n o c s o s e r p e d o r e m ú N s e m a d a c n e s o ñ a 5 6 e d s e r o y a m o ilu J 4 4 2 1 o ts o g A 6 8 9 e r b m e it p e S 5 2 1 0 1 e r b u tc O 1 7 1 5 1 e r b m e iv o N 9 9 1 5 1 e r b m e ici D 2 5 2 7 1 Total de presos que ingresaron en los últimos 6 meses: 252"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 68,
+            "enunciado": "Don Juan compra un nuevo terreno conti- guo al suyo. Mide el perímetro del nuevo terreno con sus pies obteniendo la misma medida que la del anterior. Sobre las áreas de los terrenos se puede afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los dos terrenos poseen la misma área"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el nuevo terreno puede tener un área dis- tinta a la del antiguo terreno"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el perímetro no es suficiente para con- cluir algo sobre las áreas de los terrenos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "para comprar un terreno de mayor área, este debe tener un perímetro mayor"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 67,
+            "enunciado": "Don Juan sabe que 2 pasos suyos equi- valen a 3 de Carlitos. Dado este hecho pode- mos concluir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la distancia recorrida por ambos es igual"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la talla del pie de Carlitos es 2/3 de la talla de Don Juan"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la talla del pie de Carlitos es 3/2 de la talla de Don Juan"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la distancia recorrida por Carlitos es me nor que la recorrida por Don Juan"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 66,
+            "enunciado": "De la manera que se midió cada parte del camino, ¿es posible obtener una medida del perímetro de dicha extensión?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sí, se suman los pasos de Don Juan con los de Carlitos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no, ya que ninguno recorrió el perímetro en su totalidad"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sí, se establece la diferencia entre las medidas de los pies, ya que los pies de Don Juan no miden lo mismo que los de su hijo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sí, pero como los tamaños de pies no son iguales, se debe encontrar la relación entre los tamaños y aplicarla a las distancias recorridas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

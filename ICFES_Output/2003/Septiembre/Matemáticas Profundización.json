@@ -1,0 +1,545 @@
+{
+    "archivo_origen": "Matemáticas Profundización.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Matemáticas Profundización",
+    "total_paginas": 6,
+    "total_preguntas_detectadas": 20,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "De las siguientes opciones la que representa la figura de la posición 6 es:",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 107,
+            "enunciado": "Siguiendo la secuencia presentada, es correcto afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la figura de la posición 7 tiene cuatro cuadrados más que la figura de la posición 5"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el número de cuadrados que componen la figura de la posición 8 es el doble respecto al número de cuadrados de la figura de la posición 4"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el número de cuadrados de la figura en la posición 3 es la mitad de los cuadrados que hay en la figura de la posición 7"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la figura de la posición 9 tiene el triple de cuadrados de la figura de la posición 3"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "Un estudiante, buscando alguna regularidad en el sombreado de las figuras, obtuvo la función , de ésta se puede decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "cuando n representa el número de cuadrados de una figura en alguna posición, la función deter- mina la parte sombreada de la figura correspondiente a dicha posición"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cuando n representa las posiciones impares, la función determina el incremento de la fracción sombreada, respecto a la figura de la posición anterior"
+                },
+                {
+                    "letra": "C",
+                    "texto": "cuando n representa la cantidad de cuadrados inscritos en el más grande de una figura estable- cida, la función determina el área sombreada de dicha figura"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuando n representa las posiciones pares, la función determina la fracción de área total sombreada de la figura en la posición escogida ( ) f n 1 2 n 1 =     + --- PAGINA 2 --- 32 AC - 101 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Una de las tareas de los estudiantes con- siste en determinar el área sombreada de la figu- ra en la posición n-ésima. De las siguientes op- ciones la que representa dicha área es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": ""
+                },
+                {
+                    "letra": "B",
+                    "texto": ""
+                },
+                {
+                    "letra": "C",
+                    "texto": ""
+                },
+                {
+                    "letra": "D",
+                    "texto": "RESPONDA LAS PREGUNTAS 111 A 115 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Para formular dos medicamentos en cápsulas P y Q, un médico debe tener en cuenta, entre otras cosas, que * el contenido por cápsula es de 10 mg. para el medicamento P y de 100 mg. para el medicamento Q. * exceder los 80 mg. de medicamento P o los 1000 mg. de medicamento Q es perju- dicial para el organismo. * el contenido de los medicamentos P y Q disminuyen en el organismo a razón de 0.5 mg/h y 10 mg/h respectivamente."
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "Un médico ha formulado a un paciente 9 cápsulas de medicamento P indicándole que debe consumirlas en 8 horas. Un colega que se entera de la situación le dice que ésta es una actitud irresponsable porque para consumir esa canti- dad de cápsulas el tiempo mínimo requerido es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "24 horas, de tal forma que tome una cáp- sula cada 3 horas y así la cantidad de me- dicamento en su organismo, luego de 24 horas, sea (10 x 9) - 0.5 [(3 x 9) - 3)]"
+                },
+                {
+                    "letra": "B",
+                    "texto": "9 horas, de tal forma que tome una cápsu- la cada hora y así la cantidad de medica- mento en su organismo, luego de 9 horas, sea (9 x 10) - (0.5 x 2 x 10)"
+                },
+                {
+                    "letra": "C",
+                    "texto": "14 horas, de tal forma que tome una cáp- sula cada hora y 3/4 y que la cantidad de medicamento en su organismo, luego de 14 horas, sea 14 [(10 - (0.5 x 9)]"
+                },
+                {
+                    "letra": "D",
+                    "texto": "18 horas, de tal forma que tome una cáp- sula cada 2 horas y que la cantidad de me- dicamento en su organismo, luego de 18 horas, sea [(10 x 0.5) (18)] - 10"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "Un médico ha determinado que un pacien- te requiere 820 mg. de medicamento Q y le for- mula tomar una cápsula cada hora, hasta com- pletar ésta dosis; pero al leer la fórmula el paciente ha interpretado que debe tomar una cápsula cada dos horas, esto implicaría que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el paciente demorará el doble de tiempo en alcanzar la cantidad de medicamento que necesita su organismo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el paciente debe tomar el doble de cápsu- las formuladas para lograr la cantidad de medicamento que requiere su organismo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "cuando termine las cápsulas aún hará fal- ta 80 mg. de medicamento para completar la dosis formulada"
+                },
+                {
+                    "letra": "D",
+                    "texto": "cuando termine las cápsulas aún hará fal- ta 50 mg. de medicamento para completar la dosis formulada 1 2 1 4 1 6 ... 1 2n + + + + 1 4 1 4 5 16 ... n+1 n + + + + 1 2 1 4 1 8 ... 1 2 n + + + + 2 5 2 9 4 13 ... 2 n + 4 n + + + +"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "Numere ahora los cuadrados de cualquier figura, de fuera hacia dentro. Así, por ejemplo, en la figura de la posición cuatro, al último cua- drado inscrito le corresponde el número 5. Ob- serve ahora lo siguiente: en cualquier figura, a partir de la segunda, si a un cuadrado le corres- ponde el número n, la longitud de su lado equi- vale a la mitad de la longitud del lado del cuadra- do n-2. Esta afirmación se puede sustentar diciendo que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el perímetro del cuadrado 1 es cuatro ve- ces mayor al perímetro del cuadrado 4"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la medida de dos lados del cuadrado 1 equivale a la medida de tres lados del cua- drado 3"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el perímetro del cuadrado 1 es cuatro ve- ces mayor al perímetro del cuadrado 5"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la longitud de un lado del cuadrado 2 equi- vale al doble de la longitud de un lado del cuadrado 3 --- PAGINA 3 --- 33 AC - 101 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Tomar el medicamento P exige no tomar bebidas alcohólicas si no se ha eliminado el medica- mento del organismo. Una persona que debe tomar una cantidad n de cápsulas, una cada hora, deberá tener en cuenta que no podrá tomar bebidas alcohólicas antes de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "19 n + 1 horas después de haber tomado la última cápsula"
+                },
+                {
+                    "letra": "B",
+                    "texto": "19 n + 1 horas después de haber tomado la primera cápsula"
+                },
+                {
+                    "letra": "C",
+                    "texto": "9.5 n + 0.5 horas después de haber tomado la última cápsula"
+                },
+                {
+                    "letra": "D",
+                    "texto": "9.5 n + 0.5 horas después de haber tomado la primera cápsula"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Los médicos han pedido al laboratorio una explicación sobre la cantidad de medicamento P presente en el organismo de un paciente que ha tomado una cápsula cada cuatro horas. Ante la solici- tud, el laboratorio decide enviar una gráfica. La que usted considera apropiada es La persona encargada de controlar los vuelos de helicópteros desde una torre de control, usa gráficas en las que relaciona la velocidad y el tiempo de duración de los vuelos. En la siguiente gráfica se muestra la información correspondiente al vuelo de dos helicópteros que parten desde lugares diferen- tes: RESPONDA LAS PREGUNTAS 116 A 120 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 113,
+            "enunciado": "Un paciente ha consumido al mismo tiempo una cápsula de cada medicamento. ¿Es posible que en algún momento la cantidad de los dos medicamentos, P y Q en el organismo sea la misma?",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sí, porque las rectas que describen la disminución de la cantidad de medicamento en el organis- mo, tienen pendientes y - 10 y por tanto deben cortarse en algún punto"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sí, porque el organismo tardó en eliminar los medicamentos 20 horas y 10 horas, respectiva- mente, por tanto a las 15 horas la cantidad de los dos medicamentos es la misma"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no, porque las rectas que describen la disminución de la cantidad de medicamento en el organis- mos son paralelas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "no, porque el organismo siempre elimina 9.5 mg. más de medicamento Q que de medicamento P −1 2 --- PAGINA 4 --- 34 AC - 101 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Entre las 4 y 7 horas, luego de iniciar el vuelo, el controlador sabe que en un momento los dos helicópteros alcanzaron la misma velocidad. Para determinar el tiempo en que esto sucede, usted halla- ría",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las pendientes de las rectas que pasan por los puntos (4, 50) y (5, 60); (4, 90) y (6, 0) y luego las restaría"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el punto medio de las rectas que pasan por los puntos (4, 50) y (5, 60); (4, 90) y (6, 0)"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la ecuación de las rectas que pasan por los puntos (4, 50) y (5, 60); (4, 90) y (6, 0) y luego las restaría"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la ecuación de las rectas que pasan por los puntos (4, 50) y (5, 60); (4, 90) y (6, 0) y luego las igualaría"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 118,
+            "enunciado": "Al estudiar la variación de velocidad del helicóptero I en el intervalo de tiempo , el con- trolador encontrará que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la variación promedio de velocidad fue de 90 Km/h, porque ésta es la diferencia entre las veloci- dades final e inicial del helicóptero"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la variación promedio de la velocidad fue de 80 Km/h, porque ésta es la razón entre el cambio de velocidad y el tiempo transcurrido"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la variación promedio de la velocidad fue de 60 Km/h, porque ésta es la razón entre la diferencia de las velocidades final e inicial y el tiempo transcurrido"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la variación promedio de la velocidad fue de 120 Km/h, porque ésta es la diferencia entre los cambios de velocidad final o inicial [ ] 0, 1 1 2"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Ante cualquier eventualidad, el controlador puede determinar la distancia recorrida por un heli- cóptero, en cualquier intervalo de tiempo, si emplea el procedimiento",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "encontrar el área determinada por la curva que describe la velocidad del helicóptero y el eje x, en el intervalo de tiempo a considerar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hallar la distancia entre los puntos final e inicial del vuelo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "multiplicar la velocidad y el tiempo alcanzados por el helicóptero al finalizar el intervalo de tiempo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "determinar el cambio de velocidad para subintervalos de tiempo y luego sumar los valores encon- trados"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 119,
+            "enunciado": "El piloto del helicóptero II afirma que si en el intervalo de tiempo en horas se le hubiese pedido que aumentara la velocidad de 70 Km/h a 90 Km/h de manera constante, habría recorrido 10 Km más en ese intervalo de tiempo. Respecto a la afirmación del piloto usted cree que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "es incorrecta, porque si el aumento en la velocidad fue de 70 Km/h a 90 Km/h el aumento en la distancia recorrida es de 20 Km."
+                },
+                {
+                    "letra": "B",
+                    "texto": "es incorrecta, porque el aumento en la distancia está dado por la resta entre las ecuaciones de la recta, de tal forma que el aumento sería de 40 Km."
+                },
+                {
+                    "letra": "C",
+                    "texto": "es correcta, porque el aumento en la distancia está dado por el área determinada entre: la recta que pasa por los puntos (3, 9) y (3, 70), la recta y = 70 y la recta que determina el cambio constante"
+                },
+                {
+                    "letra": "D",
+                    "texto": "es correcta porque el aumento en la distancia está dado por el cociente entre la diferencia de las velocidades mayor y menor y el tiempo transcurrido antes de iniciar el cambio [ ] 2, 3 --- PAGINA 5 --- 35 AC - 101 - 8 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 121,
+            "enunciado": "En la fábrica NO es posible producir un pedido de 4 cabinas de tipo A y 12 cabinas de tipo B, en una semana, pues",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "para terminar una cabina de tipo A y una de tipo B se necesitan mínimo 13 horas diarias de trabajo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sólo el tiempo destinado a ensamble de las cabinas para ese pedido, supera el tiempo máximo de ensamble"
+                },
+                {
+                    "letra": "C",
+                    "texto": "al mantener una relación de 1 a 2, sólo es posible producir 3 cabinas diarias, teniendo así sólo 15 cabinas en la semana"
+                },
+                {
+                    "letra": "D",
+                    "texto": "con ese pedido se da la proporción de 1 a 4 entre las cabinas tipo A y Tipo B que se desean fabricar RESPONDA LAS PREGUNTAS 121 A 125 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN Una fábrica produce dos tipos de cabinas metálicas, de acuerdo con la siguiente información: * el horario de trabajo en cada planta es de lunes a viernes de: 7:00 am - 1:00 pm y 2:00 pm - 6:00 pm. a d a c a r a p o dir e u q e r o p m eiT o s e c o r P a d a c n e a nib a c oja b a rt e d o p m eiT la n a m e s o m ix á m s a m iní m s a r o H oir aid oja b a rt e d A o piT B o piT : 1 o s e c o r P elb m a s n e s a r o h 3 s a r o h 4 s a r o h 8 4 s a r o h 3 : 2 o s e c o r P y aír e n ot a L a r utni P s a r o h 2 s a r o h 4 s a r o h 0 4 s a r o h 2  Se fabrica sólo un contenedor a la vez  El proceso 2 solo puede iniciarse una vez concluido el proceso 1  Por cada 2 cabinas de tipo B, se produce 1 de tipo A a la semana"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 120,
+            "enunciado": "El controlador de una torre cercana usa la información gráfica de los vuelos de los helicópteros I y II para dar una descripción del vuelo de otro helicóptero. La descripción que él hace es la siguiente: En el intervalo de tiempo [0,2] horas el helicóptero aumentó constantemente su velocidad, luego de esto y hasta las 3 horas estabilizó la velocidad de tal forma que ésta fue de la del helicóptero II. Finalizó el recorrido disminuyendo la velocidad al doble del ritmo en que el helicóptero I lo hizo en las dos últimas horas de vuelo. De acuerdo con esto, la persona que tomó nota de la descripción puede crear el gráfico 8 7 --- PAGINA 6 --- 36 AC - 101 - 8 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 125,
+            "enunciado": "La siguiente gráfica presenta información sobre la producción semanal en el proceso 2 En la región sombreada se puede encontrar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los puntos contenidos en ella, son los tiempos mínimos que puede trabajarse diariamente en ese proceso para los dos tipos de cabinas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las variables x y y representan los dos tipos de cabinas, por tanto pueden tomar valores en"
+                },
+                {
+                    "letra": "C",
+                    "texto": "algunas de las coordenadas de los puntos contenidos en ella, corresponden a la cantidad de cabibinas tipo A y B que cumplen con las restricciones dadas para ese proceso"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las coordenadas permiten encontrar el tiempo máximo diario que puede em- plearse en el proceso 2 para producir cabinas de los dos tipos, manteniendo 6 < x ≤ 40"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 124,
+            "enunciado": "Por los horarios establecidos en la fábri- ca, es necesario conocer el número máximo y mínimo de cabinas que se producen en una se- mana. Para ello se puede",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "determinar cuatro expresiones que repre- senten la producción con los procesos 1 y 2, y graficarlos para hallar su punto de cor- te, el cual es el máximo de producción de cabinas de los dos tipos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "representar gráficamente cuatro expresio- nes que modelen el tiempo que dura una cabina de cada tipo en cada uno de los procesos, donde la intersección de las grá- ficas correspondientes a las expresiones representa el conjunto solución"
+                },
+                {
+                    "letra": "C",
+                    "texto": "plantear dos expresiones que represen- ten el tiempo que demora una cabina en los dos procesos, e igualar las dos expre- siones para despejar variables"
+                },
+                {
+                    "letra": "D",
+                    "texto": "plantear dos expresiones que relacionen el tiempo de producción semanal de un proceso con el tiempo que se necesita para la producción de cada cabina en ese proceso y tomar parejas ordenadas parti- culares que satisfagan las expresiones"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 123,
+            "enunciado": "El administrador de la fábrica, teniendo en cuenta el tiempo de producción de una cabi- na de cada tipo en los dos procesos, estableció que es posible realizar una producción de cabi- nas semanal de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "3 de tipo B y 6 de tipo A"
+                },
+                {
+                    "letra": "B",
+                    "texto": "10 de tipo B y 4 de tipo A"
+                },
+                {
+                    "letra": "C",
+                    "texto": "4 de tipo B y 7 de tipo A"
+                },
+                {
+                    "letra": "D",
+                    "texto": "8 de tipo B y 4 de tipo A"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 122,
+            "enunciado": "De acuerdo con la información de la ta- bla, la expresión 8x + 5y ≤ 88 representaría que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "8x, es el tiempo que se necesita para pro- ducir x cantidad de cabinas de tipo A, a la semana"
+                },
+                {
+                    "letra": "B",
+                    "texto": "y, es el mínimo número de cabinas de tipo A que se pueden producir con los dos pro- cesos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "88, es el tiempo máximo semanal que pue- de utilizarse en los dos procesos para pro- ducir los dos tipos de cabina"
+                },
+                {
+                    "letra": "D",
+                    "texto": "8x + 5y, es el número de cabinas de tipo A y B que se producen a la semana"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

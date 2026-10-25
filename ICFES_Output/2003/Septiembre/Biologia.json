@@ -1,0 +1,983 @@
+{
+    "archivo_origen": "Biologia.pdf",
+    "anio": 2003,
+    "convocatoria": "Septiembre",
+    "area": "Biologia",
+    "total_paginas": 10,
+    "total_preguntas_detectadas": 35,
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "Las proteínas son sintetizadas en los ribosomas a partir de la información codificada en el ARN mensajero. Suplida la necesidad, el ARN mensajero es destruido. La gráfica que mejor ilustra este proceso es De las siguientes opciones aquella que describe mejor lo sucedido entre los puntos A y B en las anterio- res gráficas es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "a medida que el tiempo aumenta, el tamaño de la población disminuye"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el tamaño de la población es independiente del tiempo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el tiempo afecta negativamente el aumento del tamaño poblacional"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el tamaño poblacional está aumentando con el tiempo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 2,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Los procesos, a punto de ocurrir, ilustrados por la figura, corresponden a la",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "polinización"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hibridación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "fecundación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "copulación --- PAGINA 2 --- 3 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 6,
+            "enunciado": "En un estudio se observan diferencias en el cre- cimiento de dos especies de pajonales en un área específica del páramo, como consecuencia de cambios en la precipitación anual en la región. Según la gráfica la apreciación más acertada so- bre este estudio es que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "El movimiento de los músculos se realiza gracias a la contracción y estiramiento de las fibras que componen el tejido. La gráfica muestra como es el movimiento de éstas fibras frente a la presencia y ausencia de calcio y de energía (en forma de ATP) tal como ocurre en el organismo. De esta gráfica podemos afirmar que en el músculo",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la contracción de las fibras no necesita de calcio"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no hay movimiento de las fibras en ausencia de ATP"
+                },
+                {
+                    "letra": "C",
+                    "texto": "para la contracción y relajamiento de las fibras se necesita calcio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la relajación de las fibras no requiere de energía"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 5,
+            "enunciado": "En las células eucariotas el ADN se transcribe a ARN y posteriormente éste se traduce para fa- bricar una proteína. Como se muestra en el es- quema, la cadena de ADN se transcribe a su com- plementario de ARN mensajero (ARNm). Este sale del núcleo y es leído, en grupos de 3 nucleótidos para atraer complementarios de ARN de transferencia (ARNt), a los cuales se unen aminoácidos (aa) particulares, con la ayuda de los ribosomas. t N R A a a U A A U E L A U U O S I G U C P R T C A G L A V A G A O R P",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los dos tipos de pajonales ocupan cada uno un 50% de la cobertura analizada, incluso con una precipitación igual a 600 mm"
+                },
+                {
+                    "letra": "B",
+                    "texto": "cuando la precipitación alcanza los 1.800.mm, el porcentaje de cobertura es igual para ambos pajonales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "con el aumento de la precipitación la co- bertura de ambos pajonales se hace ma- yor, alcanzando su máximo crecimiento con 2.500 mm de precipitación"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la cobertura del pajonal 1 permanece es- table a precipitaciones mayores o meno- res de 1.500 mm ÷ Teniendo en cuenta el código de traducción (ARNt aa) que aparece en la tabla, la secuen- cia de aminoácidos que se produciría a partir de una secuencia de ADN: AATTTAGAC, sería"
+                },
+                {
+                    "letra": "A",
+                    "texto": "LEU - ISO - VAL"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ISO - LEU - PRO"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ISO - LEU - TRP"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ISO - LEU - ISO --- PAGINA 3 --- 4 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 7,
+            "enunciado": "La gráfica muestra el registro de la abundancia de individuos de 2 especies de insectos presen- tes en un campo de cultivo en cierto periodo de tiempo. La caída de la abundancia de individuos en la población 1 fue causada por la aplicación de un pesticida. De acuerdo con la gráfica la hi- pótesis más probable sobre los cambios obser- vados es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la población 2 es depredadora de la po- blación 1"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la población 2 es parásita de la población 1"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la población 1 funciona como control natu- ral de la población 2"
+                },
+                {
+                    "letra": "D",
+                    "texto": "existe una relación simbiótica entre las dos poblaciones Se detectaron variaciones en la presencia del número de flores a lo largo de un año, al estudiar 10 individuos de una especie de arbusto ubicada en el Jardín Botánico de Bogotá. Paralelamente se tomaron datos de precipitación y temperatura para evaluar su efecto sobre dicho evento. Las gráficas nos muestran los resultados obtenidos pudiendo concluir a través de ellas que"
+                },
+                {
+                    "letra": "A",
+                    "texto": "la época de mayor floración en esta especie coincide con la disminución de la temperatura y el aumento de la precipitación"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el evento de la floración en este arbusto, es totalmente independiente de las variaciones climáticas presentes a lo largo del año"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la presencia de un alto número de flores coincide con mayores temperaturas y bajas precipitaciones"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las altas temperaturas coinciden con épocas de alta pluviosidad y floración"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 9,
+            "enunciado": "",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 8,
+            "enunciado": "En las mariposas la concentración de la hor- mona juvenil (JH) al interior del individuo define los cambios que ocurren en el ciclo de vida de este insecto tal como se ilustra. De acuerdo con el gráfico, en el ciclo de vida de las mariposas",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el aumento en los niveles de JH en los adultos disminuye sus posibilidades de apareamiento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la disminución en la concentración de la hormona JH prolonga los estados larvales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la maduración de órganos reproductivos durante el estado pupal requiere una dis- minución del nivel de JH"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el cambio de habitat terrestre a aéreo ocu- rre cuando la síntesis de JH es la mínima --- PAGINA 4 --- 5 AC - 004 - 114 I RESPONDA LAS PREGUNTAS 11 Y 12 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN La siguiente gráfica muestra la velocidad relativa de crecimiento de los diferentes sistemas o tejidos específicos durante el desarrollo humano"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 10,
+            "enunciado": "La gráfica muestra la variación de la cantidad de plantas acuáticas a diferentes profundidades dentro de un lago La gráfica esperada de la distribución de consumidores primarios y bacterias anaerobias es --- PAGINA 5 --- 6 AC - 004 - 114 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 16,
+            "enunciado": "Durante el ciclo menstrual hay una enorme variación en la concentración de ciertas hormo- nas en la sangre. Dos de esas hormonas, el es- trógeno y la progesterona, tienen efectos anta- gónicos, es decir, cuando hay altas concentra- ciones de una de ellas ocurre algo opuesto a cuando hay altas concentraciones de la otra. Se sabe que una de las funciones de la pro- gesterona es engrosar el endometrio preparán- dolo para que el óvulo recién fecundado pueda anidarse. Un método anticonceptivo común con- siste en aumentar artificialmente los niveles de estrógeno durante el ciclo menstrual. Este méto- do resulta ser muy efectivo porque el estrógeno",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "actúa como espermicida inmediato"
+                },
+                {
+                    "letra": "B",
+                    "texto": "impide el engrosamiento del endometrio"
+                },
+                {
+                    "letra": "C",
+                    "texto": "favorece el rápido desprendimiento del endometrio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "engrosa las paredes del útero"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 17,
+            "enunciado": "La clasificación de los virus es un punto de discusión en la biología, ya que no se ha estable- cido si se trata de organismos vivos o no. Una de las principales razones para que este hecho ocu- rra se debe a que los virus",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "no se pueden autorreplicar sin infectar una célula"
+                },
+                {
+                    "letra": "B",
+                    "texto": "no tienen material genético"
+                },
+                {
+                    "letra": "C",
+                    "texto": "son muy pequeños"
+                },
+                {
+                    "letra": "D",
+                    "texto": "tienen proteínas en su estructura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 18,
+            "enunciado": "El concepto de productividad ecológica se refiere a la velocidad a la que es almacenada la energía a través de la fotosíntesis en un ecosis- tema. Por otro lado la biomasa se puede definir como la cantidad de materia orgánica acumula- da por un organismo, una especie o una comuni- dad. Según lo anterior se podría afirmar que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "en los diferentes tipos de ecosistemas te- rrestres la biomasa aumenta en proporción inversa con la productividad ecológica"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la biomasa de una sola especie de consu- midores de tercer orden en un ecosistema aumenta en relación directa con la intensi- dad de luz disponible para fotosíntesis"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la cantidad de biomasa definida en un mo- mento dado no es igual a la productividad"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la productividad es muy similar en los or- ganismos autótrofos sólo difiere notable- mente respecto a los heterótrofos"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 14,
+            "enunciado": "De las siguientes la mejor forma de evaluar el consumo de oxígeno de un mamífero es regis- trando",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la cantidad de alimento que ingiere"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la frecuencia cardíaca"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el nivel de adrenalina en la sangre"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el nivel de azúcar en la sangre"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 15,
+            "enunciado": "Dos poblaciones de insectos, A y B, que vi- ven en el mismo sitio pueden consumir la misma planta sin que exista competencia por el alimen- to si",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la B muerde los frutos y la A los chupa"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la A se alimenta en el día y la B en la no- che"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la B es de menor tamaño que la A"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la A se alimenta de las flores y la B de las hojas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 11,
+            "enunciado": "De acuerdo con la información suministra- da por esta figura, usted podría afirmar que la tasa de divisiones mitóticas es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "menor en el sistema nervioso que en el tejido muscular entre los 4 y los 6 años"
+                },
+                {
+                    "letra": "B",
+                    "texto": "menor en el sistema linfático entre los 10 y 14 años que en el sistema reproductor entre los 2 y los 4 años"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mayor en el sistema reproductor que en el tejido muscular entre los 12 y 16 años"
+                },
+                {
+                    "letra": "D",
+                    "texto": "menor en el sistema nervioso que en cual- quier otro sistema durante los 5 primeros años de vida"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 12,
+            "enunciado": "Las células de los testículos en el hombre estarían presentando una mayor tasa de divisio- nes meióticas en el punto",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "I"
+                },
+                {
+                    "letra": "B",
+                    "texto": "II"
+                },
+                {
+                    "letra": "C",
+                    "texto": "III"
+                },
+                {
+                    "letra": "D",
+                    "texto": "IV"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 13,
+            "enunciado": "Los aminoácidos son elementos esencia- les en la traducción del ADN. La mayoría de ellos son obtenidos a partir de los alimentos. Teniendo en cuenta esta información la biomolécula cuya carencia en la dieta podría entorpecer en mayor medida el proceso de traducción es",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "lípidos"
+                },
+                {
+                    "letra": "B",
+                    "texto": "vitaminas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "proteínas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "carbohidratos --- PAGINA 6 --- 7 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 24,
+            "enunciado": "En un estanque habitan tres especies de pe- ces herbívoros que se alimentan de la misma planta acuática. También se encuentra una es- pecie de pez carnívoro que se alimenta indistin- tamente de cualquiera de los peces herbívoros. Este pez carnívoro a su vez puede ser predado por dos especies de peces. Si una enfermedad ataca a una de las especies de peces herbívoros y disminuye su número drásticamente, muy pro- bablemente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la predación por parte de las especies car- nívoras se incrementará"
+                },
+                {
+                    "letra": "B",
+                    "texto": "tenderán a desaparecer las plantas acuá- ticas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la competencia entre los herbívoros se re- ducirá"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la competencia entre los carnívoros dismi- nuirá"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 22,
+            "enunciado": "Las células eucariotas realizan tres proce- sos fundamentales para su mantenimiento y re- producción: la replicación, la transcripción y la tra- ducción. En un experimento con animales se modifica una de las moléculas que intervienen en estos procesos. Si esta modificación se evi- dencia en la descendencia de estos animales, es muy probable que la molécula modificada haya sido",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "ADN"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ARN"
+                },
+                {
+                    "letra": "C",
+                    "texto": "ATP"
+                },
+                {
+                    "letra": "D",
+                    "texto": "proteína"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 21,
+            "enunciado": "Una mutación es el cambio de uno o varios nucleótidos del ADN de un individuo. Si la muta- ción se expresa en el cambio de una caracterís- tica fenotípica del individuo se puede decir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "cambió el número de cromosomas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "hubo formación de células haploides"
+                },
+                {
+                    "letra": "C",
+                    "texto": "no ocurrió síntesis de proteínas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "se sintetizó una proteína diferente a la es- perada"
+                },
+                {
+                    "letra": "A",
+                    "texto": "más concentrada"
+                },
+                {
+                    "letra": "B",
+                    "texto": "igualmente concentrada"
+                },
+                {
+                    "letra": "C",
+                    "texto": "menos concentrada"
+                },
+                {
+                    "letra": "D",
+                    "texto": "de diferente composición"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 23,
+            "enunciado": "La figura muestra el estado inicial (I) y final (II) de una célula animal que fue sumergida en una so- lución acuosa. Al comparar estos dos estados, se podría inferir que con alta probabilidad la so- lución en la cual fue colocada la célula era con respecto al interior de la célula",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 20,
+            "enunciado": "Dentro de la estructura del bosque existen árboles que emergen sobre los otros y reciben la luz directa, mientras que los más pequeños ha- bitan en las partes bajas, donde la cantidad de luz es menor. Estas plantas de sombra deben poseer algunas características que les permita fabricar su alimento a pesar de la restricción lumínica. Algunas de estas características pue- den ser",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "mayor cantidad de clorofila y hojas con mayor superficie"
+                },
+                {
+                    "letra": "B",
+                    "texto": "mayor cantidad de xilema y estómas aún en los tallos leñosos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "raíces muy profundas y semillas con cu- biertas gruesas"
+                },
+                {
+                    "letra": "D",
+                    "texto": "hojas más pequeñas y cubiertas con cutículas gruesas de cera"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 19,
+            "enunciado": "La fecundación externa es un fenómeno co- mún en los organismos de vida acuática, cuyos gametos masculinos son capaces de sobrevivir y desplazarse en el agua. Una posible estrate- gia de las plantas con flores para el movimiento de sus gametos en tierra firme sería",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el transporte de polen por animales, como abejas y colibríes"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los colores llamativos en los frutos, para atraer aves y monos"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las semillas con estructuras aladas que les permiten viajar una mayor distancia"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la disminución del tamaño del embrión lo cual facilita su transporte --- PAGINA 7 --- 8 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 27,
+            "enunciado": "El efecto de dilución en el grupo es una estrategia de protección que surge en muchos organismos para reducir los efectos de la predación. Las siguientes gráficas ilustran dos casos específicos Si el efecto de dilución se aplicara a los peces, se esperaría que el número de crías sobrevivientes de una pareja ante el efecto de predación",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "sea alto si pocos huevos son puestos cada día"
+                },
+                {
+                    "letra": "B",
+                    "texto": "sea igual que si no hubiera predación"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sea alto si las puestas son grandes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sea bajo si los hijos forman cardúmenes grandes"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 26,
+            "enunciado": "Una teoría propone que cierto tipo de bacterias \"A\" fueron incorporadas a otro tipo de bacterias \"B\", dando origen a las mitocondrias de las actuales células eucariotas. El argumento más fuerte a favor de la procedencia de las mitocondrias a partir de las bacterias \"A\" podría ser la presencia, tanto en las mito- condrias, como en las bacterias \"A\" de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "membranas y ATP"
+                },
+                {
+                    "letra": "B",
+                    "texto": "ribosomas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "secuencias similares de ADN"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ARN y enzimas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 25,
+            "enunciado": "Las siguientes gráficas muestran la tasa de mortalidad para fumadores y no fumadores que pade- cieron diferentes enfermedades De la información de las gráficas usted podría concluir que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los fumadores tienen un mayor riesgo de contraer únicamente enfermedades respiratorias"
+                },
+                {
+                    "letra": "B",
+                    "texto": "los no fumadores tienen una mayor tasa de mortalidad sin importar la causa"
+                },
+                {
+                    "letra": "C",
+                    "texto": "los fumadores tienden a padecer enfermedades sin riesgos mortales"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los no fumadores tienen una menor tasa de mortalidad sin importar la causa --- PAGINA 8 --- 9 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 30,
+            "enunciado": "Los abonos contienen nitrógeno, fósforo y/o potasio. Cuando el abono con que se fertiliza un cultivo de papa en el páramo llega a una fuente de agua se observa que la cantidad de algas y otros vegetales se incrementa. Adicionalmente se observa que los peces y otros animales comienzan a morir, esto podría suceder, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "los microorganismos consumen oxígeno en exceso para poder descomponer la materia orgánica proveniente de la vegetación muerta de tal forma que el oxígeno es insuficiente para mantener la población animal"
+                },
+                {
+                    "letra": "B",
+                    "texto": "aunque aumenta la vegetación, la cantidad de oxígeno necesaria para que las plantas puedan realizar sus actividades es mayor a la que producen"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las plantas que hacen parte de la comunidad son incapaces de producir el oxígeno necesario para mantener a toda la comunidad acuática"
+                },
+                {
+                    "letra": "D",
+                    "texto": "los compuestos que llegan al agua (nitrógeno, fósforo y potasio) al entrar en contacto con el agua se vuelven tóxicos para las plantas y estas sobreviven aunque son incapaces de producir oxigeno"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 29,
+            "enunciado": "El sistema inmune de los organismos posee células asesinas que llevan en su citoplasma vesícu- las llenas de proteínas formadoras de poros en la membrana celular. Cuando una de nuestras células es infectada, las células asesinas contactan su membrana celular y en esta zona, por exocitosis, vacían el contenido de las vesículas. Se ha observado que cuanto más células asesinas contactan una célula infectada, esta última muere más rápido, lo que sería una consecuencia de",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "un mayor bloqueo de las proteínas de transporte de la membrana que impide la adecuada nutri- ción de la célula infectada"
+                },
+                {
+                    "letra": "B",
+                    "texto": "una disminución de la capacidad de reconocimiento de células inmunes por cambio en la compo- sición de las proteínas de la membrana de la célula infectada"
+                },
+                {
+                    "letra": "C",
+                    "texto": "una elevación de la permeabilidad de la membrana que aumenta la difusión del contenido de la célula infectada"
+                },
+                {
+                    "letra": "D",
+                    "texto": "una disminución del área de la membrana disponible para el ingreso de O2 por aumento de la densidad de proteínas"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 28,
+            "enunciado": "Algunas sustancias adictivas estimulantes no permiten que los neurotransmisores liberados en una sinapsis vuelvan a la neurona de origen. En personas adictas a la cocaína, por ejemplo, esto se manifiesta en estados de euforia de larga duración producto del paso prolongado de impulsos nerviosos de una neurona a otra. Algunos neurotóxicos presentes en la piel de ciertos animales producen un efecto similar al de los estimulantes, pero actúan en las uniones neurona-músculo. Si un ratón es inyec- tado con una cantidad suficiente de estas neurotoxinas, podría esperarse que experimente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "calambres o contracciones musculares hasta que se acabe la energía del músculo"
+                },
+                {
+                    "letra": "B",
+                    "texto": "calambres prolongados separados por largos periodos de relajamiento"
+                },
+                {
+                    "letra": "C",
+                    "texto": "periodos de relajamiento muscular prolongados"
+                },
+                {
+                    "letra": "D",
+                    "texto": "sucesiones de contracción rápida y relajamiento --- PAGINA 9 --- 10 AC - 004 - 114 I Uno de los problemas fundamentales de la biología es el tamaño máximo y mínimo que alcanza una célula funcional. Se suelen buscar los límites en parámetros físicos o químicos a los cuales están sujetos los seres vivos. Uno de ellos es la relación entre tamaño y super- ficie. La tabla nos muestra como cambia la relación entre el volumen de una célula (V) y la superficie total de su membrana (S.T.M.) a medida que la célula va aumen- tando de tamaño CONTESTE LAS PREGUNTAS 33 Y 34 DE ACUERDO CON LA SIGUIENTE INFORMACIÓN"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 32,
+            "enunciado": "En algunas algas marinas, donde cada individuo está conformado por una única célula gigante, se observó que la especie 1 tiene un sombrero en forma de sombrilla y la especie 2 tiene un som- brero rasgado en forma de pétalo. En ambas es- pecies si se elimina el sombrero, se forma uno nuevo similar al amputado. Sin embargo, si se elimina el pie (que contiene el núcleo) simultá- neamente con el sombrero y se implanta uno nuevo de otra especie, inicialmente se forma un sombrero con características de ambas especies. Sin embargo si este es eliminado, en su reem- plazo se desarrollará un sombrero que probable- mente corresponderá con",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el de la especie 1, porque fue la especie donadora del citoplasma que es el medio donde se realizan las reacciones celula- res"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el de la especie 2, porque el núcleo siem- pre determina la formación de sombrero en pétalo, pues ayuda a su movimiento en el mar"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el de la especie 2, porque fue la especie donadora del núcleo que es el que contie- ne la información respecto a las caracte- rísticas del organismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el de la especie 1, porque su citoplasma permite que se desarrolle el sombrero en sombrilla, el cual ayuda a resistir mejor las corrientes"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 31,
+            "enunciado": "Algunas lagartijas macho adultos defienden territorios, es decir, lugares en los que pueden encontrar alimento, refugio y hembras con las que podrían reproducirse. Siendo estos lugares tan importantes para la sobrevivencia de estos ani- males, los machos deben evitar que otros ma- chos (intrusos) entren a su territorio y se aprove- chen de los valiosos recursos que hay dentro de él. En un experimento, dos investigadores inyec- taron testosterona a un grupo de 20 lagartijas macho adultos. A otro grupo de igual número de lagartijas no les inyectaron la hormona. Los re- sultados obtenidos pueden verse en la gráfica donde se muestra el porcentaje de lagartijas pa- trullando su territorio a lo largo del día. Según estos resultados usted podría proponer que, más probablemente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la hora del día no influye en la actividad de las lagartijas inyectadas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "las lagartijas no inyectadas conseguirán pareja más fácilmente"
+                },
+                {
+                    "letra": "C",
+                    "texto": "las lagartijas inyectadas podrán evitar más fácilmente la entrada de intrusos a su te- rritorio"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las lagartijas no inyectadas tienen una mayor probabilidad de evitar la entrada de un intruso al atardecer --- PAGINA 10 --- 11 AC - 004 - 114 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 35,
+            "enunciado": "La clonación es un proceso mediante el cual se obtienen dos o más individuos a partir de una sola célula. Suponga que a partir de una célula se obtienen dos grupos de ovejas. Un grupo es criado en una finca de clima frío y muy seco, don- de llega escasa radiación solar. El otro grupo en una finca de clima cálido y húmedo, donde la ra- diación solar es intensa la mayor parte del año. Al cabo de unos cuantos años, las ovejas han crecido y usted encuentra que existen diferen- cias en el fenotipo (apariencia) de los dos grupos de ovejas. Se sabe que las ovejas son herbívo- ras. Suponiendo que todas reciben la misma can- tidad de alimento y que el aumento en la biomasa de las ovejas depende de la energía que deben invertir en la producción de lana. Usted conside- ra que la figura que mejor relaciona la produc- ción de carne en las ovejas con el lugar donde viven es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 33,
+            "enunciado": "El análisis de estos datos nos permite pen- sar que, posiblemente",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la célula no puede crecer indefinidamente, ya que su única vía de alimentación y ex- creción es la membrana y, ésta disminuye en proporción al volumen de la masa por alimentar"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a medida que la célula decrece en tama- ño, su gran superficie de membrana le im- pide mantener el equilibrio interno por la entrada de sustancias en exceso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "a medida que la célula crece, tiene menos necesidad de área de membrana y por eso la va reduciendo en proporción al volumen"
+                },
+                {
+                    "letra": "D",
+                    "texto": "las células no pueden ser tan pequeñas, porque su superficie total de membrana cada vez es más pequeña y termina por no alcanzarle para mantener sus funcio- nes"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 34,
+            "enunciado": "En relación con el mismo tema podemos suponer respecto al tamaño de la célula que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la misma razón que explica el limitante del tamaño máximo explica el limitante del ta- maño mínimo que puede presentar una célula"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el mínimo tamaño que puede presentar una célula está limitado por los elementos mí- nimos que debe contener una célula para desarrollar sus funciones vitales"
+                },
+                {
+                    "letra": "C",
+                    "texto": "un aumento en la división de trabajo en el interior de la célula está acompañado de una reducción en su tamaño"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la evolución hacia la complejidad en la or- ganización celular no parece ir acompaña- da de un aumento en el tamaño"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        }
+    ]
+}

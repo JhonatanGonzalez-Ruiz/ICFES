@@ -1,0 +1,959 @@
+{
+    "archivo_origen": "Filosofia Profundizacion.pdf",
+    "anio": 2003,
+    "convocatoria": "Marzo",
+    "area": "Filosofia Profundizacion",
+    "total_paginas": 5,
+    "total_preguntas_detectadas": 56,
+    "preguntas": [
+        {
+            "numero": 106,
+            "enunciado": "Acerca de lo simbólico en el arte, se dice que descansa sobre un insoluble juego de contrarios, de mostración y ocultación. Esto quiere decir que una obra de arte en tanto simbólica nunca nos va a mostrar una verdad que podamos abarcar en un momento ni con la sensibilidad ni con el pensamiento; de cierto modo esto hace que la obra sea inagotable, y que siempre nos dé qué pensar y sentir. De acuerdo con esto la verdad de lo simbólico tendría un carácter que se considera",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "arbitrario, pues puede interpretarse siempre diversamente"
+                },
+                {
+                    "letra": "B",
+                    "texto": "enigmático, pues nunca puede interpretarse por completo"
+                },
+                {
+                    "letra": "C",
+                    "texto": "insoluble, porque no nos muestra una totalidad definida"
+                },
+                {
+                    "letra": "D",
+                    "texto": "en constante devenir, pues nos interpela una y otra vez"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 109,
+            "enunciado": "La característica principal en la edad moderna es la importancia que adquiere el individuo a partir del debilitamiento de grandes instituciones como la Iglesia, pues tuvo que buscar en sí mismo el funda- mento de su existencia. A partir de este momento el hombre comienza a ser parte fundamental de la realidad. De lo anterior se deduce que el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "actuar del hombre estaba delimitado por los grandes grupos de poder de ese momento"
+                },
+                {
+                    "letra": "B",
+                    "texto": "reconocimiento como individuo permitió avanzar en los estudios que hacían referencia a la natu- raleza humana"
+                },
+                {
+                    "letra": "C",
+                    "texto": "sentimiento de abandono producido por el debilitamiento de la Iglesia permitió que el individuo se volcara en sí mismo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "subjetivismo que se produjo en esta época, permitió realizar avances a nivel intelectual"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 107,
+            "enunciado": "El problema de la ontología clásica, el del ser en cuanto ser, es superado por una ontología del ser en tanto que siendo, es decir, existiendo. De esta forma es posible decir que el acceso al ser sólo se logra a partir de la reflexión sobre el hombre quien es el único ser que tiene conciencia de su ser, en la medida que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el hombre se interroga acerca del sentido de la existencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el hombre es más que un objeto de existencia"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la existencia humana consiste en poder ser"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la existencia es ir más allá de sí mismo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 108,
+            "enunciado": "La moral en Spinoza, tiene como finalidad la liberación del hombre del estado de esclavitud en el que se encuentra bajo el dominio de las pasiones y de las ideas inadecuadas que posee. Para obtener la libertad, la cual va unida a la felicidad por medio de la razón, es necesario hacer un tránsito de la pasión a la acción mediante el paso de ideas inadecuadas a ideas adecuadas. De lo anterior se deduce que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "para alcanzar una vida ética es necesario liberarse de las ideas inadecuadas"
+                },
+                {
+                    "letra": "B",
+                    "texto": "para ser libres es necesario un proceso intelectual donde predomine la acción y las ideas adecua- das"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la felicidad se obtiene mediante la libertad que cada ser humano posee"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la razón impide que el hombre caiga en acciones que van contra la naturaleza humana --- PAGINA 2 --- 30 AC - 102 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 110,
+            "enunciado": "Locke, al considerar que la mente huma- na nace como una página en blanco, permitió que la educación se convirtiera en el medio por exce- lencia para hacer progresar a la sociedad, pues según el empirismo, la razón podría perfeccio- narse indefinidamente no sólo en el individuo sino en toda la humanidad. De acuerdo con esto se concluye que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "las diferencias de talento se debían a fac- tores ambientales o de aprendizaje más no a problemas de la razón"
+                },
+                {
+                    "letra": "B",
+                    "texto": "existían grandes vacíos conceptuales en lo concerniente al aprendizaje y a la ense- ñanza"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el empirismo influyó necesariamente en los modelos académicos de la época permi- tiendo el progreso educacional"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el papel de la razón en el aprendizaje de- bía ser el tema central de la enseñanza"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 111,
+            "enunciado": "El proyecto de Descartes se basa en la necesidad de crear un nuevo método que le per- mita alcanzar ideas claras y distintas con las que se pueda crear una nueva ciencia, rechazando cualquier conocimiento que dé lugar a la duda. De esta forma, busca establecer las bases fir- mes para el conocimiento humano. De lo ante- rior se deduce que el método consiste en",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "dejar de lado las ideas confusas que impi- dan el conocimiento de las cosas verdade- ras"
+                },
+                {
+                    "letra": "B",
+                    "texto": "preguntar por la procedencia de cualquier conocimiento que se tenga para evitar con- fundirlo con uno falso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "cuestionar cualquier conocimiento adqui- rido anteriormente por los hombres"
+                },
+                {
+                    "letra": "D",
+                    "texto": "buscar conocimientos verdaderos que per- mitan la construcción de una ciencia se- gura"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 112,
+            "enunciado": "La Cosmología es la ciencia que estudia el universo que está desplegándose y proyectándose de manera armónica y ordenada. Esta ciencia nace al mismo tiempo que la filoso- fía, en el momento en que el hombre dejó de ex- plicar el mundo desde los mitos y comenzó a dar una explicación racional o natural a los fenóme- nos de la naturaleza. El estudio de esta ciencia ha permitido realizar avances a nivel científico, porque",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el conocimiento del cosmos implica la crea- ción de herramientas que le facilitan al hombre el estudio de éste"
+                },
+                {
+                    "letra": "B",
+                    "texto": "a través de la cosmología se ha conocido el lugar que ocupa la tierra dentro del uni- verso"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el desarrollo en las matemáticas ha permi- tido a los científicos determinar elementos comunes en el universo"
+                },
+                {
+                    "letra": "D",
+                    "texto": "ha generado en el hombre nuevas teorías acerca del origen del cosmos y por lo tan- to, de la tierra"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 113,
+            "enunciado": "La antropología filosófica asume la pro- blemática del hombre estableciendo su modo de ser en sus aspectos esenciales como sujeto per- sonal y en su globalidad, a diferencia de las otras ciencias humanas que estudian al hombre sectorizadamente. Según lo anterior puede afir- marse que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "el hombre debe estudiarse de forma dife- rente a como se estudian los otros seres de la naturaleza"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la antropología filosófica constituye una síntesis de los resultados de las ciencias del hombre"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el estudio global del hombre se refiere a su unidad original de la que todos son cons- cientes"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la antropología filosófica aclara mediante una reflexión filosófica el ser del hombre como una totalidad"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 114,
+            "enunciado": "Para Platón, la ciencia de las cosas es sólo una reminiscencia, pues todo el conoci- miento consiste en recordar las esencias que el alma contempló en el mundo ideal. Por lo tanto, la teoría de la reminiscencia de Platón nos dice que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "todos los seres humanos tienen ideas connaturales a su existencia"
+                },
+                {
+                    "letra": "B",
+                    "texto": "el conocimiento es un recordar que efectúa la razón de los elementos que conoció en el mundo de las ideas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "el contacto con elementos corpóreos permite al alma alcanzar nuevos conocimientos"
+                },
+                {
+                    "letra": "D",
+                    "texto": "el conocimiento es adquirido por el alma en el mundo ideal --- PAGINA 3 --- 31 AC - 102 - 7 I"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 115,
+            "enunciado": "Platón afirma que el hombre tiene un alma inmortal que pertenece al mundo inmutable de las ideas. El alma se encuentra encerrada en el cuerpo como en una cárcel por medio de una unión acci- dental. Según este planteamiento el",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "hombre es un ser intelectual que responde a una naturaleza inmortal"
+                },
+                {
+                    "letra": "B",
+                    "texto": "alma se asocia con el mundo de las ideas"
+                },
+                {
+                    "letra": "C",
+                    "texto": "mundo de las ideas es más perfecto que el material"
+                },
+                {
+                    "letra": "D",
+                    "texto": "idealismo platónico supone al hombre compuesto por alma y cuerpo"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 116,
+            "enunciado": "Durante la edad media la filosofía se caracterizó por ser eminentemente teológica, en virtud del dominio de la fe en la existencia del hombre que delimitó la trayectoria de su vida como tránsito a una vida sobrenatural. Sin embargo, la filosofía y la teología tuvieron sus propios objetos de estudio: la filosofía se basó en la razón y la teología en la fe. De lo anterior se infiere que",
+            "contexto": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "texto": "la razón podía explicar las verdades que habían sido reveladas por Dios"
+                },
+                {
+                    "letra": "B",
+                    "texto": "la filosofía y la fe conforman los dos elementos fundamentales en el desarrollo del pensamiento medieval"
+                },
+                {
+                    "letra": "C",
+                    "texto": "la filosofía es la herramienta que usan los nuevos filósofos para llegar a comprender la esencia divina"
+                },
+                {
+                    "letra": "D",
+                    "texto": "la salvación y el conocimiento de Dios se logra a través del pensamiento filosófico"
+                }
+            ],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": false,
+            "observaciones": []
+        },
+        {
+            "numero": 117,
+            "enunciado": "Para Ricoeur la Humanidad entendida como totalidad que hay que hacer-ser o realizar plena- mente, representa la condición de posibilidad de la persona. Eso que hay que realizar es la apertura del pensar y del obrar, allí se da la afirmación originaria como gozo de existir. Esta sería una teoría del poder de la afirmación del ser en su obrar, sentir y pensar, es decir, en su multiplicidad. Ahora bien, esta teoría se contrapone a otras que consideran al ser como algo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "que existe por la contemplación de sí mismo a través de la razón",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "ajeno a las expresiones cambiantes del ser del mundo",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "que está en constante devenir y se afirma en cada acto",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "humano que se constituye en cada fenómeno concebido PREGUNTAS DE SELECCIÓN MÚLTIPLE CON MÚLTIPLE RESPUESTA ( TIPO IV ) Estas preguntas constan de un enunciado y 4 opciones relacionadas con él, identificadas con los números 1, 2, 3 y 4. Sólo dos de estas opciones responden correctamente el enunciado. Seleccione la respuesta correcta de acuerdo con el cuadro que aparece a continuación --- PAGINA 4 --- 32 AC - 102 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 118,
+            "enunciado": "Según G. Moore, la ética evolucionista indica que debemos actuar en dirección de la evolución, simplemente porque es la dirección de la evolución, es decir, porque las fuerzas de la naturaleza se mueven en dicha dirección. Sin embargo, esta concepción es falaz, porque la evolución sólo indica un proceso temporal, pero no ofrece ningún criterio para deducir que los sucesos evolucionarán del mismo modo en el futuro. En consecuencia, se carece de argumentos para afirmar que la",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "evolución y la extinción son fines de la naturaleza",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "naturaleza siempre actuará en dirección de la evolución precedente",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "naturaleza actuará en dirección de la extinción",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "naturaleza se dirige por fuera de un fin determinado",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 119,
+            "enunciado": "La idea de la moralidad kantiana se construye sobre la idea de que la voluntad está constreñida para el obrar por la existencia del deber que permite que la máxima de regulación de las acciones pueda ser universalizable. De esto se deduce que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la autonomía propia de los sujetos es la que permite que las acciones sean consideradas como voluntarias",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "las máximas que regulan la acción puedan ser universalizables por la propia voluntad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la acción por sí misma tiene un carácter regulador al comprenderse como efecto de la voluntad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la voluntad como ley puede permitir la total arbitrariedad en todas las acciones",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 120,
+            "enunciado": "El romanticismo alemán en el que se encuentra el máximo acercamiento entre la poesía y la filosofía tiene como punto de partida la idea de que es la vida del individuo la que penetra su entorno y hace posible tanto la creación poética como la reflexión filosófica. La vida del filósofo y del poeta se encuentran interpeladas por el anhelo de infinito que se plasma en sus creaciones. Se afirma así que el romanticismo es",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "un movimiento en el que la creación está íntimamente ligada con la existencia de los individuos",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "un tipo de corriente en la que filósofos y poetas encuentran la cercanía entre la narración y la re- flexión",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "una corriente artística que se preocupa exclusivamente por el sentimiento y la reflexión",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "una corriente de pensamiento que se ocupa de lo reflexivo que hay en la creación artística",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 121,
+            "enunciado": "Frente a la mitología griega de dioses casi humanos, Jenófanes plantea la existencia de un Dios cuyo conocimiento es de forma definida, además de poseer atributos que lo hacen diferente de los mortales como la omnisciencia, la omnipresencia y el ser estático aunque sea motor de movimiento. Su crítica se funda en que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "los dioses griegos poseen forma humana y los mismos defectos que los hombres",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el politeísmo es mentalmente artificioso, pues crea dioses de acuerdo con necesidades",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "Jenófanes plantea que los dioses de la mitología griega son creados por los hombres",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "el dios que Jenófanes plantea supera la concepción que los griegos tenían de sus dioses --- PAGINA 5 --- 33 AC - 102 - 7 I",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 122,
+            "enunciado": "Para Platón, la dialéctica en tanto método científico apto para la investigación de las ideas o esencias se fundamenta en el desarrollo de la epistemología que parte de problemas teóricos, estable- ce los límites de lo cognoscible y aprehende la naturaleza de objetos éticos. En el proceso de conoci- miento de tales objetos, así como en la forma que tiene de resolver aquellos problemas epistemológicos, se pasa de una producción intuitiva de conocimientos a la racionalización de los procesos intuitivos. Según lo anterior, la dialéctica",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "es un método gradual y jerarquizado del conocimiento",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "se presenta como un método de deducción racional de las ideas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "traspasa los límites impuestos por la posibilidad de la experiencia",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "parte de la intuición hasta llegar a principios generales",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 123,
+            "enunciado": "Para Aristóteles, la ciencia es el conocimiento de las causas que tiene como instrumento la demostración, que depende de principios, de premisas verdaderas e inmediatas, y de proposiciones indemostrables. Sin embargo, para llegar a este conocimiento tenemos que captar la forma que aparen- temente se nos oculta, puesto que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la forma es la esencia de todas las cosas",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "el conocimiento al avanzar es algo más formal que material",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "la ciencia permite conocer la causa de un objeto",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "la materia es lo primero que se presenta",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 124,
+            "enunciado": "A la concepción ontológica de la realidad de los racionalistas, se opone la del empirismo, plan- teando que el conocimiento de la realidad no se deriva de principios a priori, sino que se obtiene sólo a partir de la experiencia. En este sentido Kant, por su parte niega la posibilidad de un conocimiento estricto de la realidad como lo planteaban los racionalistas y empiristas en la medida que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "la realidad en si misma no es accesible por medio de la razón",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "en su filosofía trascendental sintetiza la ontología racionalista y empirista",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "plantea un escepticismo frente al conocimiento de la realidad",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "privilegia los elementos adquiridos mediante la percepción sensible",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 125,
+            "enunciado": "Las figuras claves del romanticismo según los estudiosos son Hegel, Schelling y Hölderlin, este último uno de los más grandes poetas alemanes de la historia. De Hölderlin se afirma que pertenece a la llamada corriente de la filosofía de la unificación, que tiene como máxima que el goce infinito se halla en la contemplación de lo bello, la cual sólo es posible desde el espíritu. Esta contemplación al parecer es más fácil para el poeta, ya que",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 1,
+            "enunciado": "se presenta cada vez como más cerca del goce de lo estético",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 2,
+            "enunciado": "se ocupa más de la contemplación de lo espiritual y de lo bello",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 3,
+            "enunciado": "está más preocupado por una posible unificación con lo infinito",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        },
+        {
+            "numero": 4,
+            "enunciado": "su espíritu está más dispuesto a la contemplación de lo bello",
+            "contexto": "",
+            "opciones": [],
+            "paginas_origen": [
+                1
+            ],
+            "elementos_visuales": [],
+            "requiere_revision": true,
+            "observaciones": [
+                "Pregunta detectada con pocas opciones de respuesta."
+            ]
+        }
+    ]
+}
